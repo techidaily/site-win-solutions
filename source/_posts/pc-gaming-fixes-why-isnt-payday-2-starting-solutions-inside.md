@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Fixes: Why Isn't Payday 2 Starting? Solutions Inside!"
-date: 2024-08-06 17:30:33
-updated: 2024-08-07 12:28:59
+date: 2024-08-06T09:09:50.517Z
+updated: 2024-08-07T09:09:50.517Z
 tags:
   - win11
   - win10
@@ -26,12 +26,18 @@ Atomic Heart crashing issue is annoying. This popular video game is not immune t
 7. **[Disable third-party software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Update Flawless Widescreen
 
  If you’re using Flawless Widescreen on your PC, this plugin seems the culprit of the crashes. The development team has recognized the issue and fixed it in their latest update. But if you still encounter crashes, you can turn off the**Scanning Fix** checkbox from the Flawless Widescreen plugin and try the game again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/flawless-widescreen-1200x762.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Update your drivers
 
  Outdated or corrupted drivers are the common reason for game crashing, therefore, make sure you have the most up-to-date drivers, especially for graphics and sound card drivers.
@@ -45,6 +51,9 @@ There are two ways to find the correct and the latest driver:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -73,6 +82,9 @@ There are two ways to find the correct and the latest driver:
 
 1. Launch the Steam client and go to Library.
 2. Right-click Atomic Heart and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 3. Click the**Local Files** tab, then select**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
@@ -80,12 +92,18 @@ There are two ways to find the correct and the latest driver:
 
 If it doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Lower graphical settings
 
  Even if your system meets the minimum specifications for the game, increasing the settings will put more workload on your hardware. If your graphics settings are too high for your system, this can cause the game to crash.
 
  You can run Atomic Heart at medium or lower graphical settings and see if the issue goes away. Some gamers reported they were able to get through the_March Of Flowers_ quest without crashes by turning down all graphics settings to the minimum (including resolution) and turning off DLSS Super Resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Repair system files
 
  Problematic system files (e.g. missing DLLs) can also affect the smooth launching and operation of the system and game. To check if your PC has flawed system files, you may want to run a quick and thorough scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,6 +114,9 @@ Take a look at how it works:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -104,6 +125,9 @@ Take a look at how it works:
 
  After the repairs, restart your computer and Atomic Heart to see if it fixes the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Disable third-party software
 
  Other software running on your computer, such as antivirus or firewall software, can conflict with the game and cause it to crash. Some antivirus software may block certain game files which causes difficulties in launching Atomic Heart on your PC. You can temporarily disable your antivirus software to determine whether game crashing is caused by your antivirus software. If that’s the culprit, check your antivirus support page or help for a ‘gaming mode’ or similar option and enable that prior to playing. Or use another anti-malware software.

@@ -1,7 +1,7 @@
 ---
 title: MSI Afterburner Doesn't See Your GPU in Windows N - Solutions Unveiled
-date: 2024-08-04 14:45:55
-updated: 2024-08-07 11:30:39
+date: 2024-08-06T09:09:48.532Z
+updated: 2024-08-07T09:09:48.532Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ Valheim is an enjoyable survival/ open-world exploration sandbox. But players st
 
  1) Open your Steam Client. Under the **LIBRARY**  tab, find your game title and right-click it. Then select **Properties** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files-properties-2.png)
 
  2) Select **LOCAL FILES**  and then click on the **Verify integrity of game files…**  tab.  
@@ -60,12 +63,18 @@ Here’s how you can check if your game version is up-to-date:
 
  3) Click on the **DOWNLOADING**  tab located at the bottom of the screen to see if you have any update pending. If not, click **Steam** in the top left and then click **Exit** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to update Valaheim](https://images.drivereasy.com/wp-content/uploads/2021/03/downloads-tab.png)
 
  After restarting Steam, it should check for an update especially after the next time you launch Valheim.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Graphical glitches or other performance issues such as freezing and stuttering may be caused by an outdated or corrupted graphics driver. Therefore, if you can’t remember when was the last time you updated your drivers, definitely do it right now as it would fix your issue with no hassle.
@@ -89,6 +98,9 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -102,6 +114,9 @@ Here’s how you can check if your game version is up-to-date:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Run your game as administrator
 
  Sometimes, programs might not function properly just because they lack the administrative rights. The same could apply to your Valheim. To check if that’s your case, you should run Valheim as an administrator:
@@ -112,6 +127,9 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Find the valheim.exe file. Right-click it and select**Properties** .  
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/administrator-propertities.png)
 
  3) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
@@ -122,12 +140,18 @@ Here’s how you can check if your game version is up-to-date:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Stop overclocking
 
  Some players may use GPU tweaking programs such as MSI Afterburner to hopefully get a performance increase. But there are some titles that don’t really support cards that are overclocked. Otherwise, your game would suffer and it may be getting to the point that your Valheim is unplayable. Therefore, we suggest you stop overclocking.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Close unnecessary programs
 
  Programs such as Google Chrome and Adobe apps are resource-heavy and will most likely drain your system. To guarantee that you can get the best gaming experience, you should close those programs that you don’t necessarily use when playing Valheim. Here’s how you can do this:
@@ -136,10 +160,16 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard.  
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Valheim and select **End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  After you’ve done these, try to play Valheim to check if your game still stutters or freezes.

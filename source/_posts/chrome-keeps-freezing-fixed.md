@@ -1,7 +1,7 @@
 ---
 title: Chrome Keeps Freezing [Fixed]
-date: 2024-08-04 14:55:17
-updated: 2024-08-07 12:50:28
+date: 2024-08-06T09:09:17.271Z
+updated: 2024-08-07T09:09:17.271Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ Google Chrome fails to load webpages? Although this is extremely annoying, you�
 
  If your problem still exists after the reboot, don’t worry. There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable your antivirus temporarily
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -54,6 +57,9 @@ Google Chrome fails to load webpages? Although this is extremely annoying, you�
 
 If this doesn’t work for you, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Clear Chrome cache and cookies
 
  The cache and cookies stored by Chrome can sometimes prevent it from running smoothly. Try clearing Chrome cache and cookies regularly to see if it fixes your problem. Here is how:
@@ -79,9 +85,15 @@ If Chrome still won’t load pages, try the fix, below.
 
  2) Click **Advanced**  at the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-16-59.jpg)
 
  3) Select **Restore settings to their original defaults** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-17-32.jpg)
 
  4) Click **Reset settings** .  
@@ -91,6 +103,9 @@ If Chrome still won’t load pages, try the fix, below.
 
 If your problem continues to occur, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Fix 6: Disable Chrome extensions
 
  Faulty extensions running on top of Google Chrome can also affect its functionality. In this case, try disabling unnecessary extensions to see if that fixes your problem. Here is how to do it:
@@ -109,6 +124,9 @@ If your problem continues to occur, move on to the fix below.
 
  If Chrome works properly after you disable certain extensions, contact the developer about an upgrade or bug fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-290-1024x644.png)
 
  If this didn’t resolve your problem, don’t fret. There is one more fix to try.
@@ -119,14 +137,23 @@ If your problem continues to occur, move on to the fix below.
 
 **1)** On your keyboard, press the**Windows logo** key. Then, type**control** and click**Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-291.png)
 
 **2)** Under**View by** , click**Category** , and then select**Uninstall a program** .
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-292.png)
 
 **3)** Right-click**Google Chrome** and click**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-293.png)
 
 **4)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
@@ -139,6 +166,9 @@ If your problem continues to occur, move on to the fix below.
 
 **6)** Copy the**Default** folder and place the copy in another location to back it up. Then, delete the original Default folder.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-297.png)
 
 **7)** Download and install **[Chrome](https://www.google.com/chrome/)**  .
@@ -155,6 +185,9 @@ If your problem continues to occur, move on to the fix below.
 
  1) Go to the **[NordVPN website](https://tools.techidaily.com/drivereasy/download/)**  and set up your account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-01_14-59-01.jpg)
 
  2)[**Download NordVPN**](https://tools.techidaily.com/drivereasy/download/) .
@@ -165,6 +198,9 @@ If your problem continues to occur, move on to the fix below.
 
  Or you can manually select a server from the left penal. For example, if you want to access Netflix UK from the US, then you need to select a UK server.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-01_14-50-31.jpg)
 
 5) Open the site to see if it loads now.

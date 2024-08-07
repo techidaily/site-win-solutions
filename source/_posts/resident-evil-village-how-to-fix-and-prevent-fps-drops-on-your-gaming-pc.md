@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village: How to Fix and Prevent FPS Drops on Your Gaming PC"
-date: 2024-08-06 21:19:40
-updated: 2024-08-07 10:52:27
+date: 2024-08-06T09:09:30.011Z
+updated: 2024-08-07T09:09:30.011Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 Since the update of Black Ops Cold War, players have found that they can’t even get into the main screen. It’s just stuck on the loading screen. Although the root cause is unclear, troubleshooting the internet and verifying game files seem to decrease the load time. Read on for more details.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all the solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -45,6 +48,9 @@ Since the update of Black Ops Cold War, players have found that they can’t eve
 
  For some users, they can’t get past the loading screen and also get an error message saying that “The server is not available”. (The screenshot is shown below. )
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-6.png)
 
  This indicates that your connection is unstable or the server is under maintenance. To isolate the problem, you can first check the[server status](https://support.activision.com/onlineservices) . If there are no reports on the server side, it’s time to troubleshoot your own network.
@@ -61,6 +67,9 @@ Since the update of Black Ops Cold War, players have found that they can’t eve
 
  2) Click **Scan Now** . Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -72,6 +81,9 @@ Since the update of Black Ops Cold War, players have found that they can’t eve
 
  After updating your drivers, restart your PC and then try to launch Black Ops Cold War to check if your problem has been resolved. If the problem persists, attempt to**update your graphics driver** as it also affects your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Improve your network connection
 
 There are several ways to speed up your internet connection:
@@ -102,6 +114,9 @@ There are several ways to speed up your internet connection:
 
  4) Find an application that’s using way too much bandwidth, right-click it and select **End Process** . (Note that you should not close the applications which are significant for your system. If you are not familiar with a certain application, select **Search Online**  to access the information.)  
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![close bandwidth hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/02/end-process.png)
 
  After you’ve done these, you should be able to notice drastic improvements on your connection. Then you can test if it mitigates your problem by clicking on the Play button. If you still can’t boot up the game, proceed to the next fix.
@@ -112,10 +127,16 @@ There are several ways to speed up your internet connection:
 
  1) Go to [Activision](https://s.activision.com/activision/login) ‘s website and login. Once you’re logged into your account, click **PROFILE**  located on the top-right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile-1200x320.png)
 
  2) In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 
  3) Select **CONTINUE** . You’ll be taken back to the Blizzard website to complete the account linking process.  
@@ -124,12 +145,18 @@ There are several ways to speed up your internet connection:
 
 If this didn’t solve your problem, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Make sure all your content packs are installed (Xbox)
 
  For Xbox players, you need to download all the content packs to access the full game. You may notice that all the game items are installed but not the content packs. If that’s your case, follow the instructions below to download and install content packs for cold war:
 
  1) Navigate to your game. Select**Manage game and add-ons** from the menu.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![install all the content packs for cold war](https://images.drivereasy.com/wp-content/uploads/2021/04/manage-game-and-add-ons.png)
 
  2) You will find that all the game items are installed except the content packs. Simply select**Select all > Save changes** .  

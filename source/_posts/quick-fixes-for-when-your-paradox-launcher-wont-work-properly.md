@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your Paradox Launcher Won't Work Properly
-date: 2024-08-05 12:26:50
-updated: 2024-08-07 12:25:20
+date: 2024-08-06T09:09:37.945Z
+updated: 2024-08-07T09:09:37.945Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 
  If your speed/peers were fine, you can restart the qBittorrent. Some users said after reboot the program, the qBittorrent client works like a charm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Your ISP might be throttling
 
  If your speed/peers were fine and restarting doesn’t make a difference, check your internet connection. Your ISP might be throttling which leads to Stalled status.
@@ -57,6 +60,9 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 
 Then you should use NordVPN when downloading torrents with qBittorrent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Check your hard drive space
 
  Some users have reported when your drive was full, no more data could be written to it which cause the qBittorrent to be stalled issue.
@@ -68,13 +74,34 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
  Some users install qBittorrent in an external HDD drive. Once you remove the default drive, it might cause the qBittorrent stalled status. It’s because the program couldn’t find the default folder.
 
 1. In the search bar, type control to open the Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-controlpanel.jpg)
 3. Find qBittorrent and right-click on it. Click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-qb.jpg)
 4. Go to[qBittorent webpage](https://www.fosshub.com/qBittorrent.html) , download, and install it in a local drive with enough space.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Check firewall settings
 
  Sometimes, your firewall and antivirus software is the culprit. You need to give the permission so that qBittorrent can work properly.

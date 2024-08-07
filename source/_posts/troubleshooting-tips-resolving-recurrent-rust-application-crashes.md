@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Resolving Recurrent Rust Application Crashes
-date: 2024-08-05 13:38:10
-updated: 2024-08-07 11:15:40
+date: 2024-08-06T09:09:17.295Z
+updated: 2024-08-07T09:09:17.295Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  If you’re already running this game as an administrator, you can uncheck the option instead. Many other players find
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2\. Disable unnecessary applications
 
  Another basic troubleshooting is to make sure there’s no interference from other apps, especially from your antivirus software and apps with overlay features such as Discord. Here’s how:
@@ -62,8 +65,14 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 * Press the**Windows logo** key +**R** to open the Run box.
 * Enter**firewall.cpl** in the box.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 * Click**Allow an app or feature through Windows Defender Firewall** on the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 * Make sure the**Private** and**Public** boxes are both checked for Escape from Tarkov and the anti-cheat service BattlEye. If they’re not on the list, click**Change settings** and add them here.
 
@@ -83,10 +92,16 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  3) Once complete, launch your game again to check if the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4\. Update your launcher manually
 
  Make sure your launcher has been updated to the latest version. You can check for updates in the launcher. But if the update failed, you can manually download the launcher, you can visit your[profile page](https://www.escapefromtarkov.com/profile) (you’ll need to log in first), and hit the**Install** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5\. Reinstall Battle Eye
 
  Before you try reinstalling the whole game, you may want to check if Battle Eye is causing the ‘Anticheat connection failed’ error:
@@ -95,6 +110,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 2) Go to the folder where you installed the game, delete the**BattleEye** folder and**Escape from Tarkov\_BE** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall.jpg)
 
  2) Open the Battlestate Games Launcher, and perform an**Integrity check** .
@@ -129,6 +147,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  3) Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click _Update All_ .)
@@ -141,6 +162,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  Just power off your router for some time and start it normally. Now you can log in again and try playing it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Fix 8\. Use a VPN
 
  If you have tried all these workarounds above and still you get the ‘Anticheat connection failed’ error in Escape from Tarkov, the best (temporary) solution is to use a VPN with a reasonable ping.

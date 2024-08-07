@@ -1,7 +1,7 @@
 ---
 title: "Winning Strategy: Get PAYDAY 2 Up and Running on Desktop Systems"
-date: 2024-08-04 19:33:48
-updated: 2024-08-07 11:18:15
+date: 2024-08-06T09:09:16.216Z
+updated: 2024-08-07T09:09:16.216Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ You may have tried the basic troubleshooting methods such as:
 
  If you haven’t done the basic troubleshooting, then try those before you head to the fixes below. In this post, we’ll show you some solutions you may not have tried yet to get rid of your**Payday 2 not launching issue** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 fixes to try when Payday 2 won’t launch
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -48,6 +51,9 @@ For non-mod players, you can skip to the next fix.
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
 4. Rename**WSOCK32.dll** to**WSOCK32.dll** .**old** .
@@ -55,6 +61,9 @@ For non-mod players, you can skip to the next fix.
 
  Many Payday 2 gamers find the mods are the real culprit. Payday 2 not launching is an issue that you’ll always bump into when there’s a game update. The most important of all is to make sure you have the **[latest SuperBLT mods](https://superblt.znix.xyz/)**  installed. However, sometimes you have to wait for the update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update Device Drivers
 
  Your graphics card driver is vital to your gaming performance. Therefore, always check for any updates when you run into a game crashing or not launching. You’ll probably be amazed at how many driver updates you missed out on. If you have tried updating your GPU drivers, but failed to solve**Payday 2 not launching** issue, you’d better update your audio drivers as well.
@@ -88,6 +97,9 @@ OR
 
  Click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Free-Pro.jpg)
 
 [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .
@@ -96,10 +108,16 @@ OR
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3:**Change render\_settings file**
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
 4. Locate**render\_settings** , then right-click and select**Edit with Notepad++** .
@@ -117,6 +135,9 @@ OR
  Either you’re running Visual C++ 2013 or 2015, or you have all versions installed, first uninstall the ones you have.
 
 1. Press **Windows** key + **R** and type **appwiz.cpl** , then press **Enter** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Uninstall the Microsoft Visual C++ Redistributable you have installed.![](https://images.drivereasy.com/wp-content/uploads/2020/05/uninstall.jpg)
 3. Download the latest version (both ×64 and ×86) from Microsoft official website.  
    * [Visual C++ 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)  
@@ -160,6 +181,9 @@ Now you can run your Payday 2 to check if it launches properly.
  If unfortunately, your graphics card doesn’t support a switchable graphics card, you can force it to use your dedicated card manually.
 
 1. Press**Windows** key +**X** and select**Device Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/device-manager-1.jpg)
 2. Expand**Display Adapters** .
 3. Right-click your integrated graphics card and choose**Disable** , then your screen resolution will change.
@@ -197,6 +221,9 @@ The following programs are known to cause issues when playing Payday 2:
 2. Type**msconfig** in the Run box and click on the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/system-config.jpg)
 3. Under the**General** tab, uncheck**Load Startup items** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/load-startup-item.jpg)
 4. Then go to the**Services** tab and check**Hide all Microsoft services** . Then click**Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/disable-all-start-up.jpg)
@@ -211,6 +238,9 @@ The following programs are known to cause issues when playing Payday 2:
 
 1. Type**cmd** in the Windows search bar.
 2. Choose**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/cmd.jpg)
 3. In the Command Prompt window, enter the following command:**`sfc /scannow`** . Note that there’s a space between sfc and /.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/sfc-scannnow.jpg)

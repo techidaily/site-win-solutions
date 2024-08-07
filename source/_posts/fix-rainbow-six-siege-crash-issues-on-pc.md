@@ -1,7 +1,7 @@
 ---
 title: Fix Rainbow Six Siege Crash Issues on PC
-date: 2024-08-05 16:14:56
-updated: 2024-08-07 11:38:35
+date: 2024-08-06T09:09:14.746Z
+updated: 2024-08-07T09:09:14.746Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
 ## Latest Updates Fix PC Crashes in Rainbow Six Extraction - Game Now Plays Smoothly
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/extraction-1200x675.jpg)
 
  What to do when Rainbow Six Extraction keeps crashing on your Windows PC? Are there any permanent fixes to this problem? You’re in the right spot. Below, you will find every possible fix that has helped many other players.
@@ -28,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 * [5. Disable conflicting apps](https://tools.techidaily.com/drivereasy/download/)
 * [6. Disable SMT](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check your PC specs
 
  First, make sure your PC meets the minimum requirements of Rainbow Six Extraction.
@@ -45,12 +52,18 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
 _Rainbow Six Extraction_ System Requirements
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Stop overclocking
 
  The Intel “K” and “X” chips usually mean the chip is unlocked. Many gamers like squeezing out a little extra performance than what you get out of the box. When coupled with good ventilation and cooling, CPU overclocking can reap great results.
 
  But if you’re experiencing Rainbow Six Extraction crashing issues when tweaking the clock speeds, you should stop overclocking and try resetting your processor (and GPU, if appropriate) to default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 3\. Verify your game files
 
  This is a very basic troubleshooting step you should try before heading on to other fixes. Here’s how to do it in Ubisoft Connect PC:
@@ -90,6 +103,9 @@ _Rainbow Six Extraction_ System Requirements
 
  4) Launch the game and check whether it works without any crashes. Ty running Rainbow Six Extraction either on Vulkan (this requires the latest graphics driver) or DirectX 11.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Disable conflicting apps
 
  Antivirus software like BitDefender is known to interfere with your Rainbow Six Extraction. You might need to disable any antivirus software installed on your PC temporarily.
@@ -98,6 +114,9 @@ _Rainbow Six Extraction_ System Requirements
 
  To find out the problematic app, you can try[**performing a clean boot**](https://tools.techidaily.com/drivereasy/download/) . This allows your PC to run without any unnecessary startups. If your game stops crashing, then you need to enable the startup item one by one to find the problematic one.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Disable SMT
 
 Some Rainbow Six Extraction players find it helps when they disable SMT.
