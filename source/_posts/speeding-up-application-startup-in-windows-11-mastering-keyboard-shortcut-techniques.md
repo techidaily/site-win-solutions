@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Application Startup in Windows 11: Mastering Keyboard Shortcut Techniques"
-date: 2024-08-27 17:43:30
-updated: 2024-08-29 11:56:25
+date: 2024-08-28T05:00:09.518Z
+updated: 2024-08-29T05:00:09.518Z
 tags:
   - windows
 categories:
@@ -56,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
@@ -68,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -78,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Use AutoHotkey to Open Apps
 
  AutoHotkey is a third-party tool that allows you to create macros which you can map to any function, including [creating custom keyboard shortcuts](https://driver-download.techidaily.com/download-logitech-k400-plus-driver/) to launch an app. AutoHotkey is significantly more powerful than the other options we've mentioned so far, though its reliance on scripting means it has a higher learning curve.
@@ -86,14 +99,23 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
         `Key1 & Key2::{  
@@ -133,3 +155,49 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-content-game-with-these-5-proven-youtube-marketing-hacks/"><u>[New] In 2024, Elevate Your Content Game with These 5 Proven YouTube Marketing Hacks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unveiling-the-best-strategies-how-to-boost-engagement-and-growth-on-youtube/"><u>[New] In 2024, Unveiling the Best Strategies  How to Boost Engagement and Growth on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hassle-free-tiktok-age-checks/"><u>[Updated] Hassle-Free TikTok Age Checks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-revolutionize-your-twitter-experience-with-essential-apps/"><u>[Updated] In 2024, Revolutionize Your Twitter Experience with Essential Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-instagrams-video-capabilities-blueprint-for-powerful-marketing/"><u>[Updated] Unlock Instagram's Video Capabilities  Blueprint for Powerful Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound  Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-compreranal-guide-to-best-free-budget-friendly-lut-sources/"><u>2024 Approved  Compreranal Guide to Best Free, Budget-Friendly LUT Sources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-your-social-experience-with-mobile-music-files/"><u>2024 Approved  Streamline Your Social Experience with Mobile Music Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/access-restored-no-more-login-troubles-with-your-origin-profile/"><u>Access Restored - No More Login Troubles with Your Origin Profile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressed-connectivity-interruptions/"><u>Addressed Connectivity Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-cs-go-login-problems-with-these-5-effective-tips/"><u>Beat CS: GO Login Problems with These 5 Effective Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-maplestory-crashes-on-windows-11-with-these-proven-solutions/"><u>Beat MapleStory Crashes on Windows 11 with These Proven Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-way-to-use-obs-live-stream-to-facebook/"><u>Best Way to Use OBS Live Stream to Facebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bluestacks-crash-woes-overcome-them-with-these-5-easy-troubleshooting-tips/"><u>BlueStacks Crash Woes? Overcome Them with These 5 Easy Troubleshooting Tips!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-solving-the-sudden-black-screens-in-far-cry-6-adventures/"><u>Diagnosing and Solving the Sudden Black Screens in Far Cry 6 Adventures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dive-into-an-epic-exploration-of-pandora-play-the-latest-avatar-adventure-game-now-on-pc/"><u>Dive Into an Epic Exploration of Pandora - Play the Latest Avatar Adventure Game Now On PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-solutions-for-the-common-palworld-eos-login-error-learn-from-these-6-techniques/"><u>Essential Solutions for the Common PalWorld EOS Login Error – Learn From These ☣️ 6 Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-17-software-selections-for-background-extraction/"><u>In 2024, Premier 17 Software Selections for Background Extraction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-expert-hacks-to-stop-street-fighter-6-from-crashing-on-pcs/"><u>Mastering Stability: Expert Hacks to Stop Street Fighter 6 From Crashing on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-moving-vintage-games-into-picture-storage/"><u>Navigating Windows 11: Moving Vintage Games Into Picture Storage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezes-winning-against-arma-3s-crashing-problems-with-these-2024-strategies/"><u>No More Freezes: Winning Against Arma 3'S Crashing Problems with These 2024 Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-fixing-persistent-minecraft-dungeon-pc-glitches/"><u>No More Interruptions: Fixing Persistent Minecraft Dungeon PC Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-launch-errors-addressed-tips-and-tricks-for-a-successful-game-start-on-your-pc/"><u>Outriders Launch Errors Addressed - Tips and Tricks for a Successful Game Start on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-problems-a-step-by-step-solution-for-assassins-creed-mirage/"><u>Overcoming Startup Problems: A Step-by-Step Solution for Assassin's Creed Mirage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-windows-11-glitches-getting-your-windows-spotlight-pictures-working-again/"><u>Overcoming Windows 11 Glitches: Getting Your Windows Spotlight Pictures Working Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-successfully-launch-and-enjoy-wrc-10-for-pc-without-any-hitches/"><u>Solution Found! Successfully Launch and Enjoy WRC 10 for PC without Any Hitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-to-prevent-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>Solutions to Prevent Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-house-flipper-2-stability-issues-ultimate-guide-for-windows-users/"><u>Solving House Flipper 2 Stability Issues: Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-finals-continuous-collapse-issue-on-your-computer-a-step-by-step-guide/"><u>Solving the 'Finals' Continuous Collapse Issue on Your Computer - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackle-discords-overwhelming-cpu-demand-with-this-2024-step-by-step-fix/"><u>Tackle Discord's Overwhelming CPU Demand with This 2024 Step-by-Step Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/thwart-endless-freezing-on-earths-new-landscape-today/"><u>Thwart Endless Freezing on Earth's New Landscape Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-practices-to-personalize-snapchat-video-playback/"><u>Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-is-fallout-3-failing-to-load/"><u>Troubleshooting Guide: Why Is Fallout 3 Failing to Load ?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005668032-troubleshooting-tips-for-heart-of-iron-iv-crashes-now-solved/"><u>Troubleshooting Tips for Heart of Iron IV Crashes - Now Solved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-how-to-fix-pc-instability-in-marvels-guardians-of-the-galaxy/"><u>Troubleshooting Tips: How to Fix PC Instability in Marvel's Guardians of the Galaxy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-issues-with-persona-3-fes-not-starting/"><u>Troubleshooting Tips: Resolving Issues with Persona 3 FES Not Starting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valheim-optimization-guide-for-enhanced-frame-rates-fix-low-fps-insights-from-2024/"><u>Valheim Optimization Guide for Enhanced Frame Rates (Fix Low FPS) - Insights From 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winwordexe-application-snags-here-are-five-straightforward-fixes/"><u>WINWORD.EXE Application Snags? Here Are Five Straightforward Fixes</u></a></li>
+</ul></div>

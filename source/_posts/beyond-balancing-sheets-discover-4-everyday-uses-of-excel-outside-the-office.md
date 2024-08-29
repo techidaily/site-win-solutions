@@ -1,7 +1,7 @@
 ---
 title: "Beyond Balancing Sheets: Discover 4 Everyday Uses of Excel Outside the Office"
-date: 2024-08-28 13:29:45
-updated: 2024-08-29 10:29:55
+date: 2024-08-28T05:02:07.413Z
+updated: 2024-08-29T05:02:07.414Z
 tags:
   - excel
 categories:
@@ -92,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  You now have a complete monthly budgeting spreadsheet. Simply duplicate the sheet each month to set up a new budget. Then, amend that month's payment details, change the last day of the month in cell H2, and keep your bank balance updated.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  2\. Vacation Destinations With Different Criteria
 
  With so many options for different vacation destinations, Excel can help you keep these in order. Yes, there are websites that can help you with some criteria, but how about those specific elements that matter to you, such as property with a fireplace, or a region with a dark sky for those of you who love stargazing? Whatever it is you're looking for, use Excel to whittle down your options without having to pay that extra percentage for third-party booking commissions.
@@ -108,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 * Color code: As an avid stargazer, I use a [light pollution map](https://www.lightpollutionmap.info/) to find out whether there's a good chance of seeing the Milky Way. I then use Excel's color fill to match the cell color with the light pollution indicator. Blues on the map represent little light pollution, while yellows and oranges represent heavy light pollution. I can then filter column H by color to see which properties are likely to offer the best skies.
 * [Notes](https://video-screen-grab.techidaily.com/how-to-expertly-archive-your-favorite-streamed-shows-hulu-for-2024/): Notice the red markers on cells B14 and B17\. These show that I've added a note to that cell that I didn't want to add as an extra column to the spreadsheet. For example, in B14, I made a note that the minimum stay at that property is five nights. To do this, simply right-click the relevant cell, and click "New Note."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  3\. Tracking My Sports Team’s Stats
 
  This is my favorite Excel workbook. Like with most spreadsheets, they started off really simple, and I've gradually added to them over time.
@@ -116,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 ![An Excel spreadsheet containing players' details for each game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/player-game-details.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see in the screenshot above, I've used [conditional formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/) to automatically apply color to cells based on their values (such as red for L, yellow for D, and green for W). To do this, I selected the whole of column D, opened "Conditional Formatting" in the Home tab, and clicked "New Rule." I then clicked "Format Only Cells That Contain" and completed the details of the rule in the easy-to-follow dialog box.
 
 ![An Excel sheet showing player stats, and conditional formatting used to display data bars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/player-stats.png) 
@@ -124,14 +133,23 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 ![An Excel dashboard containing four charts based on data on the other sheets in the workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dashboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  My sports team tracking workbook contains 12 tabs overall, so I created a dashboard sheet that pulls together the key information in chart form in one place. Click the "+" at the bottom of your workbook to add a new sheet, and double-click the new tab to rename it **Dashboard**. Then, use the Charts group in the Insert tab on the ribbon to [choose different graphs](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) that will work well for your data. Finally, you can [format your data labels](https://win11.techidaily.com/new-era-of-connectivity-windows-for-iphones-ipads-and-pcs-just-dropped/) and chart colors to make them look exactly how you want, and [hide the gridlines](https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/) to add that extra presentational touch to your dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  4\. Tracking My Weight (I’m on a Diet!)
 
  Who knew that Excel could be a weight-loss motivator?
 
 ![An Excel sheet with a table on the left containing date, weight, and target values, and a line chart on the right displaying the data in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/weight-tracking.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using Excel's formatted table function and line chart, I created a spreadsheet to track my weight and show me how close to my target I am getting:
 
 1. Start by creating a table by typing **Date**, **Weight**, and **Target** into cells A1, B1, and C1, respectively. Once you have your first row of data, highlight all the cells in the table (including the headers), and head to the Home tab. From there, in the Styles group, click "Format As Table," and check the "My Table Has Headers" box.
@@ -161,3 +179,52 @@ ending
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-your-video-call-process-with-obs-and-skype/"><u>[New] In 2024, Streamlining Your Video Call Process with OBS & Skype</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamlined-strategy-for-igtv-and-instagram-story-integration-for-2024/"><u>[New] Streamlined Strategy for IGTV & Instagram Story Integration for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-step-by-step-screenshot-procedures-for-hp-devices/"><u>[Updated] 2024 Approved  Step-by-Step Screenshot Procedures for HP Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-song-selection-for-youtube-playlist-curation-for-2024/"><u>[Updated] Streamlining Song Selection for YouTube Playlist Curation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-gratis-lut-files-comprehensive-analysis-and-downloads/"><u>[Updated] Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultra-hd-graphics-selection-top-picks/"><u>[Updated] Ultra HD Graphics Selection  Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-streamlined-guide-to-resolving-roblox-error-code-262/"><u>A Streamlined Guide to Resolving Roblox Error Code 262</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-in-splitgate-strategies-for-fixing-low-fps-and-reducing-delays/"><u>Achieve Smoother Gameplay in Splitgate: Strategies for Fixing Low FPS & Reducing Delays</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-and-cpu-usage-6-key-strategies-to-reduce-high-resource-consumption/"><u>Baldur's Gate 3 and CPU Usage: 6 Key Strategies to Reduce High Resource Consumption</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-your-pcs-ghosting-issues-a-step-by-step-fix-for-horizon-forbidden-west/"><u>Banish Your PC's Ghosting Issues – A Step-by-Step Fix for Horizon Forbidden West</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-based-identity-confirmation-elevated-with-trustids-integration-of-abbyy-optical-character-recognition-technology/"><u>Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/co-creating-video-marketing-with-brand-participants/"><u>Co-Creating Video Marketing with Brand Participants</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-the-dark-beginning-solutions-for-elden-ring-launch-glitches/"><u>Dealing With the Dark Beginning: Solutions for 'Elden Ring' Launch Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-gaming-troubles-heres-how-to-tackle-the-freezing-and-lag-problems-efficiently/"><u>Dying Light Gaming Troubles? Here's How to Tackle the Freezing & Lag Problems Efficiently</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eradicating-printer-latency-issues/"><u>Eradicating Printer Latency Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-steps-to-resolve-elite-dangerous-pc-malfunctions-for-smooth-gaming/"><u>Essential Steps to Resolve Elite: Dangerous PC Malfunctions for Smooth Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-play-baldurs-gate-3-ready-for-your-fantasy-adventure-awaits/"><u>Fix and Play: Baldur's Gate 3 Ready for Your Fantasy Adventure Awaits!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-discord-overlay-issues-fast-step-by-step-guide/"><u>Fix Your Discord Overlay Issues Fast - Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-loading-issues-in-red-dead-redemption-2-solutions-and-tips/"><u>Fixing Persistent Loading Issues in Red Dead Redemption 2 - Solutions & Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-stuttering-and-smooth-out-gameplay-for-assassins-creed-valhalla-on-pc/"><u>How to Eliminate Stuttering and Smooth Out Gameplay for Assassin’s Creed Valhalla on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-directx-drawing-issues-a-comprehensive-guide/"><u>How to Fix DirectX Drawing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nba-2k23-crashing-problems-on-your-windows-computer-7-effective-methods/"><u>How to Fix NBA 2K23 Crashing Problems on Your Windows Computer - 7 Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-persistent-lagging-and-crashing-issues-in-warframe/"><u>How to Fix the Persistent Lagging and Crashing Issues in Warframe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-past-the-block-steps-to-launch-saints-row-on-your-desktop-smoothly/"><u>How to Get Past the Block: Steps to Launch Saints Row on Your Desktop Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-2024-phasmophobia-game-crashing-issues-effectively/"><u>How to Resolve 2024 Phasmophobia Game Crashing Issues Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sonic-enhancements-for-whatsapp-updates/"><u>In 2024, Sonic Enhancements for WhatsApp Updates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-understanding-facebooks-policy-on-media-content-sharing/"><u>In 2024, Understanding Facebook's Policy on Media Content Sharing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002446238-jurassic-world-evolution-master-the-tips-and-tricks-to-stop-your-game-from-crashing/"><u>Jurassic World Evolution: Master the Tips & Tricks to Stop Your Game From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-quick-repairs-for-apex-legends-load-failures-top-techniques-inside/"><u>Master the Art of Quick Repairs for Apex Legends Load Failures - Top Techniques Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-identifying-and-correcting-causes-behind-freezing-in-path-of-exile-without-charges/"><u>Masterclass: Identifying & Correcting Causes Behind Freezing in Path of Exile Without Charges</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-optimized-overcoming-the-dual-decline-in-frames-per-second/"><u>PC Gaming Optimized: Overcoming the Dual Decline in Frames Per Second</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-top-8-techniques-to-prevent-multiversus-from-crashing/"><u>Resolved: Top 8 Techniques to Prevent MultiVersus From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-oxygen-not-included-game-crash-problems-a-comprehensive-guide/"><u>Resolving 'Oxygen Not Included' Game Crash Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-frame-drops-and-lags-in-age-of-empires-iv-a-comprehensive-guide/"><u>Resolving Frame Drops and Lags in Age of Empires IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-sea-of-thieves-game-crashes-for-good-with-these-proven-fixes/"><u>Say Goodbye to Sea of Thieves Game Crashes for Good with These Proven Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-launching-the-witcher-3-game-expert-guide/"><u>Solving the Problem of Launching The Witcher 3 Game - Expert Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-persona-3-fes-game-wont-start-problems/"><u>Step-by-Step Solution for 'Persona 3 FES' Game Won't Start Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-fix-slow-response-times-in-naraka-point-aeon-online-gameplay/"><u>Step-by-Step Solutions to Fix Slow Response Times in Naraka Point Aeon Online Gameplay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-conversions-mp4-files-with-vlc-media-player/"><u>Streamlining Conversions  MP4 Files with VLC Media Player</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-fix-persistent-game-crashes-in-frontier-for-pc-players/"><u>Troubleshoot & Fix Persistent Game Crashes in Frontier for PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-the-infamous-tfla0002-finals-issue/"><u>Ultimate Guide: Resolving the Infamous TFLA0002 Finals Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-digital-innovations-toms-guide-to-cutting-edge-gear/"><u>Unveiling Digital Innovations: Tom's Guide to Cutting-Edge Gear</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/war-thunder-continues-to-crash-essential-troubleshooting-steps/"><u>War Thunder Continues to Crash : Essential Troubleshooting Steps</u></a></li>
+</ul></div>

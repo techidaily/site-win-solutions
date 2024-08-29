@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials Unveiled: Harnessing the Power of Countif for Data Analysis Techniques"
-date: 2024-08-26 22:33:19
-updated: 2024-08-29 12:51:10
+date: 2024-08-28T05:01:14.394Z
+updated: 2024-08-29T05:01:14.394Z
 tags:
   - excel
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  The FREQUENCY function requires two arrays as inputs: a "Data\_array" and a "Bins\_array." Arrays are simply lists of values. The "Data\_array" needs to contain values---like the numerical grades for students---that Excel can compare to a series of thresholds defined in the "Bins\_array"---like the letter grades in that same example.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Let's Look at an Example
 
  For our example, we will calculate the frequency distribution and frequency percentages of a set of 18 numbers between 0 and 10\. It's just a simple exercise where we're going to determine how many of those numbers fall between one and two, between two and three, and so on.
@@ -70,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-5-press-ok-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  You will see that only the first cell of the "Results" column has a value, the rest are blank.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-6-initial-result.png) 
@@ -78,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-7-click-inside-function-bar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Results column will now display the missing values.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-8-results-after-cse.png) 
@@ -102,20 +111,35 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-10-modify-formula-for-percentages.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The new formula divides each element of the Results array by the total count of values in the "Data\_array" column.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-11-initial-percentage-results.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  The results are not automatically formatted as percentages, but that's easy enough to change. Switch to the "Home" menu and then press the "%" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-12-format-using-number-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The values will now appear as percentages. So, for example, you can now see that 17% of the numbers in the "Data\_array" column fell in the 1-2 range.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-13-formatted-percentage-results.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Best of all, now that the formula is in place in the "Results" column, you can alter any of the values in the "Data\_array" and "Bins\_array" columns and Excel will automatically refresh the results with updated values.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Bypassing the Formulas Menu and Using the Function Bar
 
  If you prefer typing and know your way around naming columns and cells, you can always bypass digging through the "Formulas" menu by simply typing functions directly into Excel's Function Bar and then pressing Ctrl+Shift+Enter.
@@ -150,3 +174,71 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-examining-social-media-comment-standouts/"><u>[New] Examining Social Media Comment Standouts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-techs-picks-the-ultimate-screenshot-list/"><u>[New] Tech's Picks  The Ultimate Screenshot List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-final-word-on-vegaspro-2019/"><u>[New] The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sovled-necromunda-hired-gun-solving-windows-computer-crashes-during-playtime/"><u>[SOVLED] Necromunda: Hired Gun - Solving Windows Computer Crashes During Playtime</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-tips-recording-every-moment-of-skype-on-obs/"><u>[Updated] 2024 Approved  Essential Tips  Recording Every Moment of Skype on OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[Updated] 2024 Approved  How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-avoid-snappy-disappointments-streaking-wisdom-for-2024/"><u>[Updated] Avoid Snappy Disappointments  Streaking Wisdom for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-camrecorder-essential-techniques-for-gaming-pros-for-2024/"><u>[Updated] CamRecorder  Essential Techniques for Gaming Pros for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-best-4k-capture-software-for-live-recording/"><u>[Updated] Discover the Best 4K Capture Software for Live Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-myvideocapture-social-media-video-download/"><u>[Updated] MyVideoCapture  Social Media Video Download</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-responding-with-grace-to-youtube-comments-for-2024/"><u>A Guide to Responding with Grace to YouTube Comments for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-2042-performance-boosted-addressing-pcs-dropping-frames-and-latency-problems/"><u>Battlefield 2042 Performance Boosted: Addressing PC's Dropping Frames and Latency Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-guide-in-personalizing-and-enhancing-vehicle-performance/"><u>ChatGPT as Your Guide in Personalizing and Enhancing Vehicle Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-space-optimization-on-win1110/"><u>Disk Space Optimization on Win11/10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/division-2-launch-issues-here-are-the-top-fixes/"><u>Division 2 Launch Issues? Here Are the Top Fixes !</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003591573-evil-genius-2-wont-open-discover-proven-methods-to-get-it-up-and-running-again/"><u>Evil Genius 2 Won't Open? Discover Proven Methods to Get It Up and Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013059694-experience-the-epic-battle-god-of-wars-first-person-shooter-released-on-pc/"><u>Experience the Epic Battle - God of War's First-Person Shooter Released on PC!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005517525-experience-the-epic-battles-of-god-of-war-fps-newly-released-for-pc-gamers/"><u>Experience the Epic Battles of God of War FPS – Newly Released for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-resolving-non-launch-of-call-of-duty-black-ops-cold-war-on-desktop-systems/"><u>Expert Advice: Resolving Non-Launch of Call Of Duty: Black Ops Cold War on Desktop Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-overcome-battlefield-4s-launch-issues-on-pc/"><u>Fixes and Solutions: How to Overcome Battlefield 4'S Launch Issues on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-dying-light-game-audio-glitch-a-step-by-step-guide/"><u>Fixing the 'Dying Light' Game Audio Glitch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-warzone-pc-login-failures-to-begin-playing-immediately/"><u>Fixing Warzone PC Login Failures to Begin Playing Immediately</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-game-going-how-to-fix-warframe-not-launching-problems/"><u>Get Your Game Going! How to Fix Warframe Not Launching Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-addressing-and-fixing-the-detected-audio-configuration-problem-in-itunes/"><u>Guide: Addressing and Fixing the Detected Audio Configuration Problem in iTunes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-past-the-error-humankind-not-starting-up-on-your-computer/"><u>How to Get Past the Error: 'Humankind' Not Starting Up on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-your-assassins-creed-mirage-running-smoothly-expert-tips-and-tricks/"><u>How to Get Your Assassin's Creed Mirage Running Smoothly: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-immediately-resolve-fortnites-game-launch-problems/"><u>How to Immediately Resolve Fortnite's Game Launch Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-gobi-fatal-error-a-detailed-tutorial-for-back-4-blood-ue4-players/"><u>How to Overcome Gobi Fatal Error - A Detailed Tutorial for Back 4 Blood (UE4) Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-titanfall-2-game-crashes-in-just-a-few-steps/"><u>How to Prevent Titanfall 2 Game Crashes in Just a Few Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-amd-radeon-software-unresponsiveness-dilemma/"><u>How to Resolve AMD Radeon Software Unresponsiveness Dilemma</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-the-dilemma-of-frequent-game-shutdowns-on-desktops/"><u>How to Solve the Dilemma of Frequent Game Shutdowns on Desktops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-street-fighter-6-from-freezing-on-your-pc-new-solutions/"><u>How to Stop Street Fighter 6 From Freezing on Your PC [New Solutions]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-battlefield-battlefiel2042-gaming-performance-eliminating-fps-dips-and-gameplay-hiccups/"><u>Improve Battlefield ˈbattlefielᵘ2042 Gaming Performance: Eliminating FPS Dips and Gameplay Hiccups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-to-use-the-top-10-mobile-live-streaming-apps-list/"><u>In 2024, Free to Use  The Top 10 Mobile Live Streaming Apps List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-f15-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy F15 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-a34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy A34 5G Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-step-by-step-maximizing-fb-video-area/"><u>In 2024, Step by Step  Maximizing Fb Video Area</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-f14-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy F14 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-90-gt-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 90 GT Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/multiangle-exploration-guide/"><u>MultiAngle Exploration Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-videos-for-free-top-10-online-editors-with-no-watermark-restrictions/"><u>New 2024 Approved Edit Videos for Free Top 10 Online Editors with No Watermark Restrictions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-lagging-expert-tips-to-maintain-high-fps-on-nioh-2/"><u>Overcome Lagging: Expert Tips to Maintain High FPS on Nioh 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-sovled-warno-pc-instability-and-recurrent-software-errors/"><u>Overcoming SOVLED Warno PC Instability and Recurrent Software Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rapid-results-with-star-wars-battlefront-ii-shaders-no-more-stuck-tuning/"><u>Rapid Results with Star Wars Battlefront II Shaders: No More Stuck Tuning!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-hevc-files-the-ultimate-guide/"><u>Repairing HEVC Files: The Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-a-persistent-loading-state-in-discord-streaming/"><u>Resolved: Troubleshooting a Persistent 'Loading' State in Discord Streaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rockstar-games-launcher-woes-heres-how-to-get-it-up-and-running-again-in-202/"><u>Rockstar Games Launcher Woes? Here's How to Get It Up and Running Again in 202#</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-enabling-and-finding-gpeditmsc-on-windows-home-edition/"><u>Solution: Enabling and Finding gpedit.msc on Windows Home Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-common-compatibility-errors-for-logitech-sound-solutions-in-the-windows-ecosystem/"><u>Solving Common Compatibility Errors for Logitech Sound Solutions in the Windows Ecosystem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pubg-pc-issues-troubleshooting-freezes-and-unresponsive-gameplay/"><u>Solving PUBG PC Issues: Troubleshooting Freezes and Unresponsive Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-manor-lords-game-crashes-on-your-windows-machine-a-step-by-step-guide/"><u>Solving the 'Manor Lords' Game Crashes on Your Windows Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-2024-definitive-fix-for-stable-among-us-gameplay-without-interruptions/"><u>The 2024 Definitive Fix for Stable Among Us Gameplay Without Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-division-2-stutter-fix-eliminating-lag-and-improving-frame-rate-in-the-upcoming-patch/"><u>The Division 2 Stutter Fix: Eliminating Lag and Improving Frame Rate in the Upcoming Patch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-expertutive-guide-to-enhanced-video-chapter-management-on-youtube/"><u>The Expert'utive Guide to Enhanced Video Chapter Management on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013767591-this-title-implies-expertise-expert-tips-and-reassures-users-they-can-get-the-game-running-again-which-is-a-primary-concern-when-facing-launch-issues/"><u>This Title Implies Expertise (Expert Tips) and Reassures Users They Can Get the Game Running Again, Which Is a Primary Concern when Facing Launch Issues.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-solutions-eliminating-outriders-latency-challenges/"><u>Tips and Solutions: Eliminating Outriders' Latency Challenges</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984077940-troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-persistent-obs-crashes-in-windows-1011-operating-systems-fix-now-available/"><u>Troubleshooting Persistent OBS Crashes in Windows 10/11 Operating Systems - Fix Now Available</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-stop-terraria-from-keeping-you-awake-at-night-crash-edition/"><u>Ultimate Guide: Stop Terraria From Keeping You Awake at Night (Crash Edition)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-solving-persistent-black-display-errors-on-your-device/"><u>Understanding and Solving Persistent Black Display Errors on Your Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-black-desert-online-keep-crashing-expert-tips-for-pc-users/"><u>Why Does Black Desert Online Keep Crashing? Expert Tips for PC Users</u></a></li>
+</ul></div>

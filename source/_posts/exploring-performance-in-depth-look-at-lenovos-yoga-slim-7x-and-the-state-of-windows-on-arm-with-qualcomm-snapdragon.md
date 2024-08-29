@@ -1,7 +1,7 @@
 ---
 title: "Exploring Performance: In-Depth Look at Lenovo's Yoga Slim 7X and the State of Windows on ARM with Qualcomm Snapdragon"
-date: 2024-08-28 23:52:35
-updated: 2024-08-29 11:55:17
+date: 2024-08-28T04:59:42.210Z
+updated: 2024-08-29T04:59:42.210Z
 tags:
   - windows
 categories:
@@ -113,6 +113,9 @@ Expand
 
 ![The keyboard on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-keyboard-on-the-lenovo-yoga-slim-7x-2_53815829123_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Lenovo’s keyboards are generally high quality, and I don’t have any big complaints about the keyboard on the Yoga Slim 7x. There’s a dedicated function row with shortcuts for brightness, volume, microphone access, locking the screen, and even opening the calculator. The keys are all backlit, and you can toggle the key brightness by holding down the function key while pressing the space bar. The trackpad below the keyboard is spacious, too.
@@ -123,6 +126,10 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-ports-on-the-left-side-of-the-lenovo-yoga-slim-7x_53815828838_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Yoga Slim 7x has three USB Type-C ports, all of which support USB4 Gen 3, USB Power Delivery (USB-PD) 3.1, and DisplayPort 1.4\. Those are the only physical ports on this computer. You don’t get a headphone jack, an SD card reader, USB Type-A ports, or anything else. It’s great that all three ports work the same, so you can use any of them for power input or a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), but I wish there were better built-in options for connectivity. There’s also no support for Thunderbolt, so some types of external drives, monitors, and hubs won’t work.
@@ -131,6 +138,9 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -153,6 +163,9 @@ Jerome Thomas / How-To Geek
 
 ![Windows 11 screenshot with Task Manager and Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the Prism emulator works, you don’t notice it at all, though the software might run a bit slower than it would on a comparable Intel or AMD-powered computer. This is also similar to how the [Rosetta 2 emulation layer](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/) works on Mac computers with ARM-based Apple Silicon chips.
 
  Some of the applications I use every day already have ARM-native versions, including Firefox, Slack, Outlook, and Spotify. Discord doesn’t have an ARM version yet, so it runs as an emulated x86 application, and performance randomly slowed down about two weeks into my review period. I tried a few games, with mixed results: "Civilization VI" worked well, but "Overwatch" had frequent stuttering that seemed to happen regardless of the graphical quality setting. Some games don’t open at all, and most games from the Microsoft Store or Xbox app can’t be installed. Microsoft is [working to improve game performance](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/) in x86 emulation, but the inconsistent compatibility is something to keep in mind with the Yoga Slim 7x and other ARM-based Windows computers.
@@ -165,6 +178,9 @@ Jerome Thomas / How-To Geek
 
  Finally, it’s worth noting that Windows 11 is currently the only operating system for these Snapdragon X laptops. If you want to give desktop Linux a serious try, buy a different laptop with an x86 Intel or AMD CPU (or better yet, [a laptop designed specifically for Linux](https://win-howtos.techidaily.com/ensure-file-placement-consistency-across-windows-10-boots/)).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Performance: Great, If Your Apps Work
 
  This is one of the first PC laptops with a Snapdragon X Elite chipset, and thankfully, it doesn’t disappoint. I spent most of my workday switching between Firefox, Slack, Discord, and Outlook, usually with music playing from Spotify or YouTube, and the laptop remained snappy and responsive the whole time. I tested the 16GB RAM model, but there’s also a 32GB RAM configuration—the memory is not user-upgradable.
@@ -187,12 +203,18 @@ Jerome Thomas / How-To Geek
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Competition: It's Tough
 
  The Yoga Slim 7x’s starting price around $1,200 in the United States is pretty typical for a Windows ultrabook. It’s competing directly with the [2024 Dell XPS 13 and 14](https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/), both of which cost more than the Yoga ($1,399 and $1,699, respectively), as well as laptops like the [new Surface Laptop](https://android-unlock.techidaily.com/how-to-change-samsung-lock-screen-clock-in-seconds-by-drfone-android/) and [Samsung’s Galaxy Book lineup](https://discord-videos.techidaily.com/2024-approved-mastery-in-making-stunning-discord-pfps-with-minimal-effort/). The Yoga’s AMOLED screen might be hard to beat in this price segment, but the rest of the hardware is pretty standard, outside of the unique Snapdragon X chip.
 
  It’s also worth keeping in mind that the [13-inch M2 MacBook Air](https://www.apple.com/macbook-air/) starts at $1,099\. The hardware is a poor match on paper, with only 8GB of unified memory and 256GB storage in the base configuration, but that hardware generally goes further on macOS than Windows. Apple’s modern M2 and M3 chips have similar power efficiency and battery life as the Snapdragon chip in the Yoga 7x, but software compatibility is far less of a gamble—as long as it’s available on macOS, anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Yoga Slim 7x?
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
@@ -229,3 +251,40 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-embarking-on-a-youtube-venture-user-setup-essentials/"><u>[New] 2024 Approved  Embarking on a YouTube Venture  User Setup Essentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-zoom-black-screen-issues-on-pc-2024-guide/"><u>[SOLVED] Zoom Black Screen Issues on PC – 2024 Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-webp-converters-convert-webp-to-jpg/"><u>[Updated] In 2024, Best WebP Converters  Convert WebP to JPG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-video-call-zoom-and-fb-live-integration/"><u>[Updated] Optimizing Your Video Call  ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-windows-10-users-guide-saving-mov-files-flawlessly/"><u>2024 Approved  Windows 10 Users' Guide  Saving .mov Files Flawlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-multiversus-glitching-a-comprehensive-guide-to-the-best-8-remedies/"><u>Beat MultiVersus Glitching: A Comprehensive Guide to the Best 8 Remedies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-dealing-with-deathloop-freezes-and-lag-on-your-ps5-or-pc-setup/"><u>Comprehensive Solutions for Dealing with Deathloop Freezes and Lag on Your PS5 or PC Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/directing-emotions-choosing-sound-for-film-teasers/"><u>Directing Emotions  Choosing Sound for Film Teasers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-8014-in-dead-by-daylight-explained-with-step-by-step-troubleshooting-solutions/"><u>Error 8014 in Dead by Daylight Explained with Step-by-Step Troubleshooting Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-preventing-and-repairing-wallpaper-engine-crashes-in-windows-operating-systems/"><u>Expert Advice: Preventing and Repairing Wallpaper Engine Crashes in Windows Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-repairing-intel-dsa-when-it-stops-functioning/"><u>Expert Guide to Repairing Intel DSA When It Stops Functioning</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-ensure-uninterrupted-gameplay-for-king-of-fighters-xv-on-your-computer/"><u>Expert Tips to Ensure Uninterrupted Gameplay for 'King of Fighters XV' On Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-frame-drops-in-v-game-on-windows-a-comprehensive-solution/"><u>Fix Persistent Frame Drops in 'V' Game on Windows: A Comprehensive Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-common-issues-how-to-trougle-with-the-msi-mystic-light-failure-in-windows/"><u>Fixing Common Issues: How to Trougle with the MSI Mystic Light Failure in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-repair-ready-or-not-from-freezing-and-crashing-on-pcs/"><u>How to Prevent and Repair 'Ready or Not' From Freezing & Crashing on PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-a34-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy A34 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-skyrocket-your-channels-view-count-beyond-ten-hundred/"><u>In 2024, Skyrocket Your Channel's View Count Beyond Ten Hundred</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/iobit-screen-recorder-review-and-alternative/"><u>IObit Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-glitches-strategies-to-unfreeze-your-overwatch-sessions/"><u>Overcoming Glitches: Strategies to Unfreeze Your Overwatch Sessions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-not-detected-and-missing-issues-with-gsdll32dll/"><u>Resolving 'Not Detected' And 'Missing' Issues with gsdll32.dll</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-resolving-qbittorent-freezing-issues/"><u>Solutions for Resolving qBittorent Freezing Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-troubleshooting-steps-to-resolve-frequent-crashes-in-nox-player-for-pc/"><u>Solved! Troubleshooting Steps to Resolve Frequent Crashes in Nox Player for PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-playback-problems-why-cant-i-open-davinci-resolve-on-my-pc/"><u>Solving Playback Problems - Why Can't I Open DaVinci Resolve on My PC?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-stop-assassins-creed-odyssey-from-crashing-your-pc-easily/"><u>Step-by-Step Guide: Stop Assassin's Creed Odyssey From Crashing Your PC Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-drop-outs-permanent-solution-to-fortnite-pc-stability-issues/"><u>Stop the Drop-Outs: Permanent Solution to Fortnite PC Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-complete-walkthrough-rectifying-apex-legends-leaf-error-for-a-seamless-gaming-experience/"><u>The Complete Walkthrough: Rectifying Apex Legends 'Leaf' Error for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-genshin-impact-easy-steps-when-facing-start-up-problems/"><u>Troubleshoot Genshin Impact: Easy Steps When Facing Start-Up Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-overcome-pubgs-stalling-moments-on-windows/"><u>Troubleshooting Guide: Overcome PUBG's Stalling Moments on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-pc-gaming-file-corruption-issues/"><u>Ultimate Guide: Resolving PC Gaming File Corruption Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unmatched-mp4-generation-from-facebook-clips-for-2024/"><u>Unmatched MP4 Generation From Facebook Clips for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unraveling-the-mystery-solutions-to-ghostrunners-fatal-system-crash-on-windows-11/"><u>Unraveling the Mystery: Solutions to Ghostrunner's Fatal System Crash on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+</ul></div>

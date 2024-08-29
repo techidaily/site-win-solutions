@@ -1,7 +1,7 @@
 ---
 title: "Wireless PS5 DualSense Integration with Windows 11: A Step-by-Step Guide"
-date: 2024-08-26 10:52:50
-updated: 2024-08-29 11:48:38
+date: 2024-08-28T05:00:30.171Z
+updated: 2024-08-29T05:00:30.171Z
 tags:
   - windows
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -39,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Pairing and Configuring a PS5 Controller for Steam
 
  Steam will often automatically recognize the DualSense controller and swap action and game control accordingly, but if something is not working correctly, there are a few easy ways to troubleshoot the issue.
@@ -75,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
@@ -87,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ##  Using a PS5 Controller for Non-Steam PC Games
 
  Outside of Steam, your DualSense controller might work natively with other PC gaming clients in Windows 10\. However, more likely than not, you'll need to jump through some additional hoops to get your PS5 controller working with other PC games. While the Xbox controller natively works with many PC games, you'll need to take a few extra steps to ensure the DualSense works with most PC games outside of Steam.
@@ -113,3 +134,40 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-secrets-for-hd-streaming-on-the-worlds-largest-social-network/"><u>[New] 2024 Approved  Secrets for HD Streaming on the World's Largest Social Network</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-facebook-video-integration-with-home-screen-apps-for-2024/"><u>[New] Unlocking Facebook Video Integration with Home Screen Apps for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-next-level-splitting-tools-beyond-xsplit-for-2024/"><u>[Updated] Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ace-the-art-of-digital-photography-with-lunapic/"><u>Ace the Art of Digital Photography with LunaPic</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-in-splitgate-strategies-for-fixing-low-fps-and-reducing-delays/"><u>Achieve Smoother Gameplay in Splitgate: Strategies for Fixing Low FPS & Reducing Delays</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/advanced-fixes-for-smoother-discord-experience-overcoming-lag-troubles-in-the-new-year/"><u>Advanced Fixes for Smoother Discord Experience: Overcoming Lag Troubles in the New Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-lag-top-techniques-to-enhance-your-dota-2-play-experience/"><u>Beat the Lag: Top Techniques to Enhance Your Dota 2 Play Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-web-performance-using-the-power-of-cookiebot-technology/"><u>Boost Web Performance Using The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-errgfxd3dinit-fault-for-a-smoother-gta-v-experience/"><u>Bypassing ERR_GFX_D3D_INIT Fault for a Smoother GTA V Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-lg-um7300-navigating-budget-friendly-4k-tv-options-for-savvy-shoppers/"><u>Comprehensive Guide to the LG UM7300: Navigating Budget-Friendly 4K TV Options for Savvy Shoppers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ds4-controllers-and-windows-compatibility-overcoming-device-connection-problems-and-successful-driver-setup/"><u>DS4 Controllers and Windows Compatibility: Overcoming Device Connection Problems and Successful Driver Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ffxiv-update-errors-and-how-to-fix-them/"><u>FFXIV Update Errors and How to Fix Them</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-discord-overlay-issues-fast-step-by-step-guide/"><u>Fix Your Discord Overlay Issues Fast - Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-directx-drawing-issues-a-comprehensive-guide/"><u>How to Fix DirectX Drawing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nba-2k23-crashing-problems-on-your-windows-computer-7-effective-methods/"><u>How to Fix NBA 2K23 Crashing Problems on Your Windows Computer - 7 Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-persistent-lagging-and-crashing-issues-in-warframe/"><u>How to Fix the Persistent Lagging and Crashing Issues in Warframe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-2024-phasmophobia-game-crashing-issues-effectively/"><u>How to Resolve 2024 Phasmophobia Game Crashing Issues Effectively</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-xs-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone XS Max Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jurassic-world-evolution-game-solving-the-crash-bug/"><u>Jurassic World Evolution Game: Solving the Crash Bug</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-identifying-and-correcting-causes-behind-freezing-in-path-of-exile-without-charges/"><u>Masterclass: Identifying & Correcting Causes Behind Freezing in Path of Exile Without Charges</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-stability-solved-ultimate-guide-to-avoiding-ground-faults/"><u>PC Stability Solved: Ultimate Guide to Avoiding Ground Faults</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-when-your-pacific-drive-wont-launch/"><u>Quick Fixes for When Your Pacific Drive Won't Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rockstar-playstation-network-issues-fixes-and-updates-for-pc-gamers/"><u>Rockstar PlayStation Network Issues - Fixes and Updates for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-launching-the-witcher-3-game-expert-guide/"><u>Solving the Problem of Launching The Witcher 3 Game - Expert Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-persona-3-fes-game-wont-start-problems/"><u>Step-by-Step Solution for 'Persona 3 FES' Game Won't Start Problems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-uav-connoisseurs-guide-to-essential-equipment/"><u>The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-essential-fixes-mastering-stability-in-biomutant-pc-edition/"><u>Top 5 Essential Fixes: Mastering Stability in Biomutant [PC Edition]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-treys-heres-how-to-thaw-out-call-of-duty-black-ops-cold-war/"><u>Trouble with Treys? Here's How to Thaw Out Call of Duty Black Ops Cold War!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solve-your-pcs-minecraft-stuttering-issues-fresh-tricks/"><u>Ultimate Guide: Solve Your PC's Minecraft Stuttering Issues - Fresh Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-fixing-fifa-20-crashes-on-your-pc/"><u>Ultimate Troubleshooting Guide: Fixing FIFA 20 Crashes on Your PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-multilingual-potential-duration-matters/"><u>Unlocking Multilingual Potential: Duration Matters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/win-the-battle-against-frozen-fortnite-scenes-masterful-fixes-for-gaming-enthusiasts/"><u>Win the Battle Against Frozen Fortnite Scenes: Masterful Fixes for Gaming Enthusiasts</u></a></li>
+</ul></div>

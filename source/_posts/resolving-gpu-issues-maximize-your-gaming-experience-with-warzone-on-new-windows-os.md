@@ -1,0 +1,226 @@
+---
+title: Resolving GPU Issues - Maximize Your Gaming Experience with Warzone on New Windows OS
+date: 2024-08-28T05:13:04.903Z
+updated: 2024-08-29T05:13:04.903Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Resolving GPU Issues - Maximize Your Gaming Experience with Warzone on New Windows OS
+excerpt: This Article Describes Resolving GPU Issues - Maximize Your Gaming Experience with Warzone on New Windows OS
+thumbnail: https://thmb.techidaily.com/0ca2747bace885998e167d601fb15c3166c8be683eacac54f4c7c14302087724.jpg
+---
+
+## Pathfinder: Wrath of the Righteous - No More Issues, Smooth Gaming Experience on PC
+
+Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
+
+## Try these fixes
+
+ You may not need to try them all; simply work your way down the list until you find the one that works for you.
+
+1. **[Add your game as an exception to your antivirus](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Launch your game from .exe file](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Delete the registry key](https://tools.techidaily.com/drivereasy/download/)**
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
+
+## 1\. Add your game as an exception to your antivirus
+
+ Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
+
+ If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
+
+## 2\. Update your graphics driver
+
+ Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
+
+ There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+### Option 1 – Manually update your graphics driver
+
+ To update your graphics driver manually, you can go to the official website:
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+[AMD](https://www.amd.com/en/support)
+[Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
+
+ Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+### Option 2 – Automatically update your graphics driver (recommended)
+
+ Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
+3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
+
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+## 3\. Verify integrity of game files
+
+ A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
+
+### Verify on Steam
+
+1. Launch your Steam client. From the LIBRARY section, right-click your game title and select**Properties** from the menu.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
+2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Verify on GOG Galaxy
+
+1. Launch GOG Galaxy.
+2. Click the game in your Library.
+3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
+
+ GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
+
+ When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
+
+## 4\. Disable overlays
+
+ Commonly used in various programs, overlay technology allows you to enjoy some exclusive features, but can also cause performance issues with some games. Therefore, you should disable the Steam overlay and check if it can give you a performance boost. Here’s how you can do this:
+
+1. Open your Steam client.
+2. Click **Steam** from the sidebar and select **Settings** .  
+
+![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
+3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+
+![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
+
+ After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+## 5\. Launch your game from .exe file
+
+ Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
+
+However, if it doesn’t give you any luck, try the next fix below.
+
+## 6\. Delete the registry key
+
+ If your game hangs at 92% or it keeps freezing, especially when you try to pick a class, you can fix it by deleting the registry key. To do this, follow the instructions below.
+
+1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
+2. Type or paste**regedit** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
+3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+
+![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
+
+Once done, restart your game and test the gameplay.
+
+ However, if nothing else has helped, it’s high time to check if you have**corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
+
+ To do this, try using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , which will automatically find, repair corrupted files, and fix system software issues. Additionally, it increases performance, stops computer freezing and system crashes as well as improves overall PC stability. With regular use, Fortect will constantly refresh your operating system which will **keep your computer running at its best** .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and it will run a free scan of your PC and give you a detailed report of your PC status. This will take a few minutes.
+3. Once it’s finished, click **Start Repair** to start the repair process.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+---
+
+ That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/psychonauts-2-addressing-and-resolving-pc-game-crashes-with-ease/"><u>'Psychonauts 2': Addressing and Resolving PC Game Crashes with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[Updated] In 2024, Lightning Lens Work  Efficiently Producing Google Collage Shots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-editors-edge-advanced-techniques-in-chromatic-manipulation-for-2024/"><u>[Updated] The Editor's Edge  Advanced Techniques in Chromatic Manipulation for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-from-zero-to-hero-funimates-apk-unleashed-playbook/"><u>2024 Approved  From Zero to Hero  Funimate's APK Unleashed Playbook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-bugfix-tips-overcoming-the-2022-error-code-leaf-glitch/"><u>Apex Legends Bugfix Tips: Overcoming the 2022 ‘Error Code Leaf’ Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-the-message-how-to-update-your-graphics-driver-for-optimal-minecraft-performance/"><u>Banish The Message: How to Update Your Graphics Driver for Optimal Minecraft Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cross-platform-filmography-syncing-smartphones-and-systems/"><u>Cross-Platform Filmography  Syncing Smartphones and Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solution-for-persistent-kernelbasedll-errors-no-stress/"><u>Effortless Solution for Persistent KernelBase.dll Errors - No Stress!</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-the-dxgkrnl-fatal-error-for-smooth-video-playback-on-windows/"><u>Eliminating the DXGKRNL Fatal Error for Smooth Video Playback on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-stop-f1-202n-from-continuously-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop F1 202N From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/frustrated-by-doom-eternal-launch-delays-heres-your-solution/"><u>Frustrated by DOOM Eternal Launch Delays? Here’s Your Solution!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/google-pixel-tablet-news-update-detailed-look-at-its-expected-launch-and-impressive-tech-specs/"><u>Google Pixel Tablet News Update: Detailed Look at Its Expected Launch and Impressive Tech Specs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-troubleshooting-preventing-system-crashes-during-gameplay-updated-guide/"><u>Hitman 3 Troubleshooting: Preventing System Crashes During Gameplay (Updated Guide)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-lag-on-discord-a-comprehensive-guide-for-gamers/"><u>How to Eliminate Lag on Discord: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-n53-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo N53 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 7 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style-for-2024/"><u>Instantly Accessible Music Mixes  Assembling YouTube Playlists Web/Mobile Style for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-modern-combat-fixes-for-call-of-duty-warzone-textures-that-wont-load/"><u>Mastering Modern Combat: Fixes for Call of Duty Warzone Textures That Won't Load</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-puzzles-turkey-and-koreas-verbal-ties/"><u>Multilingual Puzzles: Turkey & Korea's Verbal Ties</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-robloxs-startup-challenges-a-comprehensive-guide-for-players/"><u>Overcoming Roblox's Startup Challenges: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-woes-discover-solutions-to-tower-of-fantasy-game-crashes/"><u>PC Gaming Woes? Discover Solutions to 'Tower of Fantasy' Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-guide-for-zombie-army-4s-deadly-encounters/"><u>PC Troubleshooting Guide for Zombie Army 4'S Deadly Encounters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-smoother-gaming-lower-your-latency-and-end-lag-spikes-in-bless-unleashed-on-windows/"><u>Quick Fixes for Smoother Gaming: Lower Your Latency & End Lag Spikes in Bless Unleashed on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-when-your-device-wont-boot-up-with-pacific-drive/"><u>Quick Fixes for When Your Device Won't Boot Up with Pacific Drive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-running-grand-theft-auto-v-solutions-to-eliminate-gameplay-hiccups/"><u>Smooth Running Grand Theft Auto V: Solutions to Eliminate Gameplay Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-chrome-and-firefox-issues-stop-youtube-videos-from-stopping-audio/"><u>Solving Chrome and Firefox Issues: Stop YouTube Videos From Stopping Audio</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speeding-past-stalls-proven-techniques-to-bypass-a-frozen-start-in-forza-horizon-groove/"><u>Speeding Past Stalls: Proven Techniques to Bypass a Frozen Start in Forza Horizon Groove</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-fixing-error-0xc19001e1-in-microsoft-windows-10/"><u>Step-by-Step Solutions for Fixing Error 0Xc19001e1 in Microsoft Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/treasure-found-fixes-to-release-you-from-sea-of-thieves-loading-screen-grasp/"><u>Treasure Found! Fixes to Release You From 'Sea of Thieves' Loading Screen Grasp</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-error-0xc190n1e1-for-windows-11-users/"><u>Troubleshooting and Fixing Error 0xC190N1E1 for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-crashes-in-mass-effect-legendary-edition-solutions-for-pc-and-xbox/"><u>Troubleshooting Crashes in Mass Effect Legendary Edition: Solutions for PC and Xbox</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-techniques-for-a-stagnant-outlook-application/"><u>Troubleshooting Techniques for a Stagnant Outlook Application</u></a></li>
+</ul></div>

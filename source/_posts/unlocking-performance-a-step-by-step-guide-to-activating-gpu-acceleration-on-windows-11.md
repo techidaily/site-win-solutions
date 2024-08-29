@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Performance: A Step-by-Step Guide to Activating GPU Acceleration on Windows 11"
-date: 2024-08-28 12:30:20
-updated: 2024-08-29 11:43:22
+date: 2024-08-28T05:00:23.576Z
+updated: 2024-08-29T05:00:23.576Z
 tags:
   - windows
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
  Windows 10 and Windows 11 come with an advanced setting, called Hardware-Accelerated GPU Scheduling, which can [boost gaming](https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/) and video performance using your PC's GPU. We'll show you how to enable the feature and thereby potentially get a performance increase.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is Hardware-Accelerated GPU Scheduling?
 
  Usually, your computer's processor offloads some visual and graphics-intensive data to the [GPU to render](https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-8t-phones-by-drfone-android/) so that games, multimedia, and other apps run smoothly. The [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) gathers the frame data, assigns commands, and prioritizes them one by one so that the GPU can render the frame.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
  The only reason you shouldn't use this feature is if you experience any issues after enabling it. If your apps suddenly stop working or you have [graphics-related problems](https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/) after turning it on, then GPU scheduling is best left disabled. Fortunately, disabling the feature after testing it is as easy as turning it on. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What You'll Need to Make This Feature Work
 
  Though this feature debuted with [Windows 10 May 2020 Update](https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-computing-wisdom/), it still comes disabled in Windows 10 and Windows 11\. Also, your computer needs to have an NVIDIA (GTX 10-series and later) or AMD (5600 series or later) [graphics card](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) with the latest graphics driver.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
  There are two ways to enable Hardware-Accelerated GPU Scheduling on Windows 10: use the Settings app or the Registry Editor. Both accomplish the same thing, though the Settings app is much easier. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Using Settings
 
  Start by [launching the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/) on your PC. You can do this by pressing Windows+i.
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![Click "Display" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-display.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  On the right pane, at the bottom, choose "Graphics Settings."
 
 ![Click "Graphics Settings" under the "Display" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-graphics-settings.png) 
@@ -71,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![Click the toggle to enable GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-toggle.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To disable the feature in the future, simply toggle off the "Hardware-Accelerated GPU Scheduling" option again.
 
  Close the Settings app and [reboot your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) to bring your changes into effect.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Using the Registry Editor
 
  To enable Hardware-Accelerated GPU Scheduling via [the Registry Editor](https://extra-lessons.techidaily.com/the-ultimate-hdtv-showdown-selecting-the-best-8k-models/), [open the Run box](https://android-location-track.techidaily.com/top-9-oppo-k11x-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/) by pressing Windows+R, then type the following and press Enter:
@@ -95,6 +113,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Enter "2" into the Value Data field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-value-to-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  In the future, to disable the feature, enter `1` in the "Value Data" field, choose "Hexadecimal," and select "OK."
 
  Close Registry Editor, restart your PC, and you have Hardware-Accelerated GPU Scheduling enabled on your computer. Enjoy!
@@ -105,6 +127,11 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select the 'System' tab, then click 'Display.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  From the "Related Settings" section, select "Graphics."
 
 ![Select 'Graphics' under Related Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-12.png) 
@@ -139,3 +166,60 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-demystifying-youtube-seo-terminology-and-tactics/"><u>[New] 2024 Approved  Demystifying YouTube SEO Terminology and Tactics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>[New] In 2024, A Vlogger's Dream  Exploring the Best 12 Video Capture Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[New] Tycoon Titans  The #12 Game Series for Budding Business Masters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-comprehensive-list-of-mac-methods-to-record-minecraft-play/"><u>[Updated] A Comprehensive List of Mac Methods to Record Minecraft Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>[Updated] Payout Patterns  AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-scenes-of-podcast-scripts-tips-and-examples/"><u>2024 Approved  Behind the Scenes of Podcast Scripts  Tips and Examples</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>2024 Approved  Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-downloading-made-simple-discover-the-4-aces/"><u>2024 Approved  Downloading Made Simple  Discover the 4 Aces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-principles-of-paradoxical-intervention/"><u>2024 Approved  Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-guide-to-15-best-4k-recording-tools/"><u>2024 Approved  Ultimate Guide to #15 Best 4K Recording Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-funimate-joy-comprehensive-tutorials/"><u>2024 Approved  Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-safe-window-shortcut-for-easy-hardware-disconnect-on-win11/"><u>Building a Safe Window Shortcut for Easy Hardware Disconnect on Win11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-overcoming-steams-responsiveness-issues-and-enhancing-performance-in-2aturday/"><u>Comprehensive Guide: Overcoming Steam's Responsiveness Issues and Enhancing Performance in 2Aturday</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-tips-to-correctly-address-the-content-warning-in-voice-chats/"><u>Comprehensive Tips to Correctly Address the Content Warning in Voice Chats</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diablo-iv-crashing-solved-step-by-step-fix-for-both-pc-and-console-users/"><u>Diablo IV Crashing Solved: Step-by-Step Fix for Both PC & Console Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004693329-easy-steps-to-repair-a-malfunctioning-madden-22-speedy-solutions-inside/"><u>Easy Steps to Repair a Malfunctioning Madden 22 - Speedy Solutions Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-overcome-error-0xc19001e1-in-windows-11-computers/"><u>Effective Solutions to Overcome Error 0xC19001E1 in Windows 11 Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-invisible-connection-between-your-astros-a50-headset-and-command-centre/"><u>Fixing the Invisible Connection Between Your Astro's A50 Headset and Command Centre</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-and-streaming-beast-unveiled-a-detailed-look-at-the-nighthawk-rax120/"><u>Gaming & Streaming Beast Unveiled: A Detailed Look at the Nighthawk RAX120</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-correct-rusts-display-irregularities/"><u>How to Address and Correct Rust's Display Irregularities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-non-responsive-rust-program-expert-advice-and-tips/"><u>How to Fix a Non-Responsive Rust Program - Expert Advice and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-11-pro-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 11 Pro In Easy Steps | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-your-itunes-and-iphone-connection-issues-on-windows-10/"><u>How to Resolve Your iTunes and iPhone Connection Issues on Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>In 2024, Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-preserve-instagram-pics-and-videos-for-long-term-storage/"><u>In 2024, Preserve Instagram Pics and Videos for Long-Term Storage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-8-premium-mp3-extraction-software-android/"><u>In 2024, Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/invest-in-cinematic-success-top-ten-cameras-for-filmmakers-for-2024/"><u>Invest in Cinematic Success  Top Ten Cameras for Filmmakers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-arsenal-a-guide-to-obtaining-unique-weapons-in-me-legendarys-fps-gameplay/"><u>Maximize Your Arsenal: A Guide to Obtaining Unique Weapons in ME Legendary's FPS Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-game-crashes-resolving-fallout-cuestionamientos-3-pausas-en-windows-10/"><u>Overcome Game Crashes - Resolving Fallout Cuestionamientos 3 Pausas en Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-pc-hurdles-mastering-death-strandings-stability-challenges/"><u>Overcome PC Hurdles: Mastering Death Stranding's Stability Challenges</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-issues-resolved-prevent-the-king-of-fighters-xv-from-crashing/"><u>PC Issues Resolved: Prevent 'The King of Fighters XV' From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-issues-with-age-of-empires-iv-stability-on-personal-computers-how-to-resolve/"><u>Persistent Issues With Age of Empires IV Stability on Personal Computers - How To Resolve</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-for-your-device-how-to-get-wireless-driver-downloads-now/"><u>Quick Setup for Your Device: How to Get Wireless Driver Downloads Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-for-fixing-discord-stream-interruptions/"><u>Resolved: Troubleshooting Steps for Fixing Discord Stream Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-logitech-g-hub-issues-for-windows-users/"><u>Resolving Logitech G Hub Issues for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-non-recording-problems-with-nvidia-shadowplay-on-pc/"><u>Resolving Non-Recording Problems with NVIDIA ShadowPlay on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-dark-dilemma-fixing-fortnites-black-screen-issue-on-pc/"><u>Resolving the Dark Dilemma: Fixing Fortnite's Black Screen Issue on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-windows-11-compatibility-issues-with-fallout-3-no-more-freezing-or-crashing/"><u>Resolving Windows 11 Compatibility Issues with Fallout 3 – No More Freezing or Crashing!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-surfing-eliminating-windows-chrome-flicker-issue/"><u>Smooth Surfing: Eliminating Window's Chrome Flicker Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-issues-with-the-kotion-each-g2000-microphone-series/"><u>Solving Connectivity Issues with the Kotion Each G2000 Microphone Series</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-errgfxd3dinit-glitch-enhancements-and-fixes-for-grand-theft-auto-v/"><u>Solving the ERR_GFX_D3D_INIT Glitch: Enhancements and Fixes for Grand Theft Auto V</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-v-for-vengeance-game-crashes-on-windows/"><u>Troubleshooting Guide: Resolving 'V for Vengeance' Game Crashes on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-keyboard-issues-in-pathfinder-wrath-of-the-righteous/"><u>Troubleshooting Guide: Resolving Keyboard Issues in Pathfinder - Wrath of the Righteous</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-fixing-connection-issues-in-minecraft/"><u>Troubleshooting: Fixing Connection Issues in Minecraft</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-how-to-turn-on-and-use-hyper-v-in-windows-11-easily/"><u>Unveiling How to Turn On & Use Hyper-V in Windows 11 Easily</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-virtualdub-alternative-guide/"><u>Updated 2024 Approved The Ultimate Virtualdub Alternative Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verifying-the-functionality-of-xbox-live-servers-now/"><u>Verifying the Functionality of Xbox Live Servers Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-fight-against-fortnite-lag-and-crashes-expert-advice-gaming/"><u>Winning the Fight Against Fortnite Lag and Crashes: Expert Advice Gaming</u></a></li>
+</ul></div>

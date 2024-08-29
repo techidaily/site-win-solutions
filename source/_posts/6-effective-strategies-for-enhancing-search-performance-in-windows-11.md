@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies for Enhancing Search Performance in Windows 11
-date: 2024-08-27 12:20:53
-updated: 2024-08-29 12:59:38
+date: 2024-08-28T04:59:31.001Z
+updated: 2024-08-29T04:59:31.001Z
 tags:
   - windows
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sometimes, it can be hard to quickly find the information you need using Search on Windows 11\. But with a few tips and tricks, you can make it a breeze. Here's how to enhance the way you use Windows Search.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  1\. Search By Category
 
  If you want more organized and precise results when using Windows Search, you can use categories to filter out irrelevant results. These categories include "Apps," "Documents," "Web," "Settings," "Folder," and "Photos." By default, when you type your search query, Windows Search will display results from all categories.
@@ -36,6 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The categories of Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/selecting-search-category-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can type the category, followed by a colon, and then the search query. If you were going to search for a particular setting, here's an example of what you could type:
 
 settings:Bluetooth
@@ -50,12 +56,18 @@ settings:Bluetooth
 
 ![Checking the weather in California on using Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/weather-search-windows-11-search.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you wanted to find the definition of ubiquitous, you'd type **ubiquitous definition** and get a preview of what the word means.
 
 ![Checking the definition of a word in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/definition-search-windows-11.jpg) 
 
  For more expansive results, you can click "Open Results in Browser" at the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ##  3\. Enable Cloud Search for Your Microsoft Account
 
  To get more comprehensive results on your searches, you can turn on cloud search. This will allow Search to include results from services like Bing, OneDrive, Outlook, and SharePoint. You'll need to use Windows with your Microsoft account for this to work.
@@ -68,6 +80,10 @@ settings:Bluetooth
 
 ![Turning on cloud search for Microsoft account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-microsoft-account-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  If you have a work or school account, you can turn on the "Work or School Account" toggle as well.
 
 ##  4\. Enable Enhanced Search
@@ -82,12 +98,19 @@ settings:Bluetooth
 
 ![Turning on enhanced search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enable-enhanced-search-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Below, you'll see a section called Exclude Folders From Enhanced Search. That means Search will look in every folder on your PC except for the excluded ones.
 
  To add a folder, click "Add an Excluded Folder." Then, select the folder you want to exclude from the enhanced search.
 
 ![Adding an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enhanced-search-exclude-folder-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  To remove a folder from the excluded list, click the three-dot icon next to it and select "Remove" from the menu.
 
 ![Removing an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-excluded-folder-enhanced-search-windows-11.jpg) 
@@ -110,6 +133,9 @@ settings:Bluetooth
 
 ![Adding a file type in Advanced Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-file-type-indexing-options-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  Then, click "OK" to apply and save the changes
 
  In the Advanced Indexing Options window, you can also [tell Windows Search to exclude certain file types](https://some-knowledge.techidaily.com/expert-recommended-apps-and-sites-for-photo-frames-for-2024/) from the search results.
@@ -128,6 +154,9 @@ settings:Bluetooth
 
 ![Rebuidling the index on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rebuild-index-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Click "OK" on the prompt telling you that indexing might take a long time. Now, wait for the process to finish.
 
 ---
@@ -148,3 +177,38 @@ settings:Bluetooth
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-visionmeter-recording-suite/"><u>[New] In 2024, VisionMeter Recording Suite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-sea-of-thieves-stuck-on-loading-screen/"><u>[Solved] Sea of Thieves Stuck On Loading Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-basics-of-video-clarity-and-sharpness/"><u>[Updated] Beginner's Basics of Video Clarity and Sharpness</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-slomo-videography-app-review-update/"><u>[Updated] Ultimate Guide to SloMo Videography  App Review Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-comprehensive-solutions-for-optimizing-origin-game-downloads/"><u>2024'S Comprehensive Solutions for Optimizing Origin Game Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002891938-beat-the-leaf-challenge-in-apex-legends-expert-solutions/"><u>Beat the 'Leaf' Challenge in Apex Legends - Expert Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/browser-blues-conquer-firefox-crash-problems-here/"><u>Browser Blues? Conquer Firefox Crash Problems Here</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dissecting-freecapture-a-software-review-for-2024/"><u>Dissecting FreeCapture  A Software Review for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000467260-effortless-fixes-for-common-fortnite-login-errors-get-back-in-the-game-now/"><u>Effortless Fixes for Common Fortnite Login Errors – Get Back in the Game Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gameplay-a-guide-to-addressing-the-frame-rate-slump-in-dying-light/"><u>Enhancing Your Gameplay: A Guide to Addressing the Frame Rate Slump in Dying Light</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-restoring-functionality-of-the-windows-spotlight-slide-show-in-windows-11/"><u>Expert Tips: Restoring Functionality of the Windows Spotlight Slide Show in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-gameplay-stop-age-of-empires-iv-from-freezing/"><u>Fix Your Gameplay: Stop Age of Empires IV From Freezing!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-the-202/"><u>How the 202</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012051804-how-to-solve-platinum-dust-stutter-issues-the-ultimate-fixes-guide/"><u>How To Solve 'Platinum: Dust' Stutter Issues - The Ultimate Fixes Guide!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-spark-20c-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Spark 20C Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-upward-landscapes-with-phones/"><u>In 2024, The Art of Upward Landscapes with Phones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-turnaround-overcoming-critical-startup-hurdles-this-year/"><u>Master the Art of Turnaround: Overcoming Critical Startup Hurdles This Year</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-notch-avchd-video-editing-software-our-2023-rankings/"><u>New In 2024, Top-Notch AVCHD Video Editing Software Our 2023 Rankings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996000032-overcoming-windows-10-launch-error-for-civilization-vi-solutions-inside/"><u>Overcoming Windows 10 Launch Error for Civilization VI - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-update-causes-frequent-system-crashes-solutions-and-fixes/"><u>PC Update Causes Frequent System Crashes: Solutions and Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/photograph-becomes-photographs/"><u>Photograph Becomes Photographs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-enhancements-guide-to-superior-terria-for-2024/"><u>Premium Enhancements Guide to Superior Terria for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-when-your-internet-explorer-keeps-crashing/"><u>Quick Fixes When Your Internet Explorer Keeps Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-your-failing-companys-launch-process-insights-success/"><u>Reviving Your Failing Company's Launch Process - Insights Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-gaming-problems-solved-making-titles-playable-on-a-windows-10-machine/"><u>Steam Gaming Problems Solved: Making Titles Playable on a Windows 10 Machine</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-stop-stardew-valley-from-freezing-or-crashing-pc/"><u>Step-by-Step Fix for Stop Stardew Valley From Freezing or Crashing PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-overcoming-performance-issues-in-outriders-pc-no-more-frame-drops/"><u>Step-by-Step Fixes: Overcoming Performance Issues in Outriders (PC) - No More Frame Drops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-the-d3d-initialization-error-errgfxd3dinit-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the D3D Initialization Error (ERR_GFX_D3D_INIT) in Grand Theft Auto V</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-civilization-vi-install-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Civilization VI Install Issues on Windows 10</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Compiling a Comprehensive List of Windows User Profiles with Configurations
-date: 2024-08-27 10:21:56
-updated: 2024-08-29 11:49:46
+date: 2024-08-28T05:01:39.849Z
+updated: 2024-08-29T05:01:39.849Z
 tags:
   - excel
 categories:
@@ -61,6 +61,9 @@ wmic useraccount get name,fullname
 
  In this example, you can see that the "Michelle" and "Simon" accounts do not have full names associated, but my "wjgle" account does have my full name.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Get a List of User Accounts with More Details
 
  If you'd like create a list of user accounts with a full set of account details, type the following command at the prompt and hit Enter:
@@ -69,6 +72,9 @@ wmic useraccount list full
 
 ![ual_4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That image shows just one user account from the list with all its details. You can see the user account name and full name, as well as additional details like the following:
 
 * **AccountType**. If you're on PC that is not part of a domain---which is almost certainly the case if you're on your home or small business PC---you'll always see an account type of 512\. If the PC is part of a domain, you'll see other values here that represent what type of domain account it is.
@@ -89,8 +95,14 @@ wmic useraccount get name,fullname,status
 
 ![ual_9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  So, this is all well and good if you just want to view user account information on the fly, but it becomes much more useful when you redirect the results to a text file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Redirect the Results of a Command to a File
 
  It's great being able to view a list of user account details at the Command Prompt, but the real usefulness of these commands lie in the fact that you can pipe the results straight into a file that you can then save or print. To do this with any `wmic` command, you just have to add an `/output` switch along with a path for the file directly after the `wmic` command.
@@ -103,6 +115,15 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full
 
 ![ual_6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  And if you want to get even fancier, you could also direct the output to a comma-separated value (CSV) file that could then easily be imported into a spreadsheet app or database. The trick to this is that you'll also have to add a `/format:csv` switch to the end of the command. So, for example, if you wanted to redirect the output of the same command we used above to a CSV file, you'd use something like the following command:
 
 wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
@@ -111,6 +132,9 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
 
 ![ual_7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  And if you import it into something like Microsoft Excel, you can have a nicely formatted table with little work.
 
 ![ual_8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_8.png) 
@@ -131,3 +155,40 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-pre-upload-process-on-tiktoks-copyright-policy/"><u>[New] In 2024, Master the Pre-Upload Process on TikTok's Copyright Policy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-writers-guide-to-dialogic-depth-in-screenplays/"><u>[New] The Writers' Guide to Dialogic Depth in Screenplays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-selfies-the-top-8-for-iphone/"><u>[Updated] Excellence in Selfies  The Top #8 for IPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-symphony-storage-download-and-critique-melodies/"><u>[Updated] In 2024, Symphony Storage  Download & Critique Melodies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-gameplay-quality-eliminating-delays-through-improved-high-fps-strategies/"><u>Boost Your Gameplay Quality: Eliminating Delays Through Improved High FPS Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-for-the-starfield-cpu-spike-issue-a-2024-players-handbook/"><u>Comprehensive Fixes for the Starfield CPU Spike Issue – A 2024 Player's Handbook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/demonstrate-deep-knowledge-of-product-features-and-benefits-while-offering-clear-explanations-guidance-on-how-to-access-those-features-and-helping-customers416/"><u>Demonstrate Deep Knowledge of Product Features and Benefits While Offering Clear Explanations, Guidance on How to Access Those Features, and Helping Customers Leverage Them for Their Specific Needs.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-troubleshooting-techniques-for-seamless-gameplay-fixing-titanfall-2s-crash-problems/"><u>Expert Troubleshooting Techniques for Seamless Gameplay: Fixing Titanfall 2'S Crash Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exploring-manycams-latest-video-capture-innovations-for-2024/"><u>Exploring ManyCam's Latest Video Capture Innovations for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-dragon-quest-xi-solutions-to-the-game-crash-problem/"><u>Fixing Dragon Quest XI: Solutions to the Game-Crash Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-gameplay-interruptions-solving-modern-warfares-pc-freezing-problems/"><u>Fixing Gameplay Interruptions - Solving Modern Warfare's PC Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gaming-continuity-unlocked-ultimate-tips-to-solve-deathloop-crashing-issues-on-pc/"><u>Gaming Continuity Unlocked: Ultimate Tips to Solve Deathloop Crashing Issues on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nioh-2-crashing-complete-edition/"><u>How to Fix Nioh 2 Crashing (Complete Edition)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-persistent-problems-with-ubisoft-connect-solutions-revealed/"><u>How to Fix the Persistent Problems with Ubisoft Connect - Solutions Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-unable-to-access-configuration-servers-online/"><u>How to Resolve 'Unable to Access Configuration Servers Online'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-deathloop-from-hiccuping-during-play-a-guide-for-pc-users/"><u>How to Stop Deathloop From Hiccuping During Play: A Guide for PC Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>In 2024, Best Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-direct-youtube-file-access-tips/"><u>In 2024, Direct YouTube File Access Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/madden-20-for-pc-stability-issues-heres-how-you-can-get-things-running-smoothly-again/"><u>Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-through-nvidia-geforce-error-code-0x0003-comprehensive-fixes/"><u>Navigating Through Nvidia Geforce Error Code 0X0003 - Comprehensive Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/packet-loss-troubleshooting-for-discord-proven-fixes-revealed/"><u>Packet Loss Troubleshooting for Discord – Proven Fixes Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-path-of-exile-connection-issues-with-the-2024-server-update/"><u>Resolved: How to Fix Path of Exile Connection Issues with the 2024 Server Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-tips-to-prevent-your-windows-from-freezing-ready-or-not-app-issue/"><u>Resolved: Tips to Prevent Your Windows From Freezing - 'Ready Or Not' App Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-steam-fallout-76-server-connection-issues-on-pc-a-comprehensive-guide/"><u>Resolving Steam Fallout 76 Server Connection Issues on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-assassins-creed-odyssey-pc-freeze-issues-ultimate-guide/"><u>Solving Assassin's Creed Odyssey PC Freeze Issues: Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pre-launch-problems-a-comprehensive-guide-to-playing-age-of-empires-4/"><u>Solving Pre-Launch Problems: A Comprehensive Guide to Playing Age of Empires 4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>Start Here  How to Expedite Videos in Snapchat for New Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-your-apen-legends-online-connectivity-problems/"><u>Step-by-Step Fixes for Your Apen Legends Online Connectivity Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-shortcut-for-easy-mac-screen-recording-for-2024/"><u>Step-by-Step Shortcut for Easy Mac Screen Recording for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-acer-purchases-on-prime-day-2024-unbeatable-discounts/"><u>Top Acer Purchases on Prime Day 2024: Unbeatable Discounts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-recurring-shutdowns-during-age-of-wonders-planetfall-on-pc/"><u>Troubleshooting Recurring Shutdowns During Age of Wonders: Planetfall on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>Unleashing Speed in Facebook Videos  The Best Tools and Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zooms-path-to-visual-impact-adding-video-filters-tutorial/"><u>Zoom's Path to Visual Impact  Adding Video Filters Tutorial</u></a></li>
+</ul></div>
