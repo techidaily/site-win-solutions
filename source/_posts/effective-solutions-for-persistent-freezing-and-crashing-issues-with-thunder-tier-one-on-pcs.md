@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Persistent Freezing and Crashing Issues with Thunder Tier One on PCs
-date: 2024-09-01T07:45:04.637Z
-updated: 2024-09-02T07:45:04.637Z
+date: 2024-09-05T21:03:32.241Z
+updated: 2024-09-06T21:03:32.241Z
 tags:
   - win11
   - win10
@@ -17,6 +17,18 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d7731692b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Are you suffering**Fallout 4 stuttering** issue? It’s really frustrating and annoying. But there’s no need to panic. Certainly you’re not the only one having the problem. We’ve seen many PC gamers are reporting it. Luckily, it’s usually easy to fix. Read on and see how…
 
 ## 6 fixes for Fallout 4 stuttering
@@ -58,16 +70,18 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Stop your background running programs
 
  Fallout 4 requires Internet access when running. While playing Fallout 4, if you have any other **programs running in background and they’re eating up Internet usage or taking up a lot of your system space** , Fallout 4 may stutter. So check to stop any other unnecessary background programs while you’re playing Fallout 4\. Then check if Fallout 4 runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -89,15 +103,15 @@ You can update your video driver either manually or automatically.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
@@ -111,6 +125,12 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
@@ -119,14 +139,20 @@ Launch Fallout 4 to see if it runs smoothly.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
@@ -150,6 +176,12 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -168,9 +200,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.

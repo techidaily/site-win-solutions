@@ -1,0 +1,495 @@
+---
+title: Complete Troubleshooting Steps for Godfall PC Game Freezes
+date: 2024-09-05T21:08:47.564Z
+updated: 2024-09-06T21:08:47.564Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Complete Troubleshooting Steps for Godfall PC Game Freezes
+excerpt: This Article Describes Complete Troubleshooting Steps for Godfall PC Game Freezes
+thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b18bf953373ef1ee065acd190.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users
+
+Does your FIFA 20 crash on PC so often that it is all but unplayable? If the answer is “yes,” don’t panic – you’re not alone. Although this problem can be quite tricky sometimes, there’re still a few general fixes for you to try. Now let’s dig in and see what’s what.
+
+## Check your PC specs first
+
+ First of all, check your PC specs to verify if they meet the system requirements for FIFA 20\. This is always the prerequisite act before you download and install a new game. Suppose you forget to take this step and go directly for the game, then oops – you aren’t even able to launch it! What a desperate moment. Trust me, I’ve been through this before and asked myself tons of times whether I should simply give up the game or kick that old machine to the curb and then buy a new one. Whichever way I chose, I would surely lose something important: pleasure for the former, and money for the latter.
+
+In case you don’t know how, here’s the guidance:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **dxdiag** and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
+
+ 2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
+
+ Ignore the specs listed here. This computer is not used for gaming.
+
+ 3) Go to the **Display** tab so you can view the information about your **graphics card** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 5) So this is your **screen resolution** , as illustrated in the following screenshot.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
+
+**MINIMUM REQUIREMENTS**
+
+| **Operating System**               | 64-bit Windows 7/8.1/10                |
+| ---------------------------------- | -------------------------------------- |
+| **Processor (AMD)**                | Phenom II X4 965 or Equivalent         |
+| **Processor (Intel)**              | i3-2100 or Equivalent                  |
+| **Memory**                         | 8 GB                                   |
+| **Graphics card (AMD)**            | Radeon HD 7850 or Equivalent           |
+| **Graphics card (NVIDIA)**         | GeForce GTX 660 or Equivalent          |
+| **Online Connection Requirements** | 512 KBPS or faster Internet connection |
+| **Hard-drive space**               | 50 GB                                  |
+
+**RECOMMENDED REQUIREMENTS**
+
+| **Operating System**               | 64-bit Windows 10             |
+| ---------------------------------- | ----------------------------- |
+| **Processor (AMD)**                | FX 8150 or Equivalent         |
+| **Processor (Intel)**              | i5-3550 or Equivalent         |
+| **Memory**                         | 8 GB                          |
+| **Graphics card (AMD)**            | Radeon R9 270X or Equivalent  |
+| **Graphics card (NVIDIA)**         | GeForce GTX 670 or Equivalent |
+| **Online Connection Requirements** | Broadband Connection          |
+| **Hard-drive space**               | 50 GB                         |
+
+ If you find out that your computer cannot keep up with the game, you should upgrade some components first, say replacing your graphics card with a more powerful one (based on your actual situation of course).
+
+---
+
+## 8 fixes for FIFA 20 crashing
+
+ Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
+
+**[Fix 1: Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 2: Roll back your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 3: Update Windows operating system](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 4: Change DirectX settings](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 5: Adjust settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 6: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 7: Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Fix 8: Wait for more game updates](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1:**Update your device drivers**
+
+ Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
+
+ Updating drivers can also fix**DirectX errors** in some cases.
+
+ You can do this in Windows Device Manager, one device at a time. But this takes a lot of time and patience, and if any of your drivers do happen to be out of date, you’ll need to manually update them, which is difficult and risky. If you don’t have the time, patience or computer skills to update your device drivers manually,   **you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy takes care of everything.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+ If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
+
+ If you still have random crashes with FIFA 20, you should give the next fix a try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Fix 2: Roll back your graphics card driver**
+
+ If updating drivers didn’t resolve your problem, then maybe you should roll it back to a previous version that appears more stable. Here’s how:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc** into the box and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
+
+ 3) Click**Roll Back Driver** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
+
+ 4) Choose one of the reasons based on your own situation and click **Yes** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5) Restart your computer for the changes to take effect.
+
+ Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
+
+---
+
+### Fix 3: Update Windows operating system
+
+ This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
+
+ 1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Settings** window. Then click **Updates & Security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
+
+ 3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
+
+ Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
+
+---
+
+### Fix 4: Change DirectX settings
+
+ When your FIFA 20 crashes with an error message mentioning “DirectX,” you’re most likely having a DirectX issue that requires you to change related settings of the game.
+
+1) Navigate to the game folder using the following path:
+
+ C:\Users\<username>\Documents\FIFA 20
+
+ 2) Open the**fifasetup.ini** file with Notepad or other tools alike.
+
+ 3) In the pop-up window, press**Ctrl** and**F** simultaneously on your keyboard to invoke the**Find** dialog box.
+
+ Type**DIRECTX\_SELECT = 1** and click**Find Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
+
+ 4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
+
+ Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Adjust settings in NVIDIA Control Panel
+
+ Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
+
+ 1) Right-click an empty area on your desktop to open the context menu. Then select**NVIDIA Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
+
+ 2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
+
+ On completion, click**Apply** to save the changes you’ve made.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
+
+If you continue to face the crashing problem, please move on to Fix 6.
+
+---
+
+### Fix 6: Repair corrupted system files
+
+ It’s possible that some of the system files in your PC have been damaged and hence gave rise to crashing in FIFA 20\. To check for such problems, here are at least two things you should do:
+
+1. **[Scan with System File Checker](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Scan with dism.exe](https://tools.techidaily.com/drivereasy/download/)**
+
+#### 1\. Scan with System File Checker
+
+ System File Checker (sfc) is a Windows utility that identifies and repairs corrupted system files:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) When Windows asks for permission to make changes to your device, click **Yes** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
+
+sfc /scannow
+
+ After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
+
+ If, after running sfc you still experience the crashing issue, try running dism.exe as described below.
+
+#### 2\. Scan with dism.exe
+
+ Deployment Image Servicing and Management (DISM) is an in-built Windows tool that can identify if your Windows installation is corrupt, and repair it if it is:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
+
+![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+ If prompted for consent, click **Yes** .
+
+ 2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
+
+dism.exe /online /cleanup-image /restorehealth
+
+ After that, hit **Enter** on your keyboard. Then the DISM tool will begin to scan for any problems and try to fix them.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+
+ Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
+
+---
+
+### Fix 7: Close unnecessary programs
+
+ Chances are that some of the programs running on your PC is clashing with FIFA 20\. Although this kind of software conflicts doesn’t come up very often, it’s still worth checking. For instance, you can completely shut down some overlays and then wait to see if the crashing issue reoccurs. If you did notice one or more programs that might potentially conflict with FIFA 20, uninstall them from your PC or at least try to disable them while the game is running.
+
+ You should also check the quarantine or blacklist of your antivirus in case it mistakenly classifies the game as a threat to your PC and prevents it from running properly. If your antivirus is truly the root cause, **disable it temporarily** while you’re playing FIFA 20\. However, you should be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled because your computer system is susceptible to security risks at that moment.
+
+ If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
+
+---
+
+### Fix 8: Wait for more game updates
+
+ Lastly, there’s a chance that your problem is triggered by technical issues of FIFA 20 (such as an unforeseen issue in the game’s code). In that case, you should simply wait for more game updates to fix the problem. Or you can contact **[EA](https://help.ea.com/en/contact-us/)**  (the game developer) and see if they can offer you any assistance.
+
+---
+
+ Hopefully this post helped you resolve the crashing issue in FIFA 20\. If you have any follow-up questions or ideas, please feel free to leave a comment below. You’re also welcome to share other useful solutions with us. Thanks for reading!
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [Fifa](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/the-ascent-is-now-live-overcoming-pre-launch-obstacles-explained/"><u>'The Ascent' Is Now Live: Overcoming Pre-Launch Obstacles Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-brief-steps-efficiently-archiving-gotomeeting-discussions/"><u>[New] In 2024, Brief Steps Efficiently Archiving GoToMeeting Discussions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-live-broadcasts-the-most-effective-6-microphone-selections/"><u>[New] Mastering Live Broadcasts The Most Effective 6 Microphone Selections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-cs-go-lag-quickly-and-easily/"><u>[SOLVED] | CS: GO Lag | Quickly & Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>[Updated] 2024 Approved Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>[Updated] Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-identifying-common-fb-video-shapes/"><u>[Updated] Identifying Common FB Video Shapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nine-superior-choices-for-live-streaming-now/"><u>[Updated] Nine Superior Choices for Live Streaming Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-spectacular-lg-ud88w-4k-widescreen-monitor-review/"><u>[Updated] The Spectacular LG UD88W 4K Widescreen Monitor Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>2024 Approved Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-edits-start-on-all-your-tech/"><u>2024 Approved Seamless Edits Start on All Your Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>2024 Approved Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-the-secrets-of-periscope-mastery/"><u>2024 Approved Unlocking the Secrets of Periscope Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2003-file-stellar-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2003 file | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-your-gameplay-tackling-and-correcting-centurys-age-of-ashes-pc-malfunctions/"><u>Ace Your Gameplay: Tackling and Correcting Century's 'Age of Ashes' PC Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-your-gaming-defeating-constant-crashes-in-call-of-duty-warzones-pacific-region/"><u>Ace Your Gaming: Defeating Constant Crashes in Call of Duty Warzone's Pacific Region</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/apple-devices-enthusiasts-guide-to-top-voice-recorders-for-2024/"><u>Apple Devices Enthusiast's Guide to Top Voice Recorders for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-pc-shutdowns-during-play-expert-strategies-for-a-stable-grounded-experience/"><u>Avoiding PC Shutdowns During Play: Expert Strategies for a Stable Grounded Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-4-wont-start-here-are-the-proven-solutions/"><u>Battlefield 4 Won't Start? Here Are the Proven Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006536075-beat-black-ops-cold-war-error-code-887a0005-ultimate-fix-guide-for-gamers/"><u>Beat Black Ops Cold War Error Code 887A0005 - Ultimate Fix Guide for Gamers!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-blues-with-windows-10-tackling-error-c19001e1-efficiently/"><u>Beat the Blues with Windows 10: Tackling Error C19001e1 Efficiently</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-and-your-pc-troubleshooting-high-cpu-usage-effectively/"><u>Cyberpunk 2077 and Your PC: Troubleshooting High CPU Usage Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2s-exciting-new-update-a-fresh-perspective-on-broccoli-combat/"><u>Destiny 2'S Exciting New Update: A Fresh Perspective on Broccoli Combat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fortnite-lags-expert-tips-and-solutions-for-smooth-gaming/"><u>Eliminate Fortnite Lags: Expert Tips and Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-bitstream-with-quick-fixes-for-slow-utorrent-downloads/"><u>Enhance Your Bitstream with Quick Fixes for Slow uTorrent Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-experience-fixing-hearts-of-iron-iv-system-crashes-effectively/"><u>Enhance Your Experience: Fixing Hearts of Iron IV System Crashes Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/evil-genius-2-wont-open-discover-proven-methods-to-get-it-up-and-running-again/"><u>Evil Genius 2 Won't Open? Discover Proven Methods to Get It Up and Running Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-to-solve-your-ubisoft-connect-problems-this-2astern-2024/"><u>Expert Tips and Tricks to Solve Your Ubisoft Connect Problems This 2Astern 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-svensept-pc-server-connection-fixes-get-back-online-today/"><u>Fallout ˈsɛvən'sept PC Server Connection Fixes – Get Back Online Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-audio-fixes-a-comprehensive-guide-for-a-full-sound-experience-on-pcs/"><u>Fallout 4 Audio Fixes: A Comprehensive Guide for a Full-Sound Experience on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-halted-steelseries-gg-engine-in-microsofts-operating-system/"><u>Fixing the Halted SteelSeries GG Engine in Microsoft's Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gtfo-stability-issues-heres-how-you-can-recover-smoothly/"><u>GTFO Stability Issues? Here's How You Can Recover Smoothly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-x-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone X to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-huawei-nova-y71-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Huawei Nova Y71 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-call-of-duty-warzone-from-freezing-and-crashing-on-your-computer/"><u>How to Prevent Call of Duty Warzone From Freezing and Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y36-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y36 to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-8-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 8 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone/"><u>In 2024, Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-angular-video-arrangement-on-android-devices/"><u>In 2024, Mastering Angular Video Arrangement on Android Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recorders-unite-compete/"><u>In 2024, Recorders Unite, Compete</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>In 2024, Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/inside-look-the-future-of-home-cam-recordings/"><u>Inside Look The Future of Home Cam Recordings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-launchers-error-0x803f8001-on-windows-1110-effective-fixes-and-workarounds-explained/"><u>Minecraft Launcher's Error 0X803f8001 on Windows 11/10: Effective Fixes and Workarounds Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-directx-compatibility-problems-in-fifa-20-step-by-step-tips/"><u>Overcoming DirectX Compatibility Problems in FIFA 20 - Step-by-Step Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-performance-glitches-in-grand-theft-auto-5-gta-v/"><u>Overcoming Performance Glitches in Grand Theft Auto 5 (GTA V)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-727e66ac-2024-bug-in-nba-2k24-a-step-by-step-solution-guide/"><u>Overcoming the 727E66ac -2024 Bug in NBA 2K24: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-hurdles-minecraft-setup-woes-on-windows-11-unraveled/"><u>Overcoming the Hurdles: Minecraft Setup Woes on Windows 11 Unraveled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-how-to-stop-diablo-ii-resurrected-from-crashing/"><u>Solution Guide: How To Stop Diablo II Resurrected From Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-on-hold-charge-problem-on-iphones-discover-8-effective-methods/"><u>Solving the On-Hold Charge Problem on iPhones: Discover 8 Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steady-gameplay-restored-resolving-the-persistent-crashes-in-age-of-wonders-planetfall-for-windows-pcs/"><u>Steady Gameplay Restored: Resolving the Persistent Crashes in 'Age of Wonders: Planetfall' For Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-eliminating-game-stuttering-on-your-computer/"><u>Top Strategies for Eliminating Game Stuttering on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-call-of-duty-modern-warfare-3s-framerate-problems-tips-for-smoother-gameplay/"><u>Troubleshooting Call of Duty: Modern Warfare 3'S Framerate Problems - Tips for Smoother Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-lag-issues-in-the-popular-game-outrider/"><u>Troubleshooting Common Lag Issues in the Popular Game Outrider</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-winodws-issues-with-battlenet-launcher/"><u>Troubleshooting Guide: Fixing Winodws Issues with Battle.net Launcher</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-when-mir4-keeps-freezing-or-crashing/"><u>Troubleshooting Tips for When MIR4 Keeps Freezing or Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-secrets-to-a-seamless-sea-of-thieves-launch-experience/"><u>Unlocking the Secrets to a Seamless Sea of Thieves Launch Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warcraft-online-issues-resolved-reconnect-to-battle-for-azeroth-server-now/"><u>Warcraft Online Issues Resolved - Reconnect to Battle for Azeroth Server Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+</ul></div>

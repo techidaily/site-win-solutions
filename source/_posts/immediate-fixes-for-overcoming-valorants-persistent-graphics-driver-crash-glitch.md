@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Overcoming Valorant's Persistent 'Graphics Driver Crash' Glitch
-date: 2024-09-01T07:46:38.003Z
-updated: 2024-09-02T07:46:38.003Z
+date: 2024-09-05T21:03:30.718Z
+updated: 2024-09-06T21:03:30.718Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 If you’re presented with the**Graphics Driver Crashed** error on Valorant and wonder how to fix it quickly, you’re in the right spot. No matter what graphics card (NVIDIA/AMD/Intel) you’re using, we’ve put together every possible fix for you.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -38,7 +44,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  There are two ways you can get the right drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 1 – Manually
 
@@ -50,6 +59,12 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2 – Automatically
 
  Manual updating a driver is always time-consuming. Fortunately, though, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can update the driver either with the FREE or the Pro version of Driver Easy.
@@ -62,9 +77,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
 ## Fix 2: Roll back the graphics driver
@@ -80,6 +92,12 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -91,21 +109,27 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
 
 To fix this, you can try resetting the software to default:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
@@ -126,12 +150,27 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 7: Close all background apps
 
@@ -142,7 +181,16 @@ To fix this, you can try resetting the software to default:
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 8: Turn VSync off
 
@@ -164,9 +212,6 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.

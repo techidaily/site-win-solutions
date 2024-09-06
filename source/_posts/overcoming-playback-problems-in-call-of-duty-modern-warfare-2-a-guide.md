@@ -1,7 +1,7 @@
 ---
 title: Overcoming Playback Problems in Call of Duty Modern Warfare 2 - A Guide
-date: 2024-09-01T07:44:47.721Z
-updated: 2024-09-02T07:44:47.721Z
+date: 2024-09-05T21:03:32.506Z
+updated: 2024-09-06T21:03:32.506Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/71c1b0d0d145dc4c00dc6d938d03b70bdf9ec4a87
 
 Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedented global conflict. Without a doubt, you being one of them would expect to deploy alongside your friends in a truly immersive experience. However, different kinds of issues that ruin your gaming experience occur, one of them being the game not launching. Actually, this is plaguing lots of players. So, don’t fret! In this guide, we’ll outline several methods for you to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all methods are necessary; just work your way down the list until you find the one that works.
@@ -30,6 +36,12 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -41,9 +53,21 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
@@ -60,6 +84,12 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -78,7 +108,10 @@ If this doesn’t do the trick, try the next fix below.
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Repair corrupted game files
 
@@ -100,25 +133,34 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to update your graphics driver
 
@@ -134,9 +176,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -157,22 +196,21 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Run a full system scan
 
  If none of the methods outlined above work, it’s time to make some tweaks on the system level. It’s that you need to check if you have any corrupted system files, which may be the culprit of your certain programs not functioning properly. To verify if that’s your case, you can use the**System File Checker** tool by running the sfc /scannow command. However, most of the time, it only scans major files and may miss minor issues that could also make your PC error-prone.
@@ -185,6 +223,12 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
