@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Common Frostpunk Game Crash Problems: A Comprehensive Guide"
-date: 2024-09-05T21:17:08.203Z
-updated: 2024-09-06T21:17:08.203Z
+date: 2024-09-10T12:38:12.369Z
+updated: 2024-09-11T12:38:12.369Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 **PRO TIP:** To ensure an excellent gaming experience on PC, it’s recommended to keep your device drivers up to date, especially your graphics driver. But if you don’t have the time nor patience to update the driver manually, you can download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and let it do all the work for you. (The[**Pro version**](https://tools.techidaily.com/drivereasy/download/) comes with full support and a 30-day money back guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Check the status of Epic Games server](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,12 +28,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -51,12 +39,26 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  The downtime always begins a few days before a major update. If the services for**Parties, Friends and Messaging** are under maintenance, you can just wait for the new release, or follow their[Twitter account](https://twitter.com/FortniteStatus) to get the live status of Fortnite.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Fix 2\. Submit a support ticket
 
  You may find this error code 84 annoying and want to join your friends as quickly as possible in Fortnite. If that’s your case, the quickest solution is to submit a support ticket to Epic Games.
@@ -70,12 +72,20 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -87,18 +97,20 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
@@ -107,7 +119,35 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 You can always kick unwanted guests from your lobby.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Fix 5\. Join friends using the Epic Games list
 
@@ -115,12 +155,20 @@ You can always kick unwanted guests from your lobby.
 
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Fix 6\. Reinstall the game
 
  No matter where you play the game, reinstalling the game always does the trick for a few players. Consoles and mobile devices are closed systems, meaning there aren’t many troubleshooting options to fix issues you’re having. The most common fix is to reinstall Fortnite.
