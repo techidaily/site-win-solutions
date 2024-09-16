@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Black Screen Problem When Starting Elden Ring?
-date: 2024-09-10T12:38:10.306Z
-updated: 2024-09-11T12:38:10.306Z
+date: 2024-09-13T16:41:45.557Z
+updated: 2024-09-16T17:31:14.258Z
 tags:
   - win11
   - win10
@@ -47,20 +47,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstalling your game](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the won’t launch problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -82,45 +68,12 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Change the Time & Region
 
@@ -131,18 +84,12 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
@@ -150,22 +97,23 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -207,55 +155,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Disable incompatible apps
 
@@ -263,19 +164,12 @@ OR
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Reinstall your game
 
@@ -293,8 +187,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -304,46 +196,13 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-backtrack-innovation-box/"><u>[New] 2024 Approved Backtrack Innovation Box</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-iphones-automatic-replay-feature/"><u>[New] 2024 Approved Navigating iPhone's Automatic Replay Feature</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-understanding-sns-hdr-pros-role-in-hdr-editing-for-2024/"><u>[New] Understanding SNS HDR Pro's Role in HDR Editing for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[Updated] 2024 Approved Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-download-vimeo-to-mp4-files/"><u>[Updated] 2024 Approved Step-by-Step Download Vimeo to MP4 Files</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-screen-recording-tools-face-off-summary/"><u>[Updated] In 2024, Top Screen Recording Tools Face-Off Summary</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-straightforward-stories-essence/"><u>[Updated] Straightforward Stories' Essence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-melodious-mobile-organizer-android-version/"><u>[Updated] Ultimate Melodious Mobile Organizer, Android Version</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unveiling-sms-secrets-top-whatsapp-tricks-revealed/"><u>2024 Approved Unveiling SMS Secrets Top WhatsApp Tricks Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-narzo-n55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme Narzo N55 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/alternative-methods-for-reacquiring-facebook-log-in-access/"><u>Alternative Methods for Reacquiring Facebook Log In Access</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-practices-for-live-streaming-services-and-local-channels/"><u>Best Practices for Live Streaming Services & Local Channels</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-overcoming-low-fps-and-stutter-issues-in-new-releases/"><u>Boost Your Gaming Experience: Overcoming LOW FPS & Stutter Issues in New Releases</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypass-the-warning-correcting-graphics-driver-problems-in-oculus/"><u>Bypass the Warning: Correcting Graphics Driver Problems in Oculus</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-steam-not-working-properly-and-staying-frozen/"><u>Effective Fixes for Steam Not Working Properly and Staying Frozen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-solutions-overcoming-apex-legends-game-loading-hurdles-today/"><u>Effortless Solutions: Overcoming Apex Legends Game Loading Hurdles Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-sifu-gameplay-on-pc-solutions-to-overcome-frame-drops-and-stutters/"><u>Enhancing Sifu Gameplay on PC: Solutions to Overcome Frame Drops and Stutters</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-dragon-age-origins-game-crash-issues-in-windows-11/"><u>Fixes For Dragon Age: Origins Game Crash Issues in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-the-paradox-launcher-back-to-function-a-step-by-step-guide/"><u>Getting the Paradox Launcher Back to Function: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-graphics-device-d3d-setup-issue-errgfxd3dinit-in-gta-5/"><u>How to Resolve Graphics Device D3D Setup Issue ERR_GFX_D3D_INIT in GTA 5</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-architecting-authoritative-adjuncts/"><u>In 2024, Architecting Authoritative Adjuncts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-zooid-formats-for-creation/"><u>In 2024, Excellent Zooid Formats for Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-depth-review-screenflow-full-package-for-mac-for-2024/"><u>In-Depth Review ScreenFlow Full Package for Mac for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-your-cs2-connection-effective-strategies-to-combat-latency-and-improve-ping-on-desktop-computers/"><u>Master Your CS2 Connection: Effective Strategies to Combat Latency & Improve Ping on Desktop Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-smooth-gameplay-resolve-halo-infinite-freezes-on-your-pc-using-easy-techniques/"><u>Mastering Smooth Gameplay: Resolve Halo Infinite Freezes on Your PC Using Easy Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-lag-effective-ways-to-prevent-constant-crashing-in-valheim-pc-version/"><u>No More Lag: Effective Ways to Prevent Constant Crashing in Valheim PC Version</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723013400873-overcome-lag-and-hang-ups-in-minecraft-on-personal-computers-easily/"><u>Overcome Lag and Hang-Ups in Minecraft on Personal Computers Easily!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-cyberpunk-2077-launch-hurdles-successfully/"><u>Overcoming Cyberpunk 2077 Launch Hurdles Successfully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-in-armored-core-vi-expert-strategies-to-get-fires-of-rubicon-running-smoothly/"><u>Overcoming Launch Errors in Armored Core VI: Expert Strategies to Get Fires of Rubicon Running Smoothly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-zoom-setbacks-the-5-best-fixes-to-restart-your-video-feature/"><u>Overcoming Zoom Setbacks: The 5 Best Fixes to Restart Your Video Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Xiaomi Redmi Note 13 Pro 5G.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-to-updated-nvidia-rtx-1080-drivers-enhance-gaming-on-windows-10-now/"><u>Quick Access to Updated Nvidia RTX 1080 Drivers - Enhance Gaming on Windows 10 Now!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resident-evil-village-pc-performance-issues-understanding-and-fixing-frame-rate-dips/"><u>Resident Evil Village PC Performance Issues: Understanding & Fixing Frame Rate Dips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-slowdowns-in-dying-light-gameplay/"><u>Resolved: How to Fix Slowdowns in Dying Light Gameplay</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-regular-outriders-glitches-with-easy-fixes/"><u>Resolving Regular Outriders Glitches with Easy Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/restoring-soundscape-harmony-resolving-skyrims-volume-glitches/"><u>Restoring Soundscape Harmony: Resolving Skyrim's Volume Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-gta-5-keeps-crashing/"><u>Step-by-Step Fixes for When Your GTA 5 Keeps Crashing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-ps3-recorded-experiences-for-2024/"><u>Streamlining Your PS3 Recorded Experiences for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tech-tips-for-smoothing-out-your-minecraft-pc-playtime-latest-fixes/"><u>Tech Tips for Smoothing Out Your Minecraft PC Playtime - Latest Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-indicators-your-iphone-suffered-from-liquid-damage/"><u>Top 9 Indicators Your iPhone Suffered From Liquid Damage</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-battlefield-5-pc-crashes-expert-solutions-for-smooth-gameplay/"><u>Troubleshooting Battlefield 5 PC Crashes: Expert Solutions for Smooth Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visual-snipping-strategy-in-windows-11s-photos-app/"><u>Visual Snipping Strategy in Windows 11'S Photos App</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008921378-age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevating-your-win11-capture-experience-with-top-tools-for-2024/"><u>Elevating Your Win11 Capture Experience with Top Tools for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-restoring-discord-camera-functionality/"><u>Expert Tips for Restoring Discord Camera Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fight-solitude-with-technology-leveraging-chatgpt-to-feel-less-alone/"><u>Fight Solitude with Technology: Leveraging ChatGPT to Feel Less Alone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-convert-your-srt-files-for-free-with-top-websites/"><u>In 2024, Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-a59-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo A59 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-crashes-masterful-strategies-to-smooth-out-your-diablo-immortal-experience-on-pc/"><u>Stop the Crashes: Masterful Strategies to Smooth Out Your Diablo Immortal Experience on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>Upside Down Visuals Instagram's Guide to Flipping & Sharing Videos</u></a></li>
 </ul></div>
+

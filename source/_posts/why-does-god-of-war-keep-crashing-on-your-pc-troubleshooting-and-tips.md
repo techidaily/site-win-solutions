@@ -1,7 +1,7 @@
 ---
 title: Why Does God of War Keep Crashing on Your PC? Troubleshooting & Tips
-date: 2024-09-10T12:38:12.729Z
-updated: 2024-09-11T12:38:12.729Z
+date: 2024-09-09T18:35:01.031Z
+updated: 2024-09-16T16:23:35.455Z
 tags:
   - win11
   - win10
@@ -67,36 +67,8 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-2.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -113,19 +85,18 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Verify the game files
 
@@ -137,34 +108,20 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
 2. Select **Verify files** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #### Epic Game Launcher
 
@@ -172,39 +129,19 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 2. Click **the cog icon** on the lower-right corner of Ghost Recon Breakpoint.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic.jpg)
 3. Click **Verify** to start verifying the game files.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Stop overclocking
 
@@ -274,8 +211,6 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,51 +220,19 @@ Here are the system requirements for Ghost Recon Breakpoint:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-littoral-filmmakers-script-vision/"><u>[New] Littoral Filmmaker's Script Vision</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[Updated] How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-antique-cinematography-in-the-digital-realm/"><u>[Updated] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-gain-instagram-reel-fame-emulate-top-tiktok-trends-and-insights/"><u>[Updated] In 2024, Gain Instagram Reel Fame Emulate Top TikTok Trends & Insights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification/"><u>[Updated] In 2024, Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-set-up-a-dynamic-fb-cover/"><u>[Updated] Set Up a Dynamic FB Cover</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accessing-your-favorite-games-confirming-active-status-of-xbox-live-servers/"><u>Accessing Your Favorite Games: Confirming Active Status of Xbox Live Servers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-your-game-glitches-fix-terraria-connection-problems-with-these-amazing-6-tips/"><u>Banish Your Game Glitches: Fix Terraria Connection Problems with These Amazing 6 Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-game-launch-blues-fixing-days-gone-pc-installation-problems-fixed/"><u>Beat the Game Launch Blues: Fixing 'Days Gone' PC Installation Problems [FIXED]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-and-solutions/"><u>Crusader Kings II Won't Start: Troubleshooting and Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-persistent-freezing-and-crashing-issues-with-thunder-tier-one-on-pcs/"><u>Effective Solutions for Persistent Freezing and Crashing Issues with Thunder Tier One on PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/exploring-the-factors-that-led-to-assassins-creed-valhallas-postponement-now-clarified/"><u>Exploring the Factors That Led to Assassin's Creed Valhalla's Postponement Now Clarified</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/five-proven-fixes-to-correct-your-csgo-user-logon-issues-easily/"><u>Five Proven Fixes to Correct Your CSGO User Logon Issues Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-code-vein-game-freeze-issues-effective-solutions-inside/"><u>Fixing Code Vein Game Freeze Issues: Effective Solutions Inside!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-game-crashes-in-outpost-infinity-siege-a-comprehensive-walkthrough/"><u>Fixing Game Crashes in Outpost: Infinity Siege - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-dock-connection-issues-in-windows-10-a-comprehensive-guide/"><u>Fixing Microsoft Wi-Fi Dock Connection Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-perpetual-load-solutions-for-when-minecraft-gets-stuck/"><u>Fixing the Perpetual Load: Solutions for When Minecraft Gets Stuck</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-resident-evil-5-running-again-after-pc-launch-issues/"><u>How to Get Resident Evil 5 Running Again After PC Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-initialization-glitches-in-maplestory/"><u>How to Overcome Initialization Glitches in Maplestory</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004895858-how-to-overcome-stuttering-and-latency-problems-while-playing-forza-horizon-5-solutions-unveiled/"><u>How to Overcome Stuttering & Latency Problems While Playing Forza Horizon 5 - Solutions Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11x-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo K11x Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://games-able.techidaily.com/investment-shields-for-your-2024-portable-pc/"><u>Investment Shields for Your 2024 Portable PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723005678528-la-noires-arrival-on-windows-platform-everything-you-need-to-know/"><u>L.A. Noire's Arrival on Windows Platform – Everything You Need to Know!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-prevent-video-game-crashes-on-pc-systems-tips/"><u>Mastering Stability: Prevent Video Game Crashes on PC Systems - Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-troubleshooting-of-days-gone-ensure-smooth-launch-on-pc/"><u>Mastering the Troubleshooting of 'Days Gone': Ensure Smooth Launch on PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Top Picks for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nvidia-geforce-gtx-1080-ti-review-the-graphics-card-that-takes-pc-gaming-to-new-heights/"><u>NVIDIA GeForce GTX 1080 Ti Review: The Graphics Card That Takes PC Gaming to New Heights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-initial-load-problems-in-create-your-own-urban-dream-part-ii/"><u>Overcoming Initial Load Problems in Create Your Own Urban Dream - Part II</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-oculus-graphics-card-compatibility-problems-swiftly/"><u>Overcoming Oculus Graphics Card Compatibility Problems Swiftly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-stutter-and-crash-in-ready-or-not-tips-for-pc-players/"><u>Overcoming Stutter and Crash in 'Ready or Not': Tips for PC Players</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-tips-for-optimizing-your-experience-with-robocop-rogue-city/"><u>PC Troubleshooting Tips for Optimizing Your Experience with RoboCop: Rogue City</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-kernelbasedll-errors-swiftly-and-with-minimal-hassle/"><u>Resolve KernelBase.dll Errors Swiftly and with Minimal Hassle!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-overwatch-graphic-drivers-issues-lead-to-game-malfunction/"><u>Resolved: Overwatch Graphic Drivers Issues Lead to Game Malfunction</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-to-get-outriders-running-smoothly-on-windows/"><u>Resolved! Troubleshooting Steps to Get Outriders Running Smoothly on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-cod-vanguard-error-0x00001338-comprehensive-guide-for-pc-players/"><u>Resolving CoD Vanguard Error 0X00001338: Comprehensive Guide for PC Players</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/singing-machine-sml385btbk-karaoke-review/"><u>Singing Machine SML385BTBK Karaoke Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-revive-the-unresponsive-internet-explorer-application/"><u>Steps to Revive the Unresponsive Internet Explorer Application</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tech-troubleshooting-stabilizing-ghostwire-tokyo-gameplay-on-pc-systems/"><u>Tech Troubleshooting - Stabilizing Ghostwire: Tokyo Gameplay on PC Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-destiny-2s-persistent-centipede-error-code/"><u>The Ultimate Fix for Destiny 2'S Persistent Centipede Error Code</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-nba-2k24-expert-guide-on-resolving-error-code-727e66ac-fixes-and-tips/"><u>Troubleshoot NBA 2K24: Expert Guide on Resolving Error Code 727E66ac - Fixes & Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solutions-for-dying-light-frame-rate-issues/"><u>Troubleshooting and Solutions for Dying Light Frame Rate Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723010538252-troubleshooting-r-type-final-2-crash-problems-in-pc-version-solutions-inside/"><u>Troubleshooting R-Type Final 2 Crash Problems in PC Version - Solutions Inside!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-wrath-of-the-righteous-freezing-problems-for-pc-gamers/"><u>Troubleshooting Tips - Fixing 'Wrath of the Righteous' Freezing Problems for PC Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-pc-grounding-issues-proven-strategies/"><u>Ultimate Guide to Resolving PC Grounding Issues – Proven Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/zippy-computing-discover-the-top-7-strategies-for-rapid-computer-improvement/"><u>Zippy Computing: Discover the Top 7 Strategies for Rapid Computer Improvement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] 2024 Approved Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-deep-dive-into-zdsoft-recorder-features-for-2024/"><u>[New] A Deep Dive Into ZDSoft Recorder Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers/"><u>[New] In 2024, Say Goodbye to Bloatware with These 44 Superb Android Video Reducers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>[New] In 2024, Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-sony-xperia-1-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Sony Xperia 1 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-pc-problems-a-detailed-walkthrough-for-forest-sons-crashes/"><u>Fixing Pc Problems: A Detailed Walkthrough for 'Forest Sons' Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-you-to-me-updating-your-social-network-identifier/"><u>From You to Me: Updating Your Social Network Identifier</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-edge-40-neo-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Edge 40 Neo to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-like-a-dragon-secrets-to-achieving-limitless-wealth-in-the-game/"><u>Mastering 'Like A Dragon' - Secrets to Achieving Limitless Wealth in the Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-wont-boot-on-pc-heres-how-to-fix-it-for-a-perfect-launch/"><u>Outriders Won't Boot on PC? Here's How to Fix It for a Perfect Launch!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-how-to-eliminate-stuttering-problems-in-csgo/"><u>Smooth Gaming: How to Eliminate Stuttering Problems in CS:GO</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-stop-bluestacks-crashes-using-these-quick-and-easy-methods/"><u>Troubleshoot and Stop BlueStacks Crashes Using These Quick & Easy Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-battle-against-shadowplay-recording-glitches-on-windows-computers/"><u>Winning the Battle Against Shadowplay Recording Glitches on Windows Computers</u></a></li>
 </ul></div>
+

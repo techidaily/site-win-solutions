@@ -1,7 +1,7 @@
 ---
 title: How to Resolve DirectX Errors on Anno 1800 - A Step-by-Step Solution
-date: 2024-09-10T12:38:09.187Z
-updated: 2024-09-11T12:38:09.187Z
+date: 2024-09-11T18:49:26.808Z
+updated: 2024-09-16T17:18:20.123Z
 tags:
   - win11
   - win10
@@ -18,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 Are you upset by your Logitech C920 webcam? It’s not working or no longer recognized by your computer? Don’t worry, you’re not alone. Come and read this post to fix your problem.
 
  Before trying any complicated fixes, make sure your Logitech C920 webcam is working properly. You can test it on another computer.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -53,20 +39,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -76,19 +48,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
 5. Finish the uninstall process and run the camera again. It should be working with your software.
@@ -96,6 +55,13 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 7. Then install it and reboot it to check.
 
 There’s another situation that
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Reinstall your drivers
 
@@ -109,37 +75,16 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1 – Download and install the driver manually
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 2 – Automatically update drivers
 
@@ -154,37 +99,16 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -197,20 +121,6 @@ OR
 2. Find the conflicting app and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ## Fix 5: Repair system files
 
@@ -226,19 +136,12 @@ OR
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -253,8 +156,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,43 +165,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/fixed-star-wars-battlefront-2-black-screen/"><u>[FIXED] Star Wars Battlefront 2 Black Screen</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleash-creativity-top-screencast-tools-recommended-by-experts/"><u>[New] 2024 Approved Unleash Creativity Top Screencast Tools Recommended by Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-blending-iphone-videos-a-simple-guide/"><u>[New] Blending iPhone Videos A Simple Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-8-fixes-for-firefox-not-responding-issues/"><u>[SOLVED] 8 Fixes for Firefox Not Responding Issues</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-complete-walkthrough-to-grab-youtube-playlists/"><u>[Updated] 2024 Approved Complete Walkthrough to Grab YouTube Playlists</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ideal-pairings-prime-mac-software-for-video-snatching/"><u>[Updated] 2024 Approved Ideal Pairings Prime Mac Software for Video Snatching</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>[Updated] ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-dive-into-asmr-its-positive-effects-explored/"><u>[Updated] Dive Into ASMR Its Positive Effects Explored</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypass-the-warning-correcting-graphics-driver-problems-in-oculus/"><u>Bypass the Warning: Correcting Graphics Driver Problems in Oculus</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-input-latency-solved-tips-and-tricks/"><u>Cyberpunk 2077 Input Latency Solved: Tips and Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-troubleshooting-for-apex-legends-loading-difficulties/"><u>Effortless Troubleshooting for Apex Legends Loading Difficulties</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevate-performance-and-eliminate-lags-expert-advice-for-enhancing-frames-per-second-fps-in-valorant/"><u>Elevate Performance & Eliminate Lags: Expert Advice for Enhancing Frames Per Second (FPS) in Valorant</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-guide-tackling-the-launch-failure-of-evil-genius-2-a-step-by-step-solution/"><u>Expert Guide: Tackling the Launch Failure of Evil Genius 2 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-chrome-freezing-windows-10-easily/"><u>Fix Chrome Freezing Windows 10 Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-resolve-persona-5-strikers-pc-game-crashes/"><u>Fixes and Solutions: How to Resolve Persona 5 Strikers PC Game Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-apex-legends-resolving-game-engine-glitches/"><u>Fixing Apex Legends: Resolving Game Engine Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/footwear/"><u>Footwear</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/freezing-gameplay-essential-pc-screen-snaps-for-2024/"><u>Freezing Gameplay Essential PC Screen Snaps for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-the-paradox-launcher-back-to-function-a-step-by-step-guide/"><u>Getting the Paradox Launcher Back to Function: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-black-ops-cold-war-error-code-887a0005-in-your-gameplay/"><u>How to Overcome Black Ops Cold War Error Code 887A0005 in Your Gameplay</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-repair-error-0xc19001e1-on-your-windows-10-system/"><u>How to Repair Error 0xC19001E1 on Your Windows 10 System</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-graphics-device-d3d-setup-issue-errgfxd3dinit-in-gta-5/"><u>How to Resolve Graphics Device D3D Setup Issue ERR_GFX_D3D_INIT in GTA 5</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-ensuring-accurate-iphone-photo-archive-in-snapchat/"><u>In 2024, Ensuring Accurate iPhone Photo Archive in Snapchat</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 15 Pro in the Best Ways</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-game-app-fixed-no-more-unexpected-stops-or-crashes/"><u>Modern Warfare 3 Game App Fixed: No More Unexpected Stops or Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-zoom-setbacks-the-5-best-fixes-to-restart-your-video-feature/"><u>Overcoming Zoom Setbacks: The 5 Best Fixes to Restart Your Video Feature</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-cyberpunk-2077-ignoring-graphics-card-in-windows-11-setup/"><u>Resolved: Cyberpunk 2077 Ignoring Graphics Card in Windows 11 Setup</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-regular-outriders-glitches-with-easy-fixes/"><u>Resolving Regular Outriders Glitches with Easy Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-found-for-darkened-screens-in-discord-live-sharing-scenarios/"><u>Solution Found for Darkened Screens in Discord Live Sharing Scenarios</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-fifa-22-pc-crash-problem-tips-for-a-smooth-gaming-experience/"><u>Solving the FIFA 22 PC Crash Problem: Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-top-6-solutions-when-your-steam-vr-goes-unnoticed/"><u>Solving the Mystery: Top 6 Solutions When Your Steam VR Goes Unnoticed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-gta-5-keeps-crashing/"><u>Step-by-Step Fixes for When Your GTA 5 Keeps Crashing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-packet-disruption-in-your-discord-chat-experience/"><u>Step-by-Step Guide: Resolving Packet Disruption in Your Discord Chat Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-and-tricks-for-uninterrupted-play-resolving-the-recurring-call-of-duty-mobile-warzone-20-crashes-on-pc/"><u>Tips and Tricks for Uninterrupted Play: Resolving the Recurring Call of Duty Mobile Warzone 2.0 Crashes on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-6-fixes-for-a-non-functioning-obs-microphone-a-comprehensive-guide/"><u>Top 6 Fixes for a Non-Functioning Obs Microphone : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-battlefield-5-pc-crashes-expert-solutions-for-smooth-gameplay/"><u>Troubleshooting Battlefield 5 PC Crashes: Expert Solutions for Smooth Gameplay</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-stuttering-issues-in-age-of-empires-4-a-comprehensive-approach/"><u>Troubleshooting Stuttering Issues in Age of Empires 4 - A Comprehensive Approach</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-stability-improvements-for-destiny-2s-beyond-light-on-pc/"><u>Troubleshooting Tips: Stability Improvements for Destiny 2'S Beyond Light on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-podcast-platforms-for-windows-users/"><u>[New] Excellent Podcast Platforms for Windows Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-pioneer-record-pcmac-screens-youtube-uploading-made-easy/"><u>[New] Video Pioneer Record PC/Mac Screens, YouTube Uploading Made Easy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-design-channels-get-free-visuals-now/"><u>2024 Approved Design Channels - Get Free Visuals Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>2024 Approved Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725289957048-avchdtsmovaviwmvflv/"><u>全ての形式対応動画変換手順：AVCHD、TS、MOV、AVI、WMV、FLVファイル自由操作</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerate-chrome-performance-simple-solutions-for-a-quicker-experience/"><u>Accelerate Chrome Performance: Simple Solutions for a Quicker Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-x50-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor X50 Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-youtube-playback-adjusting-speed-settings-for-2024/"><u>Optimal YouTube Playback Adjusting Speed Settings for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/premiere-pro-no-more-crashes-troubleshooting-for-windows-11-and-10-users/"><u>Premiere Pro No More Crashes - Troubleshooting for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-trick-to-prevent-crashes-when-running-no-rest-for-the-wicked-on-your-computer/"><u>The Ultimate Trick to Prevent Crashes When Running 'No Rest for the Wicked' On Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unpairing-devices-from-a-windows-10-pc-tips/"><u>Troubleshooting Steps for Unpairing Devices From a Windows 10 PC (Tips )</u></a></li>
 </ul></div>
+

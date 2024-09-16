@@ -1,7 +1,7 @@
 ---
 title: 1 Cup Buttermilk (or a Mixture of Milk and Vinegar to Substitute)
-date: 2024-09-10T12:40:29.661Z
-updated: 2024-09-11T12:40:29.661Z
+date: 2024-09-10T16:15:19.874Z
+updated: 2024-09-16T20:20:31.838Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 Released in November,**Call of Duty: Vanguard** is one of the hottest game titles for 2021\. While some players can enjoy their gameplay without any problems, others report**Fatal Error, Dev Error, or other crashing issues** that lock them out of the game. If you’ve also encountered**CoD Vanguard crashing** problem, don’t worry. It’s not too hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix CoD Vanguard Crashing
 
@@ -36,20 +33,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Repair system files
 
@@ -72,19 +55,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -103,20 +73,6 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -132,37 +88,18 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -187,24 +124,25 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-
-
+ If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
- If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -215,19 +153,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
@@ -237,20 +162,6 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Close background apps
 
@@ -274,34 +185,15 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Restart your computer.
 
@@ -317,8 +209,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -326,46 +216,16 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-budget-friendly-gopro-adds/"><u>[New] Ultimate Budget-Friendly GoPro Adds</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-art-of-steam-wallet-financing/"><u>Ace the Art of Steam Wallet Financing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clogs-and-backups/"><u>Clogs And Backups:</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-concepts-dreaming-beyond-watts/"><u>Current Concepts: Dreaming Beyond Watts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhanced-site-interactivity-with-the-power-of-cookiebot-technology/"><u>Enhanced Site Interactivity with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/essential-tips-to-stop-batman-arkham-knight-from-freezing-or-fatal-errors/"><u>Essential Tips to Stop Batman: Arkham Knight From Freezing or Fatal Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-getting-your-msi-mystic-light-functioning-again-on-a-windows-machine/"><u>Expert Advice: Getting Your MSI Mystic Light Functioning Again on a Windows Machine</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-overcome-diablo-ii-resurrected-crashing-problems-permanently/"><u>Expert Advice: Overcome Diablo II: Resurrected Crashing Problems Permanently</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-for-total-war-warhammer-ii-system-errors/"><u>Fixes and Solutions for TOTAL WAR: WARHAMMER II System Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-screen-tear-in-call-of-duty-warzone/"><u>Fixing Persistent Screen Tear in Call of Duty: Warzone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-network-lag-and-improve-performance-in-rainbow-six-siege/"><u>How to Overcome Network Lag and Improve Performance in Rainbow Six Siege</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ie-compatibility-woes-no-more-mastering-the-art-of-flawless-page-views/"><u>IE Compatibility Woes No More - Mastering the Art of Flawless Page Views</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-mobile-experiences-ios-and-androids-vr-hits/"><u>In 2024, Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-wild-west-strategies-to-fix-freezing-and-boost-performance-in-red-dead-redemption-2/"><u>Master the Wild West: Strategies to Fix Freezing and Boost Performance in Red Dead Redemption 2</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-and-overcome-solutions-for-better-gaming-on-pc-with-total-war-saga-troy/"><u>Optimize and Overcome: Solutions for Better Gaming on PC with Total War Saga: Troy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-effective-solutions-for-overcoming-game-lag/"><u>Rainbow Six Siege: Effective Solutions for Overcoming Game Lag</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-issue-streaming-troubleshooting-guide-how-to-fix-netflix-on-xbox-one/"><u>Resolved Issue: Streaming Troubleshooting Guide - How To Fix Netflix on Xbox One</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011911491-resolved-microsoft-flight-simulator-2020-update-errors-fixed/"><u>Resolved: Microsoft Flight Simulator 2020 - Update Errors Fixed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-ultimate-guide-to-fixing-the-phoenix-point-game-crashes/"><u>Resolved: Ultimate Guide to Fixing the Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/skyrims-silence-solved-tips-to-fix-your-games-audio-malfunctions/"><u>Skyrim's Silence Solved: Tips to Fix Your Game's Audio Malfunctions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-final-era-release-issues-on-pc-essential-updates-and-solutions/"><u>Solve 'Final Era' Release Issues on PC: Essential Updates & Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-2024-guide-quick-fixes-for-users-facing-issues-with-opening-battlenet/"><u>The 2024 Guide: Quick Fixes for Users Facing Issues with Opening Battle.net</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977768067-the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-blizzards-battlenet-launcher-issues-on-windows-pc/"><u>Troubleshooting Guide: How to Fix Blizzard's Battle.net Launcher Issues on Windows PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-euro-truck-simulator-2-pc-malfunctions-no-more-game-interruptions/"><u>Ultimate Fix for Euro Truck Simulator 2 PC Malfunctions: No More Game Interruptions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/whats-new-in-nvidia-graphics-driver-software-for-geforce-210-on-windows-10/"><u>What's New in NVIDIA Graphics Driver Software for GeForce 210 on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/xbox-one-streamers-rejoice-fixes-and-advice-for-restoring-netflix-functionality/"><u>Xbox One Streamers Rejoice: Fixes and Advice for Restoring Netflix Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zero-fee-techniques-for-vibrant-video-text-effects/"><u>Zero-Fee Techniques for Vibrant Video Text Effects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebooks-premier-video-extraction-tools-for-iphone-and-ipad/"><u>[New] In 2024, Facebook's Premier Video Extraction Tools for iPhone & iPad</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/"><u>2024 Approved An In-Depth Study on FFmpeg's Excellence in Original Audio Extraction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-apowersoft-screen-recording-the-ultimate-pc-guide/"><u>2024 Approved Apowersoft Screen Recording The Ultimate PC Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-create-meme-with-adobe/"><u>2024 Approved Create Meme with Adobe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-gta-5-online-game-running-smoothly-again-fixes-and-tips/"><u>Get Your GTA 5 Online Game Running Smoothly Again: Fixes & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-big-screen-at-your-fingertips-with-fb-and-twt/"><u>The Big Screen at Your Fingertips with FB & Twt</u></a></li>
 </ul></div>
-
-
-
 

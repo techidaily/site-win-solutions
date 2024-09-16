@@ -1,7 +1,7 @@
 ---
 title: How To Prevent and Resolve Frequent Crashes in Halo 3 for Windows Users
-date: 2024-09-10T12:38:10.976Z
-updated: 2024-09-11T12:38:10.976Z
+date: 2024-09-10T21:36:01.902Z
+updated: 2024-09-16T21:22:45.813Z
 tags:
   - win11
   - win10
@@ -37,25 +37,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
@@ -63,20 +44,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Edit your configuration file
 
@@ -89,51 +56,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ---
 
@@ -147,23 +74,18 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Right-click on Fallout 3.exe and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 8. Run Fallout 3 to check whether the game is running properly.
 
@@ -198,18 +120,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -220,19 +136,12 @@ OR
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -250,8 +159,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,48 +168,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid/"><u>[New] 2024 Approved Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facebooks-secrets-to-impressive-cover-video-setup/"><u>[New] Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives/"><u>[New] In 2024, Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-video-sharing-adding-imovie-clips-to-vimeo-for-2024/"><u>[New] Maximizing Video Sharing Adding iMovie Clips to Vimeo for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-orchestrating-peak-canon-temporal-scenes/"><u>[New] Orchestrating Peak Canon Temporal Scenes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-years-predictions-rendered-in-infographics/"><u>[New] The Year's Predictions Rendered in Infographics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-arcadegeddon-keeps-crashing-on-pc/"><u>[SOLVED] Arcadegeddon Keeps Crashing on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-diablo-immortal-not-launching-on-pc/"><u>[SOLVED] Diablo Immortal Not Launching on PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-master-the-art-of-zooming-in-snapchat-photos-and-videos-for-2024/"><u>[Updated] Master the Art of Zooming in Snapchat Photos & Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-prime-vocal-changer-tools-for-digital-personalities/"><u>[Updated] Prime Vocal Changer Tools for Digital Personalities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely/"><u>[Updated] Safe Audio Conversion Techniques Turning YouTube to MP3 Easily & Securely</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rise-of-a-marketer-top-5-tips-from-the-prosphere/"><u>2024 Approved Rise of a Marketer Top 5 Tips From the Prosphere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/converting-videos-with-impact-sdr-to-hdr-your-essential-guide/"><u>Converting Videos with Impact SDR to HDR - Your Essential Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-for-mass-effect-legendary-edition-boot-issues/"><u>Fixes and Solutions for Mass Effect Legendary Edition Boot Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-pc-issues-in-sons-of-the-forest-a-step-by-step-guide/"><u>Fixing PC Issues in 'Sons of the Forest' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fortnite-stutter-no-more-a-comprehensive-fix-for-lag-problems/"><u>Fortnite Stutter No More: A Comprehensive Fix for Lag Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-cyberpunk-2077-crashes-on-your-windows-pc-complete-guide/"><u>How to Fix Cyberpunk 2077 Crashes on Your Windows PC - Complete Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-logitech-c920-webcam-malfunction-quickly-and-efficiently/"><u>How to Resolve 'Logitech C920 Webcam Malfunction' Quickly and Efficiently</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X Flip Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-12-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 12 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-video-tweet-sharing-content-without-including-others-tweets/"><u>In 2024, Direct Video Tweet Sharing Content Without Including Others' Tweets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gently-unveiled-scene/"><u>In 2024, Gently Unveiled Scene</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001426007-jurassic-world-evolution-crash-troubles-discover-the-definitive-solutions-here/"><u>Jurassic World Evolution Crash Troubles? Discover the Definitive Solutions Here!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maximizing-performance-tips-for-reducing-lag-and-enhancing-fps-in-watch-dogs-legion/"><u>Maximizing Performance: Tips for Reducing Lag & Enhancing FPS in Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-the-virtual-arenas-a-comprehensive-guide-to-pc-rollers-championships-playoff/"><u>Navigating the Virtual Arenas: A Comprehensive Guide to PC Rollers Championships Playoff</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-first-person-experience-tackling-frame-rate-drops-and-ensuring-smooth-gameplay-in-shooters/"><u>Optimizing Your First-Person Experience: Tackling Frame Rate Drops & Ensuring Smooth Gameplay in Shooters</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012200398-phoenix-point-crashing-fixed-learn-the-top-tips-and-fixes-now/"><u>Phoenix Point Crashing Fixed - Learn the Top Tips and Fixes Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pioneering-a-smooth-launch-how-to-fix-your-computer-when-it-fails-at-first-boot/"><u>Pioneering a Smooth Launch: How to Fix Your Computer When It Fails at First Boot</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/resolve-chromebooks-video-issue-for-2024/"><u>Resolve Chromebook's Video Issue for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-stabilizing-hell-let-loose-on-your-pc-tips-and-tweaks/"><u>Resolved: Stabilizing Hell Let Loose on Your PC - Tips & Tweaks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-lag-and-freezing-in-fallout-76-for-a-smoother-experience/"><u>Resolving Lag and Freezing in Fallout 76 for a Smoother Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/snapsizestrategy-optimize-your-visual-content-on-ig-for-2024/"><u>SnapSizeStrategy Optimize Your Visual Content on IG for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-updating-and-downloading-the-latest-intel-optane-drivers-for-your-pcs-efficiency/"><u>Step-by-Step: Updating and Downloading the Latest Intel Optane Drivers for Your PC's Efficiency</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-techniques-to-eliminate-sims-4-slow-performance-issues-expert-advice-from-2024/"><u>Top Techniques to Eliminate Sims 4 Slow Performance Issues: Expert Advice From 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-for-resolving-frame-rate-drops-and-lag-in-fallout-76/"><u>Top Tips for Resolving Frame Rate Drops and Lag in Fallout 76</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transforming-outriders-gaming-resolve-fuzzy-graphics-for-better-playtime/"><u>Transforming Outriders Gaming: Resolve Fuzzy Graphics for Better Playtime</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trouble-final-fantasy-xiv-update-verification-process/"><u>Trouble Final Fantasy XIV Update Verification Process</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-solving-the-humankind-app-launch-issues/"><u>Troubleshooting Guide: Solving the 'Humankind' App Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-solving-the-starfield-not-starting-issue-on-steam-and-xbox/"><u>Troubleshooting Guide: Solving the 'Starfield Not Starting' Issue on Steam & Xbox</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-for-persistent-crashing-in-teardown-software-full-expert-advice/"><u>Ultimate Troubleshooting for Persistent Crashing in Teardown Software - Full Expert Advice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-civic-software-update-errors-avoiding-access-issues-s-civ-version-6/"><u>Understanding Civic Software Update Errors - Avoiding Access Issues 'S Civ Version 6</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722981989040-why-does-rogue-company-keep-freezing-on-your-computer-find-out-here/"><u>Why Does Rogue Company Keep Freezing on Your Computer? Find Out Here</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transform-vimeo-footage-into-visual-wonders-easily/"><u>[New] Transform Vimeo Footage Into Visual Wonders Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-post-a-video-between-twitter-and-tumblr/"><u>[Updated] 2024 Approved How to Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>[Updated] 2024 Approved The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-snapchat-intro-video-breakdown-size-format-duration-for-2024/"><u>[Updated] SnapChat Intro Video Breakdown Size, Format, Duration for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-bios-functionality-and-its-relation-to-revouninstaller-software/"><u>Decoding BIOS Functionality and Its Relation to RevoUninstaller Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-performance-boosted-overcoming-lag-glitches/"><u>Guilty Gear Strive Performance Boosted: Overcoming Lag Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-playstation-4-lags-a-step-by-step-troubleshooting-tutorial/"><u>How to Resolve PlayStation 4 Lags: A Step-by-Step Troubleshooting Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-edge-40-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Edge 40 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>In 2024, The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-ark-repairs-effective-solutions-to-tackle-catastrophic-errors/"><u>Mastering ARK Repairs: Effective Solutions to Tackle Catastrophic Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-connection-interrupted-expert-solutions-to-enhance-your-escape-from-tarkov-experience/"><u>Overcoming 'Connection Interrupted': Expert Solutions to Enhance Your Escape From Tarkov Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Pro Max Keeps Asking for Outlook Password</u></a></li>
 </ul></div>
+
