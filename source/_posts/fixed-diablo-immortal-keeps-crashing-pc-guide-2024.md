@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Diablo Immortal Keeps Crashing – PC Guide 2024"
-date: 2024-09-15T20:24:43.461Z
-updated: 2024-09-16T20:30:12.648Z
+date: 2024-09-15T17:27:59.529Z
+updated: 2024-09-21T20:55:34.066Z
 tags:
   - win11
   - win10
@@ -93,13 +93,6 @@ Below are the system requirements for Titanfall 2:
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Perform a Windows update
 
  The Titanfall 2 crashing issue may also be triggered by the bugs in your OS. Microsoft regularly release Windows updates to repair bugs. To fix the game crashing issue, you can try performing a Windows update. Here’s how to do it:
@@ -108,13 +101,6 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
@@ -133,6 +119,13 @@ Below are the system requirements for Titanfall 2:
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair Titanfall 2
 
@@ -153,14 +146,21 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -171,24 +171,24 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Titanfall 2
@@ -226,17 +226,21 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/achieving-higher-fps-in-new-world-a-comprehensive-guide-to-reducing-stutter/"><u>Achieving Higher FPS in New World – A Comprehensive Guide to Reducing Stutter</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-starfield-applications-spike-in-cpu-usage-with-our-latest-2024-fixes/"><u>Eliminate Starfield Application's Spike in CPU Usage with Our Latest 2024 Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-frequent-pc-crashes/"><u>Fixes & Solutions: How To Stop Valheim From Frequent PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ice-apply-cold-packs-or-ice-wrapped-in-a-cloth-for-15-20-minutes-every-hour-on-the-first-day-then-reduce-frequency-as-swelling-subsides-icing-helps-minimize400/"><u>Ice: Apply Cold Packs or Ice Wrapped in a Cloth for 15-20 Minutes Every Hour on the First Day, Then Reduce Frequency as Swelling Subsides. Icing Helps Minimize Inflammation and Numbs Pain.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-s23-fe-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy S23 FE to Protect Your Individual Information</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-secrets-to-stunning-nightscape-shots/"><u>In 2024, Secrets to Stunning Nightscape Shots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-iris-plus-graphics-655-driver-for-windows-10-11/"><u>Intel Iris Plus Graphics 655 Driver for Windows 10, 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-uninterruptible-power-solutions-find-the-ultimate-protection/"><u>Leading Uninterruptible Power Solutions: Find the Ultimate Protection</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s17t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S17t Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011317591-warfarin-is-a-well-known-example-where-genetic-testing-can-guide-dosing-to-prevent-bleeding-complications/"><u>Warfarin Is a Well-Known Example Where Genetic Testing Can Guide Dosing to Prevent Bleeding Complications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warframe-fixes-how-to-get-past-the-not-launching-error/"><u>Warframe Fixes: How To Get Past the 'Not Launching' Error</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-a15-4g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A15 4G play AVCHD mts files?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tiny-tale-telling-framework/"><u>[New] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-audio-transformation-from-instagram-visuals-mp3/"><u>[Updated] 2024 Approved Audio Transformation From Instagram Visuals (MP3)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-chuckles-and-cheers-top-tweets-saver-with-gif/"><u>[Updated] 2024 Approved Chuckles & Cheers Top Tweets Saver with GIF</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-steps-for-capturing-cs-go-sessions/"><u>[Updated] Quick Steps for Capturing CS GO Sessions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-mp3-movavi/"><u>网上免费WMV MP3转换专用 - 使用 Movavi提高效率</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-convertir-videos-en-wmv-sin-complicaciones-usando-herramientas-de-movavi/"><u>Cómo Convertir Vídeos en WMV Sin Complicaciones Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-convertirte-wav-a-mov-sin-costo-usando-el-servicio-de-movavi/"><u>Cómo Convertirte WAV a MOV Sin Costo Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/converting-wmv-files-to-mp4-format-for-free-top-online-tools-compared/"><u>Converting WMV Files to MP4 Format for Free: Top Online Tools Compared</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-audio-m4r-directamente-a-aiff-por-internet-gratuito-utilice-la-herramienta-en-linea-de-movavi/"><u>Convertir Audio M4R Directamente a AIFF Por Internet Gratuito, Utilice La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enrichir-votre-creation-video-avec-les-secrets-des-effets-imovie-une-strategie-de-marqueur-seo-optimisee/"><u>Enrichir Votre Création Vidéo Avec Les Secrets Des Effets iMovie: Une Stratégie De Marqueur SEO Optimisée</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>In 2024, From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-reno-11f-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Reno 11F 5G Is Unlocked</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cinematic-storytelling-with-fcpx-tips-and-techniques-for-stunning-videos/"><u>New In 2024, Cinematic Storytelling with FCPX Tips and Techniques for Stunning Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforming-video-content-using-movavis-vob-editor-a-step-by-estep-guide-to-editing-mergecutsplit-your-vob-files/"><u>Transforming Video Content Using Movavi's VOB Editor: A Step-by-eStep Guide to Editing (Merge/Cut/Split) Your VOB Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
 </ul></div>
 

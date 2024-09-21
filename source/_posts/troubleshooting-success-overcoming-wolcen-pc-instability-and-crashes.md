@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Success: Overcoming Wolcen PC Instability and Crashes"
-date: 2024-09-15T16:00:09.864Z
-updated: 2024-09-16T21:38:03.428Z
+date: 2024-09-16T17:30:25.265Z
+updated: 2024-09-21T17:55:08.940Z
 tags:
   - win11
   - win10
@@ -81,8 +81,23 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,19 +128,6 @@ Here’s how:
 
 If this trick doesn’t work for you, check out the next one below.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Windows updates include system stability improvements, and could very well solve the software conflicts in your system. If the last time you check for system updates feels like ages ago, definitely do it now as it might save you a lot of troubles.
@@ -137,6 +139,13 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -153,24 +162,24 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
 
  If this method doesn’t solve your case, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change in-game resolution
@@ -195,13 +204,6 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
 ### Fix 8: Run Genshin Impact on another GPU
@@ -223,13 +225,6 @@ And just for your reference, here’s my graphics settings:
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
@@ -270,17 +265,20 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/igital-splendor-on-youtube-the-hue-harmonization-way-for-2024/"><u>[New] Digital Splendor on YouTube The Hue Harmonization Way for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-gopro-hero4-black-vs-drift-ghost-s-for-2024/"><u>[New] GoPro Hero4 Black VS Drift Ghost-S for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-audio-extraction-techniques-for-instagram-media/"><u>[Updated] 2024 Approved Audio Extraction Techniques for Instagram Media</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-click-to-convert-a-guide-to-effective-social-media-sales-techniques/"><u>[Updated] From Click to Convert A Guide to Effective Social Media Sales Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-building-successful-youtube-collaborations-step-by-step/"><u>[Updated] In 2024, Building Successful YouTube Collaborations Step by Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-prompts-for-expediting-mundane-hr-tasks/"><u>5 ChatGPT Prompts for Expediting Mundane HR Tasks</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/browse-your-best-photos-in-a-premium-frame/"><u>Browse Your Best Photos in a Premium Frame</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-warzone-graphic-glitches-missing-textures-explained/"><u>Comprehensive Guide to Fixing Warzone Graphic Glitches: Missing Textures Explained</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-image-clarity-in-battlefields-cod-warzone-on-pc-expert-tips-and-tricks/"><u>Enhancing Image Clarity in Battlefield's COD: Warzone on PC – Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-intel-device-manager-not-responding-correctly/"><u>Troubleshooting Guide: Intel Device Manager Not Responding Correctly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-issues-with-game-final-release/"><u>Ultimate Guide: Resolving Issues with Game Final Release</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-focus-on-the-details-with-videoleaps-zooming-feature/"><u>[New] Focus on the Details with Videoleap's Zooming Feature</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[New] In 2024, Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-unravel-the-mystery-experience-reversed-sounds-using-movavis-innovative-software/"><u>1. Unravel the Mystery: Experience Reversed Sounds Using Movavi's Innovative Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swf-webm-movavi/"><u>在線 SWF 至 WEBM 無償換算 - 來自 Movavi 的最新轉換工具</u></a></li>
+<li><a href="https://driver-error.techidaily.com/car-unloadable-due-to-device-limitation/"><u>Car Unloadable Due to Device Limitation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/free-online-converter-convert-mod-to-avi-with-moveavi/"><u>Free Online Converter: Convert MOD to AVI with MoveAVI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-konvertereen-van-asf-naar-mov-online-aanwijvingstips-en-moovavi/"><u>Gratis Konvertereen Van ASF Naar MOV Online: Aanwijvingstips en - Moovavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-conversor-de-midia-vob-para-wma-online-utilizando-o-movavi/"><u>Gratuito Conversor De Mídia VOB Para WMA Online: Utilizando O Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-v30-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo V30 Data? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-thinkpad-t450-driver-download-simple-steps-for-fast-installation/"><u>Lenovo ThinkPad T450 Driver Download: Simple Steps for Fast Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-omawav/"><u>Movavi 自動翻譯 OMA到WAV：完美無失真的免費線上音頻轉換工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/passa-da-pcx-a-png-senza-problemi-il-metodo-facile-e-gratuito-di-movavi-per-la-conversione-delle-immagini/"><u>Passa Da PCX a PNG Senza Problemi: Il Metodo Facile E Gratuito Di Movavi per La Conversione Delle Immagini</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformacion-gratuita-de-archivos-flv-a-wav-online-con-movavi/"><u>Transformación Gratuita De Archivos FLV a WAV Online Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-hd-studio-pro-top-tier-no-cost-software-for-dvd-decryption-and-high-definition-video-editing/"><u>WinX HD Studio Pro: Top-Tier, No Cost Software for DVD Decryption and High Definition Video Editing</u></a></li>
 </ul></div>
 

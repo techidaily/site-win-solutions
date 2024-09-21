@@ -1,7 +1,7 @@
 ---
 title: "LS-0013 Glitch Resolved: Overcoming Fortnite's Unreliable Launch Issues"
-date: 2024-09-13T21:50:47.739Z
-updated: 2024-09-16T21:03:19.112Z
+date: 2024-09-17T19:26:54.899Z
+updated: 2024-09-21T20:27:23.664Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ By checking your system specs, just follow the instructions below:
 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics drivers
 
  The manufacturer of your graphics card keeps releasing updates for the drivers. To get them, you need to go to the official website, find the drivers that are compatible with your PC, and install them on your own.
@@ -79,10 +86,10 @@ By checking your system specs, just follow the instructions below:
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics drivers (recommended)
@@ -110,6 +117,13 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -117,13 +131,6 @@ OR
  1) Right-click on the Steam icon on your desktop and select**Open file location** .
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
@@ -135,16 +142,16 @@ OR
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -154,13 +161,6 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
@@ -168,13 +168,6 @@ OR
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
 
@@ -187,6 +180,13 @@ OR
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When the window pops up, type**autoconfig** and click**OK** .
 
@@ -224,21 +224,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-engagement-amplify-audience-youtube-marketing/"><u>[New] 2024 Approved Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-composers-guide-to-creating-youtube-music-cohorts/"><u>[New] The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-a-seamless-cross-share-experience-with-fb-and-igtv/"><u>[Updated] In 2024, Crafting a Seamless Cross-Share Experience with FB & IGTV</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-smart-strategies-for-itunes-video-logging/"><u>[Updated] The Smart Strategies for iTunes Video Logging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>2024 Approved Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cs2-gaming-stability-issues-permanent-fixes-for-pc-crashes-in-the-new-year-of-2024/"><u>CS2 Gaming Stability Issues: Permanent Fixes for PC Crashes in the New Year of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diablo-immortals-launch-stagnation-what-gamers-need-to-know-about-its-absence-from-pc-platforms/"><u>Diablo Immortal's Launch Stagnation - What Gamers Need to Know About Its Absence From PC Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-track-solutions-skyrocket-your-dayz-frames-per-second-with-no-hassle/"><u>Fast Track Solutions: Skyrocket Your DayZ Frames Per Second with No Hassle!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-your-post-with-three-video-border-methods/"><u>In 2024, Boost Your Post with Three Video Border Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-play-8t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Play 8T Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-asus-support-free-download-for-xonar-dgx-controller-software-update/"><u>Official ASUS Support - Free Download for Xonar DGX Controller Software Update</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/preventing-recurring-crashes-in-minecraft-dungeons-on-windows-or-mac/"><u>Preventing Recurring Crashes in Minecraft Dungeons on Windows or Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-continuous-blender-software-freezing-problems-in-5-easy-steps/"><u>Resolving Continuous Blender Software Freezing Problems in 5 Easy Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-enshrouded-pc-crashing-with-our-easy-fix/"><u>Say Goodbye to Enshrouded PC Crashing with Our Easy Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/six-proven-strategies-to-fix-recurring-crashes-in-minecraft/"><u>Six Proven Strategies to Fix Recurring Crashes in Minecraft</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003209149-total-war-three-kingdoms-stability-improvements-no-more-crashes/"><u>Total War: Three Kingdoms Stability Improvements - No More Crashes!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-social-media-landscape-facebook-daily-use/"><u>[New] Navigating Social Media Landscape Facebook Daily Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remium-watchlists-highest-youtube-movie-selections/"><u>[New] Premium Watchlists Highest YouTube Movie Selections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023s-top-no-cost-fb-photo-and-video-crafting/"><u>2024 Approved 2023'S Top No-Cost FB Photo & Video Crafting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-perfeita-de-audio-para-formato-wav-ferramenta-simples-e-pratica/"><u>Conversão Perfeita De Audio Para Formato WAV - Ferramenta Simples E Prática</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-trailers-soundtrack-a-guide/"><u>Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-mp4-file-conversion-from-wtv-with-movavi-download-the-free-tool-now/"><u>Easy MP4 File Conversion From WTV with Movavi - Download the Free Tool Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-facile-comment-transformer-un-mp4-en-m4b-sans-frais-grace-a-movavi-tous-les-coups-justes-pour-la-lecture-hors-ligne/"><u>Guide Facile : Comment Transformer Un MP4 en M4B Sans Frais Grâce À Movavi, Tous Les Coups Justes Pour La Lecture Hors Ligne !</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-yuva-3-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Yuva 3 FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-edge-1-ranked-4k-gaming-pcs/"><u>In 2024, Leading Edge #1 Ranked 4K Gaming PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-solutions-discover-who-we-are/"><u>Movavi Solutions - Discover Who We Are</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-image-spinner-tricks-the-ultimate-guide-to-effortlessly-rotating-images/"><u>Simple Image Spinner Tricks: The Ultimate Guide to Effortlessly Rotating Images</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-the-top-12-mp4-player-apps-for-windows-1187-users-and-mac-enthusiasts/"><u>The Ultimate Guide to the Top 12 MP4 Player Apps for Windows 11/8/7 Users and Mac Enthusiasts</u></a></li>
 </ul></div>
 

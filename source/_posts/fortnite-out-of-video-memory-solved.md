@@ -1,7 +1,7 @@
 ---
 title: Fortnite Out of Video Memory [SOLVED]
-date: 2024-09-15T16:40:11.416Z
-updated: 2024-09-16T20:01:46.585Z
+date: 2024-09-17T16:53:12.051Z
+updated: 2024-09-21T17:51:35.152Z
 tags:
   - win11
   - win10
@@ -87,14 +87,21 @@ See if you can log in or not. if not, try the next fix, below.
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
@@ -123,10 +130,10 @@ See if you can log in or not. if not, try the next fix, below.
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
@@ -151,29 +158,16 @@ See if you can log in or not. if not, try the next fix, below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -219,6 +213,13 @@ See if you can log in or not. if not, try the next fix, below.
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
@@ -233,13 +234,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -264,20 +258,20 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>[New] 2024 Approved Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-steps-to-curate-youtube-music-selections/"><u>[New] In 2024, Essential Steps to Curate YouTube Music Selections</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-intuitive-mac-videographer-plus-voice-support/"><u>[New] Intuitive Mac Videographer + Voice Support</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] 2024 Approved Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-wizardry-secrets-revealed-for-2024/"><u>[Updated] Instagram Story Wizardry Secrets Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-swift-guide-to-validate-your-tiktok-age/"><u>2024 Approved The Swift Guide to Validate Your TikTok Age</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-game-crashes-tips-to-keep-your-v-rising-stable-on-pc/"><u>Banish Game Crashes: Tips to Keep Your 'V-Rising' Stable on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-davinci-resolve-launch-failures-in-windows-expert-strategies-to-restore-functionality/"><u>Fixing DaVinci Resolve Launch Failures in Windows - Expert Strategies to Restore Functionality</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-excessive-cpu-usage-during-your-god-of-war-adventures/"><u>Fixing Excessive CPU Usage During Your God of War Adventures</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v27-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V27? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-starcraft-2-windows-launcher-crashes-for-a-smooth-gaming-experience/"><u>How to Resolve Starcraft 2 Windows Launcher Crashes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ls-0013-glitch-resolved-overcoming-fortnites-unreliable-launch-issues/"><u>LS-0013 Glitch Resolved: Overcoming Fortnite's Unreliable Launch Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-innovative-hdr-portrait-techniques-for-2024/"><u>Pushing Boundaries Innovative HDR Portrait Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-puzzle-how-cyberpunk-2nk7s-ice-age-has-melted-away/"><u>Solving the Puzzle: How Cyberpunk 2Nk7's Ice Age Has Melted Away</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channels-ranking-simple-strategies-unveiled-for-2024/"><u>[New] Elevating Your Channel's Ranking Simple Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[Updated] 2024 Approved Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>[Updated] Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726223795218-m4a-wma-movavi/"><u>免付費在線 M4A WMA格式切換 - 利用Movavi 電子化工具快速轉檔</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-online-resources-to-get-premium-voiceover-enhancements-at-no-cost-for-video-projects/"><u>Best Online Resources to Get Premium Voiceover Enhancements at No Cost for Video Projects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-video-convertissez-votre-fichier-avi-en-mp4-sans-frais-a-laide-de-moovavi/"><u>Conversion Vidéo: Convertissez Votre FICHIER AVI en MP4 Sans Frais À L'Aide De Moovavi!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertisseur-video-enligne-transformer-votre-fichier-aifc-en-aiff-sans-cout-movavi/"><u>Convertisseur Vidéo Enligne : Transformer Votre Fichier AIFC en AIFF Sans Coût – Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-successful-gaming-with-steam/"><u>Decoding the Secrets of Successful Gaming with Steam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuita-de-mp3-online-desde-archivos-mpg-con-convertidor-gratuitos/"><u>Descargas Gratuita De MP3 Online Desde Archivos MPG Con Convertidor Gratuitos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-best-gratis-digital-presentation-platforms-of-2024-software-and-applications-list/"><u>Discover the Best Gratis Digital Presentation Platforms of 2024 - Software and Applications List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ngs-analysis-youtube-views-vs-financial-gain/"><u>Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-webmp4/"><u>Movavi: シェアフリーWeb上の動画MP4への変換ツール</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-network-communication-issue/"><u>Repaired Network Communication Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-note-13-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi Note 13 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
 

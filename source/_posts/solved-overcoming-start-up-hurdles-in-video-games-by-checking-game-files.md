@@ -1,7 +1,7 @@
 ---
 title: Solved! Overcoming Start-Up Hurdles in Video Games by Checking Game Files
-date: 2024-09-09T16:47:43.271Z
-updated: 2024-09-16T16:13:48.567Z
+date: 2024-09-17T16:17:05.047Z
+updated: 2024-09-21T16:09:37.179Z
 tags:
   - win11
   - win10
@@ -100,19 +100,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -124,13 +111,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
@@ -153,22 +133,29 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -178,28 +165,29 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -229,21 +217,18 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-download-dos-and-donts-for-vrecorder/"><u>[New] Download Dos & Don’ts for VRecorder</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>[New] Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/advanced-fixes-to-overcome-lag-in-the-sims-4-on-pc-updated-guide-for-gamers/"><u>Advanced Fixes to Overcome Lag in The Sims 4 on PC - Updated Guide for Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-directx-error-troubles-on-cod-mw2-platform/"><u>Comprehensive Solutions for DirectX Error Troubles on CoD MW2 Platform</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decode-and-defuse-tfla0002-effective-strategies-for-your-finals-crisis/"><u>Decode and Defuse TFLA0002: Effective Strategies for Your Finals Crisis</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/escape-frustrating-lag-expert-fixes-for-assassins-creed-valhalla/"><u>Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 11 Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/live-video-responses-on-twitter-your-ultimate-how-to-manual-for-2024/"><u>Live Video Responses on Twitter Your Ultimate How-To Manual for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-avoid-crashes-and-get-the-most-out-of-deathloop-on-windows/"><u>Mastering Stability: Avoid Crashes and Get the Most Out of Deathloop on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rediscover-fun-in-gaming-fix-your-red-dead-redemption-2-startup-issues-today/"><u>Rediscover Fun in Gaming - Fix Your Red Dead Redemption 2 Startup Issues Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-mfc42dll-file-not-foundmissing-issue/"><u>Resolving the mfc42.dll File Not Found/Missing Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-for-the-world-of-warcraft-not-initializing-properly-on-your-desktop/"><u>Solutions for the World of Warcraft Not Initializing Properly on Your Desktop</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-razr-40-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Razr 40 Ultra FRP Bypass</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-zooid-design-starter-packs-for-2024/"><u>Ultimate Zooid Design Starter Packs for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1714946544995-updated-2024-approved-sound-effects-for-podcasts-11-places-to-find-them/"><u>Updated 2024 Approved Sound Effects for Podcasts 11 Places To Find Them</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/anaging-a-day-job-and-your-thriving-youtube-channel/"><u>[New] Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-instagrams-reel-arena-with-precision-for-2024/"><u>[Updated] Navigating Instagram's Reel Arena with Precision for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>2024 Approved Captivating Movement A Guide to Perfect Canon Timelapses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726220707697-m2ts-movavi/"><u>網上免費M2TS格式轉換工具 – Movavi的解決方案</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/202-cups-and-saucers-white/"><u>终极202 Cups and Saucers (White)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ices-navigational-guide-on-youtube-channel-creation-and-making-dough/"><u>A Novice's Navigational Guide on YouTube Channel Creation and Making Dough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-step-by-step-guide-to-recover-lost-contacts-from-your-iphone/"><u>A Step-by-Step Guide to Recover Lost Contacts From Your iPhone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-konverteren-van-aif-naar-wav-professioneel-online-tool-movavi/"><u>Gratis Konverteren Van AIF Naar WAV - Professioneel Online-Tool Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-article-for-keeping-your-lcdled-tv-spotless-and-clear/"><u>The Ultimate How-To Article for Keeping Your LCD/LED TV Spotless and Clear</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforma-tus-archivos-m4b-gratuitamente-al-formato-de-linea-con-el-innovador-software-en-linea-de-movavi/"><u>Transforma Tus Archivos M4b Gratuitamente Al Formato De Línea Con El Innovador Software en Línea De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726218701467-movavi/"><u>크레임의 제공 쿠폰에 대해 Movavi - 최선의 사용 가이드</u></a></li>
 </ul></div>
 

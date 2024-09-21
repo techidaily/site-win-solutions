@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Ending Gameplay Disruptions & Stability Problems with Nioh 2 (Complete Version)"
-date: 2024-09-12T16:55:55.284Z
-updated: 2024-09-16T21:42:35.212Z
+date: 2024-09-18T18:25:47.621Z
+updated: 2024-09-21T20:57:16.855Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
@@ -90,19 +83,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
@@ -114,19 +94,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable hardware encoding
 
  Hardware encoding is that it reduces the load on your CPU by using a purpose-built piece of hardware. It’s enabled by default to give you the maximum performance. But there is a possibility that it hinders your Remote Play from functioning properly. So you and your friends should disable it from the Steam client. To do this, follow the instructions below:
@@ -135,16 +102,16 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
@@ -166,6 +133,13 @@ Now try reconnecting your device to check if the issue persists.
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
@@ -186,6 +160,13 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -196,10 +177,10 @@ To set a static IP address, you can:
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
@@ -209,6 +190,13 @@ To set a static IP address, you can:
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To check them, you can:
 
@@ -255,12 +243,19 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Note 30 VIP Racing Edition to iPhone | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keeping-intel-gpus-updated-on-windows-platform/"><u>Keeping Intel GPUs Updated on Windows Platform</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/professional-strategies-boosting-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boosting Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-stop-dread-hunger-from-continuously-crashing-on-pcs/"><u>Resolved: How to Stop 'Dread Hunger' From Continuously Crashing on PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-frame-rate-drops-and-stutters-in-call-of-dutys-modern-warfare-3-for-a-smoother-gameplay/"><u>Understanding Frame Rate Drops & Stutters in Call of Duty's Modern Warfare 3 for a Smoother Gameplay</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-next-level-techniques-outperforming-fbx-recording/"><u>[New] Next-Level Techniques Outperforming FBX Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quick-start-using-ez-grabber-effectively/"><u>[Updated] 2024 Approved Quick Start Using EZ Grabber Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nsv-mpeg-movavi/"><u>網路直接無條件 NSV 到 MPEG 轉換 - Movavi 工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertisseur-video-enligne-transformer-votre-fichier-aifc-en-aiff-sans-cout-movavi/"><u>Convertisseur Vidéo Enligne : Transformer Votre Fichier AIFC en AIFF Sans Coût – Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-error-shell32dll-file-not-located-in-windows-os/"><u>Fixing the Error: 'Shell32.dll File Not Located' In Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-toda-a-video-em-mp4-gratuita-com-o-movavi/"><u>FREE Online Converter - Transform Toda a Vídeo Em MP4 Gratuita Com O Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-webinar-recording-techniques-compatible-with-all-devices-a-comprehensive-guide-by-movavi/"><u>Free Webinar Recording Techniques: Compatible with All Devices - A Comprehensive Guide by Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-merging-yt-chorus-with-visual-storytelling/"><u>In 2024, Merging YT Chorus with Visual Storytelling</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-up-your-game-a-meticulous-breakdown-of-the-oculus-quest-2s-stylish-and-functional-elite-armband-with-secure-case-combo/"><u>Step Up Your Game: A Meticulous Breakdown of the Oculus Quest 2’S Stylish and Functional Elite Armband with Secure Case Combo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-smartphone-lenses-and-gimbals-for-dynamic-videography-for-2024/"><u>Top 9 Smartphone Lenses & Gimbals for Dynamic Videography for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-videos-with-movavi-mac-converter-best-app-for-quick-and-smooth-video-format-changes/"><u>Transform Your Videos with Movavi Mac Converter - Best App for Quick and Smooth Video Format Changes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-archivos-de-video-m4v-a-formato-m4a-gratuito-guia-con-movavi/"><u>Transformar Archivos De Vídeo M4V a Formato M4A Gratuito: Guía Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/young-pilots-guide-the-best-drones-of-all-time/"><u>Young Pilots' Guide The Best Drones of All Time</u></a></li>
 </ul></div>
 

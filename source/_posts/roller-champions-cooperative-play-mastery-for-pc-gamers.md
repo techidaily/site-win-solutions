@@ -1,7 +1,7 @@
 ---
 title: Roller Champions Cooperative Play Mastery for PC Gamers
-date: 2024-09-11T17:43:13.189Z
-updated: 2024-09-16T21:54:06.260Z
+date: 2024-09-17T19:32:06.829Z
+updated: 2024-09-21T20:01:12.106Z
 tags:
   - win11
   - win10
@@ -79,28 +79,21 @@ If this doesn’t fix the issue, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and start God of War.
 
  If the latest graphics driver doesn’t stop the crash, simply try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Make sure Windows is up to date**
 
@@ -113,16 +106,10 @@ Here’s how:
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
@@ -142,10 +129,10 @@ Here’s how to increase the virtual memory of Windows:
 2. Under the**Performance** section, click**Settings…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
@@ -155,6 +142,14 @@ Here’s how to increase the virtual memory of Windows:
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select**Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter**Initial size** and**Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the**Initial size** for me here is**8 x 1024 x 1.5 = 12288 MB** , and the**Maximum size** should be**8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click**Set** , then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
 
@@ -172,6 +167,13 @@ If God of War crashes at the same spot, you can try the next method.
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If these tunings don’t seem to help, take a look at the next solution.
 
 ### Fix 7: Check if your system is corrupted
@@ -186,19 +188,6 @@ If God of War crashes at the same spot, you can try the next method.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -221,16 +210,20 @@ If God of War crashes at the same spot, you can try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ispring-screen-recorder-review-for-2024/"><u>[New] ISpring Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-basic-blueprint-for-win-based-fishy-vocal-shifts/"><u>[New] The Basic Blueprint for Win-Based Fishy Vocal Shifts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-subrip-file-creation-from-compressed-archives/"><u>2024 Approved SubRip File Creation From Compressed Archives</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-or-cut-short-a-comprehensive-review-of-the-genius-widecam-f100-pixelated-images-and-sound-quality-insights/"><u>Cutting Edge or Cut Short? A Comprehensive Review of the Genius WideCam F100 - Pixelated Images & Sound Quality Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/football-manager-2021-launch-failures-effective-solutions-to-fix-stuck-screen-issues-quickly/"><u>Football Manager 2021 Launch Failures – Effective Solutions to Fix Stuck Screen Issues Quickly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g24-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G24 FRP Locks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-successfully-tackle-and-fix-cyberpunk-2077s-persistent-black-screen-problem/"><u>How to Successfully Tackle and Fix Cyberpunk 2077'S Persistent Black Screen Problem</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-the-best-video-editing-apps/"><u>New 2024 Approved Unleash Your Creativity The Best Video Editing Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-strategies-for-fixing-launch-problems-with-hogwarts-legacy-game-in-202email-protected/"><u>New Strategies for Fixing Launch Problems with 'Hogwarts Legacy' Game in 202([Email Protected])</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-graphics-card-errors-a-fix-for-oculus-user-experience/"><u>Resolving Graphics Card Errors - A Fix for Oculus User Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-notorious-fortnite-freeze-issue-essential-hacks-for-gamers-in-202/"><u>Resolving the Notorious Fortnite Freeze Issue: Essential Hacks for Gamers in 202</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-engaging-oratory-insights-part-8/"><u>[New] 2024 Approved Engaging Oratory Insights Part 8</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-direct-capture-tool-for-chrome-systems/"><u>[New] In 2024, Direct Capture Tool for Chrome Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevate-your-feed-quality-with-these-tags/"><u>[New] In 2024, Elevate Your Feed Quality with These Tags</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-live-stream-facebook-from-pc-mac-or-laptop-with-obs/"><u>[New] In 2024, How to Live Stream Facebook From PC, Mac or Laptop with OBS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-gear-to-enhance-yi-4k-cinematography/"><u>[Updated] Essential Gear to Enhance YI 4K Cinematography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228117308-mp3flac-movavi/"><u>網路直通：免費MP3到FLAC無條件轉化 - Movavi的選項</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-instructions-for-amd-radeon-r9-series-driver-updates-on-windows-pcs/"><u>Easy Installation Instructions for AMD Radeon R9 Series Driver Updates on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-coredll-not-found-problem/"><u>Expert Advice on Correcting Core.dll Not Found Problem</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-rw2/"><u>Movavi 라이브가 제공하는 RW2 개선 기술 – 페이스무비지 원하세요: 모노터 무료 대상!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reliable-movavi-multimedia-software-your-trusted-digital-solution/"><u>Reliable Movavi Multimedia Software - Your Trusted Digital Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-9-online-anniversary-video-makers-who-are-the-best/"><u>Top 9 Online Anniversary Video Makers : Who Are the Best?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-un-fichier-f4v-en-format-mp4-gratuitement-guide-complet-avec-movavi/"><u>Transformer Facilement Un Fichier .f4v en Format MP4 Gratuitement - Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-changer-un-fichier-m4v-en-format-flash-swf-gratuitement-sur-internet-video-de-movavi/"><u>Tutorial: Changer Un Fichier M4V en Format Flash (SWF) Gratuitement Sur Internet - Vidéo De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m1v-mpeg/"><u>오늘날의 가장 유용한 방법: 원격으로 M1V MPEG 비교를 무료으로 만들어</u></a></li>
 </ul></div>
 

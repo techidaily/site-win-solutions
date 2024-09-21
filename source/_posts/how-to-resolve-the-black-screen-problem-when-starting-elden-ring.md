@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Black Screen Problem When Starting Elden Ring?
-date: 2024-09-13T16:41:45.557Z
-updated: 2024-09-16T17:31:14.258Z
+date: 2024-09-18T18:52:04.844Z
+updated: 2024-09-21T18:55:03.716Z
 tags:
   - win11
   - win10
@@ -85,10 +85,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Open the**Set time automatically** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
@@ -98,22 +98,15 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 5. Reboot your PC
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -123,6 +116,14 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
 
@@ -158,18 +159,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable incompatible apps
 
  Third-party applications might be the reason won’t launch issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game
 
@@ -196,13 +197,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/1723008921378-age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elevating-your-win11-capture-experience-with-top-tools-for-2024/"><u>Elevating Your Win11 Capture Experience with Top Tools for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-restoring-discord-camera-functionality/"><u>Expert Tips for Restoring Discord Camera Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fight-solitude-with-technology-leveraging-chatgpt-to-feel-less-alone/"><u>Fight Solitude with Technology: Leveraging ChatGPT to Feel Less Alone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-convert-your-srt-files-for-free-with-top-websites/"><u>In 2024, Convert Your SRT Files for FREE with Top Websites</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-a59-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo A59 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-the-crashes-masterful-strategies-to-smooth-out-your-diablo-immortal-experience-on-pc/"><u>Stop the Crashes: Masterful Strategies to Smooth Out Your Diablo Immortal Experience on PC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>Upside Down Visuals Instagram's Guide to Flipping & Sharing Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-device-capture-to-viral-content-youtubes-upload-guide-for-2024/"><u>[New] From Device Capture to Viral Content YouTube's Upload Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>[Updated] 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos-for-2024/"><u>[Updated] Elevate Viewer Connection Mastering the Art of Square Footage in Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[Updated] Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>2024 Approved Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5lqg6kej5zkm5zwf5yuv5oiq5yqf55qe5yip55uf6kgm6yq3562w55wl/"><u>了解和啟動成功的利盟行銷策略</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descubre-al-equipo-experto-que-maneja-el-contenido-multimedia-con-movavi/"><u>Descubre Al Equipo Experto Que Maneja El Contenido Multimedia Con Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-converter-van-ppm-naar-gif-efficient-en-gemakkelijk-met-movavi-online/"><u>Gratis Converter Van PPM Naar GIF - Efficiënt en Gemakkelijk Met Movavi Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-online-converter-gsm-naar-wav-aanvulling-movavi/"><u>Gratuit Online Converter: GSM Naar WAV-Aanvulling - Movavi</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-gopro-quik-is-it-the-best-video-editor-for-your-pc-plus-alternatives/"><u>New In 2024, GoPro Quik Is It the Best Video Editor for Your PC? (Plus Alternatives)</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-6-best-online-retailers-for-tvs/"><u>The 6 Best Online Retailers for TVs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-15-piu-visti-estraenti-video-su-reddit/"><u>Top 15 Più Visti Estraenti Video Su Reddit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-votre-fichier-wmv-en-fichier-ogg-gratuitement-sur-internet-methode-de-movavi/"><u>Transformez Votre Fichier WMV en Fichier OGG Gratuitement Sur Internet - Méthode De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-list-of-best-free-windows-seven-compatible-video-editors-no-cost-all-features/"><u>Ultimate List of Best Free Windows ˈseven-Compatible Video Editors - No Cost, All Features!</u></a></li>
 </ul></div>
 

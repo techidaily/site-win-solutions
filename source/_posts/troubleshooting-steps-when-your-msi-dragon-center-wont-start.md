@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your MSI Dragon Center Won't Start
-date: 2024-09-10T16:01:28.043Z
-updated: 2024-09-16T16:08:38.676Z
+date: 2024-09-18T19:11:33.994Z
+updated: 2024-09-21T16:28:55.942Z
 tags:
   - win11
   - win10
@@ -83,15 +83,22 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
@@ -126,10 +133,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
@@ -162,13 +169,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
@@ -191,13 +191,6 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -228,6 +221,13 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -263,16 +263,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
@@ -307,20 +307,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[New] In 2024, Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[New] In 2024, Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-copy-of-cyberpunk-2077-running-overcoming-initial-launch-hurdles/"><u>Get Your Copy of Cyberpunk 2077 Running: Overcoming Initial Launch Hurdles</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oneplus-ace-2v-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on OnePlus Ace 2V Quickly? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-use-video-titles-and-youtube-tags/"><u>In 2024, How to Use Video Titles and YouTube Tags?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-nord-n30-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Nord N30 5G FRP Without Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-errors-how-to-fix-closure-issues-successfully/"><u>Resolving GeForce Experience Errors: How to Fix Closure Issues Successfully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/speedy-solutions-boost-your-elden-ring-gameplay-with-these-fast-fixes-for-fps-dips/"><u>Speedy Solutions: Boost Your Elden Ring Gameplay with These Fast-Fixes for FPS Dips!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-blend-of-aesthetics-and-efficiency-in-lamicalls-tablet-stand-our-detailed-review/"><u>The Blend of Aesthetics & Efficiency in Lamicall's Tablet Stand – Our Detailed Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-to-increase-frame-rate-quickly-in-tainted-grail-conquest-for-a-better-gaming-experience/"><u>Tips to Increase Frame Rate Quickly in Tainted Grail: Conquest for a Better Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-rockstar-pc-gaming-services-go-offline/"><u>Troubleshooting Steps When Rockstar PC Gaming Services Go Offline</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/your-gameplay-our-archive-top-6-minecraft-recording-tactics/"><u>Your Gameplay, Our Archive Top 6 Minecraft Recording Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-memory-management-increasing-ram-in-minecraft/"><u>[New] 2024 Approved The Art of Memory Management Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>[New] M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mc-homestead-architectural-wonders-for-2024/"><u>[Updated] MC Homestead Architectural Wonders for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-breathtaking-tiled-photographic-artistry/"><u>2024 Approved Crafting Breathtaking Tiled Photographic Artistry</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>2024 Approved Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-most-effective-and-free-screen-recording-software-for-windows-8-our-top-picks/"><u>Discover the Most Effective and FREE Screen Recording Software for Windows 8 - Our Top Picks!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-from-avimov-to-wmv-effortless-video-transformation-with-movavi/"><u>Free Online Converter From AVI/MOV to WMV - Effortless Video Transformation with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-video-convertidor-libre-en-linea-cambia-wmv-a-flac-sin-coste-alguno/"><u>Movavi Video Convertidor Libre en Línea - Cambia WMV a FLAC Sin Coste Alguno</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/simple-and-quick-guide-mastering-video-editing-by-splicing/"><u>Simple and Quick Guide: Mastering Video Editing by Splicing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-creating-your-own-song-lyrics-video-tutorial-for-youtube/"><u>Step-by-Step Guide: Creating Your Own Song Lyrics Video Tutorial for YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-avatars-new-area-a-comprehensive-fix-for-pandoras-edge-not-loading/"><u>Trouble with Avatar's New Area? A Comprehensive Fix for Pandora's Edge Not Loading</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-voyages-101-starting-your-journey-with-vr-tours/"><u>Virtual Voyages 101 Starting Your Journey with VR Tours</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wijsgerapperd-en-gratis-online-tool-for-audiofile-conversion-from-aac-to-wma-by-movavi/"><u>Wijsgerapperd en Gratis: Online-Tool for Audiofile Conversion From AAC to WMA, by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-wav-mp3-movavi/"><u>제공자 무료: Online WAV MP3 변환 서비스 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m4aflac-movavi/"><u>オンラインでも簡単! M4AからFLACに自由に変換可能 - Movavi</u></a></li>
 </ul></div>
 

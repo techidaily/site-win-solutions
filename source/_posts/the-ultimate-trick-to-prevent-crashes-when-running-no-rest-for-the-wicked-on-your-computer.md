@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Trick to Prevent Crashes When Running 'No Rest for the Wicked' On Your Computer
-date: 2024-09-15T21:04:42.573Z
-updated: 2024-09-16T18:22:03.389Z
+date: 2024-09-18T16:50:13.067Z
+updated: 2024-09-21T19:34:09.501Z
 tags:
   - win11
   - win10
@@ -49,6 +49,19 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your GPU drivers
 
  For game players, the GPU driver plays a significant role in improving your game performance and ensuring a wonderful gaming experience. If the graphics card driver is outdated or corrupt, you will bump into various game issues such as the game crashing or not launching, and in your particular case – VRChat crashing.
@@ -71,13 +84,6 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
 
 ### Option 2: Update your graphics driver automatically
@@ -97,14 +103,14 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 4: Allow VRChat through firewalls
 
@@ -116,36 +122,30 @@ There are two ways for you to update your drivers:
 2. Type **control firewall.cpl**  and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
-![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
-4. Scroll down and check if **VRChat** is on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
+4. Scroll down and check if **VRChat** is on the list.
 
 5. If not, click the **Change settings** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
@@ -186,6 +186,13 @@ There are two ways for you to update your drivers:
  After clearing the cache, you can check if the VRChat crashing still persists.
 
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Create a VRChat account
 
@@ -229,16 +236,18 @@ To merge your Steam account with your VRChat account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube-for-2024/"><u>[New] The Guide to Growing Groups of Great Guests (Subscribers) on Youtube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-blueprint-for-obtaining-free-visual-aids/"><u>2024 Approved The Blueprint for Obtaining Free Visual Aids</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-best-4-ebook-reading-applications-for-windows-and-macos-a-comprehensive-guide/"><u>Discover the Best 4 eBook Reading Applications for Windows and MacOS : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-sound-blaster-z-drivers-installation-guide-on-windows-10/"><u>Effortless Sound Blaster Z Drivers Installation Guide on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminating-glitches-a-comprehensive-tutorial-to-prevent-diablo-immortal-from-crashing/"><u>Eliminating Glitches: A Comprehensive Tutorial to Prevent Diablo Immortal From Crashing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-techniques-for-customizing-your-own-short-videos/"><u>In 2024, Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-pristine-zoom-video-settings/"><u>In 2024, The Path to Pristine Zoom Video Settings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/professional-strategies-boosting-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boosting Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/restoring-corrupted-avchd-archives/"><u>Restoring Corrupted AVCHD Archives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-headsets-audio-easy-fixes-for-the-unresponsive-mic/"><u>Reviving Your Razer Headset's Audio: Easy Fixes for the Unresponsive Mic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[New] Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-views-through-imaginative-video-thumbnails/"><u>[New] In 2024, Boosting Views Through Imaginative Video Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-trends-that-make-your-meme-epidemic-for-2024/"><u>[New] Trends That Make Your Meme Epidemic for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-peeling-layers-to-originality-a-guide-for-instagram-photo-search/"><u>[Updated] Peeling Layers to Originality A Guide for Instagram Photo Search</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-triggering-instant-play-for-youtube-videos-on-social-media-for-2024/"><u>[Updated] Triggering Instant Play for YouTube Videos on Social Media for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dpx-tiff-dpx-movavi/"><u>DPX 투 TIFF: 원활한 웹 구현으로 오랫동안의 무료 DPX 이미지 변환 - Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-your-mix-essential-audio-devices-for-podcast-success/"><u>In 2024, Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-onlinestelsel-vrije-mpeg-ogg-converter-voor-professionele-resultaten/"><u>Movavi's Onlinestelsel: Vrije MPEG-OGG Converter Voor Professionele Resultaten</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ottieni-gratuitamente-una-tua-productsrecorderproductname-di-attivazione-ora/"><u>Ottieni Gratuitamente Una Tua {{ product('srecorder').product_name}} Di Attivazione Ora!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/startech-driver-compatibility-fixes-across-different-windows-systems-w1087/"><u>StarTech Driver Compatibility Fixes Across Different Windows Systems (W10/8/7)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-beginners-guide-to-efficient-zoom-meeting-recordings-for-2024/"><u>The Beginner's Guide to Efficient Zoom Meeting Recordings for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-8-editors-di-video-in-risoluzione-4k-del-2024-modifiche-facili-e-ottime-prestazioni/"><u>Top 8 Editors Di Video in Risoluzione 4K Del 2024: Modifiche Facili E Ottime Prestazioni</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Rogue Stuttering Problem? Here's How to Fix It Quickly with Our Latest 2024 Tricks!
-date: 2024-09-09T16:04:53.923Z
-updated: 2024-09-16T21:49:15.703Z
+date: 2024-09-19T18:20:19.747Z
+updated: 2024-09-21T17:00:48.210Z
 tags:
   - win11
   - win10
@@ -72,6 +72,14 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
@@ -79,22 +87,15 @@ If the problem persists, take a look at the next fix below.
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -108,11 +109,25 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -124,13 +139,6 @@ If it’s still not working, try the next fix.
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -150,16 +158,16 @@ If it’s still not working, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -168,13 +176,6 @@ If it’s still not working, try the next fix.
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -201,19 +202,18 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>[New] Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-tales-for-youtube-triumph-top-3-strategies/"><u>[Updated] 2024 Approved Best Tales for YouTube Triumph Top 3 Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-mechanism-to-foster-creative-video-content-creators/"><u>[Updated] Understanding YouTube’s Mechanism to Foster Creative Video Content Creators</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-route-to-rejuvenate-and-refine-your-vhs-collection-online/"><u>2024 Approved The Ultimate Route to Rejuvenate and Refine Your VHS Collection Online</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accelerate-chrome-performance-simple-solutions-for-a-quicker-experience/"><u>Accelerate Chrome Performance: Simple Solutions for a Quicker Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-frequent-pc-crashes/"><u>Fixes & Solutions: How To Stop Valheim From Frequent PC Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hassle-free-troubleshooting-for-immediate-origin-software-stability/"><u>Hassle-Free Troubleshooting for Immediate Origin Software Stability</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-magic-v2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor Magic V2 for Free? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6 Plus Making It Possible</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/premiere-pro-no-more-crashes-troubleshooting-for-windows-11-and-10-users/"><u>Premiere Pro No More Crashes - Troubleshooting for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-trick-to-prevent-crashes-when-running-no-rest-for-the-wicked-on-your-computer/"><u>The Ultimate Trick to Prevent Crashes When Running 'No Rest for the Wicked' On Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warframe-fixes-how-to-get-past-the-not-launching-error/"><u>Warframe Fixes: How To Get Past the 'Not Launching' Error</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-value-6-investments-in-4k-projectors/"><u>[New] In 2024, Best Value 6 Investments in 4K Projectors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-path-to-prominence-secure-1000-ig-alliesmonth/"><u>[New] In 2024, The Path to Prominence Secure 1,000 IG Allies/Month</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>[Updated] In 2024, Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-smirk-spectacle-catching-the-funniest-twitter-talents-for-2024/"><u>[Updated] Smirk Spectacle Catching the Funniest Twitter Talents for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>2024 Approved Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/desconectese-para-convertir-archivos-mkv-a-linea-sin-costo-con-movavi/"><u>Desconéctese Para Convertir Archivos MKV a Línea Sin Costo Con Movavi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/streamers-to-millionaires-the-monetization-blueprint/"><u>From Streamers to Millionaires The Monetization Blueprint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-finding-and-installing-lenovo-t430-drivers-for-pcs-with-windows-os/"><u>Hassle-Free Guide to Finding and Installing Lenovo T430 Drivers for PCs with Windows OS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy F54 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/konvert-ogv-formaten-naar-wmv-online-gratis-movavi/"><u>Konvert OGV-Formaten Naar WMV Online Gratis - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-em-fotografia-digital-desbravando-o-mundo-dos-efeitos-visuais-e-filtros-para-fotos-perfeitas/"><u>Masterclass Em Fotografia Digital - Desbravando O Mundo Dos Efeitos Visuais E Filtros Para Fotos Perfeitas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpieces-at-your-fingertips-4-notable-new-paint-features/"><u>Masterpieces at Your Fingertips: 4 Notable New Paint Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-vos-fichiers-bmp-en-format-de-ligne-gratuit-avec-movavi/"><u>Transformez Vos Fichiers BMP en Format De Ligne Gratuit Avec Movavi</u></a></li>
 </ul></div>
 

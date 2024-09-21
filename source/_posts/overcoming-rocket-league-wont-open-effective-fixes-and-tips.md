@@ -1,7 +1,7 @@
 ---
 title: "Overcoming 'Rocket League Won't Open': Effective Fixes & Tips"
-date: 2024-09-12T21:44:42.854Z
-updated: 2024-09-16T17:15:21.574Z
+date: 2024-09-18T17:09:40.890Z
+updated: 2024-09-21T17:20:53.674Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
  Sometimes, OBS mic working issues may happen due to inappropriate sound settings on your computer. Therefore, try to adjust them following the instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Unmute OBS on your computer
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Open Volume Mixer** .  
@@ -71,10 +78,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set the target audio device as default & Increase microphone volume
@@ -85,19 +92,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working13.jpg)
 4. Right-click it again and select**Set as Default Device** .  
@@ -116,19 +110,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click your microphone device and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working18.jpg)
 3. Select the**Advanced** tab. Uncheck**Allow applications to take exclusive control of this device** . Then click**OK** to apply the change.  
@@ -155,10 +136,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -176,6 +157,14 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 2. Click**Audio** on the left tab. Locate and uncheck**Enable Push-to-talk** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
 
@@ -194,22 +183,16 @@ Use your microphone to check whether the problem is solved.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working3.jpg)
 3. Visit[OBS official website](https://obsproject.com/) to**download** and**install** a new one for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the installation is complete, launch the application and use your mic. If it works, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6 Upload log files to OBS support team
 
@@ -249,17 +232,15 @@ Use your microphone to check whether the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-boundaries-of-video-posting-on-facebook/"><u>[New] 2024 Approved Navigating the Boundaries of Video Posting on Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads/"><u>2024 Approved Laugh Ledger The Ultimate List of Hilarious Tweet Threads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-video-recording-on-facebook-with-top-5-tools/"><u>2024 Approved Seamless Video Recording on Facebook with Top 5 Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cracking-the-code-on-usb-cannot-be-installed-access-is-denied-expert-solutions-for-windows-users/"><u>Cracking the Code on 'USB Cannot Be Installed, Access Is Denied': Expert Solutions for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fast-track-to-fun-solutions-for-sluggish-ubisoft-connection-lags/"><u>Fast Track to Fun: Solutions for Sluggish Ubisoft Connection Lags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-technical-glitches-in-dragon-quest-xi-solutions-inside/"><u>Fixing Technical Glitches in Dragon Quest XI - Solutions Inside</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .docx file</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improving-frame-rates-in-resident-evil-village-a-comprehensive-guide-for-pc-gamers/"><u>Improving Frame Rates in Resident Evil Village – A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-tecno-spark-go-2024-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Tecno Spark Go (2024) without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/your-ultimate-path-to-google-podcast-submission-for-2024/"><u>Your Ultimate Path to Google Podcast Submission for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-5-best-slow-motion-cameras/"><u>2024 Approved 5 Best Slow Motion Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-the-world-of-high-dynamic-range-portraits/"><u>2024 Approved A Deep Dive Into the World of High Dynamic Range Portraits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-heres-how-you-can-fix-them-fast-and-simple/"><u>Fortnite Voice Communication Issues? Here's How You Can Fix Them Fast and Simple</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-7-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 7 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726227983345-mac/"><u>Mac独自のファッショナブルなプレゼンテーション製作：ステップバイステップガイド」</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-video-convertidor-libre-en-linea-cambia-wmv-a-flac-sin-coste-alguno/"><u>Movavi Video Convertidor Libre en Línea - Cambia WMV a FLAC Sin Coste Alguno</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/y-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-rated-cameras-for-capturing-stunning-music-videos/"><u>Top-Rated Cameras for Capturing Stunning Music Videos</u></a></li>
 </ul></div>
 

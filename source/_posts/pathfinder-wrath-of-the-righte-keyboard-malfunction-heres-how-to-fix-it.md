@@ -1,7 +1,7 @@
 ---
 title: Pathfinder Wrath of the Righte, Keyboard Malfunction? Here's How to Fix It!
-date: 2024-09-13T19:17:33.265Z
-updated: 2024-09-16T18:59:31.626Z
+date: 2024-09-19T19:43:03.000Z
+updated: 2024-09-21T19:50:16.268Z
 tags:
   - win11
   - win10
@@ -83,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable NVIDIA/GoG Overlays
 
  If you’re on GoG and Pathfinder: Wrath of the Righteous won’t launch, the solution is as follow:
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  2) Right-click the Nvidia icon ![Nvidia_icon.png](https://support-leagueoflegends.riotgames.com/hc/article_attachments/360002415867/Nvidia_icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **GeForce Experience** .
 
  4) Click on the **Settings** icon.
@@ -117,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How to disable the GeForce Experience Share in-game overlay
@@ -142,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ![edit registry](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to C**omputer\\HKEY\_CURRENT\_USER\\SOFTWARE\\owlcat** and delete the entire key.
@@ -158,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  If this doesn’t work, there might be other applications that are conflicting with your game. You might want to **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**  to find the problematic one and uninstall it temporarily.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the GPU priority
 
  If you have multiple GPUs installed, you might as well try changing the GPU to the dedicated card to see if this helps.
@@ -169,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
@@ -204,19 +204,20 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[Updated] 2024 Approved Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-practices-for-archiving-interactive-online-workshops/"><u>[Updated] Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/constructive-methods-for-muting-users-for-2024/"><u>Constructive Methods for Muting Users for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-problem-with-the-unreleased-alan-wake-2-game/"><u>Fixing the Problem with the Unreleased Alan Wake 2 Game</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-for-everyone-top-10-sites-ranked/"><u>Free Video Hosting for Everyone Top 10 Sites Ranked</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-persistent-vrchat-issues-8-essential-troubleshooting-steps-for-pc-users/"><u>How to Resolve Persistent VRChat Issues: 8 Essential Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-synchronized-screen-time-on-yt/"><u>In 2024, The Ultimate Guide to Synchronized Screen Time on YT</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nier-autos-re-master-launch-hurdles-tips-for-a-smooth-game-experience/"><u>NieR: Auto's Re-Master Launch Hurdles – Tips for a Smooth Game Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/oculus-graphics-issue-resolved-what-you-need-to-know/"><u>Oculus Graphics Issue Resolved - What You Need to Know</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/team-fortress-2-stability-improved-solving-recurring-freezes-and-crashes/"><u>Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-elden-ring-enthusiasts-unveiling-the-launch-delay-insights/"><u>The Wait Continues for Elden Ring Enthusiasts - Unveiling the Launch Delay Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube-for-2024/"><u>Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-non-google-options-for-augmented-reality-embellishing/"><u>[New] 2024 Approved Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unleash-music-without-spending-a-penny/"><u>[Updated] 2024 Approved Unleash Music, Without Spending a Penny</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/1-general-trivia-challenge-web-series/"><u>1 General Trivia Challenge Web Series</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-delve-deep-into-immersive-videography-tips-for-editing-full-spherical-content-in-premierepro/"><u>2024 Approved Delve Deep Into Immersive Videography Tips for Editing Full Spherical Content in PremierePro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-user-interface-for-comment-management/"><u>2024 Approved YouTube's User Interface for Comment Management</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-perfeita-de-audio-para-formato-wav-ferramenta-simples-e-pratica/"><u>Conversão Perfeita De Audio Para Formato WAV - Ferramenta Simples E Prática</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-custom-mcb-banner-packs/"><u>Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-mp4-file-conversion-from-wtv-with-movavi-download-the-free-tool-now/"><u>Easy MP4 File Conversion From WTV with Movavi - Download the Free Tool Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-facile-comment-transformer-un-mp4-en-m4b-sans-frais-grace-a-movavi-tous-les-coups-justes-pour-la-lecture-hors-ligne/"><u>Guide Facile : Comment Transformer Un MP4 en M4B Sans Frais Grâce À Movavi, Tous Les Coups Justes Pour La Lecture Hors Ligne !</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-solutions-discover-who-we-are/"><u>Movavi Solutions - Discover Who We Are</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-image-spinner-tricks-the-ultimate-guide-to-effortlessly-rotating-images/"><u>Simple Image Spinner Tricks: The Ultimate Guide to Effortlessly Rotating Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-essential-guide-to-creating-effective-video-loops-on-instagram/"><u>The Essential Guide to Creating Effective Video Loops on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-the-top-12-mp4-player-apps-for-windows-1187-users-and-mac-enthusiasts/"><u>The Ultimate Guide to the Top 12 MP4 Player Apps for Windows 11/8/7 Users and Mac Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-netflixs-secrets-6-proven-techniques-for-streamers-on-macos/"><u>Unlocking Netflix's Secrets 6 Proven Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-5-excellent-mac-livestream-software/"><u>Unveiling 5 Excellent Mac Livestream Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on Modern Warfare's Elusive Bug: A Deep Dive Into Fixing Error 6164"
-date: 2024-09-14T21:30:52.395Z
-updated: 2024-09-16T17:35:58.297Z
+date: 2024-09-15T16:52:58.013Z
+updated: 2024-09-21T18:39:54.062Z
 tags:
   - win11
   - win10
@@ -87,29 +87,9 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Turn off the**VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
 6. Relaunch the game and check the crash is resolved or not.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the game in Full Screen and low settings
 
@@ -120,14 +100,21 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the**Display Mode** , change the setting to the F**ull Screen** .  
@@ -137,6 +124,13 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 
 If this fix doesn’t help, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Remove the frame rate cap
 
  The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
@@ -145,6 +139,20 @@ If this fix doesn’t help, you can move to the next fix.
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
@@ -159,13 +167,6 @@ If this fix doesn’t help, you can move to the next fix.
  If there’s no crash, at least one of the software should be the reason for the crash. You can enable the third-party software one by one to find which one is the culprit.
 
 If the game is still crashing, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Update your graphics driver
 
@@ -198,10 +199,10 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -226,13 +227,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-formulating-engaging-content-excerpts-for-streaming/"><u>[New] 2024 Approved Formulating Engaging Content Excerpts for Streaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/belkins-powerboost-pro-dual-function-charger-an-in-depth-analysis-of-the-enhanced-magsafe-feature-for-idle-charging/"><u>Belkin's PowerBoost Pro Dual Function Charger - An In-Depth Analysis of the Enhanced MagSafe Feature for Idle Charging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-latest-wins-windows-10-enhancements-for-2024/"><u>Exploring Latest Wins Windows 10 Enhancements for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-steam-crashes-fast-simple-solutions-that-work/"><u>Fix Steam Crashes Fast: Simple Solutions That Work!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-problem-with-the-unreleased-alan-wake-2-game/"><u>Fixing the Problem with the Unreleased Alan Wake 2 Game</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-persistent-vrchat-issues-8-essential-troubleshooting-steps-for-pc-users/"><u>How to Resolve Persistent VRChat Issues: 8 Essential Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-setup-of-obs-and-streamlabs-for-mac-users-for-2024/"><u>Navigating the Setup of OBS & Streamlabs for Mac Users for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-elden-ring-enthusiasts-unveiling-the-launch-delay-insights/"><u>The Wait Continues for Elden Ring Enthusiasts - Unveiling the Launch Delay Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-4-seamless-steps-to-posting-and-uploading-gifs-on-instagram/"><u>[Updated] In 2024, 4 Seamless Steps to Posting & Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-movavi-a-tanari-elosegelyezesek-gyakorneon-es-kozvetlen-szallitasok/"><u>1. Movavi: A Tanári Elősegélyezések Gyakornéon És Közvetlen Szállítások</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/bridging-social-gaps-sharing-tweets-videos-via-snapchat-for-2024/"><u>Bridging Social Gaps Sharing Tweets' Videos via Snapchat for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevating-your-network-expert-insights-on-the-features-and-flair-of-netgears-nighthawk-rax80-wireless-router/"><u>Elevating Your Network: Expert Insights on the Features and Flair of Netgear's Nighthawk RAX80 Wireless Router</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp4-converter-transform-mp3-to-mp4-file-format-online-with-movavi/"><u>Free MP4 Converter - Transform MP3 to MP4 File Format Online with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 6?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/musique-a-linternational-convertisseur-movavi-pour-changer-de-langue-avec-precision/"><u>Musique À L'international : Convertisseur Movavi Pour Changer De Langue Avec Précision</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-stray-crashing-in-windows-discover-6-reliable-solutions/"><u>Stop Stray Crashing in Windows: Discover 6 Reliable Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-a24-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A24 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ups-solutions-the-ultimate-guide-to-power-protection/"><u>Top Rated UPS Solutions: The Ultimate Guide to Power Protection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/topos-25-mejores-herramientas-de-creacion-y-diseno-de-presentaciones-para-el-ano-nuevo-2024/"><u>Topos 25 Mejores Herramientas De Creación Y Diseño De Presentaciones Para El Año Nuevo 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/zenes-vizon-mp4-be-fenyvitathato-online-konverter-movavi-gyorsasagu-szolgaltatas-pcmac/"><u>Zenes Vízon MP4-Be Fényvitatható Online Konverter - Movavi Gyorsaságú Szolgáltatás [PC/Mac]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp4mpg-movavi/"><u>オンラインで無料！MP4からMPGへの直接変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcome Dauntless for PC: Effective Strategies to Prevent Crashing"
-date: 2024-09-10T20:39:30.211Z
-updated: 2024-09-16T18:34:50.388Z
+date: 2024-09-14T20:31:22.529Z
+updated: 2024-09-21T16:58:33.500Z
 tags:
   - win11
   - win10
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -111,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -128,22 +135,21 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -163,16 +169,22 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -196,18 +208,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-workshop-archives-for-2024/"><u>[New] Digital Workshop Archives for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-your-android-and-iphone-companion-to-igtv-downloads/"><u>[Updated] 2024 Approved Your Android & iPhone Companion to IGTV Downloads</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-all-encompassing-mobility-review/"><u>[Updated] In 2024, All-Encompassing Mobility Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-retrieving-your-liked-videos-from-facebook/"><u>[Updated] In 2024, Retrieving Your Liked Videos From Facebook</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitches-a-detailed-strategy-for-resolving-fifa-21-crash-issues-on-windows-machines-full-manual/"><u>Beat the Glitches: A Detailed Strategy for Resolving FIFA 21 Crash Issues on Windows Machines - Full Manual</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-traffic-with-advanced-cookiebot-driven-analytics/"><u>Boost Your Traffic with Advanced Cookiebot-Driven Analytics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-pc-hiccups-with-the-last-epoch-proven-fixes-of-2024/"><u>Effective Solutions for Overcoming PC Hiccups with the Last Epoch - Proven Fixes of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-battlefield-5-from-crashing-on-pc/"><u>Effective Solutions to Prevent Battlefield 5 From Crashing on PC</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-smart-8-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-assassins-creed-valhalla-pc-game-crashes-proven-solutions-and-tips/"><u>How to Stop Assassin's Creed Valhalla PC Game Crashes: Proven Solutions and Tips!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mline-your-online-listening-experience-with-direct-capture/"><u>Streamline Your Online Listening Experience with Direct Capture</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-your-msi-dragon-center-wont-start/"><u>Troubleshooting Steps When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/where-everywhere-is-nearby-discovering-the-sx740-hs-camera/"><u>Where Everywhere Is Nearby: Discovering the SX740 HS Camera</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-your-screen-apowersoft-and-others/"><u>[New] Capturing Your Screen Apowersoft and Others</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-strategic-sharing-of-tiktok-content-on-twitter-for-2024/"><u>[New] Strategic Sharing of TikTok Content on Twitter for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2-covert-techniques-silent-screen-recording-on-snapchat-apps/"><u>2. Covert Techniques: Silent Screen Recording on Snapchat Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-technology-developments-everyone-should-watch-in-year/"><u>5 Technology Developments Everyone Should Watch in [Year]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-gratuitement-des-fichiers-jp2-en-jpg-sur-internet-a-laide-de-la-plateforme-movavi-converter/"><u>Convertissez Gratuitement Des Fichiers JP2 en JPG Sur Internet À L'aide De La Plateforme Movavi Converter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creare-un-timelapso-con-il-software-di-movavi-guida-passo-passo/"><u>Creare Un Timelapso Con Il Software Di Movavi: Guida Passo-Passo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-methods-to-transform-your-gif-files-into-high-quality-mp4-videos/"><u>Effortless Methods to Transform Your GIF Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-online-converter-aus-to-mp3aac-convertir-arquivos-au-em-ogg-com-o-movavi/"><u>Gratis Online Converter Aus To Mp3/Aac: Convertir Arquivos .au Em .ogg Com O Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a1x-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A1x 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-moto-g73-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G73 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-skype-calls-on-pc-and-mac-free-vs-paid-recording-tips/"><u>Mastering Skype Calls on PC & Mac Free vs Paid Recording Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-compre-written-guide-mastery-over-spanish-accent-types/"><u>The Compre Written Guide: Mastery Over Spanish Accent Types</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-dvds-a-archivos-mkv-sin-coste-alguno-con-nuestro-servicio-online-sencillo/"><u>Transformar DVDs a Archivos MKV Sin Coste Alguno Con Nuestro Servicio Online Sencillo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-creative-filmmaking-instagrams-green-room-technique-for-2024/"><u>Unlock Creative Filmmaking Instagram's Green Room Technique for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-vers-gif-transformation-sans-frais-a-laide-de-moveavi-service-de-conversion-en-directe-et-gratuite-online/"><u>WMV Vers GIF : Transformation Sans Frais À L'aide De Moveavi, Service De Conversion en Directe Et Gratuite Online!</u></a></li>
 </ul></div>
 

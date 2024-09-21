@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Notorious 'Centipede' Error in Destiny 2 Gameplay
-date: 2024-09-13T18:44:57.394Z
-updated: 2024-09-16T19:05:13.912Z
+date: 2024-09-18T17:57:10.218Z
+updated: 2024-09-21T19:40:12.490Z
 tags:
   - win11
   - win10
@@ -100,24 +100,17 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/steam-updates.png)
 3. Click the**Betas** tab and you can select previous versions of the game to install.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/betas.png)
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
 
- Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
 
 ## Fixes for corrupted system files
 
@@ -132,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 2. Copy and paste`**sfc /scannow**` and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-25_11-11-39.png)
@@ -144,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 4. Alternatively, if you can want to view details of the SFC process, copy and paste the following command and press Enter. You will find a file named**sfcdetails.txt** on your desktop.  
 ` **findstr /c:"[SR]" %windir%\Logs\CBS\CBS.log >"%userprofile%\Desktop\sfcdetails.txt"** `  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-39-40.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 — Automatic system repair
 
@@ -164,15 +150,29 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 3. At the end of the scan, a summary of the issues detected will show up. Click**Star Repair** to fix them (and you’ll need to pay for the full version which comes with a**60-day money-back** guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the repairs, restart your computer and the game to check for improvement.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 — Restore file version
 
@@ -206,20 +206,18 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-compilation-of-phone-apps-altering-sound/"><u>[New] In 2024, The Ultimate Compilation of Phone Apps Altering Sound</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-investigating-storage-amounts-vids-on-64128gb-hardware-for-2024/"><u>[New] Investigating Storage Amounts Vids on 64/128GB Hardware for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-ways-to-control-your-iphones-picture-angles/"><u>2024 Approved Innovative Ways to Control Your iPhone's Picture Angles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-video-experience-with-apple-melodies/"><u>Enhancing Video Experience with Apple Melodies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-gta-5-online-game-running-smoothly-again-fixes-and-tips/"><u>Get Your GTA 5 Online Game Running Smoothly Again: Fixes & Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c110-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C110 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-performance-boosted-overcoming-lag-glitches/"><u>Guilty Gear Strive Performance Boosted: Overcoming Lag Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-guard-against-lost-gpt-conversations/"><u>How to Guard Against Lost GPT Conversations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-playstation-4-lags-a-step-by-step-troubleshooting-tutorial/"><u>How to Resolve PlayStation 4 Lags: A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>In 2024, Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-crowdfunding-meets-corporate-buyouts-the-remarkable-journey-from-kickstarter-to-acquisition/"><u>When Crowdfunding Meets Corporate Buyouts: The Remarkable Journey From Kickstarter to Acquisition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-launch-hurdles-current-progress-and-what-fans-can-anticipate-next/"><u>Wolcen Launch Hurdles - Current Progress & What Fans Can Anticipate Next</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-advice-on-selecting-the-best-lenses-for-filmmaking-for-2024/"><u>[Updated] Expert Advice on Selecting The Best Lenses For Filmmaking for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-10-virtual-photo-backdrop-modifiers/"><u>[Updated] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[Updated] Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-weather-action-cameras-ranking-top-7-summary/"><u>2024 Approved All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aif-to-mp4-online-aif/"><u>AIF to MP4 : 원탁한 컴퓨터 없이 Online AIF 변환 서비스</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-x9a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor X9a via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-practices-to-prevent-warzone-20-disruption-and-stability-issues-on-pc/"><u>Best Practices to Prevent Warzone 2.0 Disruption and Stability Issues on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-aanvangen-ogg-converter-veilige-en-efficiente-movavi-online-tool/"><u>Gratuit Aanvangen OGG-Converter - Veilige en Efficiënte Movavi Online Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-online-converter-de-filmes-tvw-para-pc-e-mac-movavi/"><u>Gratuito Online Converter De Filmes TVW Para PC E Mac - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-integrala-pentru-exploarea-canalei-camerei-obs-virtuale-in-anul-2024/"><u>Guia Integrală Pentru Exploarea Canalei Camerei OBS Virtuale În Anul 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-file-webm-in-mp3-gratuitamente-su-internet/"><u>Trasforma I Tuoi File WebM in MP3 Gratuitamente Su Internet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gif-online-webm-movavi-gif-to-webm/"><u>무료 GIF 편집기: Online 대화형 WEBM 변환 - Movavi에서 다음 수준의 비주얼 경험을 위한 GIF to WebM</u></a></li>
 </ul></div>
 

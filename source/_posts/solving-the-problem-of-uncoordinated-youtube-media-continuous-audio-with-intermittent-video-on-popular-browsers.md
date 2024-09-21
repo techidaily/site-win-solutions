@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem of Uncoordinated Youtube Media: Continuous Audio with Intermittent Video on Popular Browsers"
-date: 2024-09-12T20:47:36.772Z
-updated: 2024-09-16T19:08:16.027Z
+date: 2024-09-15T17:40:43.478Z
+updated: 2024-09-21T19:58:48.755Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Close Steam and relaunch the Witcher 3\. You should be good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Vsync from the options
 
  Vsync is a display option in 3D computer games that allow the gamer to lower the frame rate and get a better stability. It is possible that the crash is caused by the Vsynec option, you can turn off Vsync setting and see if it resolves the crashing issue.
@@ -90,6 +83,14 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 5. Turn off the**VSync** .  
@@ -97,10 +98,10 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 6. Relaunch the game and check the crash is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the game in Full Screen and low settings
@@ -122,6 +123,13 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 
 If this fix doesn’t help, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Remove the frame rate cap
 
  The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
@@ -131,39 +139,19 @@ If this fix doesn’t help, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
 6. Relaunch the game and check the crash is resolved or not.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable your third-party software
 
@@ -173,6 +161,13 @@ If this fix doesn’t help, you can move to the next fix.
  If there’s no crash, at least one of the software should be the reason for the crash. You can enable the third-party software one by one to find which one is the culprit.
 
 If the game is still crashing, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Update your graphics driver
 
@@ -225,20 +220,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-enhance-content-discovery-with-instagrams-changes/"><u>[Updated] How to Enhance Content Discovery with Instagram's Changes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-nature-friendly-video-capture-tools-explained/"><u>[Updated] In 2024, Best Nature-Friendly Video Capture Tools Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-secrets-to-exposing-videos-in-the-news-feed/"><u>[Updated] Secrets to Exposing Videos in the News Feed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-networking-grounds-grow-your-youtube-audience/"><u>2024 Approved Top Networking Grounds Grow Your YouTube Audience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-m6-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco M6 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-tips-for-starting-your-counter-strike-game-without-errors/"><u>Comprehensive Tips for Starting Your Counter-Strike Game Without Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/deciphering-shadows-how-to-get-rid-of-a-black-screen-while-playing-re8-on-pc/"><u>Deciphering Shadows: How to Get Rid of a Black Screen While Playing RE8 on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-a-stalled-rockstar-games-launcher-updated-tips/"><u>Easy Fixes for a Stalled Rockstar Games Launcher – Updated Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-silent-broadcasts-solving-twitch-audio-problems/"><u>Fixes for Silent Broadcasts: Solving Twitch Audio Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-technical-glitches-in-dragon-quest-xi-solutions-inside/"><u>Fixing Technical Glitches in Dragon Quest XI - Solutions Inside</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-beginning-the-live-journey-on-instagram/"><u>In 2024, Beginning the Live Journey on Instagram</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-stutter-and-freeze-in-valheim-optimizing-gameplay-on-your-computer/"><u>Overcoming Stutter & Freeze in Valheim: Optimizing Gameplay on Your Computer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/propel-participation-through-unique-custom-story-queries-for-2024/"><u>Propel Participation Through Unique, Custom Story Queries for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/share-and-keep-record-of-all-your-interactions-using-these-powerful-chatgpt-extensions/"><u>Share and Keep Record of All Your Interactions Using These Powerful ChatGPT Extensions!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-to-overcome-slowness-on-narakas-battlefield/"><u>Step-by-Step Tips to Overcome Slowness on Naraka's Battlefield</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-evolution-continues-sw320s-spectacular-journey-to-4k-excellence/"><u>[New] 2024 Approved The Evolution Continues Sw320’s Spectacular Journey to 4K Excellence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfect-pairing-transferring-camera-roll-content-effortlessly-to-snapchat/"><u>[New] Perfect Pairing Transferring Camera Roll Content Effortlessly to Snapchat</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-path-to-polished-projects-utilizing-fades-effectively/"><u>[Updated] 2024 Approved The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leverage-larger-thumbnails-for-video-success/"><u>2024 Approved Leverage Larger Thumbnails for Video Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-sem-custo-de-gifs-para-filmes-mpeg-online-via-movavi/"><u>Conversão Sem Custo De GIFs Para Filmes MPEG Online via Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-gratuita-online-da-flv-a-wmv-movavi/"><u>Conversione Gratuita Online Da FLV a WMV - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/distinguishing-between-nlp-and-ml-insights-into-their-individual-contributions-to-ai/"><u>Distinguishing Between NLP and ML: Insights Into Their Individual Contributions to AI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-definitiva-para-crear-el-video-de-su-boda-inspiracion-y-tipos-ideales/"><u>Guía Definitiva Para Crear El Vídeo De Su Boda: Inspiración Y Tipos Ideales</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-srt-extensions-on-operating-systems/"><u>In 2024, Navigating SRT Extensions on Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-w64wav-web/"><u>Movavi W64自動免費轉換至WAV線上服務 - Web版</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mudando-formatos-graficos-para-avi-livre-e-online-com-o-movavi/"><u>Mudando FORMATOS GRÁFICOS Para AVI Livre E ONLINE Com O Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-vos-enregistrements-wtv-en-mp4-sur-mesure-avec-laide-de-movavi-gratuitement/"><u>Transformer Vos Enregistrements WTV en MP4 Sur Mesure Avec L'Aide De Movavi, Gratuitement!</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-secrets-to-clearing-filefolder-access-blockades-in-windows-environments/"><u>Unlocking the Secrets to Clearing File/Folder Access Blockades in Windows Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-huawei-p60-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Huawei P60 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avi-mp4mkv/"><u>제공된 AVI 비디오를 간단하고 무료로 MP4/MKV와 다른 이유로에서 바꾸는 기술</u></a></li>
 </ul></div>
 

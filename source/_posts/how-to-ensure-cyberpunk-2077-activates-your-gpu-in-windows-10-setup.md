@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Cyberpunk 2077 Activates Your GPU in Windows 10 Setup?
-date: 2024-09-14T20:36:43.019Z
-updated: 2024-09-16T19:31:31.309Z
+date: 2024-09-14T17:34:23.995Z
+updated: 2024-09-21T18:36:48.615Z
 tags:
   - win11
   - win10
@@ -88,10 +88,10 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -100,31 +100,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -136,6 +123,13 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -160,18 +154,18 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-bring-back-the-sparkle-applying-instagram-effects-retro-style-for-2024/"><u>[New] Bring Back the Sparkle Applying Instagram Effects Retro Style for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-podcast-with-these-google-upload-insights/"><u>[New] Transform Your Podcast with These Google Upload Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-ai-based-photo-transformations/"><u>[Updated] Excellence in AI-Based Photo Transformations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-combining-chords-and-pictures-in-the-cloud/"><u>2024 Approved Combining Chords & Pictures in the Cloud</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-ultimate-fixes-for-persistent-dauntless-crashing-errors-on-pc/"><u>Beat the Glitch: Ultimate Fixes for Persistent Dauntless Crashing Errors on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-civi-3-disney-100th-anniversary-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Civi 3 Disney 100th Anniversary Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-code-8070057-in-call-of-duty-black-ops-cold-war-heres-the-fix/"><u>Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-obs-app-crashes-in-windows-1110-expert-tips-for-a-smooth-streaming-experience/"><u>Fixing OBS App Crashes in Windows 11/10 – Expert Tips for a Smooth Streaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-insider-solutions-to-modern-warfare-multiplayer-snags/"><u>Overcoming Challenges: Insider Solutions to Modern Warfare Multiplayer Snags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-bloodhunts-performance-issues-crashes-and-stutters-on-windows/"><u>Solving Bloodhunt's Performance Issues: Crashes & Stutters on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/strategic-use-of-instagrams-music-emojis-on-posts/"><u>Strategic Use of Instagram’s Music Emojis on Posts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-does-warno-keep-crashing-on-your-computer-find-solutions-now/"><u>Why Does WARNO Keep Crashing on Your Computer? Find Solutions Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-educations-new-era-vr-integration/"><u>[New] 2024 Approved Education's New Era VR Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-live-youtube-streaming-unlocked-beginners-obs-tutorial/"><u>2024 Approved Live Youtube Streaming Unlocked Beginner's OBS Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webmavi-movavi/"><u>在線自由地將WebM格式轉成AVI - Movavi 影像編輯器指南</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/authentic-insights-on-bandicam-ultimate-guide-to-screenshotting-applications/"><u>Authentic Insights on Bandicam - Ultimate Guide to Screenshotting Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-a2plus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi A2+? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-videos-mp4-en-wmv-sans-frais-outils-en-ligne-efficaces-de-movavi/"><u>Convertir Vidéos MP4 en WMV Sans Frais - Outils en Ligne Efficaces De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortlessly-convert-rmvb-videos-to-high-quality-mkv-streams-webvideomagic-free/"><u>Effortlessly Convert RMVB Videos to High-Quality MKV Streams - WebVideoMagic (Free)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-immediate-recording-of-facetime-conversations-made-simple/"><u>In 2024, Immediate Recording of FaceTime Conversations Made Simple</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-story-remix-windows-10-photos-for-video-editing-for-2024/"><u>Mastering Story Remix Windows 10 Photos for Video Editing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-votre-video-mp4-en-webm-sans-frais-avec-movavi-en-ligne/"><u>Transformez Votre Vidéo MP4 en WebM Sans Frais Avec Movavi en Ligne</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224721436-orf-png-movavi/"><u>오피니 세트를 사용한 웹 상호 작용을 통해 무료 ORF 화면에서 PNG로 이미지 변환 - Movavi</u></a></li>
 </ul></div>
 

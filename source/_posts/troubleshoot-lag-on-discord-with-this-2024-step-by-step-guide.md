@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Lag on Discord with This 2024 Step-by-Step Guide
-date: 2024-09-12T19:36:34.135Z
-updated: 2024-09-16T16:55:59.062Z
+date: 2024-09-16T19:50:09.969Z
+updated: 2024-09-21T18:38:24.762Z
 tags:
   - win11
   - win10
@@ -94,21 +94,42 @@ If this doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Force-run DirectX 12
 
@@ -124,10 +145,16 @@ If this doesn’t solve your problem, try the next fix.
  If force-running DirectX 12 for Battlefield 2042 doesn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Clear game cache
@@ -143,22 +170,8 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
@@ -167,13 +180,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Reboot your PC and run Battlefield 2042 via Origin.
 
 #### EA desktop app
@@ -181,6 +187,13 @@ If this doesn’t solve your problem, try the next fix.
 1. Launch the EA app. Click the**three-line icon** on the top-left corner, select**Help** then click**App Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-35.jpg)
 2. Click**Clear Cache** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
@@ -205,19 +218,19 @@ If this doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-melodic-matrix-mac-sound-recording/"><u>[New] In 2024, Melodic Matrix Mac Sound Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unboxing-essentials-selecting-audio-that-complements-videos/"><u>[New] Unboxing Essentials Selecting Audio that Complements Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-gpodc-must-haves/"><u>2024 Approved Exclusive GPodC Must-Haves</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/6-simple-fixes-to-restore-your-oculus-link-from-black-screen-dilemma/"><u>6 Simple Fixes to Restore Your Oculus Link From Black Screen Dilemma</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-rig-configurations-with-jon-bach-from-puget-systems/"><u>Expert Insights on Computing Rig Configurations with Jon Bach From Puget Systems</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-shaky-videos-be-gone-10-free-online-stabilizers-to-try-for-2024/"><u>New Shaky Videos Be Gone! 10 Free Online Stabilizers to Try for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-unexpected-closures-in-your-rust-programming-projects/"><u>Overcoming Unexpected Closures in Your Rust Programming Projects</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-errors-how-to-fix-closure-issues-successfully/"><u>Resolving GeForce Experience Errors: How to Fix Closure Issues Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restarting-the-windows-indexer-a-quick-guide/"><u>Restarting the Windows Indexer: A Quick Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/speedy-solutions-boost-your-elden-ring-gameplay-with-these-fast-fixes-for-fps-dips/"><u>Speedy Solutions: Boost Your Elden Ring Gameplay with These Fast-Fixes for FPS Dips!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/technical-savvy-selecting-the-best-capture-tools-for-2024/"><u>Technical Savvy Selecting the Best Capture Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-rockstar-pc-gaming-services-go-offline/"><u>Troubleshooting Steps When Rockstar PC Gaming Services Go Offline</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-gain-extensive-engagement-master-the-view-multiplier/"><u>[New] In 2024, Gain Extensive Engagement Master the View Multiplier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instant-guide-how-to-safely-gratisly-download-vlc-on-macos/"><u>[New] Instant Guide How to Safely, Gratisly Download VLC on MacOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-maximizing-video-longevity-saving-snaps-on-android-and-mac/"><u>[Updated] 2024 Approved Maximizing Video Longevity Saving Snaps on Android & Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-a1-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo A1 5G.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-online-nef-tiff-converter-instalacao-e-uso-facil/"><u>Movavi's FREE Online NEF-TIFF Converter - Instalação E Uso Fácil!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/passa-da-pcx-a-png-senza-problemi-il-metodo-facile-e-gratuito-di-movavi-per-la-conversione-delle-immagini/"><u>Passa Da PCX a PNG Senza Problemi: Il Metodo Facile E Gratuito Di Movavi per La Conversione Delle Immagini</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secure-and-simple-photovideo-sharing-with-ios-for-2024/"><u>Secure and Simple Photo/Video Sharing with IOS for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transferencia-gratuita-de-video-avi-al-formato-quicktime-mov-guia-rapida-y-sencilla-para-su-uso-online/"><u>Transferencia Gratuita De Video AVI Al Formato QuickTime MOV: Guía Rápida Y Sencilla Para Su Uso Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-dat-files-into-high-quality-mp4-videos-using-these-12-proven-techniques-with-movavis-expertise/"><u>Transform Your DAT Files Into High-Quality MP4 Videos Using These 12 Proven Techniques with Movavi's Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformacion-gratuita-de-archivos-flv-a-wav-online-con-movavi/"><u>Transformación Gratuita De Archivos FLV a WAV Online Con Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
 </ul></div>
 

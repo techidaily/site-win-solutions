@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021: How To Fix Persistent Loading Issues"
-date: 2024-09-09T18:40:32.845Z
-updated: 2024-09-16T21:44:44.541Z
+date: 2024-09-14T20:35:07.588Z
+updated: 2024-09-21T19:59:51.961Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,14 +85,14 @@ After updating your drivers, restart your PC and test the gameplay.
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once complete, launch the game to check if your game is working again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Delete the Caches and Preferences folder
 
@@ -113,13 +106,6 @@ Once complete, launch the game to check if your game is working again.
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6\. Run the game executable file as admin
 
  If you can’t launch Football Manager 2022 after following the steps above, you may want to run this executable game file directly to see if this helps.
@@ -128,17 +114,37 @@ Once complete, launch the game to check if your game is working again.
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select **Local Files** and then**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the game’s executable and run the game as an administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
@@ -179,6 +185,13 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -204,13 +217,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -269,14 +275,21 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-luts-revolutionize-color-balance-in-images/"><u>[Updated] How LUTs Revolutionize Color Balance in Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-rectify-frame-rate-drops-and-stutters-in-new-world/"><u>Comprehensive Guide to Rectify Frame Rate Drops and Stutters in 'New World'</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-call-of-duty-black-ops-4-running-perfectly-a-step-by-step-troubleshooting-tutorial/"><u>Get Call Of Duty: Black Ops 4 Running Perfectly - A Step-by-Step Troubleshooting Tutorial!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-lag-expert-tips-for-accelerating-your-utorrent-download-speed/"><u>Overcoming Lag: Expert Tips for Accelerating Your uTorrent Download Speed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-a-smooth-discord-setup-resolve-installation-issues-with-ease/"><u>Quick Solutions for a Smooth Discord Setup – Resolve Installation Issues with Ease</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-13c-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 13C Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleash-youtube-potential-with-imaginative-splitscreens-for-2024/"><u>Unleash YouTube Potential with Imaginative Splitscreens for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gpu-revival-edition-for-2024/"><u>[New] GPU Revival Edition for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[Updated] Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[Updated] In 2024, Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221013517-flac-movavi/"><u>「ストレス無しにオンラインで高画質Flac音源変換 - Movavi」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>2024 Approved 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aac3gp-movavi/"><u>線上自由更改音頻流派：從AAC轉成3GP - Movavi變換器指南</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-flac-files-to-mpeg-for-free-using-movavi-audio-converter/"><u>Convert FLAC Files to MPEG for Free Using Movavi Audio Converter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-video-files-from-webm-to-mp4-for-free-with-movavis-online-tool/"><u>Convert Video Files From Webm to MP4 for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-connection-from-usb-20-to-local-area-network/"><u>Direct Connection From USB 2.0 to Local Area Network</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-essential-tools-free-online-youtuber-starters/"><u>In 2024, Essential Tools Free Online Youtuber Starters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a14-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A14 4G Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mpe-files-converted-to-wmv-format-at-no-cost-easy-conversion-by-movavi/"><u>MPE Files Converted to WMV Format at No Cost - Easy Conversion by Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-screen-malfunctions-in-laptops/"><u>Remedying Screen Malfunctions in Laptops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrijetagsvrije-movavi-video-konvertor-opkopen-duitsland-betaalbaar-en-veevaardig/"><u>Vrijetagsvrije Movavi Vidéo Konvertor Opkopen - Duitsland Betaalbaar en Veevaardig</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webm-flac-online-free-conversion/"><u>Webm피크을 FLAC로 자유성 상품으로 바꾸기 - Online Free Conversion</u></a></li>
 </ul></div>
 

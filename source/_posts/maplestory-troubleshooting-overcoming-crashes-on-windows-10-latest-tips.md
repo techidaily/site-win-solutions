@@ -1,7 +1,7 @@
 ---
 title: "MapleStory Troubleshooting: Overcoming Crashes on Windows 10 [Latest Tips]"
-date: 2024-09-14T18:20:13.291Z
-updated: 2024-09-16T16:12:04.059Z
+date: 2024-09-17T20:25:57.609Z
+updated: 2024-09-21T16:41:57.996Z
 tags:
   - win11
   - win10
@@ -148,10 +148,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
@@ -174,13 +174,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
@@ -190,6 +183,13 @@ In case you don’t know how, here’s the guidance:
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -232,10 +232,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
@@ -243,6 +243,13 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -264,10 +271,10 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
@@ -314,13 +321,6 @@ dism.exe /online /cleanup-image /restorehealth
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Wait for more game updates
 
  Lastly, there’s a chance that your problem is triggered by technical issues of FIFA 20 (such as an unforeseen issue in the game’s code). In that case, you should simply wait for more game updates to fix the problem. Or you can contact **[EA](https://help.ea.com/en/contact-us/)**  (the game developer) and see if they can offer you any assistance.
@@ -347,13 +347,18 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-archive-awesome-perfecting-twitter-video-backups-for-2024/"><u>[New] Archive Awesome Perfecting Twitter Video Backups for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-online-seminar-tagline-creator/"><u>In 2024, Expert Online Seminar Tagline Creator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-magic-call-voice-changer-app-working-get-alternatives-here-for-2024/"><u>Is Magic Call – Voice Changer App Working? Get Alternatives Here for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-disappointment-fix-the-persistent-screen-blinking-problem/"><u>Resolve Your Disappointment: Fix the Persistent Screen Blinking Problem</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid/"><u>Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723005333483-troubleshoot-apex-legends-loading-problems-in-minutes/"><u>Troubleshoot Apex Legends Loading Problems in Minutes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-the-full-experience-overcoming-launch-issues-in-mass-effect-legendary-edition/"><u>Unlock the Full Experience: Overcoming Launch Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-improve-sound-quality-on-a-home-recorded-video-for-2024/"><u>Updated How to Improve Sound Quality on a Home Recorded Video for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>2024 Approved Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-online-presence-a-guide-to-thriving-youtube-branding/"><u>2024 Approved Elevate Your Online Presence A Guide to Thriving YouTube Branding</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revenue-growth-strategies-for-makeup-bloggers/"><u>2024 Approved Revenue Growth Strategies for Makeup Bloggers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webwmawmv-movavi/"><u>安心です!無料WEB上でWMAとWMVを簡単に変換します - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-videos-for-free-transform-avi-and-wmv-files-using-the-movavi-tool-online/"><u>Convert Videos for Free: Transform AVI and WMV Files Using the Movavi Tool Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-vos-fichiers-mmf-gratuitement-en-mp3-sur-la-plateforme-web-de-movavi-aucun-abonnement-requis/"><u>Convertissez Vos Fichiers MMF Gratuitement en MP3 Sur La Plateforme Web De Movavi - Aucun Abonnement Requis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-it-admin-access-limited-error-in-winsec/"><u>Disabling IT Admin Access Limited Error in WinSec</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010377946-instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-au-ogg-movavi/"><u>Online AU OGG 파일을 제공할 수 있는 무료 변환 도구 - Movavi</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-10-learning-platforms-for-exceptional-online-course-experiences/"><u>Top 10 Learning Platforms for Exceptional Online Course Experiences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-12-premium-software-solutions-for-boosting-your-videos-visual-clarity/"><u>Top 12 Premium Software Solutions for Boosting Your Video's Visual Clarity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-immagini-tga-in-formato-png-gratuitamente-conversione-on-line-con-movavi/"><u>Trasforma Immagini TGA in Formato PNG Gratuitamente - Conversione On-Line Con Movavi</u></a></li>
 </ul></div>
 

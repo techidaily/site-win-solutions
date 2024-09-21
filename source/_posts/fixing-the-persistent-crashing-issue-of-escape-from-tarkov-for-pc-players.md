@@ -1,7 +1,7 @@
 ---
 title: Fixing the Persistent Crashing Issue of 'Escape From Tarkov' For PC Players
-date: 2024-09-10T20:46:20.630Z
-updated: 2024-09-16T16:20:49.456Z
+date: 2024-09-19T20:54:38.203Z
+updated: 2024-09-21T20:32:13.375Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ If you still get the Error Centipede, try the next fix.
 
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Enable UPnP
 
  Bungie recommends players to enable UPnP when they encounter network issues, since it’s related to how players are connected within Destiny 2\. Here’s how to set up your UPnP:
@@ -71,25 +78,11 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
 7. **Enable UPnP** , and save the changes.
 
 You can now test a game to see if you still get the Centipede Error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Port Forwarding
 
@@ -102,14 +95,14 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
 #### Step 2: Assign a static IP address
 
@@ -122,6 +115,13 @@ You can now test a game to see if you still get the Centipede Error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
 
@@ -160,13 +160,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -181,6 +174,13 @@ You can now test a game to see if you still get the Centipede Error.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -192,16 +192,10 @@ You can now test a game to see if you still get the Centipede Error.
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Use a VPN when your Internet access is restricted
@@ -239,17 +233,21 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-the-top-5-youtube-link-reducers/"><u>[New] The Ultimate Guide to the Top 5 YouTube Link Reducers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audiences-take-gopro-hero5-footage/"><u>[Updated] Audience's Take GoPro Hero5 Footage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-engagement-learn-from-tubebuddy-experts/"><u>[Updated] Maximize Engagement - Learn From TubeBuddy Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-the-best-is-picku-leading-photo-enhancement-for-android-users/"><u>2024 Approved Examining the Best Is PickU Leading Photo Enhancement for Android Users?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722556131253-elevate-your-home-entertainment-with-the-budget-friendly-1byone-indoor-hdtv-signal-enhancer-reviews-inside/"><u>Elevate Your Home Entertainment with the Budget-Friendly 1ByOne Indoor HDTV Signal Enhancer - Reviews Inside</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-smooth-play-with-easy-fixes-to-boost-fps-and-cut-down-on-lag-in-watch-dogs-legion/"><u>Enhance Smooth Play with Easy Fixes to Boost FPS & Cut Down on Lag in Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-code-8070057-in-call-of-duty-black-ops-cold-war-heres-the-fix/"><u>Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/farewell-to-arcades-embracing-modern-gaming-techniques-with-a-nostalgic-tribute-to-classic-controllers/"><u>Farewell to Arcades: Embracing Modern Gaming Techniques, with a Nostalgic Tribute to Classic Controllers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-smart-8-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Smart 8 Pro Through Google Earth?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lava-yuva-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lava Yuva 3 Phone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/speed-boost-tips-for-players-of-assassins-creed-valhalla-with-slow-performance/"><u>Speed Boost Tips for Players of Assassin’s Creed: Valhalla with Slow Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-a-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>[New] 2024 Approved A Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-rapid-audience-expansion-without-breaking-the-bank/"><u>[New] 2024 Approved Rapid Audience Expansion Without Breaking the Bank</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-free-easy-hd-download-of-fb-media-library/"><u>[New] Free, Easy HD Download of FB Media Library</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[Updated] 2024 Approved Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222224576-rmvb-mp4-movavi/"><u>網路直接 RMVB 到 MP4 自由下載 - 使用 Movavi 流式音像編解碼</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exploring-the-talents-of-roxana-falasco-a-comprehensive-overview/"><u>Exploring the Talents of Roxana Falasco: A Comprehensive Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-12-video-hourly-livestream-service/"><u>In 2024, Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-selecting-free-music-for-videos/"><u>In 2024, Mastering the Art of Selecting Free Music for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>In 2024, The Symphony of Silence Starting with a Soft Fade In</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-online-converter-perfekt-fur-flac-und-m4b-format-transformationen-jetzt-gratis/"><u>Movavi's Free Online Converter - Perfekt Für Flac Und M4B Format Transformationen Jetzt Gratis!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers-for-2024/"><u>PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/riconverti-i-tuoi-file-mmf-in-audio-wav-senza-costi-tramite-movavi-web/"><u>Riconverti I Tuoi File .MMF in Audio .WAV Senza Costi Tramite Movavi Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tecnicas-de-sobreposicao-de-videos-para-apresentacoes-e-plataformas-como-o-youtube-um-tutorial-detalhado/"><u>Técnicas De Sobreposição De Vídeos Para Apresentações E Plataformas Como O YouTube - Um Tutorial Detalhado</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-de-wtv-a-video-mpeg-en-ligne-un-guide-complet-et-gratuit-par-movavi/"><u>Transformation De WTV À Vídeo MPEG En Ligne : Un Guide Complet Et Gratuit Par Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-facile-et-gratuite-dun-fichier-voc-en-avi-en-ligne-sur-movavi-comment-commencer/"><u>Transformation Facile Et Gratuite D'un Fichier VOC en AVI en Ligne Sur Movavi - Comment Commencer ?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
 </ul></div>
 

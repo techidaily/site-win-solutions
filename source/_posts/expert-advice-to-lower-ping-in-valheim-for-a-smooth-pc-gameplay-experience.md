@@ -1,7 +1,7 @@
 ---
 title: Expert Advice to Lower Ping in Valheim for a Smooth PC Gameplay Experience
-date: 2024-09-10T18:55:00.088Z
-updated: 2024-09-16T18:59:37.962Z
+date: 2024-09-17T20:45:10.267Z
+updated: 2024-09-21T16:10:16.209Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -92,19 +85,20 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
@@ -122,19 +116,6 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -176,15 +157,22 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -201,10 +189,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -231,16 +219,14 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-srt-enhanced-mp4-files/"><u>[Updated] Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/androids-low-cost-video-communication-guide-for-2024/"><u>Android's Low-Cost Video Communication Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cs2-gaming-stability-issues-permanent-fixes-for-pc-crashes-in-the-new-year-of-2024/"><u>CS2 Gaming Stability Issues: Permanent Fixes for PC Crashes in the New Year of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-ensure-cyberpunk-2077-activates-your-gpu-in-windows-10-setup/"><u>How to Ensure Cyberpunk 2077 Activates Your GPU in Windows 10 Setup?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>In 2024, Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/insurgency-how-to-fix-sandstorm-game-crashes/"><u>Insurgency: How to Fix Sandstorm Game Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maximizing-frame-rates-essential-tips-for-a-smoother-valheim-gameplay-this-year/"><u>Maximizing Frame Rates: Essential Tips for a Smoother Valheim Gameplay This Year</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-practical-choice-in-wearables-a-detailed-look-at-the-affordable-fitbit-versa-watch/"><u>The Practical Choice in Wearables: A Detailed Look at the Affordable Fitbit Versa Watch</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004994842-troubleshoot-your-fortnite-logins-with-these-simple-techniques-no-hassle-guaranteed/"><u>Troubleshoot Your Fortnite Logins with These Simple Techniques - No Hassle Guaranteed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unbiased-review-vn-video-editor-pros-features-and-performance-for-2024/"><u>Unbiased Review VN Video Editor Pros Features and Performance for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-stepwise-approach-to-youtube-caption-addition/"><u>[New] In 2024, A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-funnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers-for-2024/"><u>[Updated] Funnies in a Flash Top 10 Quick & Quirky Video Concepts for YouTubers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-conversion-of-dts-audio-files-online-tools-and-services/"><u>Free Conversion of DTS Audio Files: Online Tools and Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>In 2024, Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-video-converter-suite-comprehensive-features-of-tutti-i-programmi-movavi/"><u>Movavi Video Converter Suite: Comprehensive Features of Tutti I Programmi Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strategizing-superior-screen-snatchers/"><u>Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stream-the-2nites-2021-olympics-from-home-a-comprehensive-guide-to-watching-online/"><u>Stream the 2Nites 2021 Olympics From Home - A Comprehensive Guide to Watching Online!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-comprehensive-guide-to-repairing-rust-microphones/"><u>The Comprehensive Guide to Repairing Rust Microphones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-videos-with-our-free-mp4-to-mov-quicktime-online-tool/"><u>Transform Your Videos with Our Free MP4-to-MOV QuickTime Online Tool!</u></a></li>
 </ul></div>
 

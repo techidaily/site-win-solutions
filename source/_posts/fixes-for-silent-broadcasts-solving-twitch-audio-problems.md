@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Silent Broadcasts: Solving Twitch Audio Problems"
-date: 2024-09-14T16:14:37.274Z
-updated: 2024-09-16T21:01:47.697Z
+date: 2024-09-20T17:45:37.772Z
+updated: 2024-09-21T20:52:17.058Z
 tags:
   - win11
   - win10
@@ -90,11 +90,25 @@ If the crashing issue remains, check out the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the video settings
 
@@ -103,6 +117,13 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
 
@@ -118,31 +139,11 @@ If this fix doesn’t do the trick, continue to the next one.
 2. **Right-click** the applications that may interfere with your game and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
 Launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the crashing issue persists, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Allow the game through Windows Firewall
 
@@ -151,13 +152,6 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
@@ -171,24 +165,24 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -215,18 +209,13 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-procedural-guide-constructing-timer-circuits-for-broadcasts/"><u>[New] 2024 Approved Procedural Guide Constructing Timer Circuits for Broadcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-zoom-simplified-your-guide-to-webinar-basics/"><u>[New] 2024 Approved Zoom Simplified Your Guide to Webinar Basics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-views-no-more-grey-lines-for-2024/"><u>[Updated] Freeing Up YouTube Views No More Grey Lines for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-become-a-gif-whisperer-crafting-images-from-vimeo-videos/"><u>2024 Approved Become a GIF Whisperer Crafting Images From Vimeo Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-apex-legends-engine-woes-effective-fixes-and-tips-for-an-uninterrupted-gaming-experience/"><u>Beat Apex Legends' Engine Woes: Effective Fixes and Tips for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/logitech-g-hub-malfunction-solved-a-step-by-step-guide-for-windows-users/"><u>Logitech G Hub Malfunction Solved: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-distance-remote-podcast-broadcast-for-2024/"><u>Mastering Distance Remote Podcast Broadcast for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/microsoft-flight-simulator-2020-update-freeze-solved-get-your-game-running-smoothly-again/"><u>Microsoft Flight Simulator 2020 Update Freeze Solved: Get Your Game Running Smoothly Again</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-numbers-essential-online-stock-market-guides/"><u>Navigating Numbers Essential Online Stock Market Guides</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-pauses-mastering-the-fix-for-code-vein-game-glitches/"><u>No More Pauses: Mastering the Fix for Code Vein Game Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/on-the-go-tech-support-navigating-the-compact-version-of-driver-easy/"><u>On-the-Go Tech Support: Navigating the Compact Version of Driver Easy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-rdo-errors-masterful-fixes-to-eliminate-pc-game-interruptions-and-crashes/"><u>Say Goodbye to RDO Errors: Masterful Fixes to Eliminate PC Game Interruptions and Crashes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-financial-magnitude-in-mr-beasts-realm/"><u>[New] 2024 Approved Financial Magnitude in Mr. Beast's Realm</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-and-practicing-with-creative-commons-licenses/"><u>[Updated] In 2024, Decoding and Practicing with Creative Commons Licenses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>2024 Approved Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/en-ligne-et-gratuit-comment-transformer-votre-video-vob-en-un-contenu-mkv-de-qualite-superieure-via-quickconvert-suite/"><u>En Ligne Et Gratuit ! Comment Transformer Votre Vidéo VOB en Un Contenu MKV De Qualité Supérieure via QuickConvert Suite</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-asus-rog-phone-7-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Asus ROG Phone 7.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-selection-of-13-leading-iphone-video-editor-apps-ratings-and-reviews-by-movavi/"><u>Ultimate Selection of 13 Leading iPhone Video Editor Apps - Ratings & Reviews by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zero-price-chat-tools-compatible-with-your-iphone-and-ipod-touch/"><u>Zero Price Chat Tools Compatible with Your iPhone & iPod Touch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swf-mkv-kpengine/"><u>이멀 확인 제한 없이 온라인에서 SWF 파일을 MKV로 자유롭게 변환하기 - KPEngine</u></a></li>
 </ul></div>
 

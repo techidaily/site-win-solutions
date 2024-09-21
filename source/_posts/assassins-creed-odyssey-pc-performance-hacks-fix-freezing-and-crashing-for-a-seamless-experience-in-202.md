@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Odyssey PC Performance Hacks - Fix Freezing & Crashing for a Seamless Experience in 202#!
-date: 2024-09-12T20:56:20.864Z
-updated: 2024-09-16T18:43:32.946Z
+date: 2024-09-19T21:02:04.180Z
+updated: 2024-09-21T19:37:23.927Z
 tags:
   - win11
   - win10
@@ -68,19 +68,6 @@ To tell which drive you have, please view the Task Manager:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn off VSync or VRS
 
  VSync (Vertical Sync) is designed to fix screen tearing and screen stuttering by syncing the refresh rate with the frame rate of your monitor. When the game’s frame rate is too high for your monitor to keep up, not only will you notice the eye-soring screen tearing, but also audio cutting in and out sometimes. To fix it, you can change the VSync settings for your display card.
@@ -97,18 +84,18 @@ To tell which drive you have, please view the Task Manager:
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **If you have an AMD display card, modify the Wait for Vertical Refresh setting:**
 
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
@@ -126,13 +113,6 @@ To tell which drive you have, please view the Task Manager:
  Outdated or incorrect display card and sound card drivers could also be the culprit to your Starfield’s audio cutting in and out problem, so if the above two methods don’t help to restore your Starfield audio back to normal, it’s likely that you have a corrupted or outdated graphics and/or audio driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics and audio driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -161,20 +141,15 @@ And the website of your audio manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
@@ -183,6 +158,13 @@ And the website of your audio manufacturer:
  Launch Starfield again and see if the latest graphics and audio drivers help to fix its audio issues. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run Steam as an admin
 
@@ -195,11 +177,25 @@ And the website of your audio manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. You may also want to tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
  Now openStarfield again (it should be opened with administrative permission), to see if its audio is back to normal again. If there are still issues with the Starfield audio, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify game files
 
@@ -208,13 +204,6 @@ And the website of your audio manufacturer:
 1. Launch the Steam app and navigate to **the LIBRARY tab** , then **right-click** Starfield and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files.** ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Then wait for the process to be done – it could take several minutes.
 
@@ -242,19 +231,20 @@ And the website of your audio manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-free-to-do-approach-for-text-and-video-combination/"><u>2024 Approved The Free-to-Do Approach for Text & Video Combination</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>2024 Approved Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-lite-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/6-simple-fixes-to-restore-your-oculus-link-from-black-screen-dilemma/"><u>6 Simple Fixes to Restore Your Oculus Link From Black Screen Dilemma</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-outdated-graphics-drivers-warning-in-minecraft-easily/"><u>Fixing the Outdated Graphics Drivers Warning in Minecraft Easily</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-frame-rate-in-rainbow-six-extraction-effective-fixes-for-gamers/"><u>Maximize Frame Rate in Rainbow Six Extraction: Effective Fixes for Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-through-gokus-journey-a-complete-watch-of-dragon-ball/"><u>Navigating Through Goku's Journey: A Complete Watch of Dragon Ball</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-unexpected-closures-in-your-rust-programming-projects/"><u>Overcoming Unexpected Closures in Your Rust Programming Projects</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/speedy-solutions-boost-your-elden-ring-gameplay-with-these-fast-fixes-for-fps-dips/"><u>Speedy Solutions: Boost Your Elden Ring Gameplay with These Fast-Fixes for FPS Dips!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tips-for-dimming-windows-and-mac-music-volume-for-2024/"><u>Tips for Dimming Windows & Mac Music Volume for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-alternatives-to-microsoft-office-the-ultimate-guide/"><u>Top Alternatives to Microsoft Office : The Ultimate Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-rockstar-pc-gaming-services-go-offline/"><u>Troubleshooting Steps When Rockstar PC Gaming Services Go Offline</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069780888-new-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup-for-2024/"><u>[New] Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup. For 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques-for-2024/"><u>[Updated] Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficient-tagging-techniques-to-boost-your-youtube-traffic-for-2024/"><u>[Updated] Efficient Tagging Techniques to Boost Your Youtube Traffic for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-capturing-excellence-the-best-of-windows-11-methods-unveiled-for-2024/"><u>[Updated] Game Capturing Excellence The Best of Windows 11 Methods Unveiled for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-free-and-easy-mp4-to-mp3-conversion-with-moveavein-online-video-editor/"><u>1. Free and Easy MP4-to-MP3 Conversion with Moveavein Online Video Editor</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/commandez-movavi-video-suite-pour-entreprise-gratuit-et-facile-a-utiliser/"><u>Commandez Movavi Video Suite Pour Entreprise - Gratuit Et Facile À Utiliser</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-vertaling-van-3gp-naar-flv-onderhoud-vrije-online-tools-movavi/"><u>Gratuit Vertaling Van 3GP Naar FLV: Onderhoud Vrije Online Tools - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-step-by-step-guide-transform-facebook-videos-to-720p1080p-mp4-free-online/"><u>In 2024, Step-by-Step Guide Transform Facebook Videos to 720P/1080p MP4 Free Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/los-mejores-programas-convertidores-de-dvd-en-2023-guia-comparativa-para-windows-and-mac/"><u>Los Mejores Programas Convertidores De DVD en 2023: Guía Comparativa Para Windows & Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-video-layers-enhancing-youtube-content-and-slideshows-with-seamless-overlays/"><u>Mastering Video Layers: Enhancing YouTube Content & Slideshows with Seamless Overlays</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pcx-jpg/"><u>PCX 파일을 JPG로 바꾸기: 영구 대화형 프로그램에서 무료</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tout-pour-transformer-vos-images-jpeg-en-tiff-gratuitement-en-ligne-movavi/"><u>Tout Pour Transformer Vos Images JPEG en TIFF Gratuitement en Ligne - Movavi</u></a></li>
 </ul></div>
 

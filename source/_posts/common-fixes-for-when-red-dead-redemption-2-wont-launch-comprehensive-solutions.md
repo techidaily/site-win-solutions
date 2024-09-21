@@ -1,7 +1,7 @@
 ---
 title: "Common Fixes for When Red Dead Redemption 2 Won't Launch: Comprehensive Solutions"
-date: 2024-09-15T20:11:47.863Z
-updated: 2024-09-16T18:07:51.891Z
+date: 2024-09-18T16:23:24.928Z
+updated: 2024-09-21T18:14:37.108Z
 tags:
   - win11
   - win10
@@ -62,14 +62,14 @@ If not, check out more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-this-program-as-admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can repeat the steps above to run Steam or Origin client as an administrator. Then test if the game loads successfully.
 
@@ -85,10 +85,36 @@ If not, check out more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library.jpg)
 2. Right-click Madden NFL 22 and select**Properties…** .  
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab, then click**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Origin
 
@@ -104,16 +130,10 @@ If not, check out more fixes below.
 If the issue persists, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
@@ -128,19 +148,6 @@ If the issue persists, continue to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
@@ -169,6 +176,13 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-ipconfig-flushdns.jpg)
 
 Try relaunching Madden 22 and see if it does load without issue now.
@@ -185,19 +199,6 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-game-add-ones.jpg)
 3. Select the **Saved data**  box, then choose the item you want to delete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-saved-data.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Try launching Madden 22 again to check if it can load normally.
 
@@ -218,13 +219,6 @@ If not, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
@@ -266,20 +260,21 @@ If not, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] 2024 Approved Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/common-errors-and-solutions-for-installing-minecraft-on-windows-11/"><u>Common Errors & Solutions for Installing Minecraft on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-iphone-driver-setup-and-installation-on-your-windows-10-device/"><u>Complete Guide: IPhone Driver Setup and Installation on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fast-track-to-fun-solutions-for-sluggish-ubisoft-connection-lags/"><u>Fast Track to Fun: Solutions for Sluggish Ubisoft Connection Lags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-technical-glitches-in-dragon-quest-xi-solutions-inside/"><u>Fixing Technical Glitches in Dragon Quest XI - Solutions Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-nord-3-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Nord 3 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improving-frame-rates-in-resident-evil-village-a-comprehensive-guide-for-pc-gamers/"><u>Improving Frame Rates in Resident Evil Village – A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>In 2024, StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimal-viewing-verticalhorizontal-in-fb-videos/"><u>Optimal Viewing - Vertical/Horizontal in FB Videos?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/six-proven-strategies-to-fix-recurring-crashes-in-minecraft/"><u>Six Proven Strategies to Fix Recurring Crashes in Minecraft</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-up-your-game-expert-tips-for-tiktok-editing-for-2024/"><u>Step Up Your Game Expert Tips for TikTok Editing for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-outlook-cant-be-opened-errors/"><u>Troubleshooting Tips for 'Outlook Can't Be Opened' Errors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-full-potential-with-final-cut-pro-for-2024/"><u>Unlocking Full Potential with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/"><u>[New] 2024 Approved From Kitchens to Cameras 7 Essentials for Flavorful Filmmaking</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-beginners-pathway-to-fashionable-snaps-and-lenses-for-2024/"><u>[Updated] The Beginner's Pathway to Fashionable Snaps & Lenses for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-6-review-a-modest-upgrade-but-still-the-best/"><u>Apple Watch Series 6 Review: A Modest Upgrade, But Still the Best</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-14-slideshow-programs-to-create-impressive-windows-presents/"><u>Best 14 Slideshow Programs to Create Impressive Windows ˈpresents</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-compact-and-powerful-raspberry-pi-section-1-advanced-problem-on-hydraulic-radius-in-non-circular-channels/"><u>Comprehensive Review of the Compact and Powerful Raspberry Pi # Section 1: Advanced Problem on Hydraulic Radius in Non-Circular Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creating-stunning-time-lapse-videos-made-simple-two-effective-techniques/"><u>Creating Stunning Time-Lapse Videos Made Simple: Two Effective Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descubra-as-maiores-solucoes-de-conversao-youtube-em-mp4-nossas-melhores-escolhas/"><u>Descubra as Maiores Soluções De Conversão YouTube Em MP4: Nossas Melhores Escolhas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222140941-dts-m4v-movavi/"><u>DTS M4V를 비용 없이 웹 블로드에서 바꾸기 - Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-ppc-with-advanced-cookiebot-features/"><u>Elevate Your PPC with Advanced Cookiebot Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitieve-online-wmv-en-ogv-omzetter-rapide-video-transformation-avec-vidisoft/"><u>Gratuitieve Online-WMV-en-OGV Omzetter - Rapide Vidéo Transformation Avec VidiSoft</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-top-free-sources-discovering-copyright-free-soundtracks-for-2024/"><u>The Top Free Sources Discovering Copyright-Free Soundtracks for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-14-excelsior-vrije-apps-voor-konverteren-van-videos/"><u>Top 14 Excelsior Vrije Apps Voor Konverteren Van Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transcodificar-archivos-gif-a-videoclips-en-el-formato-3gp-sin-coste-guia-y-enfoque-de-programas-como-movavi/"><u>Transcodificar Archivos GIF a Videoclips en El Formato 3GP Sin Coste: Guía Y Enfoque De Programas Como Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-magic-advanced-editing-with-premiere-pro-for-2024/"><u>YouTube Video Magic Advanced Editing with Premiere Pro for 2024</u></a></li>
 </ul></div>
 

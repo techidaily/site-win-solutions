@@ -1,7 +1,7 @@
 ---
 title: "Fix: Why Shadowplay Stops Capturing Video in Windows - Solutions Unveiled"
-date: 2024-09-13T19:57:22.015Z
-updated: 2024-09-16T17:01:20.492Z
+date: 2024-09-20T19:01:49.630Z
+updated: 2024-09-21T17:30:11.478Z
 tags:
   - win11
   - win10
@@ -70,10 +70,16 @@ Here’s how you can check the file integrity on Steam:
  If the latest video driver doesn’t help you, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -86,22 +92,16 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -119,14 +119,22 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -140,19 +148,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -175,20 +170,14 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[New] 2024 Approved Growth Catalysts Increasing Audience Engagement on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-smartphone-tools-for-perfecting-your-pronunciation/"><u>[New] In 2024, Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-skybound-innovations-with-djis-latest-pro-drone-review/"><u>[New] Skybound Innovations with DJI's Latest Pro Drone Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-beauty-bard-in-depth-gear-and-tutorial-roundups/"><u>[Updated] 2024 Approved The Beauty Bard In-Depth Gear & Tutorial Roundups</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/"><u>[Updated] Discover the Top 30 FreeFire Hashtags for Amplifying Video Growth for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-and-preventing-windows-error-code-0x800704cf-from-recurring/"><u>Expert Tips for Fixing and Preventing Windows Error Code 0X800704CF From Recurring</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fast-fixes-for-dayz-fps-issues-boost-your-performance-instantly/"><u>Fast Fixes for DayZ FPS Issues - Boost Your Performance Instantly!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-implemented-for-destiny-2-pc-startup-problems-enjoy-gaming-again/"><u>Fixes Implemented for Destiny 2 PC Startup Problems – Enjoy Gaming Again</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-x-flip-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo X Flip Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-fallout-3-freezing-problems-on-your-pc-with-windows-10/"><u>How to Prevent and Fix Fallout 3 Freezing Problems on Your PC with Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722984334379-hp-monitor-troubles-heres-how-to-get-them-up-and-running-again/"><u>HP Monitor Troubles? Here's How to Get Them Up and Running Again!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-battlefield-2042-pc-playback-problems-dealing-with-fps-drops-and-stutters/"><u>Solving Battlefield 2042 PC Playback Problems - Dealing with FPS Drops and Stutters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-15-nba-live-stream-techniques-for-2024/"><u>Top 15 NBA LIVE STREAM Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unboxing-and-testing-the-stunning-netgear-nighthawk-rax80-the-latest-in-wi-fi-6-technology/"><u>Unboxing and Testing the Stunning Netgear Nighthawk RAX80: The Latest in Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722991073055-utorrent-speed-issue-fixed-learn-the-reasons-behind-it/"><u>UTorrent Speed Issue Fixed? Learn the Reasons Behind It</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-lifting-large-loads-drone-power-rankings-for-2024/"><u>[New] Lifting Large Loads - Drone Power Rankings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-gps-drones-with-steady-trail-following-features/"><u>[Updated] Top 10 GPS Drones with Steady Trail-Following Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-5-racer-simulation-titles-to-play/"><u>2024 Approved Prime 5 Racer Simulation Titles to Play</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/converta-seu-gif-para-webm-perfeitamente-online-e-sem-custo-o-guia-compreensivo-de-usuarios-do-movavi/"><u>Converta Seu GIF Para WebM Perfeitamente Online E Sem Custo - O Guia Compreensivo De Usuários Do Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guida-completa-come-scaricare-immagini-con-lo-strato-di-trasparenza-in-modo-facile/"><u>Guida Completa: Come Scaricare Immagini Con Lo Strato Di Trasparenza in Modo Facile</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-15-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 15</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tip-6-forhojt-aktivitet-pa-bilderna-en-guide-till-upplosen/"><u>Tip #6: Förhöjt Aktivitet På Bilderna - En Guide Till Upplösen</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-update-hurdle-error-0x800f0922-fixes/"><u>Ultimate Guide: Resolving the Windows 11 Update Hurdle – Error 0X800f0922 Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-and-headphones-troubleshooting-techniques-that-work/"><u>Windows 11 and Headphones: Troubleshooting Techniques That Work</u></a></li>
 </ul></div>
 

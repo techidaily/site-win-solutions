@@ -1,7 +1,7 @@
 ---
 title: Resolving Cyberpunk 2077’S Failure to Utilize Graphics Card on Windows 11
-date: 2024-09-15T17:10:46.414Z
-updated: 2024-09-16T17:25:13.688Z
+date: 2024-09-14T17:50:00.573Z
+updated: 2024-09-21T16:44:40.368Z
 tags:
   - win11
   - win10
@@ -92,26 +92,32 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -123,14 +129,14 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -155,14 +161,16 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>[New] Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-tips-for-adequate-lighting-in-youtube-video-production-for-2024/"><u>[Updated] Detailed Tips for Adequate Lighting in YouTube Video Production for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube-for-2024/"><u>Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-cutting-the-clutter-strategies-for-eliminating-background-noise-in-final-cut-pro/"><u>New Cutting the Clutter Strategies for Eliminating Background Noise in Final Cut Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/oculus-graphics-issue-resolved-what-you-need-to-know/"><u>Oculus Graphics Issue Resolved - What You Need to Know</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/y-fortnite-visuals-in-no-time/"><u>Snappy Fortnite Visuals in No Time</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-microsoft-edge-continuous-crashing-on-windows-11-platforms/"><u>Step-by-Step Solutions for Microsoft Edge Continuous Crashing on Windows 11 Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/team-fortress-2-stability-improved-solving-recurring-freezes-and-crashes/"><u>Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3-for-2024/"><u>[Updated] A Deeper Dive Into Documenting Gaming Sessions on the PS3 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers/"><u>2024 Approved Free & Paid Video Game Opening Mastery Rank the Best of YT Makers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-m2ts-files-to-mp4-format-for-free-with-movavis-online-tool/"><u>Convert M2TS Files to MP4 Format for Free with Movavi's Online Tool!</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-distinctive-facebook-page/"><u>Crafting a Distinctive Facebook PAGE</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-icloud-email-security-with-2fa/"><u>Enhancing Your iCloud Email Security with 2FA</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitieve-online-ts-to-vob-conversie-met-movavi-direct-konvertieertsamenvatting/"><u>Gratuitieve Online TS-to-VOB Conversie Met Movavi - Direct Konvertieertsamenvatting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-offers-no-cost-video-format-transformation-seamlessly-switching-from-flv-to-vob-on-the-web/"><u>Movavi Offers No-Cost Video Format Transformation: Seamlessly Switching From FLV to VOB on the Web</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneering-platforms-for-ai-idea-exchange/"><u>Pioneering Platforms for AI Idea Exchange</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/remove-cluttered-backgrounds-using-picarts-features-for-2024/"><u>Remove Cluttered Backgrounds Using PicArt's Features for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a14-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A14 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-videos-potential-thriving-in-youtube-rankings-for-2024/"><u>Unleash Your Video's Potential Thriving in YouTube Rankings for 2024</u></a></li>
 </ul></div>
 

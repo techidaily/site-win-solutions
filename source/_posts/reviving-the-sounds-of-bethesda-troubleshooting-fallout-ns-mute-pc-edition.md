@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Sounds of Bethesda: Troubleshooting Fallout N's Mute PC Edition"
-date: 2024-09-09T16:42:07.637Z
-updated: 2024-09-16T21:23:04.572Z
+date: 2024-09-19T18:56:38.860Z
+updated: 2024-09-21T18:40:36.490Z
 tags:
   - win11
   - win10
@@ -81,11 +81,25 @@ If the issue remains, check out the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Halo Infinite again to see if your problem is resolved.
 
 If the issue persists, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
 
@@ -94,6 +108,14 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
@@ -108,18 +130,18 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -135,15 +157,16 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
@@ -152,31 +175,11 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
 
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
 
@@ -186,13 +189,6 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -220,20 +216,15 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-scaling-down-obs-video-quality-for-2024/"><u>[Updated] Scaling Down OBS Video Quality for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-directx-error-troubles-on-cod-mw2-platform/"><u>Comprehensive Solutions for DirectX Error Troubles on CoD MW2 Platform</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-your-everspace-2-game-from-freezingcrashing/"><u>Effective Solutions to Stop Your Everspace 2 Game From Freezing/Crashing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-livestreams-using-manycams-virtual-webcam-technology-for-professional-results/"><u>Enhance Your Livestreams Using ManyCam's Virtual Webcam Technology for Professional Results</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-blurry-monitor-borders-with-simple-steps/"><u>Fix Blurry Monitor Borders with Simple Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-device-to-inshot-a-guide-to-audio-integration-for-2024/"><u>From Device to InShot A Guide to Audio Integration for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-m14-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy M14 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-avoid-crashes-and-get-the-most-out-of-deathloop-on-windows/"><u>Mastering Stability: Avoid Crashes and Get the Most Out of Deathloop on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mount-and-blade-ii-bannerlord-crash-solutions-for-a-seamless-gaming-experience/"><u>Mount and Blade II: Bannerlord Crash Solutions for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-logitech-g933-microphone-step-by-step/"><u>Quick Fix for Non-Functioning Logitech G933 Microphone - Step by Step</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-for-the-world-of-warcraft-not-initializing-properly-on-your-desktop/"><u>Solutions for the World of Warcraft Not Initializing Properly on Your Desktop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 14 Without Passcode Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722987370380-welcome-back-to-the-digital-front-door-logging-in-is-ready/"><u>Welcome Back to the Digital Front Door: Logging In Is Ready</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[New] Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-master-tiktok-snap-enhancers-quickly-and-virally/"><u>[Updated] Master TikTok Snap Enhancers Quickly & Virally</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-webcam-use-on-modern-devices/"><u>[Updated] Streamline Webcam Use on Modern Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/macmovavi-suite/"><u>全功能Mac動畫設計：Movavi Suite 無限量測試用</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/entendendo-o-formato-de-video-webm-e-a-maneira-de-reproduzi-lo-online/"><u>Entendendo O Formato De Vídeo WebM E a Maneira De Reproduzi-Lo Online</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-the-absent-hypervisor-fix-for-xc0351000-error/"><u>Finding the Absent Hypervisor - Fix for XC0351000 Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-completo-aprendendo-a-gravar-suas-reunioes-do-skype-em-2024-com-o-movavi/"><u>Guia Completo: Aprendendo a Gravar Suas Reuniões Do Skype Em 2024 Com O Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-12-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 12 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-macos-sequoias-coming-update-release-schedule-improved-functionality-and-more/"><u>Inside Look at macOS Sequoia's Coming Update: Release Schedule, Improved Functionality & More</u></a></li>
 </ul></div>
 

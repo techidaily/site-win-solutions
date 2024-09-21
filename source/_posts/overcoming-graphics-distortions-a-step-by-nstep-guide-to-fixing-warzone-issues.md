@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues"
-date: 2024-09-14T16:35:06.977Z
-updated: 2024-09-16T17:39:21.153Z
+date: 2024-09-20T19:05:23.397Z
+updated: 2024-09-21T19:43:47.060Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ Here’s how you can download and install Windows updates:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. When you have performance issues on your game, your outdated or faulty graphics driver can be the culprit. To fix it, you need to update your graphics driver. This is pretty necessary, especially if you can’t remember when was the last time you updated it.
@@ -97,23 +104,9 @@ Here’s how you can download and install Windows updates:
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -128,13 +121,6 @@ Here’s how you can do this:
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -151,10 +137,10 @@ To verify the integrity of game files, take these steps:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
@@ -162,16 +148,10 @@ To verify the integrity of game files, take these steps:
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
@@ -179,6 +159,13 @@ To verify the integrity of game files, take these steps:
  Once finished, play Outriders and check if your game still stutters a lot. If it is, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
 
@@ -206,6 +193,19 @@ Now play Outriders to see if you can get better gaming performance.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -231,20 +231,16 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-metaverse-experience-expert-tips-on-avatar-creation/"><u>2024 Approved Elevate Your Metaverse Experience Expert Tips on Avatar Creation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/deciphering-shadows-how-to-get-rid-of-a-black-screen-while-playing-re8-on-pc/"><u>Deciphering Shadows: How to Get Rid of a Black Screen While Playing RE8 on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-around-the-upcoming-tesla-phone-what-we-know-about-its-price-tag-debut-timeline-and-gadget-features/"><u>Decoding the Buzz Around the Upcoming Tesla Phone - What We Know About Its Price Tag, Debut Timeline, and Gadget Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-propeller-choices-mastering-flight-excellence-for-2024/"><u>Essential Propeller Choices Mastering Flight Excellence for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-lag-solutions-to-valheims-pc-performance-issues/"><u>Fixing Persistent Lag: Solutions to Valheim's PC Performance Issues</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-smart-7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Smart 7 Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>In 2024, 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-fix-deal-with-dread-hungers-persistent-crashing-issue-on-windows-and-mac/"><u>Master the Fix: Deal with Dread Hunger's Persistent Crashing Issue on Windows and Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-funimate-easy-video-download-tutorial/"><u>Mastering Funimate Easy Video Download Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rogue-company-pc-stability-patch-say-goodbye-to-unwanted-disconnections-during-play/"><u>Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-pc-crashes-when-attempting-to-finish-your-games-tips-and-tricks/"><u>Solving PC Crashes When Attempting To Finish Your Games - Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-review-of-cubefit-terramat-unlocking-active-living-from-anywhere-with-just-a-stand/"><u>The Ultimate Review of CubeFit TerraMat: Unlocking Active Living From Anywhere with Just a Stand</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-lag-on-discord-with-this-2024-step-by-step-guide/"><u>Troubleshoot Lag on Discord with This 2024 Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro-for-2024/"><u>[Updated] From Basics to Mastery Unveiling Timelapse Shooting Techniques with GoPro for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-which-recording-tool-wins-a-bandicam-vs-camtasia-comparison/"><u>2024 Approved Which Recording Tool Wins? - A Bandicam Vs. Camtasia Comparison</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-asus-rog-phone-8-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Asus ROG Phone 8 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-open-here-are-possible-fixes/"><u>Baldur's Gate 3 Won't Open? Here Are Possible Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-sony-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Sony FRP Locks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/masterclass-enhancing-live-streams-with-360-cameras/"><u>Masterclass Enhancing Live Streams with 360° Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rising-tides-of-streamers-a-guide-to-building-a-successful-chatter-for-2024/"><u>Rising Tides of Streamers A Guide to Building a Successful Chatter for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-creating-your-own-song-lyrics-video-tutorial-for-youtube/"><u>Step-by-Step Guide: Creating Your Own Song Lyrics Video Tutorial for YouTube</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-downloading-films-from-fmovies-platform/"><u>Step-by-Step Guide: Downloading Films From FMovies Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wijsgerapperd-en-gratis-online-tool-for-audiofile-conversion-from-aac-to-wma-by-movavi/"><u>Wijsgerapperd en Gratis: Online-Tool for Audiofile Conversion From AAC to WMA, by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dts-mp3-mp3-movavi/"><u>무료 DTS 콜리지에서 MP3로 바꾸기: 모바일, 스트리밍 등 MP3 제공 - Movavi 확장</u></a></li>
 </ul></div>
 

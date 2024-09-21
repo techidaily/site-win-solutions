@@ -1,7 +1,7 @@
 ---
 title: "PC Users Rejoice: Fixing Baldur's Gate III Stability Problems"
-date: 2024-09-11T20:41:36.749Z
-updated: 2024-09-16T21:39:50.393Z
+date: 2024-09-14T17:11:55.227Z
+updated: 2024-09-21T18:35:02.210Z
 tags:
   - win11
   - win10
@@ -85,33 +85,34 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-54.png)
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 Set CPU affinity only use 0-3
 
@@ -123,6 +124,13 @@ Open the game to check for any improvement.
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
 
@@ -138,25 +146,19 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 End unnecessary tasks
 
@@ -167,19 +169,6 @@ Launch the game again to check if the problem has been fixed.
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
@@ -199,14 +188,14 @@ Go back to your game to see if it works smoother.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -229,21 +218,20 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras-for-2024/"><u>[New] Elevating Your Vlogs A List of the Top 12 Professional Cameras for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-formulating-final-fact-finding-flourishes-for-2024/"><u>[New] Formulating Final Fact-Finding Flourishes for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dissection-facebook-video-formats/"><u>[New] In 2024, Dissection Facebook Video Formats</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-creator-funding-in-youtube-shorts/"><u>[Updated] Leveraging Creator Funding in YouTube Shorts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-battlefield-5s-pc-hiccups-effective-solutions-uncovered/"><u>Beat Battlefield 5'S PC Hiccups: Effective Solutions Uncovered!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/e1659fwd-new-windows-107-compatible-driver/"><u>E1659FWD: New Windows 10/7 Compatible Driver</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-your-clownfish-vocal-transformer-malfunctions/"><u>Effective Solutions for When Your Clownfish Vocal Transformer Malfunctions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-why-shadowplay-stops-capturing-video-in-windows-solutions-unveiled/"><u>Fix: Why Shadowplay Stops Capturing Video in Windows - Solutions Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-problem-with-the-unreleased-alan-wake-2-game/"><u>Fixing the Problem with the Unreleased Alan Wake 2 Game</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/oculus-graphics-issue-resolved-what-you-need-to-know/"><u>Oculus Graphics Issue Resolved - What You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/securing-your-streams-with-twitchs-2fa-installation-and-usage-tips/"><u>Securing Your Streams with Twitch's 2FA: Installation & Usage Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-upgrading-the-epson-tm-t88v-driver-on-microsoft-windows/"><u>Step-by-Step Guide: Upgrading the EPSON TM-T88v Driver on Microsoft Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-microsoft-edge-continuous-crashing-on-windows-11-platforms/"><u>Step-by-Step Solutions for Microsoft Edge Continuous Crashing on Windows 11 Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/team-fortress-2-stability-improved-solving-recurring-freezes-and-crashes/"><u>Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-v30t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme V30T for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cutting-edge-video-editing-for-free-top-mod-editors/"><u>Updated In 2024, Cutting-Edge Video Editing for Free Top MOD Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-2023s-best-web-based-recording-tech-handpicked/"><u>[New] In 2024, 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-x7-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find X7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lens-legends-choosing-the-best-10-camera-optics/"><u>2024 Approved Lens Legends Choosing the Best 10 Camera Optics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprendre-le-format-de-fichier-mkv-et-comment-y-acceder-pour-une-visualisation-optimale/"><u>Comprendre Le Format De Fichier MKV Et Comment Y Accéder Pour Une Visualisation Optimale</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989842178-end-of-trouble-make-sure-obs-records-your-screen-now/"><u>End of Trouble: Make Sure OBS Records Your Screen Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-change-mxf-files-into-mp3-format-with-ease-movavi/"><u>Free Online Converter: Change MXF Files Into MP3 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-convertir-archivos-gif-a-formato-webm-de-forma-gratuita-facil-y-rapida/"><u>Guía Paso a Paso Para Convertir Archivos GIF a Formato WEBM De Forma Gratuita, Fácil Y Rápida</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-14-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 14?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/oplaeser-obs-skjerm-verden-fullinstruktorer-det-beste-for-nye-brukere/"><u>Oplæser OBS Skjerm Verden Fullinstruktører - Det Beste for Nye Brukere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/studio-masterclass-journey-extended-xvideoexplore/"><u>Studio Masterclass Journey Extended XVideoExplore</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-of-both-worlds-high-end-specs-and-budget-friendly-cost-for-the-arcshell-ar-5-reviewed-here/"><u>The Best of Both Worlds: High-End Specs and Budget-Friendly Cost for the ArcShell AR-5 Reviewed Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-the-10-leading-ai-video-improvement-software-august-update/"><u>The Ultimate Guide to the 10 Leading AI Video Improvement Software (August Update)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uitgebreide-handleiding-voor-het-geheugen-van-google-meet-veejerij-in-de-techwereld/"><u>Uitgebreide Handleiding Voor Het Geheugen Van Google Meet: Veejerij In De Techwereld</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-espn-plus-a-guide-to-the-digital-sports-platform/"><u>Understanding ESPN Plus: A Guide to the Digital Sports Platform</u></a></li>
 </ul></div>
 

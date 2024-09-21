@@ -1,7 +1,7 @@
 ---
 title: "MapleStory and Windows 11 Compatibility: Solutions to Prevent Crashes"
-date: 2024-09-13T19:30:42.635Z
-updated: 2024-09-16T19:22:08.716Z
+date: 2024-09-15T16:07:04.680Z
+updated: 2024-09-21T19:46:14.859Z
 tags:
   - win11
   - win10
@@ -75,10 +75,10 @@ Below are the minimum and recommended system requirements for DayZ:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -93,9 +93,31 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of the game
 
@@ -108,13 +130,6 @@ Below are the minimum and recommended system requirements for DayZ:
 
  Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Turn off Steam Overlay
 
  The Steam Overlay may interfere with DayZ, and sometimes it may even crash the game. Some DayZ players reported that after disabling Steam Overlay, the crashing issue disappears. You can follow the steps below to turn off Steam Overlay:
@@ -123,21 +138,7 @@ Below are the minimum and recommended system requirements for DayZ:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-settings.png)
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
 
@@ -182,21 +183,21 @@ Below are the minimum and recommended system requirements for DayZ:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-key-10-efficient-online-subtitle-editors/"><u>[Updated] Key 10 Efficient Online Subtitle Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>2024 Approved Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>2024 Approved Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-tips-for-starting-your-counter-strike-game-without-errors/"><u>Comprehensive Tips for Starting Your Counter-Strike Game Without Errors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-perfect-youtube-short-content-lessons/"><u>Crafting Perfect YouTube Short Content Lessons</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/deciphering-shadows-how-to-get-rid-of-a-black-screen-while-playing-re8-on-pc/"><u>Deciphering Shadows: How to Get Rid of a Black Screen While Playing RE8 on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-silent-broadcasts-solving-twitch-audio-problems/"><u>Fixes for Silent Broadcasts: Solving Twitch Audio Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-lg-ultragear-34-qhd-display-with-g-sync-for-549-at-amazon-limited-time-offer/"><u>Get the LG Ultragear 34 QHD Display with G-Sync for $549 at Amazon – Limited Time Offer!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-100-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor 100 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/one-click-wonder-livestream-your-podcast/"><u>One Click Wonder Livestream Your Podcast</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-stutter-and-freeze-in-valheim-optimizing-gameplay-on-your-computer/"><u>Overcoming Stutter & Freeze in Valheim: Optimizing Gameplay on Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rogue-company-pc-stability-patch-say-goodbye-to-unwanted-disconnections-during-play/"><u>Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-to-overcome-slowness-on-narakas-battlefield/"><u>Step-by-Step Tips to Overcome Slowness on Naraka's Battlefield</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-truth-about-tp-links-av1n300-powerline-wi-fi-booster-performance-insights/"><u>The Truth About TP-Link's AV1n300 Powerline Wi-Fi Booster: Performance Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>[New] 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-crafting-viral-stories-the-top-15-tips-for-snapchat-posts/"><u>[Updated] 2024 Approved Crafting Viral Stories The Top 15 Tips for Snapchat Posts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-endless-creativity-free-youtube-art-resources/"><u>[Updated] Endless Creativity FREE YouTube Art Resources</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221013517-flac-movavi/"><u>「ストレス無しにオンラインで高画質Flac音源変換 - Movavi」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-treacle-tracking-step-by-step-tutorial-on-summer-snack-monitoring/"><u>2024 Approved Treacle Tracking Step-by-Step Tutorial on Summer Snack Monitoring</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aac3gp-movavi/"><u>線上自由更改音頻流派：從AAC轉成3GP - Movavi變換器指南</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-moto-g13-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Moto G13? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-huion-kamvas-gt-191-graphic-tablet-assessment-the-ultimate-pen-display-experience/"><u>Comprehensive Huion Kamvas GT-191 Graphic Tablet Assessment – The Ultimate Pen Display Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-flac-files-to-mpeg-for-free-using-movavi-audio-converter/"><u>Convert FLAC Files to MPEG for Free Using Movavi Audio Converter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-video-files-from-webm-to-mp4-for-free-with-movavis-online-tool/"><u>Convert Video Files From Webm to MP4 for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cutting-edge-techniques-for-quick-czech-comprehension/"><u>Cutting-Edge Techniques for Quick Czech Comprehension</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargue-e-importar-libremente-archivos-oma-a-traves-de-movavi-tecnicas-faciles-para-principiantes/"><u>Descargue E Importar Libremente Archivos OMA a Través De Movavi - Técnicas Fáciles Para Principiantes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-content-top-rated-cameras-for-youtubers/"><u>Elevate Your Content Top-Rated Cameras for YouTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-locate-and-use-windows-media-player-on-windows-11-or-windows-10/"><u>How to Locate and Use Windows Media Player on Windows 11 or Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mpe-files-converted-to-wmv-format-at-no-cost-easy-conversion-by-movavi/"><u>MPE Files Converted to WMV Format at No Cost - Easy Conversion by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webm-flac-online-free-conversion/"><u>Webm피크을 FLAC로 자유성 상품으로 바꾸기 - Online Free Conversion</u></a></li>
 </ul></div>
 

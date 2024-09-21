@@ -1,7 +1,7 @@
 ---
 title: "Curing Insurgency: Sandstorm's Troublesome Crash Issues - Solved and Explained"
-date: 2024-09-12T21:18:57.101Z
-updated: 2024-09-16T20:34:18.334Z
+date: 2024-09-20T19:02:43.635Z
+updated: 2024-09-21T16:30:16.568Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  **One of the most common causes of game crashes is that you’re using a faulty or outdated graphics driver.** To fix the potential problem and get the best performance, you should make sure your graphics driver is up to date.
@@ -82,13 +89,6 @@ If the crashing issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -97,19 +97,6 @@ If the crashing issue remains, check out the next fix.
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the video settings
 
@@ -120,10 +107,16 @@ If the crashing issue remains, check out the next fix.
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
@@ -140,18 +133,18 @@ If this fix doesn’t do the trick, continue to the next one.
 2. **Right-click** the applications that may interfere with your game and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
 Launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the crashing issue persists, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Allow the game through Windows Firewall
 
@@ -163,10 +156,25 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
@@ -174,19 +182,6 @@ If the crashing issue persists, go ahead with the next fix.
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 Once done, relaunch the game to see if it crashes again.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -213,18 +208,20 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-pcmac-screen-recorders/"><u>[New] 2024 Approved Professional PC/Mac Screen Recorders</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-anti-fog-strategies-optimal-gopro-video-quality/"><u>[New] Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-clear-cut-strategy-for-image-border-management-on-canva/"><u>[New] The Clear-Cut Strategy for Image Border Management on Canva</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-inaugural-recording-evaluation-guide/"><u>[Updated] In 2024, Inaugural Recording Evaluation Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-lag-solutions-to-valheims-pc-performance-issues/"><u>Fixing Persistent Lag: Solutions to Valheim's PC Performance Issues</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030104170-gifwindows/"><u>GIFファイルリサイジング手順：Windowsユーザ向けチュートリアル</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Pro Max Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/make-big-bucks-fast-with-a-focus-on-youtube-short-video-creation-for-2024/"><u>Make Big Bucks Fast with a Focus on YouTube Short Video Creation for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-emoji-filled-conversations-using-gifs-in-your-instagram-comments/"><u>Mastering the Art of Emoji-Filled Conversations: Using GIFs in Your Instagram Comments</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015521209-razer-man-o-war-mic-problems-heres-how-to-get-it-working-again/"><u>Razer Man O' War Mic Problems? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rogue-company-pc-stability-patch-say-goodbye-to-unwanted-disconnections-during-play/"><u>Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-pc-crashes-when-attempting-to-finish-your-games-tips-and-tricks/"><u>Solving PC Crashes When Attempting To Finish Your Games - Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-iphone-hdr-techniques-unveiled/"><u>[New] Professional iPhone HDR Techniques Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-digital-dynamo-unleashing-videoviral-impact/"><u>[Updated] 2024 Approved Digital Dynamo Unleashing #VideoViral Impact</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-decoding-the-payment-structure-on-youtube/"><u>[Updated] Decoding the Payment Structure on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726223843591-mkvflac-movavi/"><u>免費在線 MKV到FLAC的影像文件格式改變——運用 Movavi 進行無間斷換算</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comment-transformer-un-fichier-en-ligne-vers-le-format-wmv-gratuitement-grace-a-movavi-une-methode-facile-et-simple/"><u>Comment Transformer Un Fichier en Ligne Vers Le Format WMV Gratuitement Grâce À Movavi: Une Méthode Facile Et Simple</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-rapida-e-gratuita-da-mp3-a-mp4-tramite-movavicom-prova-ora/"><u>Conversione Rapida E Gratuita Da MP3 a MP4 Tramite movavi.com – Prova Ora!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-an-advanced-gpt-4-chatbot-at-no-cost-set-up-locally-on-your-pc/"><u>Experience an Advanced GPT-4 Chatbot at No Cost: Set Up Locally on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-rapide-convertissez-vos-fichiers-aiff-au-format-wmv-sans-frais-solutions-gratuites-de-movavi/"><u>Guide Rapide: Convertissez Vos Fichiers AIFF Au Format WMV Sans Frais - Solutions Gratuites De Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lenovo-thinkpad-x12-detachable-assessment-stellar-convertible-and-superb-typing-experience/"><u>Lenovo ThinkPad X12 Detachable Assessment - Stellar Convertible and Superb Typing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mobile-communication-enable-chatgpts-voice-control-functionality-on-your-android-smartphone-today/"><u>Mastering Mobile Communication: Enable ChatGPT's Voice Control Functionality on Your Android Smartphone Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moving-from-movie-plus-web-audio-files-swiftly-convert-m4b-to-m4a-formats-for-free-with-our-online-tools/"><u>Moving From MOVIE + WEB Audio Files - Swiftly Convert M4B to M4A Formats for Free with Our Online Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-vos-images-jpeg-en-png-sur-internet-gratuite-mouvavi/"><u>Transformer Facilement Vos Images JPEG en PNG Sur Internet Gratuite - Mouvavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlock-full-potential-of-your-zoom-sessions-with-obs-for-2024/"><u>Unlock Full Potential of Your Zoom Sessions With OBS for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-a-lasting-impression-top-video-resume-creation-tools/"><u>Updated Make a Lasting Impression Top Video Resume Creation Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Graphic Driver Issues in Forza Horizon 5 - Step by Step Guide
-date: 2024-09-09T20:48:34.236Z
-updated: 2024-09-16T21:46:01.170Z
+date: 2024-09-15T18:39:28.863Z
+updated: 2024-09-21T18:02:16.804Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
@@ -106,21 +113,15 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
@@ -132,6 +133,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 **If you’re using ethernet:** Unplug the ethernet cable from your PC, leave it disconnected for a minute, and then plug it back in.
 
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -162,16 +170,23 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -185,17 +200,17 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
  If performing a clean boot doesn’t solve your problem, no worries, we have one more fix for you.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -210,33 +225,7 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -257,18 +246,15 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-optimize-your-instagram-media-flow-desktopmobile/"><u>2024 Approved Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-game-disruptions-fixing-freezing-and-lag-in-pubg-for-a-smoother-play-experience/"><u>Eliminate Game Disruptions: Fixing Freezing and Lag in PUBG for a Smoother Play Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fast-fixes-for-dayz-fps-issues-boost-your-performance-instantly/"><u>Fast Fixes for DayZ FPS Issues - Boost Your Performance Instantly!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-your-footage-a-color-grading-roadmap-for-2024/"><u>Harmonizing Your Footage A Color Grading Roadmap for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-fallout-3-freezing-problems-on-your-pc-with-windows-10/"><u>How to Prevent and Fix Fallout 3 Freezing Problems on Your PC with Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-essential-audio-enhancement-apps-for-youtubers-videos/"><u>In 2024, Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-battlefield-2042-pc-playback-problems-dealing-with-fps-drops-and-stutters/"><u>Solving Battlefield 2042 PC Playback Problems - Dealing with FPS Drops and Stutters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-reducing-size-of-mp4-videos-on-pcs-smartphones-and-websites/"><u>Step-by-Step Guide to Reducing Size of MP4 Videos on PCs, Smartphones & Websites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-lost-and-found-techniques-for-iphone-x/"><u>Top 10 Lost and Found Techniques for iPhone X</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-quietness-how-to-get-your-minecraft-game-audio-back-on-a-computer/"><u>Troubleshooting Complete Quietness: How To Get Your Minecraft Game Audio Back On A Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unboxing-and-testing-the-stunning-netgear-nighthawk-rax80-the-latest-in-wi-fi-6-technology/"><u>Unboxing and Testing the Stunning Netgear Nighthawk RAX80: The Latest in Wi-Fi 6 Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] 2024 Approved High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>[New] In 2024, Unleashing Visual Potential Incorporating New Fonts in AE</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-huawei-nova-y71-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Huawei Nova Y71 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-slug-line-syntax-in-screenplays-for-2024/"><u>Navigating Through Slug Line Syntax in Screenplays for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-gif-ppm-movavi/"><u>Online GIF 무료 변환 - PPM표지픽스 바인드: 모바일용 Movavi 소프트웨어</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-effective-chatgpt-cues-found-on-github/"><u>Ultimate List of Effective ChatGPT Cues Found on GitHub</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/witje-transformeren-van-webp-naar-jpg-gratis-online-convertidoor-met-duurzaamheid-von-movavi/"><u>Witje Transformeren Van WEBP Naar JPG: Gratis Online Convertidoor Met Duurzaamheid Von Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726218701467-movavi/"><u>크레임의 제공 쿠폰에 대해 Movavi - 최선의 사용 가이드</u></a></li>
 </ul></div>
 

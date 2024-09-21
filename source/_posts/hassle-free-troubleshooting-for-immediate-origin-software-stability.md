@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Troubleshooting for Immediate Origin Software Stability
-date: 2024-09-12T16:22:13.495Z
-updated: 2024-09-16T19:22:34.049Z
+date: 2024-09-17T20:05:52.646Z
+updated: 2024-09-21T20:54:24.583Z
 tags:
   - win11
   - win10
@@ -86,13 +86,6 @@ Here are the system requirements for Control:
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your graphics card settings
 
  If this error message reappears after you lower the in-game graphics settings, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -110,13 +103,6 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -148,13 +134,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
@@ -163,6 +142,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -176,10 +162,10 @@ Here are the system requirements for Control:
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
@@ -191,7 +177,22 @@ Here are the system requirements for Control:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -201,6 +202,13 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -219,13 +227,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -273,20 +274,19 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-checklist-for-professional-youtube-clips/"><u>[New] In 2024, The Ultimate Checklist for Professional YouTube Clips</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-9-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 9 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-how-to-ensure-smooth-gameplay-and-avoid-pc-game-crashes/"><u>Expert Tips: How to Ensure Smooth Gameplay and Avoid PC Game Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-lag-solutions-to-valheims-pc-performance-issues/"><u>Fixing Persistent Lag: Solutions to Valheim's PC Performance Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-fitbit-charge-4-a-perfect-blend-of-design-and-functionality/"><u>In-Depth Analysis of the Fitbit Charge 4 - A Perfect Blend of Design & Functionality</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-fix-deal-with-dread-hungers-persistent-crashing-issue-on-windows-and-mac/"><u>Master the Fix: Deal with Dread Hunger's Persistent Crashing Issue on Windows and Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-pc-crashes-when-attempting-to-finish-your-games-tips-and-tricks/"><u>Solving PC Crashes When Attempting To Finish Your Games - Tips & Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-solutions-when-your-pc-doesnt-recognize-the-steamvr-headset/"><u>Top Solutions: When Your PC Doesn't Recognize the SteamVR Headset</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-lag-on-discord-with-this-2024-step-by-step-guide/"><u>Troubleshoot Lag on Discord with This 2024 Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007806107-troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-viral-click-title-genie/"><u>Ultimate Viral Click Title Genie</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-split-screen-video-makers-the-best-ios-and-android-apps-for-2024/"><u>Updated Split Screen Video Makers The Best iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-alarm-choices-best-download-junctions/"><u>[New] Top Alarm Choices Best Download Junctions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expert-recommended-sub-to-srt-tools-top-8-guide-reviewed-for-2024/"><u>[Updated] Expert Recommended Sub to SRT Tools Top 8 Guide Reviewed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revamp-your-talk-with-cloud-top-5-online-voice-altering-services-for-chrome-os/"><u>[Updated] Revamp Your Talk with Cloud Top 5 Online Voice Altering Services for Chrome OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-erase-wisely-strategies-using-photoshops-eraser/"><u>2024 Approved Erase Wisely Strategies Using Photoshop's Eraser</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-wav-movavi/"><u>免費移動 WMV至 WAV - 用 Movavi 影片編碼工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/de-beste-kostenlose-pdf-hergebruikers-voor-windows-verantwoord-applicaties-om-vrije-pdf-formatten-te-editeren/"><u>De Beste Kostenlose PDF-Hergebruikers Voor Windows - Verantwoord Applicaties Om Vrije PDF-Formatten Te Editeren</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-verbetering-van-mp3-naar-flac-online-moveaveen/"><u>Gratuit Verbetering Van MP3 Naar FLAC Online - Moveaveen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-simple-de-resizing-gratuita-ajuste-multiple-de-fotografias-en-un-solo-click/"><u>Guía Simple De Resizing Gratuita: Ajuste Múltiple De Fotografías en Un Solo Click</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-face-id-not-responding-try-these-14-effective-fixes-for-immediate-relief/"><u>Struggling with iPhone's Face ID Not Responding? Try These 14 Effective Fixes for Immediate Relief</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tips-for-high-quality-vr-gametime-recordings/"><u>Tips for High-Quality VR Gametime Recordings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrijetagsmatig-rmvb-in-mpeg-vullen-met-gratis-movavi-konvertor-online/"><u>Vrijetagsmatig RMVB in MPEG Vullen Met Gratis Movavi Konvertor Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228194678-wmvogg-movavi/"><u>오픈 소스 WMV/OGG 파일 무료 전환 - Movavi</u></a></li>
 </ul></div>
 

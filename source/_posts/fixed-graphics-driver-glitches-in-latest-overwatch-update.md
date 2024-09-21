@@ -1,7 +1,7 @@
 ---
 title: Fixed Graphics Driver Glitches in Latest Overwatch Update
-date: 2024-09-14T17:15:19.562Z
-updated: 2024-09-16T18:03:35.037Z
+date: 2024-09-20T20:25:37.859Z
+updated: 2024-09-21T18:29:20.235Z
 tags:
   - win11
   - win10
@@ -113,6 +113,13 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try relaunching_Arma 3_ to see if this has resolved your issue. If this didn’t help, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -189,13 +196,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -234,19 +234,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
@@ -268,6 +255,13 @@ OR
 **3)** Click the**View tab** , then check the box next to**Hidden items** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-40.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Paste**C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Arma 3** on the address bar, then press**Enter** on your keyboard.
 
@@ -292,20 +286,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Arma 3 and/or Steam
 
@@ -323,10 +324,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Arma 3** and select **Uninstall.**
@@ -358,13 +359,6 @@ OR
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -405,20 +399,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/emystifying-mukbang-a-comprehensive-production-guide-for-2024/"><u>[New] Demystifying Mukbang A Comprehensive Production Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-comparative-analysis-the-leading-edge-with-active/"><u>[New] In 2024, Comparative Analysis The Leading Edge with Active</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-innovations-for-elevating-your-gopro-filmmaking-skills/"><u>[Updated] Innovations for Elevating Your GoPro Filmmaking Skills</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/6-simple-fixes-to-restore-your-oculus-link-from-black-screen-dilemma/"><u>6 Simple Fixes to Restore Your Oculus Link From Black Screen Dilemma</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-recognition-server-hochleistungstauglich-auf-dem-gipfel/"><u>ABBYY Recognition Server: Hochleistungstauglich Auf Dem Gipfel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722135539641-chatgpt-desktop-release-on-hold-no-problem-here-are-5-must-try-open-source-alternatives-for-immediate-use/"><u>ChatGPT Desktop Release On Hold? No Problem! Here Are 5 Must-Try Open Source Alternatives for Immediate Use!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clearing-storage-on-your-pc-a-step-by-step-guide-for-windows-11/"><u>Clearing Storage on Your PC: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-a-non-functional-thaumaturge-pc-launch-problems-solved-here/"><u>Fix a Non-Functional Thaumaturge: PC Launch Problems Solved Here</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-top-10-most-watched-youtube-videos-within-24-hours/"><u>In 2024, Top 10 Most Watched YouTube Videos Within 24 Hours</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-time-adjustment-for-your-amazon-kindle-paperwhite-a-detailed-walkthrough/"><u>Master the Art of Time Adjustment for Your Amazon Kindle Paperwhite - A Detailed Walkthrough</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-in-armored-core-6-fires-of-rubicon-pc-edition/"><u>Mastering Troubleshooting in Armored Core 6: Fires of Rubicon - PC Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-unexpected-closures-in-your-rust-programming-projects/"><u>Overcoming Unexpected Closures in Your Rust Programming Projects</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/speedy-solutions-boost-your-elden-ring-gameplay-with-these-fast-fixes-for-fps-dips/"><u>Speedy Solutions: Boost Your Elden Ring Gameplay with These Fast-Fixes for FPS Dips!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-rockstar-pc-gaming-services-go-offline/"><u>Troubleshooting Steps When Rockstar PC Gaming Services Go Offline</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-wow-pc-startup-issues-resolved/"><u>Troubleshooting WoW PC Startup Issues - Resolved!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mold-mirthful-media/"><u>[New] Mold Mirthful Media</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-cross-platform-connectivity-sharing-youtube-and-twitter-videos-on-snapchat/"><u>[Updated] In 2024, Cross Platform Connectivity Sharing YouTube & Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-enrich-video-narrative-with-slow-motion-on-iphone/"><u>[Updated] In 2024, Enrich Video Narrative with Slow Motion on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-worlds-best-live-streaming-sites/"><u>[Updated] In-Depth Look at World's Best Live Streaming Sites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/inshot-pc/"><u>最適化されたInshotデスクトップアプリ: PCで優れた写真編集を</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/filmmaking-foundations-understanding-screenplays/"><u>Filmmaking Foundations Understanding Screenplays</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-transformar-formatos-de-video-en-linea-como-mts-a-mp4-y-mas-manteniendo-la-alta-definicion/"><u>Guía Paso a Paso Para Transformar Formatos De Video en Línea, Como Mts a Mp4 Y Más, Manteniendo La Alta Definición</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-lite-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor 90 Lite Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Spark 10 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-wav-mp4/"><u>Movavi WAV 파일을 MP4로 쉽게 변환하는 단계룹</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-convertendo-arquivos-ape-em-mp3-gratuito-on-line-facilmente-e-rapido/"><u>Movavi: Convertendo Arquivos APE Em MP3 Gratuito On-Line Facilmente E Rápido</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/remedy-for-accidental-youself-reappearance-during-fb-chats/"><u>Remedy for Accidental 'Youself' Reappearance During FB Chats</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-remediation-of-windows-drivers/"><u>Swift Remediation of Windows Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-il-tuo-videoclip-mpeg-in-formato-mp4-online-e-liberamente-con-movavi/"><u>Trasforma Il Tuo Videoclip MPEG in Formato MP4 Online E Liberamente Con Movavi</u></a></li>
 </ul></div>
 

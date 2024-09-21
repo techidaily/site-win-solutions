@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Rectify Frame Rate Drops and Stutters in 'New World'
-date: 2024-09-13T17:40:58.396Z
-updated: 2024-09-16T17:21:15.800Z
+date: 2024-09-17T19:56:22.685Z
+updated: 2024-09-21T20:26:15.329Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ Connection issues can happen in every online game and bother many players. The L
  Admittedly, a wireless network is not as stable as a wired one. To solve this problem, you could swap Wi-Fi to an Ethernet connection but this is not practical for everyone.  
  Or, you can buy a **[powerline Ethernet adapter](https://www.amazon.com/NETGEAR-Powerline-Adapter-Ethernet-Passthrough/dp/B0778Y6K6N/ref=sr%5F1%5F4?keywords=powerline+ethernet+adapter&qid=1568199231&s=gateway&sr=8-4&tag=drivereasycom-20)**  which extends the reach of your home network to places with poor wireless coverage. Once your network problem is solved, your connection issue in LOL can also be fixed once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Check for Windows Firewall
 
  If LOL is not allowed in the Firewall, it’s not surprising to see the connection issue. So check the Firewall settings and ensure the LOL executable file is allowed in the Firewall.
@@ -77,13 +70,6 @@ Connection issues can happen in every online game and bother many players. The L
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable antivirus software
 
@@ -108,8 +94,28 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -126,15 +132,16 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Launch LOL and check the connection issue.
 
  Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
@@ -151,10 +158,10 @@ Connection issues can happen in every online game and bother many players. The L
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
@@ -165,15 +172,16 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
@@ -200,20 +208,17 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-proven-tactics-for-saving-lol-events/"><u>[New] 2024 Approved Proven Tactics for Saving LOL Events</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chime-catcher-where-to-securely-download-tones/"><u>[Updated] Chime Catcher Where to Securely Download Tones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-static-to-dynamic-hyperlapse-video-techniques/"><u>[Updated] From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-top-8-best-video-converter-on-iphonedesktop/"><u>[Updated] Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-assessing-the-usefulness-of-instas-verified-posts/"><u>2024 Approved Assessing the Usefulness of Insta’s Verified Posts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/advanced-fixes-to-overcome-lag-in-the-sims-4-on-pc-updated-guide-for-gamers/"><u>Advanced Fixes to Overcome Lag in The Sims 4 on PC - Updated Guide for Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-directx-error-troubles-on-cod-mw2-platform/"><u>Comprehensive Solutions for DirectX Error Troubles on CoD MW2 Platform</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decode-and-defuse-tfla0002-effective-strategies-for-your-finals-crisis/"><u>Decode and Defuse TFLA0002: Effective Strategies for Your Finals Crisis</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/escape-frustrating-lag-expert-fixes-for-assassins-creed-valhalla/"><u>Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-easy-steps-to-rectify-non-sending-or-delayed-videos-in-messenger-chats/"><u>In 2024, Easy Steps to Rectify Non-Sending or Delayed Videos in Messenger Chats</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-troublesome-glitches-pro-tips-for-a-smooth-biomutant-experience-on-pc/"><u>Navigating Troublesome Glitches: Pro Tips for a Smooth Biomutant Experience on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rediscover-fun-in-gaming-fix-your-red-dead-redemption-2-startup-issues-today/"><u>Rediscover Fun in Gaming - Fix Your Red Dead Redemption 2 Startup Issues Today!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-overcoming-start-up-hurdles-in-video-games-by-checking-game-files/"><u>Solved! Overcoming Start-Up Hurdles in Video Games by Checking Game Files</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/ubertragung-von-dateien-zwischen-iphone-und-pc-mit-diesen-funf-effizientesten-techniken/"><u>Übertragung Von Dateien Zwischen iPhone Und PC Mit Diesen Fünf Effizientesten Techniken</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>[Updated] 2024 Approved Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-insights-on-ps3-gameplay-documentation/"><u>[Updated] In 2024, Expert Insights on PS3 Gameplay Documentation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movaviswfmp4/"><u>立即開始：免費利用Movavi自動變更SWF為MP4 - 最佳在線圖像編譯器</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226978799-m4v-mp4-movavi/"><u>移動網路上的免費 M4V 至 MP4: 使用 Movavi 預設轉換器</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/a-comprehensible-breakdown-of-discord-spoilers/"><u>A Comprehensible Breakdown of Discord Spoilers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/en-ligne-et-gratuit-comment-transformer-votre-video-vob-en-un-contenu-mkv-de-qualite-superieure-via-quickconvert-suite/"><u>En Ligne Et Gratuit ! Comment Transformer Votre Vidéo VOB en Un Contenu MKV De Qualité Supérieure via QuickConvert Suite</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-v29-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo V29 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/professional-android-film-editing-app-easy-to-use-video-editor-for-smartphone/"><u>Professional Android Film Editing App - Easy-to-Use Video Editor for Smartphone</u></a></li>
+<li><a href="https://article-files.techidaily.com/professional-editors-guide-fcps-top-10-plugins/"><u>Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-selection-of-13-leading-iphone-video-editor-apps-ratings-and-reviews-by-movavi/"><u>Ultimate Selection of 13 Leading iPhone Video Editor Apps - Ratings & Reviews by Movavi</u></a></li>
 </ul></div>
 

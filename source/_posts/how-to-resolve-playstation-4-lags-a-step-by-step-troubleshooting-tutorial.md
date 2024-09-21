@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve PlayStation 4 Lags: A Step-by-Step Troubleshooting Tutorial"
-date: 2024-09-09T20:34:34.440Z
-updated: 2024-09-16T20:08:45.402Z
+date: 2024-09-17T17:53:44.496Z
+updated: 2024-09-21T19:50:27.818Z
 tags:
   - win11
   - win10
@@ -65,18 +65,24 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your drivers
 
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
 
  Or you can go to the device manufacturer’s driver download page. Then find the correct driver for your system, download and install it step by step.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers** (recommended)
 
@@ -109,6 +115,19 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
@@ -117,23 +136,9 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try reconnecting your device to check if the issue persists.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
 
@@ -154,6 +159,13 @@ Now try reconnecting your device to check if the issue persists.
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
@@ -181,10 +193,10 @@ To set a static IP address, you can:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
@@ -197,24 +209,18 @@ To check them, you can:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Copy and paste the following command line and press**Enter** .  
 
 **ipconfig /release**  
 
 ![how to check your ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -249,20 +255,15 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-closing-credits-creations-affordable-premium-and-more/"><u>[New] Closing Credits Creations Affordable, Premium & More</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iny-videos-deciphered-crucial-elements/"><u>[New] Tiny Videos Deciphered Crucial Elements!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-guide-easy-to-install-vrecorder/"><u>[Updated] 2024 Approved Essential Guide Easy-to-Install VRecorder</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-voice-transformation-visionaries-morphvox-edition/"><u>2024 Approved Voice Transformation Visionaries MorphVOX Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-yakuza-the-third-pc-fix-now-runs-smoothly-without-any-hitches/"><u>Enhanced Yakuza The Third Pc Fix Now Runs Smoothly Without Any Hitches</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962196801-epson-xp-330-printer-drivers-free-download-and-installation-guide/"><u>Epson XP-330 Printer Drivers: Free Download and Installation Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-stagnant-load-screens-advancing-from-90-in-the-latest-phasmophobia-game-202n/"><u>Fix Stagnant Load Screens: Advancing From 90% in the Latest Phasmophobia Game (202N)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-obs-app-crashes-in-windows-1110-expert-tips-for-a-smooth-streaming-experience/"><u>Fixing OBS App Crashes in Windows 11/10 – Expert Tips for a Smooth Streaming Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-unveiled-content-tweeting-high-definition-for-everyone/"><u>In 2024, Unveiled Content Tweeting High Definition for Everyone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-insider-solutions-to-modern-warfare-multiplayer-snags/"><u>Overcoming Challenges: Insider Solutions to Modern Warfare Multiplayer Snags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-bloodhunts-performance-issues-crashes-and-stutters-on-windows/"><u>Solving Bloodhunt's Performance Issues: Crashes & Stutters on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004820778-steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here's the Fix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-path-to-larger-video-presentation-in-youtube/"><u>The Path to Larger Video Presentation in YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008847591-troubleshooting-triumphs-fix-your-discord-app-when-it-just-wont-open-anymore/"><u>Troubleshooting Triumphs: Fix Your Discord App When It Just Won’t Open Anymore!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tutorial-setting-up-offline-watches-of-popular-movies-from-netflix-on-your-pc/"><u>Tutorial: Setting Up Offline Watches of Popular Movies From Netflix on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>[New] In 2024, Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfect-obs-settings-for-low-cost-hardware-for-2024/"><u>[New] Perfect OBS Settings for Low-Cost Hardware for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-professionals-guide-to-outstanding-4k-filmmaking-gear-for-2024/"><u>[New] Professionals' Guide to Outstanding 4K Filmmaking Gear for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tips-for-clearer-audio-in-home-based-podcasts-for-2024/"><u>[New] Tips for Clearer Audio in Home-Based Podcasts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-os-melhores-metodos-para-fazer-gravuras-no-iphone-11-uma-aula-detalhada-com-a-ferramenta-movavi-4-dicas-unicas/"><u>1. Os Melhores Métodos Para Fazer Gravuras No iPhone 11: Uma Aula Detalhada Com a Ferramenta Movavi (4 Dicas Únicas)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-change-mp4-files-into-flash-format-swf-using-movavi/"><u>Free Online Converter: Change MP4 Files Into Flash Format (SWF) Using Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-intel-b560-coffee-lake-motherboard-and-chipset-for-free/"><u>Get Your Intel B560 Coffee Lake Motherboard & Chipset for FREE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets-for-2024/"><u>Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-evolution-of-ai-language-models-when-will-gpt-5-go-live/"><u>The Next Evolution of AI Language Models - When Will GPT-5 Go Live?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-righe-strategie-di-conversione-mp4-a-mp3-senza-costi-dettagliati-per-agosto-2024/"><u>Top Righe Strategie Di Conversione MP4 a MP3 Senza Costi - Dettagliati Per Agosto 2024</u></a></li>
 </ul></div>
 

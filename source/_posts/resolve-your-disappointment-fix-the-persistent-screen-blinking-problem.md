@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Disappointment: Fix the Persistent Screen Blinking Problem"
-date: 2024-09-10T19:51:33.389Z
-updated: 2024-09-16T19:58:33.814Z
+date: 2024-09-17T18:11:03.862Z
+updated: 2024-09-21T19:50:21.861Z
 tags:
   - win11
   - win10
@@ -127,10 +127,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
@@ -138,6 +138,13 @@ OR
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Once updated, restart your computer to take effect.
 
@@ -155,13 +162,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -170,9 +170,23 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -186,19 +200,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
@@ -206,19 +207,6 @@ Here’s what you need to do:
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -230,24 +218,18 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -273,19 +255,17 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-8-filtration-options-for-professional-streams/"><u>[New] Ultimate 8 Filtration Options for Professional Streams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence/"><u>[Updated] 2024 Approved GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-2023-assessment-of-apeaksofts-pioneering-screens-recording/"><u>2024 Approved The 2023 Assessment of Apeaksoft's Pioneering Screens Recording</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-11-pro-max-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 11 Pro Max Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls-for-2024/"><u>Echoes of the Northmen Essential Sites to Grab GoT Audio Calls for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminating-glitches-a-comprehensive-tutorial-to-prevent-diablo-immortal-from-crashing/"><u>Eliminating Glitches: A Comprehensive Tutorial to Prevent Diablo Immortal From Crashing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-how-to-ensure-smooth-gameplay-and-avoid-pc-game-crashes/"><u>Expert Tips: How to Ensure Smooth Gameplay and Avoid PC Game Crashes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-best-free-wmv-video-cutters/"><u>In 2024, Discover the Best Free WMV Video Cutters</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy Z Fold 5?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-solutions-when-your-pc-doesnt-recognize-the-steamvr-headset/"><u>Top Solutions: When Your PC Doesn't Recognize the SteamVR Headset</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007806107-troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/virtual-camcorder-unleashed-elevate-your-livestreams-with-manycams-advanced-features-and-online-camera-tech/"><u>Virtual Camcorder Unleashed: Elevate Your Livestreams with ManyCam's Advanced Features & Online Camera Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>[New] Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-fluide-video-convertissez-vite-en-flv-avec-le-meilleur-convertisseur-de-movavi/"><u>1. Fluide Vidéo : Convertissez Vite en FLV Avec Le Meilleur Convertisseur De Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-strategies-to-streamline-your-google-meet-calendar/"><u>2024 Approved Strategies to Streamline Your Google Meet Calendar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221758923-mpg3gp-movavi/"><u>網路直接免費MPG到3GP轉化 - 使用Movavi解決方案</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-play-8t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Play 8T</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intel-network-drivers-for-windows-pcs-free-and-fast/"><u>Download Intel Network Drivers for Windows PCs - Free and Fast!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-file-conversion-download-and-convert-images-and-videos-to-wma-at-no-cost-via-moveavis-web-service/"><u>Effortless File Conversion: Download and Convert Images & Videos to WMA at No Cost via Moveavi's Web Service</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/inexpensive-pc-playback-solutions-for-2024/"><u>Inexpensive PC Playback Solutions for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi3gpp/"><u>Movaviを使用したオンライン3GPPビデオのバーチャルコンバート – 快適な解決策はこちら</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-11-best-dji-phantom-4-accessories-to-buy-for-2024/"><u>Top 11 Best DJI Phantom 4 Accessories to Buy for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-png-format-a-complete-guide-to-portable-network-graphics/"><u>Understanding the .png Format: A Complete Guide to Portable Network Graphics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-and-install-logitech-gaming-mouses-g403-drivers-easily-on-your-computer-free/"><u>Update & Install Logitech Gaming Mouse's G403 Drivers Easily on Your Computer [Free]</u></a></li>
 </ul></div>
 

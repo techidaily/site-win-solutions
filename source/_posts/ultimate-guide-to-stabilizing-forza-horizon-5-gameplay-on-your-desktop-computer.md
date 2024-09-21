@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Stabilizing Forza Horizon 5 Gameplay on Your Desktop Computer
-date: 2024-09-10T17:01:49.248Z
-updated: 2024-09-16T21:46:57.054Z
+date: 2024-09-15T18:56:45.714Z
+updated: 2024-09-21T20:14:25.326Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ If the lagging issue persists, try the next fix.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your network driver
 
  In-game lags may indicate a driver issue. If your network adapter driver is outdated or faulty, it could cause random connection issues and thus trigger the lagging issue in Forza Horizon 5\. You may want to make sure your network driver is up-to-date and functioning properly.
@@ -98,13 +91,6 @@ If the lagging issue persists, try the next fix.
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
  Your firewall may block Forza Horizon 5’s connection to the server, and thus trigger the in-game lags. You can check if the game is allowed through the firewall, and configure the settings if needed. Here’s how:
@@ -115,18 +101,26 @@ If the lagging issue persists, try the next fix.
 2. Type **control panel** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
@@ -176,10 +170,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -189,8 +183,24 @@ Here’s how to do it:
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
@@ -201,13 +211,6 @@ Here’s how to do it:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -239,15 +242,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-free-youtube-channel-art-templates-find-them-here/"><u>[Updated] Free YouTube Channel Art Templates - Find Them Here</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/definitive-fixes-handling-the-persistent-windows-10-error-code-0xc19001e1-challenge/"><u>Definitive Fixes: Handling the Persistent Windows 10 Error Code 0xC19001E1 Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/directx-glitch-in-anno-1800-heres-your-ultimate-solution/"><u>DirectX Glitch in Anno 1800? Here's Your Ultimate Solution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/duo-display-wizardry-easily-expand-your-workspace-with-two-screens-on-macos/"><u>Duo Display Wizardry: Easily Expand Your Workspace with Two Screens on macOS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/how-to-fix-input-lag-for-a-smoother-experience-in-valorant-on-your-pc-the-ultimate-tips/"><u>How to Fix Input Lag for a Smoother Experience in Valorant on Your PC - The Ultimate Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70E Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-t2-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo T2 5G Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lost-ark-connection-issues-a-comprehensive-guide-for-quick-fixes/"><u>Lost Ark Connection Issues: A Comprehensive Guide for Quick Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-omnicharge-omni-20-the-portable-charger-that-combines-cable-and-wireless-charging-effortlessly/"><u>The Ultimate Guide to Omnicharge Omni 20: The Portable Charger That Combines Cable and Wireless Charging Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-and-fixing-your-toshiba-laptops-audio-issues/"><u>Top Solutions: Troubleshooting and Fixing Your Toshiba Laptop's Audio Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221685208-pcx-movavi/"><u>靈活易用的網路平台 PCX格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-non-start-issue-for-windows-speech-recognition/"><u>Correcting the Non-Start Issue for Windows Speech Recognition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargar-y-convertir-audiovideo-de-gsm-a-mp4-sin-coste-alguno/"><u>Descargar Y Convertir Audio/Video De GSM a MP4 Sin Coste Alguno</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-conversion-of-jpeg2-pdfs-effortless-online-file-transformation-with-movavi/"><u>Free Conversion of JPEG2 PDFs: Effortless Online File Transformation with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-m4v-en-wav-vervanger-online-expertise-van-movavi/"><u>Gratis M4V en WAV Vervanger Online - Expertise Van Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-eficaz-para-crear-videos-interactivos-con-movavi-tecnicas-academicas/"><u>Guía Eficaz Para Crear Videos Interactivos Con Movavi - Técnicas Académicas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-dotm-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .dotm file document electronically</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>In 2024, Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leading-channels-of-social-media-connection-facebook-twitter-instagram-and-youtube/"><u>Leading Channels of Social Media Connection: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-vrije-3gpp-mpeg-konvertor-kwaliteitswaarde-producten-and-dienstverlening-movavi/"><u>Online Vrije 3GPP-MPEG Konvertor - Kwaliteitswaarde Producten & Dienstverlening | Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360477145-reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-kodi-connection-error-couldnt-get-directory-data/"><u>Step-by-Step Solution for Kodi Connection Error: Couldn't Get Directory Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808325727-the-best-10-torrent-sites-most-popular-in-the-world/"><u>The Best 10 Torrent Sites – Most Popular in the World</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp3-mpeg-mp3-converter/"><u>제공자가 아닌 오피스 MP3-Mpeg 전환 - 무료 모바일윅 MP3 Converter</u></a></li>
 </ul></div>
 

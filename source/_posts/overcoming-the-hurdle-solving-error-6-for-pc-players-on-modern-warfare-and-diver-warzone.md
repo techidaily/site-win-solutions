@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hurdle: Solving Error 6 for PC Players on Modern Warfare and Diver Warzone"
-date: 2024-09-11T18:37:13.169Z
-updated: 2024-09-16T21:52:24.911Z
+date: 2024-09-20T19:25:09.043Z
+updated: 2024-09-21T18:06:43.623Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Clear your standby memory before playing**
 
  If Forza Horizon 4 keeps crashing on your PC, it may also be triggered by some RAM issues. In this case, it is necessary to clear your standby memory before you play Forza Horizon 4\. You can clear your standby memory by using**RAMMap** , a freeware from Microsoft. Here is how to do it:
@@ -127,14 +134,20 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
 
- See if you resolved this problem. If it still keeps crashing, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if you resolved this problem. If it still keeps crashing, try the next fix, below.
 
 ### **Fix 6: Reset Forza Horizon 4**
 
@@ -145,15 +158,16 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 1. On your keyboard, press **the Windows logo key**  and **I**  at the same time to open the **Windows Settings** , and then click **Apps**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap835.png)
 2. Select **Forza Horizon 4**  and click **Advanced options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap836.png)
-3. Click **Reset** to reset **Forza Horizon 4**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap836.png)
+3. Click **Reset** to reset **Forza Horizon 4**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
 
@@ -179,6 +193,13 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 9: Update your Windows system to the latest version**
 
  Sometimes the crash issue may occur if your Windows system is not the latest version. try updating your Windows system to the latest version and this issue may get resolved. Here is how to do it:
@@ -189,13 +210,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 10: Perform a clean boot**
 
@@ -210,27 +224,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Forza Horizon 4 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to restart  your PC to apply the changes.
 
@@ -272,20 +279,19 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[New] 2024 Approved Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-the-charge-in-sustainable-filmmaking/"><u>[Updated] In 2024, Leading the Charge in Sustainable Filmmaking</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/artisanarray-pro-online-creation-powerhouse-for-2024/"><u>ArtisanArray Pro Online Creation Powerhouse for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-battlefield-5s-pc-hiccups-effective-solutions-uncovered/"><u>Beat Battlefield 5'S PC Hiccups: Effective Solutions Uncovered!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-your-clownfish-vocal-transformer-malfunctions/"><u>Effective Solutions for When Your Clownfish Vocal Transformer Malfunctions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-why-shadowplay-stops-capturing-video-in-windows-solutions-unveiled/"><u>Fix: Why Shadowplay Stops Capturing Video in Windows - Solutions Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-60-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo 60 5G on Windows??</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/oculus-graphics-issue-resolved-what-you-need-to-know/"><u>Oculus Graphics Issue Resolved - What You Need to Know</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-microsoft-edge-continuous-crashing-on-windows-11-platforms/"><u>Step-by-Step Solutions for Microsoft Edge Continuous Crashing on Windows 11 Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/team-fortress-2-stability-improved-solving-recurring-freezes-and-crashes/"><u>Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlocking-the-power-of-words-in-google-meet-discussions-for-2024/"><u>Unlocking the Power of Words in Google Meet Discussions for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Updated Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-learning-luminaries-leading-ed-tutorials-online/"><u>[New] 2024 Approved Learning Luminaries Leading Ed Tutorials Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vivid-visionary-views-premium-4k-screen-choices/"><u>[Updated] In 2024, Vivid Visionary Views Premium 4K Screen Choices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-revenue-revolution-strategies-for-successful-advertising-earning-for-2024/"><u>[Updated] Vimeo's Revenue Revolution Strategies for Successful Advertising Earning for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-not-included-in-winxp-setup/"><u>AMD Graphics Not Included in WinXP Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a05-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy A05 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-yuva-3-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Yuva 3 Pro?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversor-de-formatos-online-gratuito-converter-ogg-em-gif-pelo-movavi/"><u>Conversor De Formatos Online Gratuito - Converter OGG Em GIF Pelo Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/desbloquea-el-poder-del-alineamiento-profesional-descarga-yoconvert-archivos-alaw-de-gratis-en-movavi/"><u>Desbloquea El Poder Del Alineamiento Profesional: Descarga Yoconvert Archivos Alaw De Gratis en Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-commandments-of-eye-catching-podcast-album-imagery/"><u>In 2024, 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726227983345-mac/"><u>Mac独自のファッショナブルなプレゼンテーション製作：ステップバイステップガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-use-of-chatgpt-with-these-5-hidden-gems/"><u>Maximize Your Use of ChatGPT with These 5 Hidden Gems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-video-convertidor-libre-en-linea-cambia-wmv-a-flac-sin-coste-alguno/"><u>Movavi Video Convertidor Libre en Línea - Cambia WMV a FLAC Sin Coste Alguno</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-5-free-video-compression-apps-for-ios-devices/"><u>New In 2024, Top 5 Free Video Compression Apps for iOS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-rated-cameras-for-capturing-stunning-music-videos/"><u>Top-Rated Cameras for Capturing Stunning Music Videos</u></a></li>
 </ul></div>
 

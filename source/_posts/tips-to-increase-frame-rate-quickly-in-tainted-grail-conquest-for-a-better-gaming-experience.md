@@ -1,7 +1,7 @@
 ---
 title: "Tips to Increase Frame Rate Quickly in Tainted Grail: Conquest for a Better Gaming Experience"
-date: 2024-09-10T21:24:02.454Z
-updated: 2024-09-16T19:59:53.829Z
+date: 2024-09-18T18:10:56.002Z
+updated: 2024-09-21T19:35:25.738Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -83,21 +90,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -108,20 +101,20 @@ wireless router
 2. Click**Settings** under the Performance section.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
@@ -130,15 +123,16 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
@@ -161,6 +155,13 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -186,17 +187,16 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-10-essential-vlog-editing-hacks-for-novice-creators/"><u>[Updated] In 2024, 10 Essential Vlog Editing Hacks for Novice Creators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-stop-wow-from-freezing-and-crashing/"><u>Effortless Solutions to Stop WoW From Freezing & Crashing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tools-and-tricks-for-minecraft-recordings-for-2024/"><u>Essential Tools and Tricks for Minecraft Recordings for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-overcoming-voice-chat-glitches-in-content-warning-environments/"><u>Expert Advice: Overcoming Voice Chat Glitches in Content Warning Environments</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-stagnant-load-screens-advancing-from-90-in-the-latest-phasmophobia-game-202n/"><u>Fix Stagnant Load Screens: Advancing From 90% in the Latest Phasmophobia Game (202N)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v29-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V29 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-elite-mobile-devices-for-discord-recordings/"><u>In 2024, Elite Mobile Devices for Discord Recordings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-techniques-to-restore-outlook-connectivity-issues/"><u>Mastering Troubleshooting Techniques to Restore Outlook Connectivity Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-sons-of-the-forest-pc-game-crashes-effective-troubleshooting-tips/"><u>Resolving 'Sons of the Forest' PC Game Crashes: Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Play 8T</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008847591-troubleshooting-triumphs-fix-your-discord-app-when-it-just-wont-open-anymore/"><u>Troubleshooting Triumphs: Fix Your Discord App When It Just Won’t Open Anymore!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-deep-dive-into-youtube-content-ownership-laws/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube Content Ownership Laws</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-teamwork-zooming-through-screenshares-for-2024/"><u>[Updated] Streamline Your Teamwork Zooming Through Screenshares for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225681594-2024-mkv/"><u>2024新級別 MKV 播放器選擇: 自由版最佳解決方案評比！</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/alienwares-masterpiece-a-comprehensive-review-of-the-best-pc-for-gamers-in-2e21/"><u>Alienware's Masterpiece: A Comprehensive Review of the Best PC for Gamers in 2E21</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comparing-image-formats-understanding-the-key-distinctions-between-tiff-and-jpeg/"><u>Comparing Image Formats: Understanding the Key Distinctions Between TIFF & JPEG</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-errors-with-enex-driver-not-loading-in-win11/"><u>Correcting Errors with eNEX Driver Not Loading in Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>From Tube to Chat Sharing Video Content From YouTube & Twitter Directly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-fix-no-video-on-sony-a6400-camera/"><u>How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>In 2024, Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-para-subir-contenido-audiovisual-a-instagram-utilizando-una-pc-o-mac/"><u>Tutorial Para Subir Contenido Audiovisual a Instagram Utilizando Una PC O Mac</u></a></li>
 </ul></div>
 

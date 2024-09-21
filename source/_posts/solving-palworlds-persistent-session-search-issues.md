@@ -1,7 +1,7 @@
 ---
 title: Solving PalWorld's Persistent Session Search Issues
-date: 2024-09-12T17:07:07.926Z
-updated: 2024-09-16T19:56:32.502Z
+date: 2024-09-18T19:06:06.493Z
+updated: 2024-09-21T17:01:13.157Z
 tags:
   - win11
   - win10
@@ -71,13 +71,6 @@ If the problem persists, take a look at the next fix below.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure your system is up to date
 
  Besides drivers, it’s also important you keep Windows up to date. The latest system updates offer bug fixes and sometimes a performance boost, which might make a difference in fixing the crashing issue.
@@ -91,6 +84,13 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
@@ -102,6 +102,13 @@ Here’s how you can check for updates manually:
 
 If your system is already up to date, you can try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change in-game graphics settings
 
  Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
@@ -111,28 +118,21 @@ If your system is already up to date, you can try the next method.
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
@@ -145,21 +145,16 @@ Now you can play and check if the crash stops.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
-4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
+4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
@@ -169,10 +164,10 @@ Now you can play and check if the crash stops.
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
@@ -207,21 +202,12 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-twitter-video-links-to-audio/"><u>2024 Approved Transforming Twitter Video Links to Audio</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitches-a-detailed-strategy-for-resolving-fifa-21-crash-issues-on-windows-machines-full-manual/"><u>Beat the Glitches: A Detailed Strategy for Resolving FIFA 21 Crash Issues on Windows Machines - Full Manual</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-pc-hiccups-with-the-last-epoch-proven-fixes-of-2024/"><u>Effective Solutions for Overcoming PC Hiccups with the Last Epoch - Proven Fixes of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-battlefield-5-from-crashing-on-pc/"><u>Effective Solutions to Prevent Battlefield 5 From Crashing on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-update-and-download-hp-deskjet-2540-drivers-here/"><u>Get the Most Recent Update and Download HP DeskJet 2540 Drivers Here!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-assassins-creed-valhalla-pc-game-crashes-proven-solutions-and-tips/"><u>How to Stop Assassin's Creed Valhalla PC Game Crashes: Proven Solutions and Tips!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential/"><u>In 2024, Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-leading-gif-software-ranked-apples-favorites/"><u>In 2024, Leading GIF Software Ranked Apple's Favorites</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-presentation-creation-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentation Creation with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-input-latency-in-cyberpunk-2077-for-a-smoother-gaming-experience/"><u>Resolved! Overcoming Input Latency in Cyberpunk 2077 for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-doom-eternals-crash-problem-a-comprehensive-guide/"><u>Solving DOOM Eternal's Crash Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streaming-success-how-to-keep-a-record-of-live-tv-for-2024/"><u>Streaming Success How to Keep a Record of Live TV for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-your-msi-dragon-center-wont-start/"><u>Troubleshooting Steps When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-x6-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/what-you-need-to-know-about-truecaller-a-detailed-review/"><u>What You Need to Know About TrueCaller - A Detailed Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[Updated] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-vob-files-to-mp4-format-instantly-with-movavi/"><u>Free Online Converter: Convert VOB Files to MP4 Format Instantly with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-rapide-et-gratuit-pour-changer-un-gif-anime-en-une-image-jpeg-fixe/"><u>Guide Rapide Et Gratuit Pour Changer Un GIF Animé en Une Image JPEG Fixe</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>In 2024, Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726220567063-mkvm4a-movavi/"><u>MKV到M4A自由瀏覽移動平台: Movavi無限制轉換器</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-display-driver-download-for-windows-1078/"><u>Nvidia Display Driver Download for Windows 10/7/8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackle-the-cannot-be-opened-developer-not-verified-issue-on-macos-easily/"><u>Tackle the 'Cannot Be Opened – Developer Not Verified' Issue on macOS Easily</u></a></li>
 </ul></div>
 

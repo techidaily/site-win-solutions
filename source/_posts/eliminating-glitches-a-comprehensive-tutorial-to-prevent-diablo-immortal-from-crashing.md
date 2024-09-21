@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Glitches: A Comprehensive Tutorial to Prevent Diablo Immortal From Crashing"
-date: 2024-09-15T22:03:05.895Z
-updated: 2024-09-16T21:33:53.842Z
+date: 2024-09-16T16:31:29.307Z
+updated: 2024-09-21T16:22:41.127Z
 tags:
   - win11
   - win10
@@ -80,32 +80,18 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable DVR app in Xbox
 
@@ -119,16 +105,17 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -140,8 +127,23 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -165,20 +167,18 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-drift-into-drone-fun-kid-and-novice-guide/"><u>[New] 2024 Approved Drift Into Drone Fun Kid and Novice Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-hdr-photography-your-essential-list/"><u>[New] In 2024, Mastering HDR Photography Your Essential List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-optimal-mp4-transporter-to-fb-hub-for-2024/"><u>[New] Optimal MP4 Transporter to FB Hub for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-payload-pilots-drone-superlatives/"><u>2024 Approved Pinnacle Payload Pilots Drone Superlatives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dragon-ball-z-kakarot-revisited-solved-bugs-for-a-smoother-gameplay-experience/"><u>Dragon Ball Z: Kakarot Revisited - Solved Bugs for a Smoother Gameplay Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more-for-2024/"><u>FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-notorious-centipede-error-in-destiny-2-gameplay/"><u>How to Fix the Notorious 'Centipede' Error in Destiny 2 Gameplay</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>In 2024, Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-battlefield-5-launch-issues-a-comprehensive-guide/"><u>Mastering Battlefield 5 Launch Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-users-rejoice-fixing-baldurs-gate-iii-stability-problems/"><u>PC Users Rejoice: Fixing Baldur's Gate III Stability Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-directx-issues-in-fifa-20/"><u>Resolved: How to Fix DirectX Issues in FIFA 20</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ups-battery-solutions/"><u>Top-Ranking UPS Battery Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-for-linksys-wusb6300-driver-download-and-setup-process/"><u>Ultimate Tutorial for Linksys WUSB6300 Driver Download & Setup Process</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006143352-utorrent-stuck-or-unresponsive-discover-7-reliable-solutions/"><u>Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-guide-how-to-download-windows-movie-maker-6/"><u>[New] Quick Guide How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-comment-resoudre-le-probleme-de-lecture-des-dvd-avec-windows-media-player/"><u>1. Comment Résoudre Le Problème De Lecture Des DVD Avec Windows Media Player?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-camon-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Camon 20 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aiff-to-mp4-movavi/"><u>瀏覽器上免費AIFF to MP4 轉檔: 利用Movavi 變體工具</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp3-mp42024/"><u>無料MP3 MP4変換ソフト2024年度最高効果 - セキュリティチェック済み</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-clash-challenge-obs-meets-shadowgl-for-2024/"><u>Capture Clash Challenge OBS Meets ShadowGL for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-rapida-online-trasformare-file-mpe-a-formato-m4a-gratuitamente-con-movavi/"><u>Conversione Rapida Online: Trasformare File MPE a Formato M4A Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/converting-images-into-harmonious-videography/"><u>Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-webm-and-wmv-converter-download-by-movavi/"><u>Free Online Webm and WMV Converter - Download by Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-streamers-toolkit-for-captivating-sessions/"><u>OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplify-collaboration-with-mematics-cloud-notes-for-2024/"><u>Simplify Collaboration with Mematic’s Cloud Notes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-game-plays-with-top-casters-for-2024/"><u>Strategic Game Plays with Top Casters for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transcodificar-archivo-hdavc-al-formato-mp4-con-la-herramienta-gratuita-de-movavi-en-linea/"><u>Transcodificar Archivo HDAVC Al Formato MP4 Con La Herramienta Gratuita De Movavi en Línea</u></a></li>
 </ul></div>
 

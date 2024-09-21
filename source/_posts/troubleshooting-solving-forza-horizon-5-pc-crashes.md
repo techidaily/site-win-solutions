@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving Forza Horizon 5 PC Crashes"
-date: 2024-09-10T19:08:33.579Z
-updated: 2024-09-16T20:48:20.541Z
+date: 2024-09-18T18:25:09.846Z
+updated: 2024-09-21T20:30:19.336Z
 tags:
   - win11
   - win10
@@ -105,6 +105,19 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -123,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Steam
 
@@ -148,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
 **Program Compatibility Troubleshooter** is a built-in tool in Windows OS that can check whether programs are compatible for your current Windows OS or not. The game crash issues often occur when some program settings are not compatible with the current Windows OS.
@@ -169,23 +182,9 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
@@ -199,19 +198,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Modify the paging file size
 
  If the game crash issues were caused by the insufficient RAM, you can apply this fix to see if it works. Before modifying the paging file, you need to check if The Division 2 crash issue was triggered by the insufficient RAM.
@@ -224,6 +210,19 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
@@ -231,6 +230,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
@@ -243,13 +249,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -274,6 +273,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
 
@@ -318,20 +324,19 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-poptoons-ultimate-insight-24-annual/"><u>[New] 2024 Approved PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guiding-principles-for-integrating-videos-in-education/"><u>[New] In 2024, Guiding Principles for Integrating Videos in Education</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-understanding-zooms-participant-clusters/"><u>[Updated] Understanding Zoom's Participant Clusters</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/a-step-by-step-approach-to-fixing-the-corsair-icue-interface-failures-in-windows-11-systems/"><u>A Step-by-Step Approach to Fixing the Corsair iCUE Interface Failures in Windows 11 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decode-and-defuse-tfla0002-effective-strategies-for-your-finals-crisis/"><u>Decode and Defuse TFLA0002: Effective Strategies for Your Finals Crisis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/funniest-memes-to-download-iphone/"><u>Funniest Memes to Download (iPhone)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-top-digital-innovators-in-av-media-crafting/"><u>In 2024, Top Digital Innovators in Av Media Crafting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-motion-assessment-2023/"><u>In-Depth Motion Assessment 2023</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-troublesome-glitches-pro-tips-for-a-smooth-biomutant-experience-on-pc/"><u>Navigating Troublesome Glitches: Pro Tips for a Smooth Biomutant Experience on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-game-crashes-how-to-resolve-gta-c5-failure-on-startup/"><u>Overcome Game Crashes - How to Resolve GTA C5 Failure on Startup</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rediscover-fun-in-gaming-fix-your-red-dead-redemption-2-startup-issues-today/"><u>Rediscover Fun in Gaming - Fix Your Red Dead Redemption 2 Startup Issues Today!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-overcoming-start-up-hurdles-in-video-games-by-checking-game-files/"><u>Solved! Overcoming Start-Up Hurdles in Video Games by Checking Game Files</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-quick-tips-altering-video-pace-in-instagram-stories/"><u>[New] 2024 Approved Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-scale-up-achieving-extended-facebook-coverage/"><u>[New] 2024 Approved Scale Up Achieving Extended Facebook Coverage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagrams-qanda-sticker-usage-for-2024/"><u>[New] Mastering Instagram's Q&A Sticker Usage for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-top-sierra-dvd-makers/"><u>2024 Approved Ultimate Guide to Top Sierra DVD Makers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ogvmovavi/"><u>無料で転送可能なファイル: OGV形式をクリーンに変更するMovaviツール</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-cambiar-video-mpeg-a-vob-sin-costo-alguno-usando-la-herramienta-en-linea-de-convertidor-movavi/"><u>Cómo Cambiar Video MPEG a VOB Sin Costo Alguno Usando La Herramienta en Línea De Convertidor Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cross-platform-sharing-tweeting-videos-across-fb-for-2024/"><u>Cross-Platform Sharing Tweeting Videos Across FB for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-hues-overcoming-color-issues-on-windows/"><u>Harmonizing Hues: Overcoming Color Issues on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-vista/"><u>How to Manually Update Drivers in Windows Vista</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/legjobb-mkvmp4-atalakito-percifkep-alapitoi-windows-mac-kataszusaig/"><u>Legjobb MKV/MP4 Átalakító Percifkép Alapítói Windows / Mac Kataszúsáig</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-vrije-online-vervanger-mod-file-naar-mp4-formaat/"><u>Movavi: Vrije Online Vervanger MOD-File Naar MP4 Formaat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/revolutionize-traffic-flows-with-innovative-facebook-video-tactics-for-2024/"><u>Revolutionize Traffic Flows with Innovative Facebook Video Tactics for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-mjpeg-gratuitamente-online-con-convertiavi/"><u>Trasforma I Tuoi File AVI in Formato MJPEG Gratuitamente Online Con ConvertiAVI!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vulloughter-mp4mpeg-naar-avi-vrije-converteertool-opzichters-movavi-online/"><u>Vulloughter MP4/MPEG Naar Avi Vrije Converteertool Opzichters Movavi Online</u></a></li>
 </ul></div>
 

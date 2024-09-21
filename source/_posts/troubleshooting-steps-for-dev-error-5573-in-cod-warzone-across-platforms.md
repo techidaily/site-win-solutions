@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for Dev Error 5573 in COD: Warzone Across Platforms"
-date: 2024-09-14T19:01:14.332Z
-updated: 2024-09-16T20:19:56.376Z
+date: 2024-09-19T17:40:19.030Z
+updated: 2024-09-21T19:15:51.200Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -81,10 +88,10 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -105,13 +112,6 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -137,14 +137,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -157,13 +157,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. Launch **Steam** and go to your **LIBRARY** , then right click on Forza Horizon 5 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -183,13 +176,21 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -216,17 +217,18 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-insights-for-youtube-end-credits-top-makers-advice-for-2024/"><u>[New] Expert Insights for YouTube End Credits - Top Makers' Advice for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-dive-into-youtubes-top-vr-experiences-for-2024/"><u>[Updated] Dive Into YouTube's Top VR Experiences for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed-for-2024/"><u>[Updated] Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-success-latest-updates-on-earnings-guidelines/"><u>2024 Approved Streaming Success Latest Updates on Earnings Guidelines</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-edgeplus-2023-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Edge+ (2023) Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/acquiring-igtv-media-easily-a-comprehensive-pcmac-guide-for-2024/"><u>Acquiring IGTV Media Easily A Comprehensive PC/Mac Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blades-new-vision-in-ultra-high-definition-clarity/"><u>Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfares-elusive-bug-a-deep-dive-into-fixing-error-6164/"><u>Cracking the Code on Modern Warfare's Elusive Bug: A Deep Dive Into Fixing Error 6164</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001881798-freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/melhores-gravatas-de-dvd-para-mp3-em-2023-guia-completo-para-windows-e-mac/"><u>Melhores Gravatas De DVD Para MP3 Em 2023: Guia Completo Para Windows E Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-resolving-madden-2n-pc-game-errors/"><u>Ultimate Troubleshooting Tips for Resolving Madden 2N PC Game Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-gadgets-for-elite-gamers/"><u>[New] 2024 Approved Cutting-Edge Gadgets for Elite Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-to-successful-iphone-sound-captures/"><u>[New] 2024 Approved Unveiling the Secrets to Successful iPhone Sound Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-directly-stream-webcam-feed-with-vlc-software-for-2024/"><u>[New] Directly Stream Webcam Feed with VLC Software for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-cost-effective-pc-video-capturing-essentials-checklist-for-2024/"><u>[Updated] Cost-Effective PC Video Capturing Essentials Checklist for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mxf-mp3-movavi/"><u>免費線上 MXF 至 MP3 格式改變 – 指南：Movavi 影像媒体轉換工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-asf-vers-mp4-gratuit-sur-le-web-avec-movavi-solution-simple-et-efficace/"><u>Conversion Asf Vers MP4 Gratuit Sur Le Web Avec Movavi - Solution Simple Et Efficace</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-pratico-qual-e-o-arquivo-m4v-e-como-usa-lo-em-seus-dispositivos/"><u>Guia Prático: Qual É O Arquivo M4V E Como Usá-Lo Em Seus Dispositivos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/inceleme-kolay-cok-gozeller-movavi-yerlestirici-yazilimi-duzenle/"><u>İnceleme Kolay: Çok Gözeller | Movavi Yerleştirici Yazılımı - Düzenle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-zoom-top-strategies-for-chromebooks-for-2024/"><u>Maximizing Zoom Top Strategies for Chromebooks for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-free-audio-converter-by-movavi-easy-opus-and-wav-format-transformation/"><u>Online Free Audio Converter by Movavi: Easy OPUS and WAV Format Transformation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-an-in-depth-look-at-the-features-and-functions-of-the-garmin-forerunner-265/"><u>Unveiling the Potential: An In-Depth Look at the Features and Functions of the Garmin Forerunner 265</u></a></li>
 </ul></div>
 

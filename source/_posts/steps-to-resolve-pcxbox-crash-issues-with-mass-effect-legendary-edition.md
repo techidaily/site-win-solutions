@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve PC/Xbox Crash Issues with Mass Effect Legendary Edition
-date: 2024-09-15T20:18:56.988Z
-updated: 2024-09-16T20:01:51.374Z
+date: 2024-09-16T20:19:03.358Z
+updated: 2024-09-21T18:00:21.907Z
 tags:
   - win11
   - win10
@@ -83,13 +83,6 @@ Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -102,13 +95,20 @@ Here’s how to disable VSync with NVIDIA graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can launch Mass Effect and check if it crashes again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -119,15 +119,21 @@ Now you can launch Mass Effect and check if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-1.jpg)
 3. Enter one of the games from the launcher menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -148,12 +154,13 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>[Updated] In 2024, Perfect Your Profile Easy Guide for Instagram Videos From Desktop</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/advanced-fixes-to-overcome-lag-in-the-sims-4-on-pc-updated-guide-for-gamers/"><u>Advanced Fixes to Overcome Lag in The Sims 4 on PC - Updated Guide for Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-directx-error-troubles-on-cod-mw2-platform/"><u>Comprehensive Solutions for DirectX Error Troubles on CoD MW2 Platform</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/escape-frustrating-lag-expert-fixes-for-assassins-creed-valhalla/"><u>Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>In 2024, Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11-free-download/"><u>RTX 2060 Super Graphics Card Drivers Compatible with Windows 11: Free Download</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix Hot 40</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[Updated] 2024 Approved From Frames to Fun YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-smartphone-photographers-guide-to-top-5-android-editors/"><u>[Updated] 2024 Approved Smartphone Photographers' Guide to Top 5 Android Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-premium-minecraft-channel-graphics/"><u>[Updated] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-virtual-landscape-of-xbox-zoom/"><u>[Updated] Navigating the Virtual Landscape of Xbox Zoom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726219848796-vobmp3-movavi/"><u>無限制的網路VOB到MP3轉換 - 使用Movavi快速方便</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moveavi-video-transcoder-convert-mpeg-files-to-mp4-format-online-and-free/"><u>MoveAVI Video Transcoder: Convert MPEG Files to MP4 Format Online and Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224255128-pcx-movavi/"><u>PCX 이미지를 원격으로 자연스럽게 바이트 비용 없이 변환: Movavi 사용법</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
 

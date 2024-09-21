@@ -1,7 +1,7 @@
 ---
 title: "Get Your Copy of Cyberpunk 2077 Running: Overcoming Initial Launch Hurdles"
-date: 2024-09-13T17:39:30.782Z
-updated: 2024-09-16T18:21:13.247Z
+date: 2024-09-16T18:30:02.022Z
+updated: 2024-09-21T17:11:15.195Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  if this trick doesn’t give you luck, you can move on to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  The FPS drops issue could indicate that you’re using**a faulty or outdated graphics driver** . GPU manufacturers keep updating their drivers to improve performance on new titles. So if you don’t remember when was the last time you updated your graphics driver, definitely do it now as it could be a zero-cost adrenaline for your PC.
@@ -111,22 +118,8 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -144,6 +137,13 @@ And here’s a simple guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -151,6 +151,19 @@ And here’s a simple guide for that:
  After installing all the system updates, restart your computer and test the gameplay in Cyberpunk 2077.
 
  If this method doesn’t help you, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
 
@@ -167,6 +180,13 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
@@ -176,6 +196,13 @@ And here’s enable HAGS:
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
  If enabling HAGS doesn’t do the trick for you, you can continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower your in-game settings
 
@@ -189,34 +216,13 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -239,16 +245,13 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-short-form-content-top-10-edits-for-iosandroid/"><u>[New] 2024 Approved Elevate Your Short-Form Content Top 10 Edits for iOS/Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-review-free-meme-makers-to-use/"><u>2024 Approved A Review Free Meme Makers to Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/8-effective-techniques-to-debug-and-correct-parse-errors-on-android-platforms/"><u>8 Effective Techniques to Debug and Correct Parse Errors on Android Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-yakuza-the-third-pc-fix-now-runs-smoothly-without-any-hitches/"><u>Enhanced Yakuza The Third Pc Fix Now Runs Smoothly Without Any Hitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-obs-app-crashes-in-windows-1110-expert-tips-for-a-smooth-streaming-experience/"><u>Fixing OBS App Crashes in Windows 11/10 – Expert Tips for a Smooth Streaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-insider-solutions-to-modern-warfare-multiplayer-snags/"><u>Overcoming Challenges: Insider Solutions to Modern Warfare Multiplayer Snags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004820778-steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here's the Fix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-beat-saber-from-crashing-top-solutions-for-stable-gameplay-experience/"><u>Stop Beat Saber From Crashing - Top Solutions for Stable Gameplay Experience</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/understanding-the-differences-in-depth-analysis-of-mp4-and-wmv-file-types/"><u>Understanding the Differences: In-Depth Analysis of MP4 & WMV File Types</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/urgent-secure-lost-iphones-files-shop-for-reliable-data-restoration-services-today/"><u>Urgent: Secure Lost iPhones Files! Shop for Reliable Data Restoration Services Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hangout-history-capture-and-keep/"><u>[New] Hangout History Capture & Keep</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-list-for-capturing-instagram-vids-pcmac/"><u>[New] In 2024, The Ultimate List for Capturing Instagram Vids (PC/Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-srt-to-subcap-conversion-techniques/"><u>[New] SRT to SUBCAP Conversion Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-8-cameras-for-professional-broadcasts/"><u>Cutting-Edge 8 Cameras for Professional Broadcasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-mpeg-video-in-m4v-format-konvertieren-heftig-optimiert-fur-den-seo/"><u>Gratis MPEG-Video in M4V Format Konvertieren - Heftig Optimiert Für Den SEO</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-turkiyes-paragraflarini-daha-eglenceli-ve-kolayca-surusebilir-gorunen-yonler/"><u>Movavi Türkiye's Paragraflarını Daha Eğlenceli Ve Kolayca Sürüşebilir Görünen Yönler</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/telecharger-gratuit-la-cle-dactivation-pour-movie-maker-capturez-vos-screens/"><u>Télécharger Gratuit La Clé D'Activation Pour Movie Maker - Capturez Vos Screens</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-21-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu 21 Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving PC Issues with Star Wars: The Old Republic - Invasions That Freeze or Quit"
-date: 2024-09-15T16:11:30.964Z
-updated: 2024-09-16T18:51:11.440Z
+date: 2024-09-14T17:00:51.600Z
+updated: 2024-09-21T17:27:08.595Z
 tags:
   - win11
   - win10
@@ -76,13 +76,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  Game crashes are usually driver-related and can indicate a wrong, faulty or outdated graphics driver. To keep Star Wars Squadrons running smoothly and boost the game’s performance, you should update your graphics driver to the latest.
@@ -124,6 +117,13 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
@@ -145,10 +145,16 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On GeForce Experience
@@ -163,14 +169,14 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
- Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -187,10 +193,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
@@ -201,14 +207,14 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
- According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
 ### Fix 6 – Reinstall the game
 
@@ -235,18 +241,12 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-starting-with-a-gopro-essential-upgrades-for-new-filmmakers/"><u>[New] Starting with a GoPro Essential Upgrades for New Filmmakers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-vsco-image-enhancement/"><u>2024 Approved Step-by-Step VSCO Image Enhancement</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10C Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/civics-challenge-club-leading-political-gaming-series-for-2024/"><u>Civics Challenge Club Leading Political Gaming Series for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-the-launch-problems-optimizing-age-of-empires-2-compatibility-with-windows-11/"><u>Conquer the Launch Problems: Optimizing Age of Empires 2 Compatibility with Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/creating-the-perfect-biz-account-a-compreehsive-instagram-tutorial-for-2024/"><u>Creating the Perfect Biz Account A Compreehsive Instagram Tutorial for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/grand-theft-auto-v-gta-5-overcoming-gameplay-interruptions-and-smooth-performance-tips/"><u>Grand Theft Auto V (GTA 5): Overcoming Gameplay Interruptions & Smooth Performance Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-cyberpunk-2077s-failure-to-utilize-graphics-card-on-windows-11/"><u>Resolving Cyberpunk 2077’S Failure to Utilize Graphics Card on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/roller-champions-cooperative-play-mastery-for-pc-gamers/"><u>Roller Champions Cooperative Play Mastery for PC Gamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes-for-2024/"><u>Tailoring Your Story A Guide to Crafting Engaging Podcast Episodes for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-narzo-60x-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-5-secrets-to-eliminate-high-latency-issues-in-call-of-duty-modern-warfare-ii-warzone-2k4-and-win-battles/"><u>Top 5 Secrets to Eliminate High Latency Issues in Call of Duty: Modern Warfare II (Warzone 2K4) and Win Battles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-overcoming-wolcen-pc-instability-and-crashes/"><u>Troubleshooting Success: Overcoming Wolcen PC Instability and Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/explore-the-extensive-capabilities-of-movavis-free-editing-suite-no-limits-on-creativity-with-movavi-unlimited/"><u>Explore the Extensive Capabilities of Movavi's Free Editing Suite: No Limits on Creativity with Movavi Unlimited</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12-proplus-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12 Pro+ 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-networks-for-collaborative-prompt-creation/"><u>Prime Networks for Collaborative Prompt Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-easy-guide-transform-avchd-mts-files-to-wmv-at-high-speeds/"><u>Quick and Easy Guide: Transform AVCHD MTS Files to WMV at High Speeds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quiet-your-tiktok-experience-a-guide-to-expertly-muting-videos-with-3-simple-tricks/"><u>Quiet Your TikTok Experience: A Guide to Expertly Muting Videos with 3 Simple Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-gratuitement-un-fichier-aac-en-format-m4a-sur-internet-tutorial-de-movavi/"><u>Transformer Gratuitement Un Fichier AAC en Format M4A Sur Internet - Tutorial De Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-innovative-techniques-for-tailoring-your-job-application-documents/"><u>Utilizing ChatGPT: Innovative Techniques for Tailoring Your Job Application Documents</u></a></li>
 </ul></div>
 

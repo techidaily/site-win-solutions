@@ -1,7 +1,7 @@
 ---
 title: Fixing Technical Glitches in Dragon Quest XI - Solutions Inside
-date: 2024-09-12T19:07:26.176Z
-updated: 2024-09-16T18:20:09.166Z
+date: 2024-09-15T20:43:44.959Z
+updated: 2024-09-21T16:28:57.897Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Select the**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  Hardware problems can be caused by outdated or malfunctioning drivers. If the driver is outdated or wrong, it could cause problems like no sound and audio issues. So make sure your audio driver is up to date.
@@ -81,15 +88,21 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,14 +117,15 @@ Then, reboot your PC and relaunch the game to check.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
-5. Relaunch the game and check you have sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Relaunch the game and check you have sound or not.
 
 ### Fix 5: Verify game files
 
@@ -120,19 +134,6 @@ Then, reboot your PC and relaunch the game to check.
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
@@ -154,19 +155,15 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>[New] In 2024, Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dusk-to-dawn-iphone-night-photography-essentials-for-2024/"><u>[Updated] Dusk to Dawn IPhone Night Photography Essentials for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-no-money-no-problem-learn-to-edit-videos-for-free-on-vimeo/"><u>[Updated] No Money, No Problem! Learn to Edit Videos for FREE on Vimeo</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-invisible-observers-the-ultimate-list-of-apps/"><u>2024 Approved Invisible Observers The Ultimate List of Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-gta-5-online-game-running-smoothly-again-fixes-and-tips/"><u>Get Your GTA 5 Online Game Running Smoothly Again: Fixes & Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-11-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 11 5G.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-playstation-4-lags-a-step-by-step-troubleshooting-tutorial/"><u>How to Resolve PlayStation 4 Lags: A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-captivating-audiences-instagrams-personalized-quest-style-lives/"><u>In 2024, Captivating Audiences Instagram's Personalized Quest-Style Lives</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-of-a-missing-gpu-on-windows-aturin-11-with-msi-afterburner-fixes/"><u>Overcoming the Challenge of a Missing GPU on Windows Aturin-11 with MSI Afterburner Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>[Updated] Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-fast-track-to-1000-fans-through-captivating-content-for-2024/"><u>[Updated] Fast-Track To 1,000 Fans Through Captivating Content for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-archivo-pbm-para-su-visualizacion-en-vista-previa-gratuita-guia-paso-a-paso-de-movavi/"><u>Convertir Archivo PBM Para Su Visualización en Vista Previa Gratuita: Guía Paso a Paso De Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-avi-file-players-for-mac-enjoy-flawless-performance-and-quality/"><u>Discover the Best AVI File Players for Mac - Enjoy Flawless Performance and Quality</u></a></li>
+<li><a href="https://facebook.techidaily.com/enforcing-stronger-security-on-your-facebook-profile/"><u>Enforcing Stronger Security on Your Facebook Profile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-audio-converter-au-download-mp3-files-easily-with-movavi/"><u>Free Online Audio Converter (AU) - Download MP3 Files Easily with Movavi</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/iphone-youtube/"><u>IPhoneへの着信メロディ追加: YouTube 曲変換ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp3-vs-aac-una-comparacion-completa-para-optimizar-la-experiencia-de-escucha-movavi/"><u>MP3 vs AAC: Una Comparación Completa Para Optimizar La Experiencia De Escucha - Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reviving-memories-with-instagram-reposts-for-2024/"><u>Reviving Memories with Instagram Reposts for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 14 Pro Max? | Stellar</u></a></li>
 </ul></div>
 

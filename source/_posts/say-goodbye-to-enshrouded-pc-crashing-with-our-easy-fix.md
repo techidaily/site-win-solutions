@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Enshrouded PC Crashing with Our Easy Fix
-date: 2024-09-10T21:45:41.715Z
-updated: 2024-09-16T18:23:43.514Z
+date: 2024-09-16T17:31:01.554Z
+updated: 2024-09-21T18:42:48.372Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/117606e709c16601f4ab8cc26b0c9a6396939e54d
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -109,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/117606e709c16601f4ab8cc26b0c9a6396939e54d
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -123,11 +116,25 @@ thumbnail: https://thmb.techidaily.com/117606e709c16601f4ab8cc26b0c9a6396939e54d
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -149,41 +156,29 @@ Here’s how to do it:
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
-5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -224,18 +219,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-6-top-mc-village-home-structures-unveiled-for-2024/"><u>[Updated] 6 Top MC Village Home Structures Unveiled for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-ending-live-server-connection-errors-once-and-for-all/"><u>Comprehensive Troubleshooting: Ending Live Server Connection Errors Once & For All</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-these-11-tips-when-your-airpods-cant-be-located-in-find-my/"><u>Discover These 11 Tips When Your AirPods Can't Be Located In 'Find My'</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-at-toms-hardware-store/"><u>Expert Reviews & Advice at Tom's Hardware Store</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-achieve-smooth-gameplay-by-fixing-latency-issues-and-high-ping-on-pc-for-cs2/"><u>How to Achieve Smooth Gameplay by Fixing Latency Issues & High Ping on PC for CS2</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>In 2024, Simplifying the Art of Mac Screen Recording A Keyboard Guru's Insight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-natural-language-understanding-in-workflows/"><u>Integrating Natural Language Understanding in Workflows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/recover-gpeditmsc-control-panel-tool-for-windows-home-users/"><u>Recover gpedit.msc Control Panel Tool for Windows Home Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-world-of-warcrafts-latency-problem-expert-tips-and-tricks-to-improve-your-gameplay-in-2eighty-four/"><u>Solving World of Warcraft's Latency Problem: Expert Tips and Tricks to Improve Your Gameplay in 2Eighty-Four</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-your-gameplay-rtx-3090-for-windows/"><u>Supercharge Your Gameplay - RTX 3090 for Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-end-of-chatgpt-freedom-understanding-why-jailbreaking-is-no-longer-effective/"><u>The End of ChatGPT Freedom: Understanding Why Jailbreaking Is No Longer Effective</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-razr-40-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Razr 40 Ultra Location | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a78-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A78 5G Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crayoncrafts-thorough-examination-and-users-manual-2eva/"><u>[New] CrayonCrafts Thorough Examination & User's Manual 2Eva</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-approach-to-script-dialogue/"><u>[Updated] The Artisan’s Approach to Script Dialogue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-game-record-on-windows-10-top-5-tips/"><u>2024 Approved Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-potential-with-these-top-7-meme-creation-techniques/"><u>2024 Approved Unlock Creative Potential with These Top 7 Meme-Creation Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-7-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 7 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avi-to-wmv-movavi-online-tool/"><u>無料変換ソフト AVI to WMV - MOVAVI ONLINE TOOL</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-with-snapchat-service-center-a-comprehensive-guide/"><u>Connect with Snapchat Service Center: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertire-file-aiff-a-formato-mp4-liberamente-online-movavi/"><u>Convertire File Aiff a Formato Mp4 Liberamente Online - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-conversion-how-to-change-mp4-files-to-m4v-format-with-online-tools/"><u>Free Conversion: How to Change MP4 Files to M4V Format with Online Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-download-complete-collection-of-disney-movie-scores-big-hero-6-into-the-woods-and-frozen/"><u>Free Download: Complete Collection of Disney Movie Scores - Big Hero 6, Into the Woods & Frozen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/implied-consent-delegation/"><u>Implied Consent Delegation.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mov-in-3gp-convertito-online-gratuitamente-tramite-movavi-guida-dettagliata/"><u>MOV in 3Gp Convertito Online Gratuitamente Tramite Movavi - Guida Dettagliata</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-gaming-experience-with-improved-ubisoft-download-manager-performance/"><u>Optimize Your Gaming Experience with Improved Ubisoft Download Manager Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-user-agreement-rules-and-regulations-for-the-movavicom-site/"><u>Understanding the User Agreement: Rules & Regulations for the MOVAVI.COM Site</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-3d-animation-programs-free-trials-and-paid-favorites/"><u>Updated In 2024, Discover the Best 3D Animation Programs Free Trials and Paid Favorites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-jpeg-0-krw-ppm-movavi/"><u>Web용 JPEG 편집: 비용 0 KRW, 무료 전원 PPM 변환기 - Movavi</u></a></li>
 </ul></div>
 

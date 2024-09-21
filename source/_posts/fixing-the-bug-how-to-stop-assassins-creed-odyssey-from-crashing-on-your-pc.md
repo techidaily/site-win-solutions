@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Bug: How to Stop Assassin's Creed Odyssey From Crashing on Your PC"
-date: 2024-09-12T21:51:54.332Z
-updated: 2024-09-16T18:26:56.362Z
+date: 2024-09-17T20:24:16.860Z
+updated: 2024-09-21T16:50:33.917Z
 tags:
   - win11
   - win10
@@ -62,17 +62,38 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -108,19 +129,19 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Restart your computer.
@@ -137,40 +158,13 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -203,17 +197,19 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-mixologists-approach-to-youtube-music/"><u>[Updated] 2024 Approved The Mixologist's Approach to YouTube Music</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovative-downloaders-unveiled-top-8-of-2023/"><u>[Updated] Innovative Downloaders Unveiled Top 8 of 2023</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726027708347-infobox/"><u>不具合に見舞わ [Infobox]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-valheim-failed-to-load/"><u>Fixing the Issue: Why Valheim Failed to Load</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a70-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Itel A70 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-indoor-android-games-you-can-play-without-a-network/"><u>In 2024, Indoor Android Games You Can Play Without a Network</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-claudes-magic-box-why-its-revolutionizing-industries/"><u>Inside Claude's Magic Box: Why It's Revolutionizing Industries</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-rocket-league-wont-open-effective-fixes-and-tips/"><u>Overcoming 'Rocket League Won't Open': Effective Fixes & Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-graphics-distortions-a-step-by-nstep-guide-to-fixing-warzone-issues/"><u>Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-call-of-duty-game-not-starting-correctly/"><u>Step-by-Step Solutions to 'Call of Duty' Game Not Starting Correctly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-system-latest-geforce-rtx-2070-drivers-for-seamless-gaming-on-windows-11-8-and-7/"><u>Update Your System: Latest GeForce RTX 2070 Drivers for Seamless Gaming on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>[New] How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-chuckling-chords-crafting-top-tier-meme-content/"><u>[Updated] 2024 Approved Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-premium-microphone-selection-for-your-podcast/"><u>[Updated] 2024 Approved The Premium Microphone Selection for Your Podcast</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-core-virtual-reality-cinematic-gems/"><u>[Updated] Core Virtual Reality Cinematic Gems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[Updated] In 2024, Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aprenda-como-compartilhar-sua-tela-tanto-no-computador-quanto-no-celular-usando-o-discord-guia-abrangente-passo-a-passo/"><u>Aprenda Como Compartilhar Sua Tela Tanto No Computador Quanto No Celular Usando O Discord – Guia Abrangente Passo-a-Passo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuitas-de-conversion-convertir-mp4-a-swf-sin-problemas/"><u>Descargas Gratuitas De Conversión: Convertir MP4 a SWF Sin Problemas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-transforming-your-tiff-images-into-jpg-format-with-ease-using-movavi/"><u>Free Online Conversion: Transforming Your TIFF Images Into JPG Format with Ease - Using Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ganhe-mais-visualizacoes-com-os-microfones-perfeitos-top-8-do-youtube-revelados/"><u>Ganhe Mais Visualizações Com Os Microfones Perfeitos – Top 8 Do YouTube Revelados!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitamente-converti-i-file-ape-in-formato-aiff-con-movavi-guida-rapida-e-completa/"><u>Gratuitamente Converti I File .ape in Formato Aiff Con Movavi: Guida Rapida E Completa</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hidden-havens-of-hand-drawn-harmony-techniques-for-2024/"><u>Hidden Havens of Hand-Drawn Harmony Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>In 2024, Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-un-fichier-f4v-en-swf-pour-flash-avec-loutil-gratuit-de-conversion-en-ligne-de-movavi/"><u>Transformer Facilement Un Fichier F4V en SWF Pour Flash Avec L'outil Gratuit De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-number-1e/"><u>Troubleshooting Techniques for LiveKernelEvent Error Number 1E</u></a></li>
 </ul></div>
 

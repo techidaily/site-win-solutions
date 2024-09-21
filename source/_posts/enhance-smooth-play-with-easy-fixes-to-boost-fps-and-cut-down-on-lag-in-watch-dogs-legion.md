@@ -1,7 +1,7 @@
 ---
 title: "Enhance Smooth Play with Easy Fixes to Boost FPS & Cut Down on Lag in Watch Dogs: Legion"
-date: 2024-09-10T21:31:41.021Z
-updated: 2024-09-16T17:04:26.526Z
+date: 2024-09-15T17:10:17.108Z
+updated: 2024-09-21T20:30:27.233Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 
 If this method doesn’t work, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Verify integrity of game files
 
  Missing or corrupted game files could also lead to annoying issues like Elden Ring FPS drops. Before moving on to the more advanced steps, you could check if there’s something wrong with your game files and repair it automatically in Steam. Here are the steps:
@@ -86,32 +79,26 @@ If this method doesn’t work, try the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
-3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
+3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -120,6 +107,13 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
@@ -134,26 +128,27 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -167,6 +162,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
@@ -194,21 +196,18 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-elevating-facebook-vids-with-fullscreen/"><u>[New] Elevating Facebook Vids with Fullscreen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sneaky-soundtrack-watching-youtube-unobtrusively/"><u>[New] Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>2024 Approved Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008921378-age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitches-a-detailed-strategy-for-resolving-fifa-21-crash-issues-on-windows-machines-full-manual/"><u>Beat the Glitches: A Detailed Strategy for Resolving FIFA 21 Crash Issues on Windows Machines - Full Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/create-and-use-a-secondary-email-in-gmail-a-comprehensive-walkthrough/"><u>Create and Use a Secondary Email in Gmail – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-pc-hiccups-with-the-last-epoch-proven-fixes-of-2024/"><u>Effective Solutions for Overcoming PC Hiccups with the Last Epoch - Proven Fixes of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-battlefield-5-from-crashing-on-pc/"><u>Effective Solutions to Prevent Battlefield 5 From Crashing on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-assassins-creed-valhalla-pc-game-crashes-proven-solutions-and-tips/"><u>How to Stop Assassin's Creed Valhalla PC Game Crashes: Proven Solutions and Tips!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>In 2024, How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-m14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy M14 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-input-latency-in-cyberpunk-2077-for-a-smoother-gaming-experience/"><u>Resolved! Overcoming Input Latency in Cyberpunk 2077 for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-your-msi-dragon-center-wont-start/"><u>Troubleshooting Steps When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/twitch-broadcast-excellence-the-ultimate-5-guide/"><u>Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-correcting-accidental-youself-reappearances-on-social-media/"><u>[New] 2024 Approved Correcting Accidental 'Youself' Reappearances on Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[New] 2024 Approved Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>[New] Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>[Updated] In 2024, Pinnacle Montage Apps Android/iPhone's Creative Powerhouses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-tutorial-on-saving-your-creations-video-exporting-techniques-in-after-effects/"><u>Complete Tutorial on Saving Your Creations: Video Exporting Techniques in After Effects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-transformation-of-swf-videos-into-high-quality-mkv-files-try-it-now/"><u>Effortless Transformation of SWF Videos Into High-Quality MKV Files - Try It Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ideas-creativas-y-unicas-para-impulsar-el-crecimiento-en-tu-canal-de-youtube/"><u>Ideas Creativas Y Únicas Para Impulsar El Crecimiento en Tu Canal De YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-11r-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/interactive-messaging-incorrante-to-using-new-soundemojis/"><u>Interactive Messaging: Incorrante to Using New Soundemojis</u></a></li>
+<li><a href="https://games-able.techidaily.com/sailing-down-memory-lane-with-pokemon-apps/"><u>Sailing Down Memory Lane with Pokémon Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-ripping-commercial-dvds-using-windows/"><u>Step-by-Step Guide: Ripping Commercial DVDs Using Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-definitive-guide-to-using-vlc-player-in-macos/"><u>The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vob-aiff-movavi/"><u>VOB 파일을 AIFF로 원형으로 바꾸기: 영화 코어를 쉽게 전환 - Movavi</u></a></li>
 </ul></div>
 

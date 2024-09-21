@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting WoW PC Startup Issues - Resolved!
-date: 2024-09-10T20:03:52.718Z
-updated: 2024-09-16T21:04:56.777Z
+date: 2024-09-14T20:16:44.349Z
+updated: 2024-09-21T19:49:08.744Z
 tags:
   - win11
   - win10
@@ -58,16 +58,24 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
@@ -78,19 +86,27 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
@@ -112,21 +128,7 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -154,21 +156,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-breaking-barriers-making-your-post-a-sensation-on-fb-for-2024/"><u>[New] Breaking Barriers Making Your Post a Sensation on FB for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-speed-top-8-screenshots-compilation-for-2024/"><u>[Updated] High-Speed Top 8 Screenshots Compilation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-embed-a-youtube-video-in-powerpoint-4-methods/"><u>[Updated] How to Embed a YouTube Video in PowerPoint [4 Methods]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-prime-racing-lineup-the-quintet-of-choice/"><u>2024 Approved Prime Racing Lineup The Quintet of Choice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/common-errors-and-solutions-for-installing-minecraft-on-windows-11/"><u>Common Errors & Solutions for Installing Minecraft on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fast-track-to-fun-solutions-for-sluggish-ubisoft-connection-lags/"><u>Fast Track to Fun: Solutions for Sluggish Ubisoft Connection Lags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-k70e-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi K70E to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improving-frame-rates-in-resident-evil-village-a-comprehensive-guide-for-pc-gamers/"><u>Improving Frame Rates in Resident Evil Village – A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insight-into-the-discontinued-service-what-was-google-hangouts/"><u>Insight Into the Discontinued Service: What Was Google Hangouts?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/light-as-a-feather-strong-in-functionality-the-ultimate-review-of-the-acer-chromebook-r-11/"><u>Light as a Feather, Strong in Functionality: The Ultimate Review of the Acer Chromebook R 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-atomic-heart-errors-when-launching-your-computer/"><u>Resolving Atomic Heart Errors When Launching Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-enshrouded-pc-crashing-with-our-easy-fix/"><u>Say Goodbye to Enshrouded PC Crashing with Our Easy Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/six-proven-strategies-to-fix-recurring-crashes-in-minecraft/"><u>Six Proven Strategies to Fix Recurring Crashes in Minecraft</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-outlook-cant-be-opened-errors/"><u>Troubleshooting Tips for 'Outlook Can't Be Opened' Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-select-20-humorous-incarceration-posts-to-infuse-positivity-into-facebook-feeds/"><u>[New] In 2024, Select 20 Humorous Incarceration Posts to Infuse Positivity Into Facebook Feeds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-brief-stardom-flash-review/"><u>[Updated] 2024 Approved Brief Stardom Flash Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] 2024 Approved Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-marketing-key-methods-for-attracting-viewers/"><u>[Updated] In 2024, YouTube Marketing Key Methods for Attracting Viewers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>2024 Approved Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webm-to-aac-movavi/"><u>無料で使えるWebM to AAC変換サービス – Movavi ウェブ上で簡単操作</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-no-cost-android-tracking-programs-top-5-picks-for-smartphone-surveillance/"><u>Best No-Cost Android Tracking Programs: Top 5 Picks for Smartphone Surveillance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-utilizing-chatgpt-lead-to-job-termination-a-study-on-10-potential-occasions/"><u>Can Utilizing ChatGPT Lead to Job Termination? A Study on 10 Potential Occasions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-online-konverter-von-m4b-zu-avi-movavi/"><u>Gratis Online Konverter Von M4B Zu AVI - Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-f15-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy F15 5G online without jailbreak</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-converti-file-mkv-in-formato-ogg-senza-costi-direttamente-sul-web/"><u>Movavi: Converti File MKV in Formato OGG Senza Costi Direttamente Sul Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-m4r-mp3/"><u>Movavi의 M4R 프로그램에 대한 자세한 분석: 비용 없이 원근 문제를 해소하는 MP3 변환 방법</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/os-12-melhores-softwares-de-edicao-para-vlogs-com-efeitos-glaciais/"><u>Os 12 Melhores Softwares De Edição Para Vlogs Com Efeitos Glaciais</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pcinshot/"><u>PCユーザーのためのInshot代替アプリ: 画像加工の最高レベルに</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226167751-ppm-ff-movavi/"><u>손상 없는 인터넷에서 제공하는 무료 PPM 티 Ff 이미지 변환 - Movavi</u></a></li>
 </ul></div>
 

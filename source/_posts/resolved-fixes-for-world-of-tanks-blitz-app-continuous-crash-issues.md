@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for 'World of Tanks Blitz' App Continuous Crash Issues"
-date: 2024-09-09T18:16:57.971Z
-updated: 2024-09-16T17:26:08.662Z
+date: 2024-09-15T18:40:39.919Z
+updated: 2024-09-21T19:40:05.903Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Century: Age of Ashes keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -81,6 +88,14 @@ Century: Age of Ashes system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -106,6 +121,13 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
@@ -123,13 +145,6 @@ Century: Age of Ashes system requirements
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Many 3rd party antivirus software may also interfere with game files. Once some important game files are blocked by those 3rd party antivirus software, the game would crash.
@@ -139,13 +154,6 @@ Century: Age of Ashes system requirements
  Launch Century: Age of Ashes to see if it crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -170,10 +178,10 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -184,15 +192,16 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
@@ -203,19 +212,6 @@ If this fix didn’t work, try the next fix, below.
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -250,19 +246,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>[Updated] Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003159081-avoiding-disaster-navigating-cyberpunk-2077s-troublesome-flatlined-error-2ebdc/"><u>Avoiding Disaster: Navigating Cyberpunk 2077'S Troublesome Flatlined Error 2Ebdc</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-productivity-the-ultimate-how-to-for-dual-monitors-on-a-mac/"><u>Boost Productivity: The Ultimate How-To for Dual Monitors on a Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-repair-windows-pcs-bluetooth-sound-output-and-monitor-link-up-challenges/"><u>How to Repair Windows PC's Bluetooth Sound Output and Monitor Link-Up Challenges</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seizing-stability-eliminating-instability/"><u>In 2024, Seizing Stability Eliminating Instability</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-a2plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi A2+ FRP Bypass</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/minecraft-malfunctions-decoded-correcting-your-crossbow-complications/"><u>Minecraft Malfunctions Decoded: Correcting Your Crossbow Complications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/on-the-go-tech-support-navigating-the-compact-version-of-driver-easy/"><u>On-the-Go Tech Support: Navigating the Compact Version of Driver Easy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-rdo-errors-masterful-fixes-to-eliminate-pc-game-interruptions-and-crashes/"><u>Say Goodbye to RDO Errors: Masterful Fixes to Eliminate PC Game Interruptions and Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/snapchat-revival-tactics-how-to-bring-back-your-inactive-profile-easily/"><u>Snapchat Revival Tactics: How To Bring Back Your Inactive Profile Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-handbook-for-openai-api-mastery-and-applications/"><u>The Essential Handbook for OpenAI API Mastery and Applications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-best-5-dvd-copying-apps-for-mac-users-looking-for-movie-safety/"><u>Ultimate Guide to the Best 5 DVD Copying Apps for Mac Users Looking for Movie Safety</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uninterrupted-quest-experience-addressing-the-immortals-fenynzings-crash-dilemma/"><u>Uninterrupted Quest Experience: Addressing the Immortals Fenynzing's Crash Dilemma</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-20-anime-openers-anthems-in-order/"><u>[New] Best 20 Anime Openers' Anthems in Order</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-master-live-broadcast-setup-using-obs-studio-pc-mac-laptop/"><u>[Updated] Master Live Broadcast Setup Using OBS Studio (PC, Mac, Laptop)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tsgif-movavi-gif/"><u>無限制網路直接類比TS成GIF - 利用Movavi GIF轉化工具</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/condicoes-de-uso-e-termos-para-coupons-de-descontos-no-movavi/"><u>Condições De Uso E Termos Para Coupons De Descontos No Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>In 2024, From Views to Valuables The Ultimate Video Income Play</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/laten-mp3-oplossingen-leggen-om-naar-format-3gp3g2-gratuite-onlinelastige-oplichters-van-movavi/"><u>Laten MP3-Oplossingen Leggen Om Naar Format 3GP/3G2: Gratuite Onlinelastige Oplichters Van Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-switching-mp4-audio-format-to-aac-using-movavi-video-editor/"><u>Step-by-Step Guide: Switching MP4 Audio Format to AAC Using Movavi Video Editor</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/topi-meilleurs-alternatives-a-imovie-pour-android-previsions-2024/"><u>Topi Meilleurs Alternatives À iMovie Pour Android - Prévisions 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-para-criar-e-modificar-videos-em-camera-lenta-no-ios-fazer-com-o-seu-iphone/"><u>Tutorial Para Criar E Modificar Vídeos Em Câmera Lenta No iOS - Fazer Com O Seu iPhone!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-to-downloading-and-converting-3d-movies-into-common-video-formats-like-mp4-mov-avi/"><u>Ultimate Guide to Downloading & Converting 3D Movies Into Common Video Formats Like MP4, MOV, AVI</u></a></li>
 </ul></div>
 

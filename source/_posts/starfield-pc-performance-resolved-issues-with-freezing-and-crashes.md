@@ -1,7 +1,7 @@
 ---
 title: "Starfield PC Performance: Resolved Issues with Freezing and Crashes"
-date: 2024-09-12T21:10:45.137Z
-updated: 2024-09-16T20:48:30.212Z
+date: 2024-09-19T18:50:17.981Z
+updated: 2024-09-21T20:47:07.525Z
 tags:
   - win11
   - win10
@@ -76,20 +76,27 @@ To tell which drive you have, please view the Task Manager:
 * **[If you have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[If you have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **To enable VSync in NVIDIA Control Panel:**
 
 1. On your desktop, right-click in an empty space and select **NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
@@ -98,13 +105,6 @@ To tell which drive you have, please view the Task Manager:
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
@@ -118,10 +118,10 @@ To tell which drive you have, please view the Task Manager:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update audio and graphics drivers
@@ -177,27 +177,7 @@ And the website of your audio manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. You may also want to tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now openStarfield again (it should be opened with administrative permission), to see if its audio is back to normal again. If there are still issues with the Starfield audio, please move on to the next fix.
 
@@ -210,7 +190,22 @@ And the website of your audio manufacturer:
 1. Launch the Steam app and navigate to **the LIBRARY tab** , then **right-click** Starfield and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files.** ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Then wait for the process to be done – it could take several minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the verification is done, launch Starfield again to see if its audio still cuts in and out.
 
@@ -236,18 +231,17 @@ And the website of your audio manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-firefox-x-pie-mode-decoded-for-everyday-users/"><u>[New] Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-becoming-a-pro-at-discord-message-aesthetics/"><u>[Updated] 2024 Approved Becoming a Pro at Discord Message Aesthetics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-to-facial-obscurity-in-image-editing/"><u>2024 Approved A Step-by-Step to Facial Obscurity in Image Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-deep-dive-into-the-world-of-lg-broadcast-channels-vital-facts-uncovered/"><u>A Deep Dive Into the World of LG Broadcast Channels - Vital Facts Uncovered</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bringing-text-to-life-3d-creation-in-photo-for-2024/"><u>Bringing Text to Life 3D Creation in PHOTO for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dying-light-audio-fixes-overcoming-the-silent-battleground-challenge/"><u>Dying Light Audio Fixes: Overcoming the Silent Battleground Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-problem-with-the-unreleased-alan-wake-2-game/"><u>Fixing the Problem with the Unreleased Alan Wake 2 Game</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-persistent-vrchat-issues-8-essential-troubleshooting-steps-for-pc-users/"><u>How to Resolve Persistent VRChat Issues: 8 Essential Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nier-autos-re-master-launch-hurdles-tips-for-a-smooth-game-experience/"><u>NieR: Auto's Re-Master Launch Hurdles – Tips for a Smooth Game Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-elden-ring-enthusiasts-unveiling-the-launch-delay-insights/"><u>The Wait Continues for Elden Ring Enthusiasts - Unveiling the Launch Delay Insights</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-design-cartoon-images-with-the-best-tools/"><u>Updated In 2024, Design Cartoon Images With the Best Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-monthly-income-on-youtubes-revenue-model/"><u>[New] Monthly Income on YouTube's Revenue Model?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>[Updated] 2024 Approved Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-du-recorder-features-and-review/"><u>[Updated] Du Recorder Features and Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-most-effective-and-free-screen-recording-software-for-windows-8-our-top-picks/"><u>Discover the Most Effective and FREE Screen Recording Software for Windows 8 - Our Top Picks!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-from-avimov-to-wmv-effortless-video-transformation-with-movavi/"><u>Free Online Converter From AVI/MOV to WMV - Effortless Video Transformation with Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-fan-revival-a-quick-fix-guide/"><u>GPU Fan Revival: A Quick Fix Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-creating-your-own-song-lyrics-video-tutorial-for-youtube/"><u>Step-by-Step Guide: Creating Your Own Song Lyrics Video Tutorial for YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/strategies-to-improve-seamless-broadcasts-in-obs/"><u>Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4-for-2024/"><u>The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-wav-mp3-movavi/"><u>제공자 무료: Online WAV MP3 변환 서비스 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m4aflac-movavi/"><u>オンラインでも簡単! M4AからFLACに自由に変換可能 - Movavi</u></a></li>
 </ul></div>
 

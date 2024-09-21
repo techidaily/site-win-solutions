@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for DayZ FPS Issues - Boost Your Performance Instantly!
-date: 2024-09-10T21:28:48.539Z
-updated: 2024-09-16T21:33:25.857Z
+date: 2024-09-17T20:30:31.324Z
+updated: 2024-09-21T16:05:38.553Z
 tags:
   - win11
   - win10
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -126,26 +119,34 @@ thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
-3. Click **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Click **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
@@ -193,10 +194,16 @@ See if you can play the game smoothly. If not, try the next fix, below.
 Try the next fix below if this fix didn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Change the power plan of your PC
@@ -208,13 +215,6 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -231,6 +231,13 @@ Try the next fix below if this fix didn’t work for you.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
@@ -258,17 +265,16 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>[New] Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sticker-free-showcase-crafting-cleansed-tiktok-videos/"><u>[New] Sticker-Free Showcase Crafting Cleansed TikTok Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pinnacle-eight-video-recording-apps/"><u>[Updated] 2024 Approved Pinnacle Eight Video Recording Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-guide-with-logitech-wireless-mouse-drivers-for-your-pc-windows/"><u>Easy Setup Guide with Logitech Wireless Mouse Drivers for Your PC (Windows)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-game-disruptions-fixing-freezing-and-lag-in-pubg-for-a-smoother-play-experience/"><u>Eliminate Game Disruptions: Fixing Freezing and Lag in PUBG for a Smoother Play Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-fallout-3-freezing-problems-on-your-pc-with-windows-10/"><u>How to Prevent and Fix Fallout 3 Freezing Problems on Your PC with Windows 10</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-on-mac-quick-setup-tips/"><u>In 2024, Snapchat on Mac - Quick Setup Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Plus Making It Possible</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/joint-venture-campaigns-for-brands-on-video-platforms/"><u>Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-slow-steam-loading-times-enhance-your-gaming-experience/"><u>Quick Fixes for Slow Steam Loading Times – Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-quietness-how-to-get-your-minecraft-game-audio-back-on-a-computer/"><u>Troubleshooting Complete Quietness: How To Get Your Minecraft Game Audio Back On A Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/untangling-websites-snags-a-comprehensive-fix-for-the-504-error/"><u>Untangling Websites' Snags: A Comprehensive Fix for the 504 Error</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-sketch-spectacular-top-10-bare-essentials-for-mac-illustrators/"><u>[New] In 2024, Sketch Spectacular Top 10 Bare Essentials for Mac Illustrators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-premiere-ready-text-configurations/"><u>[Updated] 2024 Approved Premiere-Ready Text Configurations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-aquatic-enhancements-for-gopro-footage/"><u>[Updated] In 2024, Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bezplatny-prevod-avi-do-mp4-na-internetu-movavi-video-vylezareni-bez-ztrateni-kvality/"><u>Bezplatný Převod AVI Do MP4 Na Internetu – Movavi Video Vylezárení Bez Ztratění Kvality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-snappydriver-installer-version-113-a-game-changer/"><u>Comprehensive Review of SnappyDriver Installer Version 1.13 - A Game Changer?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-adjust-movie-aspect-ratio-settings-for-various-screen-formats-169-43-53-32/"><u>How to Adjust Movie Aspect Ratio Settings for Various Screen Formats (16:9, 4:3, 5:3, 3:2)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726219477246-movavi/"><u>Movavi 課程介面攻略: 獨家進階操作手冊</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing-for-2024/"><u>Navigate Through Green Screen Muddle on Mac for Smooth YouTubing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/simplified-approach-to-decoding-facebook-statistics/"><u>Simplified Approach to Decoding Facebook Statistics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224830400-pbm-movavi/"><u>인터넷을 통해 PBM 편집기를 제공: 무료 바이트 스트림 변환 및 지원 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bmpmovavi/"><u>オンラインで手軽にBMP画像を自由に変換！Movavi専用サービス</u></a></li>
 </ul></div>
 

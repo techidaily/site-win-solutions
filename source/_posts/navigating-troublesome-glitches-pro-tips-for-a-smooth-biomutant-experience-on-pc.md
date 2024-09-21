@@ -1,7 +1,7 @@
 ---
 title: "Navigating Troublesome Glitches: Pro Tips for a Smooth Biomutant Experience on PC"
-date: 2024-09-09T19:30:25.562Z
-updated: 2024-09-16T19:20:22.300Z
+date: 2024-09-19T16:13:08.011Z
+updated: 2024-09-21T17:11:17.318Z
 tags:
   - win11
   - win10
@@ -90,6 +90,13 @@ Here’s how:
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  According to some users, conflicted programs could be triggering the constant crashes. You should be extra careful if you have system tuning software on your PC (e.g.**Razer Synapse** or**MSI Afterburner** ). To check if that’s your case, you can do a clean boot:
@@ -106,10 +113,10 @@ Here’s how:
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -131,14 +138,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
 
@@ -153,6 +160,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
@@ -168,13 +183,6 @@ And here’s how:
 1. Launch Genshin Impact. Press**Esc** during gamplay and click the**gear icon** from the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
@@ -216,32 +224,13 @@ And just for your reference, here’s my graphics settings:
 5. Select**Power saving** and click**Save** .  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can launch Genshin Impact and see if it stops crashing.
 
@@ -278,18 +267,18 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-building-dynamic-youtube-music-chains-for-2024/"><u>[Updated] Building Dynamic YouTube Music Chains for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[Updated] Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-idevice-audio-mastery-stepwise-recording-of-voices-for-2024/"><u>[Updated] IDevice Audio Mastery Stepwise Recording of Voices for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1-cup-buttermilk-or-a-mixture-of-milk-and-vinegar-to-substitute/"><u>1 Cup Buttermilk (or a Mixture of Milk and Vinegar to Substitute)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimizing-audio-clarity-in-home-vo-recording-setups/"><u>2024 Approved Optimizing Audio Clarity in Home VO Recording Setups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-forging-poetry-with-gpt-3-help/"><u>A Guide to Forging Poetry with GPT-3 Help</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-your-everspace-2-game-from-freezingcrashing/"><u>Effective Solutions to Stop Your Everspace 2 Game From Freezing/Crashing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-overcoming-voice-chat-glitches-in-content-warning-environments/"><u>Expert Advice: Overcoming Voice Chat Glitches in Content Warning Environments</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mount-and-blade-ii-bannerlord-crash-solutions-for-a-seamless-gaming-experience/"><u>Mount and Blade II: Bannerlord Crash Solutions for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reel-motivation-a-curated-list-of-top-10-film-titles-for-2024/"><u>Reel Motivation A Curated List of Top 10 Film Titles for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-sons-of-the-forest-pc-game-crashes-effective-troubleshooting-tips/"><u>Resolving 'Sons of the Forest' PC Game Crashes: Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/stand-up-for-fitness-uncovering-the-benefits-of-cubefits-terramat-station-review/"><u>Stand Up for Fitness: Uncovering the Benefits of CubeFit's TerraMat Station Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722987370380-welcome-back-to-the-digital-front-door-logging-in-is-ready/"><u>Welcome Back to the Digital Front Door: Logging In Is Ready</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-all-access-fb-melodic-streaming-for-2024/"><u>[New] All-Access FB Melodic Streaming for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/as-melhores-sexta-feira-dos-maisos-para-video-tratamento-livre-com-avisos-dicas-baixar-agora/"><u>As Melhores Sexta-Feira Dos Maisos Para Vídeo: Tratamento Livre Com Avisos, Dicas, Baixar Agora!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-ratios-decoded-youtube-edition-a-quick-reference-guide/"><u>Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-rectifying-simultaneous-dips-in-fps-during-pc-gaming-sessions/"><u>Diagnosing and Rectifying Simultaneous Dips in FPS During PC Gaming Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y02t-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y02T Phones? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-6s-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 6s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp3wav-online-mp3-wav/"><u>MP3/WAV 오디오 파일 격리 자유 - 이름: Online 무료 MP3-WAV 변환 서비스</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-gif-ppm-movavi/"><u>Online GIF 무료 변환 - PPM표지픽스 바인드: 모바일용 Movavi 소프트웨어</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-gif-in-formato-mov-online-senza-costi-con-convertitore-gratuito-di-movavi/"><u>Trasforma I Tuoi GIF in Formato MOV Online Senza Costi Con Convertitore Gratuito Di Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/witje-transformeren-van-webp-naar-jpg-gratis-online-convertidoor-met-duurzaamheid-von-movavi/"><u>Witje Transformeren Van WEBP Naar JPG: Gratis Online Convertidoor Met Duurzaamheid Von Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226514036-mp3-movavi/"><u>온라인 MP3 파일 대체 - 무료 Movavi 구성 도구에 대한 소개</u></a></li>
 </ul></div>
 

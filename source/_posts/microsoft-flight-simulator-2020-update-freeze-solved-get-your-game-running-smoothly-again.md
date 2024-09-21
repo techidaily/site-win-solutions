@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Flight Simulator 2020 Update Freeze Solved: Get Your Game Running Smoothly Again"
-date: 2024-09-11T18:18:11.227Z
-updated: 2024-09-16T17:16:39.489Z
+date: 2024-09-14T20:00:51.094Z
+updated: 2024-09-21T20:41:55.772Z
 tags:
   - win11
   - win10
@@ -85,13 +85,6 @@ If the issue remains, try the next fix.
 
 If this method doesn’t work for you, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Microsoft constantly releases Windows updates to fix the latest bugs and add new features. To improve the performance of your device, you should ensure that your operating system is fully updated. Here’s how:
@@ -99,6 +92,14 @@ If this method doesn’t work for you, go ahead with the next fix.
 1. On your keyboard, press the**Window logo key** . Then type**check for updates** . Click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
@@ -106,16 +107,10 @@ If this method doesn’t work for you, go ahead with the next fix.
  If you still get stuck on the checking for updates screen, check out the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
@@ -130,20 +125,15 @@ If this method doesn’t work for you, go ahead with the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
@@ -190,6 +180,14 @@ on Windows 10:
 5. Under Exclusions, select**Add or remove exclusions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
 on Windows 11:
@@ -199,22 +197,8 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
@@ -240,6 +224,13 @@ on Windows 11:
  Check if the game loads normally after you add it as an exception to your security software.
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -309,20 +300,17 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-premier-image-saga-assembly-package-for-2024/"><u>[New] Premier Image Saga Assembly Package for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-yt-content-with-the-top-thumbnail-hacks/"><u>[Updated] 2024 Approved Elevating Your YT Content with the Top Thumbnail Hacks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>[Updated] In 2024, Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-degrees-elevating-your-youtube-videos/"><u>2024 Approved The Art of Degrees Elevating Your YouTube Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-side-by-side-comparison-amazons-echo-pop-versus-echo-dot/"><u>A Side-by-Side Comparison: Amazon's Echo Pop Versus Echo Dot</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/definitive-fixes-handling-the-persistent-windows-10-error-code-0xc19001e1-challenge/"><u>Definitive Fixes: Handling the Persistent Windows 10 Error Code 0xC19001E1 Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/directx-glitch-in-anno-1800-heres-your-ultimate-solution/"><u>DirectX Glitch in Anno 1800? Here's Your Ultimate Solution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-issue-why-is-my-apple-watch-not-tracking-my-movements/"><u>Fixing the Issue: Why Is My Apple Watch Not Tracking My Movements?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/innovative-fb-video-editors-for-high-impact-advertising-campaigns-for-2024/"><u>Innovative Fb Video Editors for High-Impact Advertising Campaigns for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lost-ark-connection-issues-a-comprehensive-guide-for-quick-fixes/"><u>Lost Ark Connection Issues: A Comprehensive Guide for Quick Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-lag-issues-a-swift-solution-for-gta-5s-frame-rate-problems/"><u>Overcome Lag Issues - A Swift Solution for GTA 5'S Frame Rate Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-and-workarounds-for-world-of-warcrafts-devastating-error-132-fatal-exception/"><u>Quick Fixes and Workarounds for World of Warcraft's Devastating Error 132 Fatal Exception</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-for-smoother-gaming-increasing-fps-and-fixing-stutter-issues-in-valorant/"><u>Step-by-Step Guide for Smoother Gaming: Increasing FPS and Fixing Stutter Issues in Valorant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-the-msodlldll-error-message/"><u>Step-by-Step Guide: Correcting the MSODLL.DLL Error Message</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-installation-of-beta-quadrant-addon-for-kodi-users-seeking-247-streaming-options-tv-channels-and-movies/"><u>Step-by-Step Installation of Beta Quadrant Addon for Kodi Users Seeking 24/7 Streaming Options, TV Channels, and Movies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-understanding-youtubes-revenue-model-one-million-viewer-focus/"><u>[New] 2024 Approved Understanding YouTube's Revenue Model One Million Viewer Focus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-every-detail-on-mac-free/"><u>[New] Capture Every Detail on Mac - Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-direct-call-setup-using-whatsapp-browser-on-your-notebook/"><u>[New] In 2024, Direct Call Setup Using WhatsApp Browser on Your Notebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] 2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726219848796-vobmp3-movavi/"><u>無限制的網路VOB到MP3轉換 - 使用Movavi快速方便</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-the-robust-and-user-friendly-design-of-the-acurite-pro-01036m-weather-station-reviewed/"><u>A Closer Look: The Robust & User-Friendly Design of the AcuRite Pro 01036M Weather Station Reviewed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>How to Reset a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-moto-g34-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Moto G34 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moveavi-video-transcoder-convert-mpeg-files-to-mp4-format-online-and-free/"><u>MoveAVI Video Transcoder: Convert MPEG Files to MP4 Format Online and Free</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlining-your-tweets-with-video-upload-rules/"><u>Streamlining Your Tweets with Video Upload Rules</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-mjpeg-gratuitamente-online-con-convertiavi/"><u>Trasforma I Tuoi File AVI in Formato MJPEG Gratuitamente Online Con ConvertiAVI!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-playing-robocop-rogue-city-on-desktop-computers/"><u>Troubleshooting Tips for Playing RoboCop: Rogue City on Desktop Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolved! Overcoming Input Latency in Cyberpunk 2077 for a Smoother Gaming Experience
-date: 2024-09-12T16:05:18.397Z
-updated: 2024-09-16T20:43:54.447Z
+date: 2024-09-15T18:02:28.525Z
+updated: 2024-09-21T16:24:03.904Z
 tags:
   - win11
   - win10
@@ -112,6 +112,19 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -120,6 +133,13 @@ First visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 runs smoother.
 
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -154,39 +174,12 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
  If enabling HAGS doesn’t do the trick for you, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower your in-game settings
 
@@ -197,29 +190,37 @@ To change the in-game graphics settings, simply follow these steps:
 1. Launch Cyberpunk 2077 and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -242,18 +243,18 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-get-organized-timely-social-media-engagement-on-fb-no-cost/"><u>[Updated] 2024 Approved Get Organized Timely Social Media Engagement on FB (No Cost)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-angles-shooting-vertical-smartphone-panos/"><u>[Updated] Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elder-scrolls-online-wont-start-heres-the-fix/"><u>Elder Scrolls Online Won't Start? Here's the Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-4201-in-genshin-impact-heres-how-you-can-correctly-resolve-it/"><u>Error 4201 in Genshin Impact? Here's How You Can Correctly Resolve It!</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/future-proof-video-coding-av1-or-hevc-analyzing-superiority-for-next-gen-media/"><u>Future-Proof Video Coding: AV1 or HEVC – Analyzing Superiority for Next-Gen Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition-for-2024/"><u>Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-optimizing-tiktok-video-batch-downloads/"><u>In 2024, Optimizing TikTok Video Batch Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-call-of-duty-wwiis-error-code-e-4128-a-step-by-step-correction-manual/"><u>Navigating Through Call of Duty WWII's Error Code E 4128: A Step-by-Step Correction Manual</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-civ-6-installation-problems-on-windows-11-a-step-by-step-guide/"><u>Overcoming Civ 6 Installation Problems on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-audio-glitches-how-to-get-sounds-back-in-lost-ark/"><u>Solving Audio Glitches - How to Get Sounds Back in 'Lost Ark'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unfreeze-your-chromebook-in-8-easy-steps-for-smooth-performance/"><u>Unfreeze Your Chromebook in 8 Easy Steps for Smooth Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screener-info-deconverter/"><u>[New] Screener Info Deconverter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-outro-kings-6-top-suggestions-for-2024/"><u>[Updated] Free YouTube Outro Kings 6 TOP Suggestions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>[Updated] Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>[Updated] Unlock New Potentials IPhone X Secrets Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-legal-ways-to-download-c-span-videos/"><u>2024 Approved Navigating Legal Ways to Download C-Span Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-change-wmv-files-into-avi-format-with-just-a-click/"><u>Free Online Conversion: Change WMV Files Into AVI Format with Just a Click</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-pova-6-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Pova 6 Pro 5G Is Unlocked</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-channel-game-tubebuddy-insights/"><u>In 2024, Elevate Your Channel Game - TubeBuddy Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y200-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y200 Users</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-trimming-sound-extracting-silence-from-mov-clips-on-pc-and-mac-systems-for-2024/"><u>New Trimming Sound Extracting Silence From MOV Clips on PC & Mac Systems for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-12-applicazioni-sniping-gratuite-piu-efficienti-del-2024-solomovi/"><u>Top 12 Applicazioni Sniping Gratuite Più Efficienti Del 2024 - SoloMovi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726223769133-vocmovavi/"><u>VOCファイルを変換するためのMovaviの完全無料オンラインツール - 今すぐ始めよう!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-3gp-mpeg-4/"><u>WMV 대 3GP: 원격 중용 가장 좋은 MPEG-4 변환 도구</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Prevent Battlefield 5 From Crashing on PC
-date: 2024-09-10T18:01:00.896Z
-updated: 2024-09-16T17:18:38.839Z
+date: 2024-09-17T20:23:45.090Z
+updated: 2024-09-21T18:17:53.619Z
 tags:
   - win11
   - win10
@@ -119,13 +119,6 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -135,6 +128,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
@@ -143,21 +143,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
@@ -183,13 +178,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -202,10 +190,10 @@ Here are the system requirements for Control:
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
@@ -225,10 +213,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
@@ -240,6 +228,13 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -279,16 +274,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-power-of-politeness-in-growing-your-audience/"><u>[Updated] The Power of Politeness in Growing Your Audience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-apex-legends-engine-woes-effective-fixes-and-tips-for-an-uninterrupted-gaming-experience/"><u>Beat Apex Legends' Engine Woes: Effective Fixes and Tips for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .odt file</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>In 2024, Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/logitech-g-hub-malfunction-solved-a-step-by-step-guide-for-windows-users/"><u>Logitech G Hub Malfunction Solved: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/microsoft-flight-simulator-2020-update-freeze-solved-get-your-game-running-smoothly-again/"><u>Microsoft Flight Simulator 2020 Update Freeze Solved: Get Your Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-pauses-mastering-the-fix-for-code-vein-game-glitches/"><u>No More Pauses: Mastering the Fix for Code Vein Game Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-ending-gameplay-disruptions-and-stability-problems-with-nioh-2-complete-version/"><u>Step-by-Step Solution: Ending Gameplay Disruptions & Stability Problems with Nioh 2 (Complete Version)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-edge-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Edge 2023 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dual-edges-of-leveraging-chatgpt-for-innovative-writing-solutions/"><u>The Dual Edges of Leveraging ChatGPT for Innovative Writing Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-download-and-store-linkinscape-videos-effortlessly-with-these-6-choices/"><u>[New] In 2024, Download & Store Linkinscape Videos Effortlessly with These 6 Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices/"><u>[New] In 2024, Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastery-of-tasks-with-the-help-of-ez-grabber/"><u>[Updated] 2024 Approved Mastery of Tasks with the Help of EZ Grabber</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/(year)s-ultimate-guide-to-mastering-affiliate-marketing-with-movavi-mentions-a-ranked-list-of-proven-tips/"><u><Year>'s Ultimate Guide to Mastering Affiliate Marketing with Movavi Mentions: A Ranked List of Proven Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-os-melhores-metodos-para-fazer-gravuras-no-iphone-11-uma-aula-detalhada-com-a-ferramenta-movavi-4-dicas-unicas/"><u>1. Os Melhores Métodos Para Fazer Gravuras No iPhone 11: Uma Aula Detalhada Com a Ferramenta Movavi (4 Dicas Únicas)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-your-must-listen-tiktok-rap-playlist/"><u>2024 Approved Your Must-Listen TikTok Rap Playlist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wavmp4-movavi/"><u>線上即時無限制地自由改變WAV至MP4格式 - Movavi 行動視頻轉換工具</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creer-un-webm-a-partir-dun-fichier-mp4-gratuitement-en-ligne-movavi/"><u>Créer Un WebM À Partir D'un Fichier MP4 Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-change-mp4-files-into-flash-format-swf-using-movavi/"><u>Free Online Converter: Change MP4 Files Into Flash Format (SWF) Using Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-streams-into-premium-4k-videos-easily/"><u>In 2024, Transform Streams Into Premium 4K Videos Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movaviwebmkamkv/"><u>Movaviによる無料WebMKA/MKVコンバータソフトウェア – 使い方ガイド</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-of-d-link-drivers-a-comprehensive-guide-for-windows-users/"><u>Seamless Installation of D-Link Drivers: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-amplifi-hd-say-goodbye-to-unreliable-wi-fi-with-superior-mesh-networking/"><u>The Ultimate Guide to Amplifi HD: Say Goodbye to Unreliable Wi-Fi with Superior Mesh Networking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-righe-strategie-di-conversione-mp4-a-mp3-senza-costi-dettagliati-per-agosto-2024/"><u>Top Righe Strategie Di Conversione MP4 a MP3 Senza Costi - Dettagliati Per Agosto 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
 

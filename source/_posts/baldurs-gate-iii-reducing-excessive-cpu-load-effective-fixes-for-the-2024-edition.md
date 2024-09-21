@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate III: Reducing Excessive CPU Load - Effective Fixes for the 2024 Edition"
-date: 2024-09-11T17:51:03.741Z
-updated: 2024-09-16T20:37:24.328Z
+date: 2024-09-20T19:46:29.437Z
+updated: 2024-09-21T19:35:44.070Z
 tags:
   - win11
   - win10
@@ -88,6 +88,20 @@ To ascertain your computer’s specifications:
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
 Open the game to check for any improvement.
@@ -103,22 +117,8 @@ Open the game to check for any improvement.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
 
@@ -142,6 +142,13 @@ Note: You may need to repeat this process each time you launch the game.
 
 Launch the game again to check if the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 End unnecessary tasks
 
  Running too many programs and processes absolutely lowers your system response time. When your GPU and CPU need more time to handle the data transition, it’s usual for game stuttering to occur, even with high FPS. And these tasks add burdens to your CPU usage. To have a better insight into what’s slowing down your system and end those unnecessary tasks, follow these steps:
@@ -150,24 +157,17 @@ Launch the game again to check if the problem has been fixed.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
 Go back to your game to see if it works smoother.
 
@@ -184,13 +184,20 @@ Go back to your game to see if it works smoother.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -214,16 +221,17 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-speech-recognition-and-use-it-free/"><u>[Updated] In 2024, Speech Recognition and Use It Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-in-adobe-after-effects/"><u>2024 Approved Textual Transformation in Adobe After Effects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortless-methodology-for-viewing-highly-regarded-youtube-interactions-for-2024/"><u>Effortless Methodology for Viewing Highly Regarded YouTube Interactions for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-windows-7s-intel-gfx-performance-with-new-drivers/"><u>Elevate Windows 7’S Intel Gfx Performance with New Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-updated-realtek-driver-packages-for-windows-operating-systems-including-11-10-and-7/"><u>Free Downloads: Updated Realtek Driver Packages for Windows Operating Systems Including 11, 10 and 7</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streaming-platforms-reviewed-and-rated/"><u>In 2024, Premier Streaming Platforms Reviewed & Rated</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>Lush Backgrounds A Compendium of Free Screen-Free Downloadables</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-pauses-mastering-the-fix-for-code-vein-game-glitches/"><u>No More Pauses: Mastering the Fix for Code Vein Game Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/on-the-go-tech-support-navigating-the-compact-version-of-driver-easy/"><u>On-the-Go Tech Support: Navigating the Compact Version of Driver Easy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-rdo-errors-masterful-fixes-to-eliminate-pc-game-interruptions-and-crashes/"><u>Say Goodbye to RDO Errors: Masterful Fixes to Eliminate PC Game Interruptions and Crashes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/x-factor-photo-session-the-classic-iphone-experience/"><u>X-Factor Photo Session The Classic iPhone Experience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-tiktoks-1-gamer-list-for-2024/"><u>[New] Unlocking TikTok's #1 Gamer List for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-acer-audio-driver-quickly-and-easily/"><u>[UPDATE] Acer Audio Driver | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comprehensive-instructions-for-disposing-of-video-downloads/"><u>[Updated] In 2024, Comprehensive Instructions for Disposing of Video Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726223918991-mp4flacmovavi/"><u>「線上免費MP4到FLAC格式改變器：使用Movavi換層服務」</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beam-into-a-tiktok-live-your-seamless-integration-techniques-for-2024/"><u>Beam Into a TikTok Live Your Seamless Integration Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger-for-2024/"><u>Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-convertir-mp4-a-ogv-sin-coste-usando-el-servicio-online-de-movavi/"><u>Guía Paso a Paso Para Convertir MP4 a OGV Sin Coste Usando El Servicio Online De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-10-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 10 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224067447-movavi-gif/"><u>Movaviのサービス: GIF画像自由な変更キーワード付き- オンライン変換ツール!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/niet-zenuwachtig-bij-het-verliezen-van-window-movie-maker-vergelijk-de-krachtige-functies-van-movavi-ve/"><u>Niet Zenuwachtig Bij Het Verliezen Van Window Movie Maker? Vergelijk De Krachtige Functies Van Movavi VE</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212446988-ultimate-guide-how-to-troubleshoot-and-repair-your-ps4-microphone-issues/"><u>Ultimate Guide: How to Troubleshoot and Repair Your PS4 Microphone Issues</u></a></li>
 </ul></div>
 

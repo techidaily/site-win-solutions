@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Resolving Fatal Errors in ARK Databases"
-date: 2024-09-14T17:31:14.766Z
-updated: 2024-09-16T20:50:38.251Z
+date: 2024-09-18T16:56:05.002Z
+updated: 2024-09-21T16:48:51.397Z
 tags:
   - win11
   - win10
@@ -77,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/924eefd74e0a8e5fe853f298ec0a0b33bfecd9ce2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -100,10 +94,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After the scan, try to open your MS Office Word again to see if the crashing problem still persists. If so, move on to the next test:
@@ -158,13 +152,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -179,20 +166,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Right-click**Microsoft Office 365** , then select **Uninstall** .  
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-88.png)
@@ -224,17 +212,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-creating-captivating-slideshows-on-the-social-media-giant-for-2024/"><u>[New] Creating Captivating Slideshows on the Social Media Giant for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-potential-your-ultimate-youtube-facebook-transition-guide/"><u>[Updated] 2024 Approved Unlocking Potential Your Ultimate YouTube-Facebook Transition Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-5-digital-recorder-selects-for-2024/"><u>[Updated] Best 5 Digital Recorder Selects for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-wi-fi-mesh-networking-solve-your-connectivity-issues-effectively/"><u>Can Wi-Fi Mesh Networking Solve Your Connectivity Issues Effectively?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-when-genshin-impact-wont-open-properly/"><u>Easy Fixes for When Genshin Impact Won't Open Properly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-resolution-why-you-cant-access-the-camera-in-snap-applications/"><u>Error Resolution: Why You Can't Access the Camera in Snap Applications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fortnite-out-of-video-memory-solved/"><u>Fortnite Out of Video Memory [SOLVED]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-razr-40-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Razr 40 Ultra</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-launch-the-latest-game-finals-of-2n24/"><u>Troubleshooting Tips to Launch the Latest Game Finals of 2N24</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-dolphins-new-feature-reward-points-in-gamecube-titles/"><u>Unlocking Dolphin's New Feature: Reward Points in GameCube Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-engaging-essentials-leading-ig-filters/"><u>[Updated] 2024 Approved Engaging Essentials Leading IG Filters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-interactive-instagram-flipbook-feature-for-2024/"><u>[Updated] Interactive Instagram Flipbook Feature for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swfavi-movavi/"><u>網路直接免費SWF到AVI格式傳送 - 使用Movavi 影片編輯器</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-frame-rate-in-valheim-top-strategies-for-higher-fps/"><u>Boosting Your Frame Rate in Valheim: Top Strategies for Higher FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-modificar-el-tema-de-un-video-con-movavi/"><u>Guía Paso a Paso: Modificar El Tema De Un Video Con Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-canon-mf4500-printer-drivers-quick-easy-download-options/"><u>Installing Canon MF4500 Printer Drivers - Quick, Easy Download Options</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/minecraft-game-walkthrough-and-evaluation-for-all-skill-levels/"><u>Minecraft Game Walkthrough and Evaluation for All Skill Levels</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-effective-guide-to-downloading-and-updating-your-amd-radeon-rx-580-drivers/"><u>Quick & Effective Guide to Downloading & Updating Your AMD Radeon RX 580 Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/riconverti-i-tuoi-file-mmf-in-audio-wav-senza-costi-tramite-movavi-web/"><u>Riconverti I Tuoi File .MMF in Audio .WAV Senza Costi Tramite Movavi Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/riconverti-video-flv-in-formato-asf-online-e-gratuito-con-movavi/"><u>Riconverti Video FLV in Formato ASF Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-xbr65x850f-a-detailed-analysis-of-the-impressively-priced-65-ultra-hd-smart-led-television/"><u>Sony XBR65X850F: A Detailed Analysis of the Impressively Priced 65'' Ultra HD Smart LED Television</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
 

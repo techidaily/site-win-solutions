@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Stability for a Better Game Experience with Wolcen: Lords of Mayhem"
-date: 2024-09-10T16:05:33.489Z
-updated: 2024-09-16T17:06:47.440Z
+date: 2024-09-20T18:07:58.239Z
+updated: 2024-09-21T18:27:20.509Z
 tags:
   - win11
   - win10
@@ -96,13 +96,6 @@ If the crashing issue remains, check out the next fix.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset the video settings
 
  Some players have reported that they fixed the crashing issue by resetting the video settings. You can give it a try. Here’s how:
@@ -124,18 +117,18 @@ If this fix doesn’t do the trick, continue to the next one.
 2. **Right-click** the applications that may interfere with your game and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
 Launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the crashing issue persists, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Allow the game through Windows Firewall
 
@@ -144,41 +137,50 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
-8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
+8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 Once done, relaunch the game to see if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
@@ -206,17 +208,20 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-pioneering-video-player-apps-for-tiktok-and-vimeo-for-2024/"><u>[New] Pioneering Video Player Apps for TikTok & Vimeo for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-mac-accessory-visionplussound-capturing-for-2024/"><u>[Updated] Cutting-Edge Mac Accessory Vision+Sound Capturing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-besten-lol-filmen-finden-herunterladen-oder-online-ansehen-unsere-empfehlungen/"><u>Die Besten LOL-Filmen Finden, Herunterladen Oder Online Ansehen - Unsere Empfehlungen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dragon-ball-z-kakarot-revisited-solved-bugs-for-a-smoother-gameplay-experience/"><u>Dragon Ball Z: Kakarot Revisited - Solved Bugs for a Smoother Gameplay Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-notorious-centipede-error-in-destiny-2-gameplay/"><u>How to Fix the Notorious 'Centipede' Error in Destiny 2 Gameplay</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>In 2024, Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/leveraging-luts-advanced-ae-editing-guide-for-2024/"><u>Leveraging LUTs Advanced AE Editing Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-battlefield-5-launch-issues-a-comprehensive-guide/"><u>Mastering Battlefield 5 Launch Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimal-video-recording-for-instructors/"><u>Optimal Video-Recording for Instructors</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-storytelling-integrating-captions-into-your-instagram-videos-for-2024/"><u>The Art of Storytelling Integrating Captions Into Your Instagram Videos for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-high-tech-secrets-with-toms-hardware-discoveries/"><u>Unraveling High-Tech Secrets with Tom’s Hardware Discoveries</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006143352-utorrent-stuck-or-unresponsive-discover-7-reliable-solutions/"><u>Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unleash-your-potential-strategies-for-recreating-yourself-on-tiktok/"><u>[Updated] 2024 Approved Unleash Your Potential Strategies for Recreating Yourself on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-accurate-chart-watcher-master-your-video-rankings/"><u>[Updated] In 2024, Accurate Chart Watcher Master Your Video Rankings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimizing-googles-automatic-speech-recognition-features-for-2024/"><u>[Updated] Optimizing Google's Automatic Speech Recognition Features for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024s-elite-quiz-networks-revealed/"><u>2024’S Elite Quiz Networks Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-restore-and-repair-lost-or-hidden-user32dll-components/"><u>How to Correctly Restore and Repair Lost or Hidden User32.dll Components</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-xs-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone XS Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-f34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy F34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/los-mejores-8-programas-gratuitos-de-conversion-fotografia-diseno-por-movavi/"><u>Los Mejores 8 Programas Gratuitos De Conversión Fotografía-Diseño Por Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/migracion-gratuita-de-archivos-m4v-a-mp4-con-soluciones-en-linea-hacerlo-facilmente/"><u>Migración Gratuita De Archivos M4V a MP4 Con Soluciones en Línea - Hacerlo Fácilmente</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moveavis-no-cost-solution-for-quick-and-seamless-wma-to-mp4-conversions/"><u>Moveavi's No-Cost Solution for Quick and Seamless WMA to MP4 Conversions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mpeg-4-mp4/"><u>MPEG-4ビデオ形式の変換手順 - スムーズなMP4ファイル再生化</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/najdet-zle-slova-za-umirajici-komunikacni-skvela-lidi-7-zpravou-jak-budes-pokrcit-svuj-zaznam/"><u>Najdět Zlé Slova Za Umírající - Komunikační Skvělá Lidi: 7 Zprávou Jak Budeš Pokrčit Svůj Záznam</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-fraudgpts-ploy-personal-protection-strategies/"><u>Understanding FraudGPT's Ploy: Personal Protection Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/werk-aan-webm-videos-met-movavi-keurmerkend-gratis-mkv-converteren-online/"><u>Werk Aan WEBM-Videos Met Movavi - Keurmerkend Gratis MKV Converteren Online</u></a></li>
 </ul></div>
 

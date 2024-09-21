@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Configuring Steam to Recognize Your Gamepad on Windows Systems"
-date: 2024-09-15T17:25:46.623Z
-updated: 2024-09-16T17:00:31.245Z
+date: 2024-09-20T20:53:16.785Z
+updated: 2024-09-21T17:25:48.992Z
 tags:
   - win11
   - win10
@@ -62,10 +62,17 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically
@@ -87,19 +94,6 @@ There are mainly two ways for you to update your graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Verify the game files
 
  To make sure there are no corrupted or missing files, you can check the integrity of the game files. Here’s how to do it:
@@ -109,16 +103,16 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Play the game in windowed mode
 
@@ -130,14 +124,14 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
 
- Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
 ## 5\. Run your game as an administrator
 
@@ -149,15 +143,21 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
@@ -199,19 +199,14 @@ There are mainly two ways for you to update your graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>[Updated] In 2024, Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dying-light-audio-fixes-overcoming-the-silent-battleground-challenge/"><u>Dying Light Audio Fixes: Overcoming the Silent Battleground Challenge</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortless-scanning-and-conversion-of-documents-into-text-transform-your-iphone-photos-with-fonepilots-all-in-one-app/"><u>Effortless Scanning & Conversion of Documents Into Text: Transform Your iPhone Photos with FonePilot's All-in-One App</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/evolving-tactics-for-crafting-immersive-mukbang-sessions-for-2024/"><u>Evolving Tactics for Crafting Immersive Mukbang Sessions for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-avoiding-in-game-disruptions-keeping-starcraft-ii-running-stable-on-your-desktop-pc/"><u>Expert Advice on Avoiding In-Game Disruptions: Keeping StarCraft II Running Stable on Your Desktop PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-persistent-vrchat-issues-8-essential-troubleshooting-steps-for-pc-users/"><u>How to Resolve Persistent VRChat Issues: 8 Essential Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone without Google Account?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone XR Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-quick-link-pairing-your-fire-stick-remote-made-simple/"><u>Master the Quick Link: Pairing Your Fire Stick Remote Made Simple</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nier-autos-re-master-launch-hurdles-tips-for-a-smooth-game-experience/"><u>NieR: Auto's Re-Master Launch Hurdles – Tips for a Smooth Game Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-photographers-picks-top-6-high-resolution-4k-dslrs/"><u>Pro Photographers' Picks Top 6 High-Resolution 4K DSLRs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-elden-ring-enthusiasts-unveiling-the-launch-delay-insights/"><u>The Wait Continues for Elden Ring Enthusiasts - Unveiling the Launch Delay Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-boosting-efficiency-creating-speed-driven-google-collages/"><u>[New] In 2024, Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-rank-your-download-preferences-with-our-top-5-list/"><u>[New] Rank Your Download Preferences with Our Top 5 List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-essential-blueprint-for-scheduling-success-with-slack-plus-filmora/"><u>[Updated] 2024 Approved The Essential Blueprint for Scheduling Success with Slack + Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hunters-top-5-video-recording-recommendations/"><u>[Updated] Hunters' Top 5 Video Recording Recommendations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-locating-live-broadcasts-and-shared-films-on-fb/"><u>[Updated] Locating Live Broadcasts and Shared Films on FB</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-sony-xperia-5-tiny-yet-towering-in-quality-with-a-premium-price/"><u>Comprehensive Review of the Sony Xperia 5 - Tiny Yet Towering in Quality with a Premium Price</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/friska-konvertering-av-avi-faglar-till-mov-quicktime-enkelt-och-kostnadsfritt-online-service/"><u>Friska Konvertering Av AVI-Fåglar Till MOV QuickTime - Enkelt Och Kostnadsfritt Online Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-ogg-ogg-vorbis-flacwav-moveave/"><u>Online OGG 프리미퓰 Ogg Vorbis 크론 소스를 FLAC/WAV으로 무료로 전환 - Moveave</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-archivos-pef-a-jpg-digitalmente-sin-gasto-guia-paso-a-paso-con-herramientas-gratuitas-de-movavi/"><u>Transformar Archivos PEF a JPG Digitalmente Sin Gasto: Guía Paso a Paso Con Herramientas Gratuitas De Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Challenges of MSI Afterburner Not Detecting Graphics Hardware on Windows nX"
-date: 2024-09-10T16:00:13.649Z
-updated: 2024-09-16T17:38:27.974Z
+date: 2024-09-14T19:15:59.768Z
+updated: 2024-09-21T20:26:59.081Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
  There are mainly two ways to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  First, you’ll need to know your graphics card’s name and its manufacturer.
@@ -90,6 +97,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 3. Select the**Display** tab. In the Device section, you’ll see your graphics card’s name and manufacturer.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now go to the manufacturer’s official website of your graphics card. Find the most up-to-date driver for your system. Then all you need to do is follow the on-screen instructions to download and install it.
 
@@ -127,6 +141,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, right-click on each of the applications you don’t necessarily use while playing the game and select**End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
@@ -144,31 +165,24 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/confirm-to-change-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For users who have a 6-12 core CPU, use the Task Manager and set affinity to CPU 0,1,2,3\. All you have to do is right-click your game and your game launcher, then select**Set affinity** . When the window opens, make sure**only the boxes next to CPU 0, CPU 1, CPU 2, CPU 3 are checked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/task-manager-set-affinity.jpg)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/set-affinity-to-CPU-0-1-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t know how many cores your CPU has? Simply go to the**Performance** tab on the Task Manager. Then you’ll see the number of cores in your processor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/how-to-check-how-many-cores-your-CPU-has.jpg)
 
  After you’ve applied all the changes, launch your game and see how things go. If no improvements have been seen, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware acceleration
 
@@ -181,13 +195,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 3. Then go to your game’s installation folder and add the exe file to the list.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Now click on the**Options** button.  
 
@@ -214,13 +221,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Steam is now verifying the integrity of your game files. This process could take several minutes depending on the file size.
 
  Once the repair is finished, close the window and play your game to check if it works. If this doesn’t do the trick, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -234,13 +234,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 If that doesn’t make any difference, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Tweak in-game settings
 
  Sometimes, the settings by default may not be tailored to your rigs. You can adjust them and check if that can give you a performance boost. Simply open your game settings and make the following adjustments.
@@ -252,6 +245,13 @@ If that doesn’t make any difference, try the next fix below.
 * Under the QUALITY section
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Run a full scan of your PC
 
@@ -286,17 +286,20 @@ If that doesn’t make any difference, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>[New] In 2024, Step-By-Step Tutorial Engaging in a Call on Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-safeguarding-sound-quality-while-speeding-up-tracks/"><u>[New] Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[Updated] Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-a60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel A60 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-problems-with-the-lucidsound-ls30-microphone-not-working/"><u>Expert Advice on Resolving Problems with the LucidSound LS30 Microphone Not Working</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovating-audio-visuals-podcast-covers-explained/"><u>Innovating Audio Visuals Podcast Covers Explained</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-battlefield-5-launch-issues-a-comprehensive-guide/"><u>Mastering Battlefield 5 Launch Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-directx-issues-in-fifa-20/"><u>Resolved: How to Fix DirectX Issues in FIFA 20</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-exercise-vhsdvd-programs-for-healthy-body-transformation-and-physical-wellbeing/"><u>Ultimate Selection of Exercise VHS/DVD Programs for Healthy Body Transformation & Physical Wellbeing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006143352-utorrent-stuck-or-unresponsive-discover-7-reliable-solutions/"><u>Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-angles-unleashed-dive-into-our-11-best-bridge-cameras-review-for-2024/"><u>[New] Angles Unleashed Dive Into Our 11 Best Bridge Cameras Review for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-birds-bamboo-boogie/"><u>[New] Birds Bamboo Boogie</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/3gppwma-movavi/"><u>線上免費變頻格式化，3GPP為WMA: 利用Movavi的功能學習方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-screen-choices-the-ultrawide-and-uhd-4k-showdown/"><u>Clear Screen Choices The Ultrawide & UHD 4K Showdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-your-videos-effortlessly-mkv-to-avi-for-free-using-movavis-online-tool/"><u>Convert Your Videos Effortlessly - MKV to AVI for Free Using Movavi's Online Tool</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diy-troubleshooting-for-system-pte-blunders-causing-blue-screens/"><u>DIY Troubleshooting for System PTE Blunders Causing Blue Screens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/facile-et-gratuit-convertissez-des-fichiers-jpeg-en-images-gifs-animees-en-ligne-via-movavi/"><u>Facile Et Gratuit : Convertissez Des Fichiers JPEG en Images Gifs Animées en Ligne via Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/go-anywhere-stay-in-control-the-sabrent-portable-miniature-mouse-merging-accuracy-and-detachable-wires/"><u>Go Anywhere, Stay in Control: The Sabrent Portable Miniature Mouse Merging Accuracy and Detachable Wires</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-hope-on-the-big-screen-top-10-cinematic-power-ups/"><u>In 2024, Hope on the Big Screen Top 10 Cinematic Power-Ups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-mac-screen-capture-a-comprehensive-tutorial-for-scrolling-screenshots-featuring-16-effective-methods-from-movavi/"><u>Mastering Mac Screen Capture: A Comprehensive Tutorial for Scrolling Screenshots, Featuring 16 Effective Methods From Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/obtineti-cele-mai-bune-pagini-de-setetare-pentru-inregistrul-in-2024-schema-move/"><u>Obțineți Cele Mai Bune Pagini De Setetare Pentru Inregistrul În 2024 - Schema Move</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-wav-naar-flv-vervanger-gratis-movavi-als-een-duidelijke-keuze-voor-videokonversie/"><u>Online WAV Naar FLV Vervanger Gratis: Movavi Als Een Duidelijke Keuze Voor Videokonversie</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-images-in-minutes-convert-jpeg-files-to-gif-format-at-no-cost-using-our-simple-tool/"><u>Transform Your Images in Minutes: Convert JPEG Files to GIF Format at No Cost Using Our Simple Tool!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-productivity-with-w11s-quick-actions/"><u>Unleash Productivity with W11's Quick Actions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-most-effective-web-subtitle-editors/"><u>Unveiling the Most Effective Web Subtitle Editors</u></a></li>
 </ul></div>
 

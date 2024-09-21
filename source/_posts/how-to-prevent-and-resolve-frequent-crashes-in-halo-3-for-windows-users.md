@@ -1,7 +1,7 @@
 ---
 title: How To Prevent and Resolve Frequent Crashes in Halo 3 for Windows Users
-date: 2024-09-10T21:36:01.902Z
-updated: 2024-09-16T21:22:45.813Z
+date: 2024-09-15T19:15:21.133Z
+updated: 2024-09-21T17:57:31.648Z
 tags:
   - win11
   - win10
@@ -72,15 +72,16 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
-4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
+4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
@@ -121,27 +122,27 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -168,21 +169,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-transform-vimeo-footage-into-visual-wonders-easily/"><u>[New] Transform Vimeo Footage Into Visual Wonders Easily</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-post-a-video-between-twitter-and-tumblr/"><u>[Updated] 2024 Approved How to Post a Video Between Twitter and Tumblr?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>[Updated] 2024 Approved The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-snapchat-intro-video-breakdown-size-format-duration-for-2024/"><u>[Updated] SnapChat Intro Video Breakdown Size, Format, Duration for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/decoding-bios-functionality-and-its-relation-to-revouninstaller-software/"><u>Decoding BIOS Functionality and Its Relation to RevoUninstaller Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-performance-boosted-overcoming-lag-glitches/"><u>Guilty Gear Strive Performance Boosted: Overcoming Lag Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-playstation-4-lags-a-step-by-step-troubleshooting-tutorial/"><u>How to Resolve PlayStation 4 Lags: A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-edge-40-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Edge 40 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>In 2024, The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-ark-repairs-effective-solutions-to-tackle-catastrophic-errors/"><u>Mastering ARK Repairs: Effective Solutions to Tackle Catastrophic Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-connection-interrupted-expert-solutions-to-enhance-your-escape-from-tarkov-experience/"><u>Overcoming 'Connection Interrupted': Expert Solutions to Enhance Your Escape From Tarkov Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pro-mic-tech-scoring-the-top-9-mic-recorder-brands/"><u>[New] Pro Mic Tech Scoring the Top 9 Mic Recorder Brands</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225913398-mpeg/"><u>線上無料MPEG轉档服务 - 快速實用解答</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-performance-on-windows-11-v2004-with-essential-connexent-driver-patches/"><u>Boost Performance on Windows 11 v2004 with Essential Connexent Driver Patches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-best-19-no-cost-film-makers-compatible-with-windows-11-8-and-among-others/"><u>Discover the Best 19 No-Cost Film Makers Compatible with Windows 11, 8 & Among Others</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-zte-nubia-z60-ultra-device-sim-by-drfone-android/"><u>Easily Unlock Your ZTE Nubia Z60 Ultra Device SIM</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-video-decks-smart-description-templates-for-2024/"><u>Elevate Video Decks Smart Description Templates for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/explicarea-delicata-a-politicile-privind-expedirile-de-servicii-publice-si-cele-ce-se-returna-in-romania-movavi/"><u>Explicarea Delicată a Politicile Privind Expedirile De Servicii Publice Și Cele Ce Se Returnă În România | Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-movavi-photo-pro-the-ultimate-solution-for-quick-buy-online-image-editors/"><u>Get Movavi Photo Pro: The Ultimate Solution for Quick-Buy Online Image Editors</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-personalization-and-insights/"><u>Harness the Power of Cookiebot for Superior Website Personalization and Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/rhythm-made-simple-top-online-analyzers-to-try-now-for-free-for-2024/"><u>Rhythm Made Simple Top Online Analyzers to Try Now for Free for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-connectivity-latest-mpow-bluetooth-driver-software-for-windows-version-11-8-and-7/"><u>Seamless Connectivity: Latest MPOW Bluetooth Driver Software for Windows (Version 11, 8 & 7)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-14-high-quality-presentation-tools-premium-and-cost-free-options-explored/"><u>Top 14 High-Quality Presentation Tools: Premium and Cost-Free Options Explored</u></a></li>
 </ul></div>
 

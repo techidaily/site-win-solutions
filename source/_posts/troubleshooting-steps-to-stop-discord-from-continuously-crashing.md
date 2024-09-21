@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Stop Discord From Continuously Crashing
-date: 2024-09-11T19:59:20.338Z
-updated: 2024-09-16T17:38:11.200Z
+date: 2024-09-17T18:28:48.938Z
+updated: 2024-09-21T17:47:00.874Z
 tags:
   - win11
   - win10
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
@@ -97,16 +97,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 Your game still freezes? Try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
@@ -123,18 +117,18 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
 If your issue persists, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -173,14 +167,18 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-begin-with-vrecorder-seamless-downloads-and-installs/"><u>2024 Approved Begin with VRecorder Seamless Downloads and Installs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/a-step-by-step-approach-to-fixing-the-corsair-icue-interface-failures-in-windows-11-systems/"><u>A Step-by-Step Approach to Fixing the Corsair iCUE Interface Failures in Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-unity-performance-tweaks-stop-game-crashing-in-2-the-1st-quarter-of-2024/"><u>Assassin's Creed Unity Performance Tweaks: Stop Game Crashing in 2 the 1St Quarter of 2024!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-mp4-files-to-jpeg-pictures-in-windows-operating-systems-1011/"><u>Easy Methods for Converting MP4 Files to JPEG Pictures in Windows Operating Systems (10/11)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elite-ringtones-selection-high-quality-sites/"><u>Elite Ringtones Selection High-Quality Sites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-starcraft-2-windows-launcher-crashes-for-a-smooth-gaming-experience/"><u>How to Resolve Starcraft 2 Windows Launcher Crashes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigating-fun-with-junior-drivers-for-2024/"><u>Navigating Fun with Junior Drivers for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-game-crashes-how-to-resolve-gta-c5-failure-on-startup/"><u>Overcome Game Crashes - How to Resolve GTA C5 Failure on Startup</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-puzzle-how-cyberpunk-2nk7s-ice-age-has-melted-away/"><u>Solving the Puzzle: How Cyberpunk 2Nk7's Ice Age Has Melted Away</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-strategies-to-avoid-pitfalls-in-designing-youtube-thumbnails/"><u>[New] 2024 Approved Strategies to Avoid Pitfalls in Designing YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-prevent-freezing-of-streamed-videos-in-chrome/"><u>[New] In 2024, Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-sourcing-premium-background-images/"><u>[New] The Ultimate Guide to Sourcing Premium Background Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-dealing-with-errgfxd3dinit-error-on-gta-5-platforms/"><u>Effective Solutions for Dealing with 'ERR_GFX_D3D_INIT' Error on GTA 5 Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-and-download-wireless-device-model-1eb-1535-system-driver-issue-solved/"><u>Fix & Download Wireless Device Model 1Eb-1535 System Driver - Issue Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-mp4-to-mpeg-with-movavi-scaricabile/"><u>Free Online Converter: Transform MP4 to MPEG with Movavi - Scaricabile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-updated-dialogue-tools-to-engage-audio-audiences/"><u>In 2024, Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackle-slow-response-times-in-back-4-blood-expert-tips-for-lowering-lag/"><u>Tackle Slow Response Times in Back 4 Blood - Expert Tips for Lowering Lag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-process-of-networked-printing-with-shared-accessibility/"><u>The Comprehensive Process of Networked Printing with Shared Accessibility</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-video-editing-software-for-tiktok-free-and-premium-options-unveiled/"><u>Top 10 Video Editing Software for TikTok : Free and Premium Options Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-free-special-effects-software-programs-les-plus-performants/"><u>Top Free Special Effects Software Programs - Les Plus Performants</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-file-mp3-in-formato-m4r-senza-costi-tramite-il-convertitore-di-movavi/"><u>Trasforma I Tuoi File MP3 in Formato M4R Senza Costi Tramite Il Convertitore Di Movavi.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-ntsc-and-pal-standards-a-comprehensive-guide/"><u>Understanding NTSC and PAL Standards - A Comprehensive Guide</u></a></li>
 </ul></div>
 

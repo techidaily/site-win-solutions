@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Fortnite Logins with These Simple Techniques - No Hassle Guaranteed
-date: 2024-09-11T16:32:36.715Z
-updated: 2024-09-16T22:03:28.435Z
+date: 2024-09-18T17:41:13.119Z
+updated: 2024-09-21T18:44:52.232Z
 tags:
   - win11
   - win10
@@ -88,6 +88,14 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
@@ -103,13 +111,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -151,6 +152,13 @@ See if you can log in or not. if not, try the next fix, below.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Avoid wireless interference
 
  If you failed to log into Fortnite when your PC connects to the Internet via your Wi-Fi network, this issue is also probably caused by **wireless interference** . Follow the instructions below to avoid wireless interference and improve your Wi-Fi signal:
@@ -160,13 +168,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -175,27 +176,20 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
 
@@ -207,21 +201,29 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -258,16 +260,18 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-pursuit-of-perfection-stepwise-processes-for-outstanding-educational-content-on-youtube-for-2024/"><u>[New] In Pursuit of Perfection Stepwise Processes for Outstanding Educational Content on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-designing-engaging-instagram-feature-film-posts/"><u>[Updated] Designing Engaging Instagram Feature Film Posts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-flight-to-film-expert-techniques-for-video-editors-using-drones/"><u>[Updated] Flight to Film Expert Techniques for Video Editors Using Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-photo-reader-for-windows-users/"><u>2024 Approved Rapid Photo Reader for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-yakuza-the-third-pc-fix-now-runs-smoothly-without-any-hitches/"><u>Enhanced Yakuza The Third Pc Fix Now Runs Smoothly Without Any Hitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-stagnant-load-screens-advancing-from-90-in-the-latest-phasmophobia-game-202n/"><u>Fix Stagnant Load Screens: Advancing From 90% in the Latest Phasmophobia Game (202N)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts-in-2024/"><u>How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts, In 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/netgear-password-changes-essential-list-of-default-login-details-july-2024/"><u>Netgear Password Changes: Essential List of Default Login Details (July 2024)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004820778-steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here's the Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008847591-troubleshooting-triumphs-fix-your-discord-app-when-it-just-wont-open-anymore/"><u>Troubleshooting Triumphs: Fix Your Discord App When It Just Won’t Open Anymore!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-solutions-to-chromes-missing-video-while-using-facebook/"><u>[Updated] 10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[Updated] Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/12-teaspoon-kosher-salt-or-more-to-taste/"><u>1/2 Teaspoon Kosher Salt (or More to Taste)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-m1-advantage-high-speed-smooth-video-editing-experience/"><u>2024 Approved M1 Advantage High-Speed, Smooth Video Editing Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/3-pinnacle-phones-for-professional-video-capture-for-2024/"><u>3 Pinnacle Phones for Professional Video Capture for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-acc-a-mp3-facile-avec-lutilitaire-de-conversion-movavi/"><u>Conversion ACC À MP3 Facile Avec L'utilitaire De Conversion Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-converter-de-ogv-para-mpeg-gratuitamente-online-pelo-site-movavi/"><u>Download Converter De OGV Para MPEG Gratuitamente - Online Pelo Site Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp4-creation-from-ram-files-at-no-cost-easy-guide-by-movavis-web-tool/"><u>MP4 Creation From RAM Files at No Cost - Easy Guide by Movavi’s Web Tool</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-c210-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(C210)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-gratuite-de-mpeg-a-aac-en-ligne-utiliser-le-service-de-conversion-de-movavi/"><u>Transformation Gratuite De MPEG À AAC en Ligne - Utiliser Le Service De Conversion De Movavi.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unparalleled-20-anime-series-themes/"><u>Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/your-ultimate-guide-to-streaming-google-meet-on-youtube/"><u>Your Ultimate Guide to Streaming Google Meet on YouTube</u></a></li>
 </ul></div>
 

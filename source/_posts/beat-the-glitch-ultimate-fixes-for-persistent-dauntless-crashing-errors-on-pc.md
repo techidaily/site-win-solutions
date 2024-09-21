@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Ultimate Fixes for Persistent Dauntless Crashing Errors on PC"
-date: 2024-09-12T17:35:06.011Z
-updated: 2024-09-16T17:52:30.402Z
+date: 2024-09-16T16:49:27.803Z
+updated: 2024-09-21T20:01:17.730Z
 tags:
   - win11
   - win10
@@ -51,16 +51,10 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your GPU drivers
@@ -74,13 +68,6 @@ There are two ways for you to update your drivers:
 **OR**
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -111,14 +98,14 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 4: Allow VRChat through firewalls
 
@@ -140,10 +127,24 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you don’t know what the installation folder is for your VRChat, simply right-click on its shortcut and select **Open file location** .
 8. Find **VRChat.exe** and follow the on-screen instructions to make sure VRChat is added to the list and tick **Domain** , and **Public** . Once you’re done, click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Add VRChat as an exception in the Antivirus application
 
@@ -181,10 +182,10 @@ There are two ways for you to update your drivers:
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Create a VRChat account
@@ -196,13 +197,6 @@ To merge your Steam account with your VRChat account:
 1. Log into VRChat with your Steam/Oculus account.
 2. Open your quick menu, then select**Settings** .
 3. Click**Upgrade Account** near the bottom of that menu, then follow the instructions on the screen to merge your accounts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Turn off SteamVR Beta
 
@@ -236,19 +230,12 @@ To merge your Steam account with your VRChat account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-directscreencapture-simple-and-swift-recordings/"><u>[New] DirectScreenCapture Simple & Swift Recordings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-magix-image-handling-insights-reviewed/"><u>[Updated] 2024 Approved MAGIX Image Handling Insights Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] In 2024, Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-3-step-copywriting-blueprint-for-effective-fb-campaigns/"><u>2024 Approved Essential 3-Step Copywriting Blueprint for Effective FB Campaigns</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accelerate-chrome-performance-simple-solutions-for-a-quicker-experience/"><u>Accelerate Chrome Performance: Simple Solutions for a Quicker Experience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-desktop-mouse-pads-rankings-of-2024-enhance-your-productivity-today/"><u>Elite Desktop Mouse Pads Rankings of 2024 - Enhance Your Productivity Today!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-successfully-getting-past-the-initialization-hurdles-for-final-exams/"><u>Expert Advice: Successfully Getting Past the Initialization Hurdles for Final Exams</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebots-power-to-enhance-your-site-seo-success/"><u>Harnessing Cookiebot's Power to Enhance Your Site SEO Success</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hassle-free-troubleshooting-for-immediate-origin-software-stability/"><u>Hassle-Free Troubleshooting for Immediate Origin Software Stability</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exclusive-review-10-best-free-video-meeting-apps-iosandroid/"><u>In 2024, Exclusive Review 10 Best Free Video Meeting Apps iOS/Android</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-in-armored-core-6-fires-of-rubicon-pc-edition/"><u>Mastering Troubleshooting in Armored Core 6: Fires of Rubicon - PC Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-trick-to-prevent-crashes-when-running-no-rest-for-the-wicked-on-your-computer/"><u>The Ultimate Trick to Prevent Crashes When Running 'No Rest for the Wicked' On Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-wow-pc-startup-issues-resolved/"><u>Troubleshooting WoW PC Startup Issues - Resolved!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/tutoriel-comment-ajuster-la-taille-dune-video-avec-convertisseur-de-films-movavi/"><u>Tutoriel: Comment Ajuster La Taille D'une Vidéo Avec Convertisseur De Films Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-youtube-secrets-sharing-videos-in-google-wallet/"><u>[Updated] Unlocking YouTube Secrets Sharing Videos in Google Wallet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-productivity-integrating-ai-tools-into-microsoft-office-via-copilot-pro/"><u>Enhance Productivity: Integrating AI Tools Into Microsoft Office via Copilot Pro</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-for-retrieving-deleted-names-and-numbers-on-iphones/"><u>Expert Picks for Retrieving Deleted Names and Numbers on iPhones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-vob-files-into-mpeg-format-with-movavi/"><u>Free Online Converter: Transform VOB Files Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-rapida-convertir-archivos-gif-a-imagenes-jpeg-sin-costo-con-software-en-linea-gratuito/"><u>Guía Rápida - Convertir Archivos GIF a Imágenes JPEG Sin Costo Con Software en Línea Gratuito</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-gameplay-fixing-fps-drops-while-playing-resident-evil-village-for-pc-users/"><u>Optimizing Your Gameplay: Fixing Fps Drops While Playing Resident Evil Village for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmaflacweb-moveit/"><u>WMAからFLACへのコストフリーWeb変換サービス - MoveIt</u></a></li>
 </ul></div>
 

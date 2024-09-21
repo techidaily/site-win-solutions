@@ -1,7 +1,7 @@
 ---
 title: "Top Solutions: When Your PC Doesn't Recognize the SteamVR Headset"
-date: 2024-09-10T19:45:39.597Z
-updated: 2024-09-16T21:55:38.948Z
+date: 2024-09-15T20:18:40.430Z
+updated: 2024-09-21T17:56:29.467Z
 tags:
   - win11
   - win10
@@ -86,13 +86,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -102,16 +95,10 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
@@ -128,6 +115,13 @@ Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Increase your virtual memory
 
  New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
@@ -135,44 +129,46 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
@@ -208,20 +204,20 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[New] 2024 Approved Capture All Hulu Streaming on Different OS and Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-captivate-viewers-strategies-for-viral-video-success-for-2024/"><u>[New] Captivate Viewers Strategies for Viral Video Success for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-top-video-editors-for-webcams-for-2024/"><u>[New] Ultimate Guide to Top Video Editors for Webcams for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitches-a-detailed-strategy-for-resolving-fifa-21-crash-issues-on-windows-machines-full-manual/"><u>Beat the Glitches: A Detailed Strategy for Resolving FIFA 21 Crash Issues on Windows Machines - Full Manual</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-pc-hiccups-with-the-last-epoch-proven-fixes-of-2024/"><u>Effective Solutions for Overcoming PC Hiccups with the Last Epoch - Proven Fixes of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-battlefield-5-from-crashing-on-pc/"><u>Effective Solutions to Prevent Battlefield 5 From Crashing on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-assassins-creed-valhalla-pc-game-crashes-proven-solutions-and-tips/"><u>How to Stop Assassin's Creed Valhalla PC Game Crashes: Proven Solutions and Tips!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-input-latency-in-cyberpunk-2077-for-a-smoother-gaming-experience/"><u>Resolved! Overcoming Input Latency in Cyberpunk 2077 for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-managing-google-smart-speakers-using-the-compatible-phone-application-on-pc/"><u>Step-by-Step Tutorial for Managing Google Smart Speakers Using the Compatible Phone Application on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-made-ai-the-complete-guide-to-crafted-gpt/"><u>Tailor-Made AI: The Complete Guide to Crafted GPT</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-pova-5-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Pova 5</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-your-msi-dragon-center-wont-start/"><u>Troubleshooting Steps When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs-for-2024/"><u>Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>[New] Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-instant-video-link-up-using-whatsapp-desktop-for-pc-calls-for-2024/"><u>[Updated] Instant Video Link-Up Using WhatsApp Desktop for PC Calls for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-of-ice-artistry-2022-edition-for-2024/"><u>[Updated] The Best of Ice Artistry 2022 Edition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/todmp4-movavi/"><u>如何在線上將TOD文件自由轉換成MP4 - Movavi精選的優化工具列表</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-text-motion-designs-for-2024/"><u>Cutting-Edge Text Motion Designs for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/forskellige-videoredigeringsapplikationer-hvilke-er-nogne-ned/"><u>Forskellige Videoredigeringsapplikationer: Hvilke Er Nøgne Ned?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-graphics-boost-download-nvidias-rtx/"><u>Get the Latest Graphics Boost: Download NVIDIA's RTX</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-simple-convertissez-vos-images-cr2-en-ligne-sans-frais-avec-movavi/"><u>Guide Simple: Convertissez Vos Images CR2 en Ligne Sans Frais Avec Movavi!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-mp4-format-compatible-with-windows-movie-maker-full-details-unveiled/"><u>Is MP4 Format Compatible with Windows Movie Maker? Full Details Unveiled!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/migracion-sin-costo-de-archivos-wtv-a-formatos-mkv-con-herramientas-online-gratuitas/"><u>Migración Sin Costo De Archivos WTV a Formatos MKV Con Herramientas Online Gratuitas</u></a></li>
+<li><a href="https://windows11.techidaily.com/overwhelmed-by-choosing-a-drive-easy-xbox-solutions/"><u>Overwhelmed by Choosing a Drive? Easy Xbox Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-your-memories-a-simple-guide-to-bringing-life-back-to-faded-photographs-with-movavi/"><u>Revive Your Memories: A Simple Guide to Bringing Life Back to Faded Photographs with Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-internet-speed-at-a-bargain-comprehensive-review-of-the-tp-link-archer-a9-router-for-under-100/"><u>Top Notch Internet Speed at a Bargain - Comprehensive Review of the TP-Link Archer A9 Router for Under $100</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/utvecka-din-videosamling-ett-guide-till-onlinesamlingaren-for-konvertering-av-videoformater/"><u>Utvecka Din Videosamling: Ett Guide Till Onlinesamlingaren För Konvertering Av Videoformater</u></a></li>
 </ul></div>
 

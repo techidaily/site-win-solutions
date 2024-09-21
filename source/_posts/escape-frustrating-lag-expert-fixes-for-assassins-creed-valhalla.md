@@ -1,7 +1,7 @@
 ---
 title: "Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla"
-date: 2024-09-15T21:46:41.644Z
-updated: 2024-09-16T19:52:14.762Z
+date: 2024-09-18T18:22:17.321Z
+updated: 2024-09-21T19:35:21.330Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  Now you can reconnect the Internet and launch Assassin’s Creed Valhalla again to test the issue. If the game is still lagging a lot, check the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 – Update the device drivers
 
  Assassin’s Creed Valhalla lagging can be caused by an outdated or corrupt network driver. According to some players, they get a smoother game after updating their network driver. So make sure you always have the latest network driver.
@@ -84,13 +91,6 @@ There are two ways for you to update the device drivers:
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 – Disable VRR and V-Sync/FreeSync
 
  Many players may turn on VRR (Variable Refresh Rate) or V-Sync (Vertical Synchronization) to reduce screen tearing. But this can introduce input lag. However, if you have terrible screen tearing when playing Assassin’s Creed Valhalla, you can skip this fix.
@@ -119,6 +119,13 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Click**Apply** .
 
 **Note:** If you’re using an AMD graphics card, open**AMD** **Radeon Settings** \>**Display** \> turn off**AMD FreeSync** .
@@ -126,16 +133,10 @@ There are two ways for you to update the device drivers:
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 – Change your DNS settings
@@ -150,13 +151,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the left pane, click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
@@ -166,28 +160,15 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select**Use the following DNS server addresses** .
 
@@ -220,6 +201,19 @@ There are two ways for you to update the device drivers:
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
@@ -260,21 +254,16 @@ There are two ways for you to update the device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>[New] Audience Engagement Meets Technology Four Recording Ways on Facebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-guide-android-broadcast-optimization/"><u>[New] In 2024, OBS Studio Guide Android Broadcast Optimization</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dying-light-audio-fixes-overcoming-the-silent-battleground-challenge/"><u>Dying Light Audio Fixes: Overcoming the Silent Battleground Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-avoiding-in-game-disruptions-keeping-starcraft-ii-running-stable-on-your-desktop-pc/"><u>Expert Advice on Avoiding In-Game Disruptions: Keeping StarCraft II Running Stable on Your Desktop PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>In 2024, Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-wireless-computer-mice-of-2024-perfect-blend-of-portability-productivity-and-user-comfort/"><u>Leading Wireless Computer Mice of 2024: Perfect Blend of Portability, Productivity, and User Comfort</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-meta-quest-mic-ultimate-usage-guide/"><u>Mastering Your Meta Quest Mic: Ultimate Usage Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221745103-movavimp4mov/"><u>Movaviで免責のMP4へMOVファイルの変換 – 簡単な方法と使い方</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nier-autos-re-master-launch-hurdles-tips-for-a-smooth-game-experience/"><u>NieR: Auto's Re-Master Launch Hurdles – Tips for a Smooth Game Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-fatal-errors-in-ark-databases/"><u>Step-by-Step Solution: Resolving Fatal Errors in ARK Databases</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-platform-question-whos-the-best-vimeo-or-youtubeplusdailymotion-for-2024/"><u>The Ultimate Platform Question Who's the Best - Vimeo or YouTube+Dailymotion for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-a-smooth-play-of-hfw-complete-version-on-personal-computers/"><u>Troubleshooting Steps for a Smooth Play of HFW Complete Version on Personal Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-csgo-launch-issues/"><u>Troubleshooting Steps for CS:GO Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-avatar-frontiers-of-pandora-wont-start/"><u>Troubleshooting Steps for When Avatar: Frontiers of Pandora Won't Start</u></a></li>
-<li><a href="https://solve-info.techidaily.com/unlocking-productivity-discover-how-abbyy-intelligent-automation-boosted-efficiency-by-35-insights-from-a-comprehensive-case-study/"><u>Unlocking Productivity: Discover How ABBYY Intelligent Automation Boosted Efficiency by 35% - Insights From a Comprehensive Case Study</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-online-and-offline-photo-fusion-guide/"><u>[Updated] Online and Offline Photo Fusion Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-the-secrets-of-facebook-videos/"><u>2024 Approved Unveiling the Secrets of Facebook Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mov-mp3-movavi/"><u>線上自由MOV 改MP3 轉換解決方案 - 利用 MOVAVI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-premium-clip-art-at-no-expense/"><u>Accessing Premium Clip-Art at No Expense</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargue-el-convertidor-de-imagenes-webp-a-gif-sin-coste-movavi-online/"><u>Descargue El Convertidor De Imágenes WEBP a GIF Sin Coste: Movavi Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-the-fuzz-a-users-handbook-to-resolve-windows-based-audio-problems-with-arctis-7/"><u>How to Silence the Fuzz: A User's Handbook to Resolve Windows-Based Audio Problems with Arctis 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>Mastering OBS The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ower-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-tools-for-boosting-your-video-clarity-a-comprehensive-guide/"><u>Top 10 Tools for Boosting Your Video Clarity - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vob-to-mp4-converter-gratis-fur-windows-und-mac-online-umwandlung-von-dvds/"><u>VOB to MP4 Converter Gratis Für Windows Und Mac: Online-Umwandlung Von DVDs</u></a></li>
 </ul></div>
 

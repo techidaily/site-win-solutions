@@ -1,7 +1,7 @@
 ---
 title: "Fixing Unstable PCs: How to Prevent Your System From Enshrouded Crashing"
-date: 2024-09-13T19:40:48.698Z
-updated: 2024-09-16T18:41:31.740Z
+date: 2024-09-20T17:32:13.896Z
+updated: 2024-09-21T17:14:31.614Z
 tags:
   - win11
   - win10
@@ -69,18 +69,18 @@ thumbnail: https://thmb.techidaily.com/b9c4d5bef2d947c94d50dbffc9c7d28e5a0714e0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -106,22 +106,8 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -130,19 +116,6 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -155,6 +128,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
@@ -164,12 +144,26 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -238,10 +232,10 @@ Here are the system requirements for Control:
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
@@ -275,21 +269,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>2024 Approved How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-polarr-revolutionizing-digital-photography/"><u>2024 Approved The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-zte-nubia-z60-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On ZTE Nubia Z60 Ultra without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio-for-2024/"><u>Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/re-stillness-on-the-go-without-tripods-for-2024/"><u>Capture Stillness on the Go without Tripods for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-avoiding-in-game-disruptions-keeping-starcraft-ii-running-stable-on-your-desktop-pc/"><u>Expert Advice on Avoiding In-Game Disruptions: Keeping StarCraft II Running Stable on Your Desktop PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-a56s-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo A56s 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-achieve-smooth-gameplay-by-fixing-latency-issues-and-high-ping-on-pc-for-cs2/"><u>How to Achieve Smooth Gameplay by Fixing Latency Issues & High Ping on PC for CS2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-moto-g-5g-2023-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Moto G 5G (2023) without App | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-setup-offline/"><u>Mastering Windows 11 Setup Offline</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/personalized-packaging-par-excellence-top-shopping-sites-uncovered/"><u>Personalized Packaging Par Excellence Top Shopping Sites Uncovered</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/recover-gpeditmsc-control-panel-tool-for-windows-home-users/"><u>Recover gpedit.msc Control Panel Tool for Windows Home Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-fatal-errors-in-ark-databases/"><u>Step-by-Step Solution: Resolving Fatal Errors in ARK Databases</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-a-smooth-play-of-hfw-complete-version-on-personal-computers/"><u>Troubleshooting Steps for a Smooth Play of HFW Complete Version on Personal Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-csgo-launch-issues/"><u>Troubleshooting Steps for CS:GO Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-avatar-frontiers-of-pandora-wont-start/"><u>Troubleshooting Steps for When Avatar: Frontiers of Pandora Won't Start</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-live-mastery-making-the-most-of-real-time-sharing/"><u>[New] Facebook Live Mastery Making the Most of Real-Time Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>[Updated] 2024 Approved Premium Screens at Their Peak Top #10 Listings for 4K Monitors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-fluide-video-convertissez-vite-en-flv-avec-le-meilleur-convertisseur-de-movavi/"><u>1. Fluide Vidéo : Convertissez Vite en FLV Avec Le Meilleur Convertisseur De Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-explore-the-world-through-ultra-hd-with-leading-mirrorless-cams/"><u>2024 Approved Explore the World Through Ultra-HD with Leading Mirrorless Cams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221758923-mpg3gp-movavi/"><u>網路直接免費MPG到3GP轉化 - 使用Movavi解決方案</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-file-conversion-download-and-convert-images-and-videos-to-wma-at-no-cost-via-moveavis-web-service/"><u>Effortless File Conversion: Download and Convert Images & Videos to WMA at No Cost via Moveavi's Web Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi3gpp/"><u>Movaviを使用したオンライン3GPPビデオのバーチャルコンバート – 快適な解決策はこちら</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pro-gif-maker-software-that-wins-every-time-for-2024/"><u>Pro-Gif Maker Software That Wins Every Time for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-steps-to-get-the-newest-driver-for-your-wacom-cintiq-install-now/"><u>Quick Steps to Get the Newest Driver for Your Wacom Cintiq: Install Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-gaming-with-updated-nvidia-driver/"><u>Streamline Gaming with Updated Nvidia Driver</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/trasforma-i-tuoi-file-mpeg-in-formato-flac-senza-costi-con-il-servizio-online-di-movavi/"><u>Trasforma I Tuoi File MPEG in Formato FLAC Senza Costi Con Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps-for-2024/"><u>Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-png-format-a-complete-guide-to-portable-network-graphics/"><u>Understanding the .png Format: A Complete Guide to Portable Network Graphics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wijsgerapperd-en-gratis-online-tool-for-audiofile-conversion-from-aac-to-wma-by-movavi/"><u>Wijsgerapperd en Gratis: Online-Tool for Audiofile Conversion From AAC to WMA, by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dts-mp3-mp3-movavi/"><u>무료 DTS 콜리지에서 MP3로 바꾸기: 모바일, 스트리밍 등 MP3 제공 - Movavi 확장</u></a></li>
 </ul></div>
 

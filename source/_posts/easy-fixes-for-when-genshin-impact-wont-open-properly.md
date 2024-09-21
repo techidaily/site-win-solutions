@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for When Genshin Impact Won't Open Properly
-date: 2024-09-10T20:36:22.151Z
-updated: 2024-09-16T18:57:52.308Z
+date: 2024-09-16T18:04:10.305Z
+updated: 2024-09-21T17:57:58.360Z
 tags:
   - win11
   - win10
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Configure DNS settings
@@ -92,26 +92,26 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
@@ -119,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
  If configuring DNS settings doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Update your network adapter driver
 
@@ -140,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -174,19 +174,18 @@ Remember to restart your PC for the new drivers to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unzipping-for-srt-methods-and-tips/"><u>[Updated] 2024 Approved Unzipping for SRT Methods and Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-pova-5-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Pova 5 Pro Unlock Without Password</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-gen-8-review-an-economical-tablet-that-delivers-on-its-promises-for-the-price-point/"><u>Amazon Fire HD 8 Gen 8 Review: An Economical Tablet that Delivers on Its Promises for the Price Point</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-a-year-in-review-the-impactful-world-of-facebook-twitter-instagram-and-youtube/"><u>Discover a Year In Review: The Impactful World of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-achieve-smooth-gameplay-by-fixing-latency-issues-and-high-ping-on-pc-for-cs2/"><u>How to Achieve Smooth Gameplay by Fixing Latency Issues & High Ping on PC for CS2</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythmic-resonance-harmony-for-visuals/"><u>In 2024, Rhythmic Resonance Harmony for Visuals</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/recover-gpeditmsc-control-panel-tool-for-windows-home-users/"><u>Recover gpedit.msc Control Panel Tool for Windows Home Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-fatal-errors-in-ark-databases/"><u>Step-by-Step Solution: Resolving Fatal Errors in ARK Databases</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-a-smooth-play-of-hfw-complete-version-on-personal-computers/"><u>Troubleshooting Steps for a Smooth Play of HFW Complete Version on Personal Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-csgo-launch-issues/"><u>Troubleshooting Steps for CS:GO Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-avatar-frontiers-of-pandora-wont-start/"><u>Troubleshooting Steps for When Avatar: Frontiers of Pandora Won't Start</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-over-in-2024/"><u>Updated What Is AI Voice Over, In 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/whats-the-origin-behind-the-name-android-for-mobile-os/"><u>What's the Origin Behind the Name 'Android' For Mobile OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-recordwise-gettingmaximumoutofyourcam/"><u>[Updated] In 2024, RecordWise GettingMaximumOutOfYourCam</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-elite-selection-of-instagram-image-boosters-for-2024/"><u>[Updated] The Elite Selection of Instagram Image Boosters for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-novel-strategies-for-captivating-fb-video-marketing/"><u>2024 Approved Novel Strategies for Captivating FB Video Marketing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726223766188-aiff-mov-movavi/"><u>將 AIFF 文件變更為 MOV 在線無障礙移動 - Movavi 自行解決方案</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225934789-m4v-wmv-movavi/"><u>無料でのM4V, WMV動画変換ソリューション: 最新モバビックオプション - MOVAVI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aiffwmv/"><u>AIFFファイルからWMVへの自動変換 - 完全無料で</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capture-the-world-from-your-mobile-height-for-2024/"><u>Capture the World From Your Mobile Height for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp4-to-ogg-conversion-service-moveavees-seamless-online-tool/"><u>Free MP4 to Ogg Conversion Service - Moveavee's Seamless Online Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-24-hour-film-size-gb-measurement-guide/"><u>In 2024, 24-Hour Film Size GB Measurement Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-discover-the-top-10-historically-rich-youtube-tutorials/"><u>In 2024, Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-analysis-of-movavis-strategies-in-altering-asylum-regulations/"><u>In-Depth Analysis of Movavi's Strategies in Altering Asylum Regulations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-video-chat-zoom-on-xbox-for-2024/"><u>Navigating Video Chat Zoom on Xbox for 2024</u></a></li>
 </ul></div>
 

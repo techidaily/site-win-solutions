@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for a Smooth Play of HFW Complete Version on Personal Computers
-date: 2024-09-12T21:07:49.723Z
-updated: 2024-09-16T20:00:37.406Z
+date: 2024-09-19T20:04:02.511Z
+updated: 2024-09-21T17:50:21.382Z
 tags:
   - win11
   - win10
@@ -84,6 +84,20 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -119,10 +133,10 @@ There are mainly two methods for you to update the graphics driver:
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -148,14 +162,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -166,6 +180,13 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the God of War game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -184,42 +205,16 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -245,20 +240,18 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-youtube-intros-tips-and-tricks/"><u>[New] 2024 Approved Mastering the Art of YouTube Intros (Tips & Tricks)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reverse-artisan-group/"><u>[Updated] Reverse Artisan Group</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac-for-2024/"><u>8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac] for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-nokia-c22-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia C22? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/definitive-fixes-handling-the-persistent-windows-10-error-code-0xc19001e1-challenge/"><u>Definitive Fixes: Handling the Persistent Windows 10 Error Code 0xC19001E1 Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-resolve-borderlands-3-not-starting-in-just-11-steps/"><u>Expert Advice: Resolve 'Borderlands 3 Not Starting' In Just 11 Steps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-much-do-you-really-earn-the-podcaster-perspective-for-2024/"><u>How Much Do You Really Earn? - The Podcaster Perspective for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-accessible-stopwatches/"><u>In 2024, Premier Accessible Stopwatches</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-the-secrets-of-superior-tunefab-recordings/"><u>In 2024, Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lost-ark-connection-issues-a-comprehensive-guide-for-quick-fixes/"><u>Lost Ark Connection Issues: A Comprehensive Guide for Quick Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-lag-issues-a-swift-solution-for-gta-5s-frame-rate-problems/"><u>Overcome Lag Issues - A Swift Solution for GTA 5'S Frame Rate Problems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/simplify-your-remote-meetings-integrating-skype-and-zoom-for-2024/"><u>Simplify Your Remote Meetings Integrating Skype and Zoom for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-resolve-pcxbox-crash-issues-with-mass-effect-legendary-edition/"><u>Steps to Resolve PC/Xbox Crash Issues with Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-solving-forza-horizon-5-pc-crashes/"><u>Troubleshooting: Solving Forza Horizon 5 PC Crashes</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-larger-pictures-same-sharpness-levels/"><u>2024 Approved Larger Pictures, Same Sharpness Levels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-capcut-replacements-of-202abbreviated-yearly-as-the-most-effective-alternatives-for-pc-and-online-editing-tools/"><u>Best CapCut Replacements of 202Abbreviated Yearly as the Most Effective Alternatives for PC & Online Editing Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuita-de-archivos-mov-a-formato-aac-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos MOV a Formato AAC en Línea Con MOVavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-online-conversion-change-3gp-videos-into-flv-format-with-just-one-click/"><u>Free Online Conversion: Change 3GP Videos Into FLV Format with Just One Click!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-understanding-the-dynamics-of-night-portraits/"><u>In 2024, Understanding the Dynamics of Night Portraits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mettre-a-jour-votre-portfolio-avec-movavi-photo-editor-en-ligne-pour-lachat-immediat/"><u>Mettre À Jour Votre Portfolio Avec Movavi Photo Editor - En Ligne Pour L'achat Immédiat !</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/raggiungere-i-primati-seo-con-questi-6-strumenti-chiave-nel-mese-di-settembre-del-2024-unire-due-video/"><u>Raggiungere I Primati SEO Con Questi 6 Strumenti Chiave Nel Mese Di Settembre Del 2024 - Unire Due Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-10-ai-models-that-elevate-chatgpts-performance/"><u>Revolutionary 10 AI Models That Elevate ChatGPT's Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-ferramentas-essenciais-para-aprimorar-sua-producao-de-videos-em-2024/"><u>Top 10 Ferramentas Essenciais Para Aprimorar Sua Produção De Vídeos Em 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-try-digital-journals-for-effective-note-taking/"><u>Top 6 Must-Try Digital Journals for Effective Note-Taking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-un-fichier-video-mpeg-en-musique-mp3-en-ligne-methode-simple-et-rapide-par-movavi/"><u>Transformez Un Fichier Vidéo MPEG en Musique MP3 en Ligne - Méthode Simple Et Rapide Par Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-recent-windows-11-updates-successfully/"><u>Troubleshooting Tips: How to Rollback Recent Windows 11 Updates Successfully</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Launch Problems: Optimizing Age of Empires 2 Compatibility with Windows 11"
-date: 2024-09-10T18:05:05.242Z
-updated: 2024-09-16T19:14:40.352Z
+date: 2024-09-19T18:01:30.013Z
+updated: 2024-09-21T17:16:27.031Z
 tags:
   - win11
   - win10
@@ -90,15 +90,21 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -116,22 +122,16 @@ If the issue persists, move on to the next fix.
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update Visual C++ Redistributables
 
@@ -161,6 +161,14 @@ If this fix doesn’t work for you, proceed to the next one.
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**OK** .
 
 #### Windows Security
@@ -171,19 +179,6 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Windows Controlled Folder Access
 
 1. In the search box on the taskbar, type**Controlled folder access** , then click**Open** .  
@@ -191,10 +186,10 @@ If this fix doesn’t work for you, proceed to the next one.
 2. Select**Allow an app through Controlled folder access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
@@ -209,6 +204,13 @@ If this fix doesn’t work for you, proceed to the next one.
  If the game is on the allow-list for your antivirus programs, check to see if temporarily disabling the program allows the game to launch.
 
 If it doesn’t, try the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -228,13 +230,6 @@ If it doesn’t, try the last fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
 
@@ -263,17 +258,16 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres/"><u>2024 Approved Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-addressing-classpnpsys-problems-in-windows-107/"><u>Comprehensive Guide to Addressing Classpnp.sys Problems in Windows 10/7</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/firecapture-plugins-for-firefox-for-2024/"><u>FireCapture Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-continuous-crashes-in-age-of-empires-iv-on-your-pc/"><u>Fixes for Continuous Crashes in Age of Empires IV on Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-gta-5-online-game-running-smoothly-again-fixes-and-tips/"><u>Get Your GTA 5 Online Game Running Smoothly Again: Fixes & Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-launcher-failure-with-error-0x803f8001-tips-for-windows-11-and-10-users/"><u>How to Fix Minecraft Launcher Failure with Error 0X803F8001: Tips for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-leading-screenshot-and-record-tools-for-firefox/"><u>In 2024, Leading Screenshot & Record Tools for Firefox</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubled-beginnings-a-guide-to-getting-your-witcher-3-game-running-smoothly/"><u>Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-screen-industry-the-superiority-of-qdel-over-oled-in-tomorrows-devices/"><u>Revolutionizing the Screen Industry: The Superiority of QDEL over OLED in Tomorrow's Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplify-information-storage-via-mematic/"><u>Simplify Information Storage via Mematic</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-guide-why-adding-thumbsticks-grips-to-all-your-controllers-enhances-playtime/"><u>The Essential Guide: Why Adding Thumbsticks Grips to All Your Controllers Enhances Playtime</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-lenovo-laptop-screen-logging-made-easy/"><u>[New] Lenovo Laptop Screen Logging Made Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-zoom-sound-adjustment-guide-clearer-cleaner-sounds/"><u>[New] Masterful Zoom Sound Adjustment Guide Clearer, Cleaner Sounds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-comment-resoudre-le-probleme-de-lecture-des-dvd-avec-windows-media-player/"><u>1. Comment Résoudre Le Problème De Lecture Des DVD Avec Windows Media Player?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/todmp4-movavi/"><u>如何在線上將TOD文件自由轉換成MP4 - Movavi精選的優化工具列表</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-webm-and-wmv-converter-download-by-movavi/"><u>Free Online Webm and WMV Converter - Download by Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/gratuito-convertidor-web-para-oma-formatos-movavi/"><u>Gratuito Convertidor Web Para OMA Formatos - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-30-pro-windows-10-mastery-hacks/"><u>In 2024, Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/migracion-sin-costo-de-archivos-wtv-a-formatos-mkv-con-herramientas-online-gratuitas/"><u>Migración Sin Costo De Archivos WTV a Formatos MKV Con Herramientas Online Gratuitas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/utvecka-din-videosamling-ett-guide-till-onlinesamlingaren-for-konvertering-av-videoformater/"><u>Utvecka Din Videosamling: Ett Guide Till Onlinesamlingaren För Konvertering Av Videoformater</u></a></li>
 </ul></div>
 

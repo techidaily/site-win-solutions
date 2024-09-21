@@ -1,7 +1,7 @@
 ---
 title: "Fix a Slow Running Steam: Proven Techniques for Faster Performance"
-date: 2024-09-11T20:16:42.100Z
-updated: 2024-09-16T16:52:15.012Z
+date: 2024-09-17T19:23:32.874Z
+updated: 2024-09-21T18:46:39.392Z
 tags:
   - win11
   - win10
@@ -101,13 +101,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -136,10 +129,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 6: Set Fortnite to High priority**
@@ -173,13 +166,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 
@@ -211,6 +197,13 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **If you’re using AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
@@ -223,6 +216,13 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap74.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **If you’re using Intel graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
@@ -233,27 +233,35 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap63.jpg)
 4. Click **3D**  to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
 5. Click **Scan**  to add your **Fortnite**  to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap65.jpg)
 6. Modify the settings the same way you see on the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap67-1.jpg)
 7. Click **Apply**  to save the settings.  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap68.jpg)
 
  Run Fortnite again to see if the stuttering issue persists. If not, then you’ve fixed this annoying issue.
@@ -280,19 +288,16 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-budget-savvy-gopro-upgrades-for-starters/"><u>[New] Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-control-over-yt-calls-start-gs-focused-for-2024/"><u>[New] Gain Control Over YT Calls, Start GS-Focused for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-visionaries-in-multimedia-creation/"><u>[Updated] Premier Visionaries in Multimedia Creation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/advanced-fixes-to-overcome-lag-in-the-sims-4-on-pc-updated-guide-for-gamers/"><u>Advanced Fixes to Overcome Lag in The Sims 4 on PC - Updated Guide for Gamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970858652-arbitration-can-be-less-formal-than-court-proceedings-potentially-reducing-the-time-and-cost-associated-with-dispute-resolution/"><u>Arbitration Can Be Less Formal than Court Proceedings, Potentially Reducing the Time and Cost Associated with Dispute Resolution.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/bold-and-beautiful-implementing-borders-on-instagram-shots-for-2024/"><u>Bold & Beautiful Implementing Borders on Instagram Shots for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decode-and-defuse-tfla0002-effective-strategies-for-your-finals-crisis/"><u>Decode and Defuse TFLA0002: Effective Strategies for Your Finals Crisis</u></a></li>
-<li><a href="https://facebook.techidaily.com/digging-deeper-rethinking-the-stigma-around-fb-reports/"><u>Digging Deeper: Rethinking The Stigma Around FB Reports</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/escape-frustrating-lag-expert-fixes-for-assassins-creed-valhalla/"><u>Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>In 2024, Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-troublesome-glitches-pro-tips-for-a-smooth-biomutant-experience-on-pc/"><u>Navigating Troublesome Glitches: Pro Tips for a Smooth Biomutant Experience on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rediscover-fun-in-gaming-fix-your-red-dead-redemption-2-startup-issues-today/"><u>Rediscover Fun in Gaming - Fix Your Red Dead Redemption 2 Startup Issues Today!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space-for-2024/"><u>Sci-Fi Virtual Voyages The Most Immersive Movies in the Metaverse Space for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-overcoming-start-up-hurdles-in-video-games-by-checking-game-files/"><u>Solved! Overcoming Start-Up Hurdles in Video Games by Checking Game Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elite-recording-tech-top-10-cam-devices-windows-11/"><u>[New] 2024 Approved Elite Recording Tech Top 10 Cam Devices Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-exclusive-fb-picturevid-producer-no-fee/"><u>[Updated] In 2024, Exclusive FB Picture/Vid Producer - No Fee</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-real-time-tv-broadcast-preservation-the-easy-guide/"><u>2024 Approved Real-Time TV Broadcast Preservation - The Easy Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-strategies-to-overcome-tw3s-crash-woes-in-your-gaming-quest/"><u>Battle Strategies to Overcome TW3's Crash Woes in Your Gaming Quest</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuitas-transforma-tus-archivos-mp3-en-videos-avi-con-movavi/"><u>Descargas Gratuitas: Transforma Tus Archivos MP3 en Vídeos AVI Con Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-11-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-expert-comment-integrer-du-texte-dans-des-gif-pour-une-communication-visuelle-engageante/"><u>Guide Expert: Comment Intégrer Du Texte Dans Des GIF Pour Une Communication Visuelle Engageante</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a38-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A38 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforma-facilmente-tu-video-mp4-en-un-formato-compatible-con-telefonos-inteligentes-3gpp-gratuitamente/"><u>Transforma Fácilmente Tu Vídeo MP4 en Un Formato Compatible Con Teléfonos Inteligentes (3GPP) Gratuitamente.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-screen-images-on-your-computer/"><u>Ultimate Guide: Capturing Screen Images on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Persistent PC Crashing Issues: 6 Effective Solutions"
-date: 2024-09-10T20:30:11.665Z
-updated: 2024-09-16T17:50:22.657Z
+date: 2024-09-18T18:37:48.025Z
+updated: 2024-09-21T20:14:41.191Z
 tags:
   - win11
   - win10
@@ -73,20 +73,21 @@ If this doesn’t solve your problem, move on to the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,11 +110,26 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Add the game to the exception list
 
 1. Click **Change settings** , then click **Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
@@ -139,31 +155,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -185,13 +180,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, the chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -203,6 +191,13 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -227,15 +222,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-doppelganger-deliberation-building-caricatured-characters/"><u>[Updated] In 2024, Digital Doppelganger Deliberation Building Caricatured Characters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-mac-best-screen-capture-applications-reviewed/"><u>[Updated] Mastering Mac Best Screen Capture Applications Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-popular-pictures-the-backstage-story/"><u>[Updated] Popular Pictures The Backstage Story</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-neo-5-se-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT Neo 5 SE Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-ending-live-server-connection-errors-once-and-for-all/"><u>Comprehensive Troubleshooting: Ending Live Server Connection Errors Once & For All</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-portable-versatility-of-the-cost-effective-nintendo-switch-lite/"><u>Discovering the Portable Versatility of the Cost-Effective Nintendo Switch Lite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-quality-film-equipment-review-top-picks-2024/"><u>High-Quality Film Equipment Review Top Picks, 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-uncoordinated-youtube-media-continuous-audio-with-intermittent-video-on-popular-browsers/"><u>Solving the Problem of Uncoordinated Youtube Media: Continuous Audio with Intermittent Video on Popular Browsers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-split-and-trim-mkv-files-best-free-tools-for-2024/"><u>Updated Split and Trim MKV Files Best Free Tools for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-does-premiere-pro-keep-failing-in-windows-1110-expert-tips-to-stop-the-collapse/"><u>Why Does Premiere Pro Keep Failing in Windows 11/10? Expert Tips to Stop the Collapse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>[New] Soundscapes of Restfulness High-Rated ASMR Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-audio-transforming-software-for-streamers-for-2024/"><u>[Updated] Essential Audio Transforming Software for Streamers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221174263-jpg-movavi/"><u>「網路上免費的 JPG 壓縮服務 - Movavi」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>2024 Approved Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-vidvault-secrets-how-to-reverse-iphone-media/"><u>2024 Approved Vidvault Secrets How to Reverse iPhone Media</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuite-de-fichiers-wma-vers-format-3gp-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichiers WMA Vers Format 3GP Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/innovative-igtv-editor-apps-for-creative-vertical-content/"><u>Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/les-10-outils-premiers-convertisseurs-dimage-libres-de-frais-en-2024-selon-movavi/"><u>Les 10 Outils Premiers Convertisseurs D'Image Libres De Frais en 2024 Selon Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/little-legends-top-gaming-adventures/"><u>Little Legends Top Gaming Adventures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transcode-un-fichier-ram-en-video-mpeg-sur-internet-gratuite-utiliser-movavi/"><u>Transcode Un Fichier RAM en Vidéo MPEG Sur Internet Gratuite - Utiliser Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-gratuite-du-fichier-rw2-en-format-jpeg-online-avec-movavi/"><u>Transformation Gratuite Du Fichier RW2 en Format JPEG - Online Avec Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verdienen-sie-kostenlose-online-umwandlung-von-tiff-zu-bmp-mit-movavi/"><u>Verdienen Sie Kostenlose Online-Umwandlung Von TIFF Zu BMP Mit Movavi</u></a></li>
 </ul></div>
 

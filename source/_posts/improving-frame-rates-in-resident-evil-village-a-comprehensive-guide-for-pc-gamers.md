@@ -1,7 +1,7 @@
 ---
 title: Improving Frame Rates in Resident Evil Village – A Comprehensive Guide for PC Gamers
-date: 2024-09-13T17:17:03.763Z
-updated: 2024-09-16T16:42:23.600Z
+date: 2024-09-20T17:24:34.780Z
+updated: 2024-09-21T19:13:53.295Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  If the in-game FPS doesn’t imrpove much after you updated your graphics driver, you may need to tweak the graphics settings. Here’s how to do it:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Tweak your graphics card settings
 
  You need to tweak your graphics card settings in Nvidia or AMD control panel.
@@ -108,24 +115,10 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
 3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
 
  Restart the game to see if it runs smoothly. If not, you may need to move on and modify the in-game graphics settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Modify in-game graphics settings
 
@@ -145,6 +138,13 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Resident Evil Village, just try disabling Steam Overlay for Resident Evil Village to see FPS increases. Here is how to do it:
@@ -153,6 +153,13 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Resident Evil Village steam properties](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties.jpg)
 2. In the**GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -168,10 +175,10 @@ To set Resident Evil Village to High priority:
 ![Resident Evil Village high priority](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-high-priority.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
@@ -200,21 +207,7 @@ To set Resident Evil Village to High priority:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Launch Resident Evil Village to check if the in-game fps improves.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Adjust your Windows system for the best performance
 
@@ -225,6 +218,13 @@ Launch Resident Evil Village to check if the in-game fps improves.
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
 
@@ -256,20 +256,20 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-10-online-retailers-specialized-in-personalized-boxed-gifts-for-2024/"><u>[New] 10 Online Retailers Specialized in Personalized Boxed Gifts for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-convenient-video-sharing-on-microsoft-hub/"><u>[New] 2024 Approved Convenient Video Sharing on Microsoft Hub</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>[Updated] 2024 Approved Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>[Updated] Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-unique-360-degree-videos-on-an-iphone/"><u>2024 Approved Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-insights-how-to-use-it-for-beginners-easily/"><u>2024 Approved Facebook Insights How to Use It for Beginners Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-warzone-graphic-glitches-missing-textures-explained/"><u>Comprehensive Guide to Fixing Warzone Graphic Glitches: Missing Textures Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/craft-perfect-openings-anywhere-and-anytime/"><u>Craft Perfect Openings, Anywhere and Anytime</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/football-manager-2021-launch-failures-effective-solutions-to-fix-stuck-screen-issues-quickly/"><u>Football Manager 2021 Launch Failures – Effective Solutions to Fix Stuck Screen Issues Quickly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-logitech-webcams-up-and-running-free-windows-compatible-drivers/"><u>Get Logitech Webcams Up and Running: Free Windows-Compatible Drivers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>New In 2024, Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-strategies-for-fixing-launch-problems-with-hogwarts-legacy-game-in-202email-protected/"><u>New Strategies for Fixing Launch Problems with 'Hogwarts Legacy' Game in 202([Email Protected])</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-graphics-card-errors-a-fix-for-oculus-user-experience/"><u>Resolving Graphics Card Errors - A Fix for Oculus User Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-notorious-fortnite-freeze-issue-essential-hacks-for-gamers-in-202/"><u>Resolving the Notorious Fortnite Freeze Issue: Essential Hacks for Gamers in 202</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-intel-device-manager-not-responding-correctly/"><u>Troubleshooting Guide: Intel Device Manager Not Responding Correctly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-centrino-advanced-n-6205-driver/"><u>[Download] Intel Centrino Advanced-N 6205 Driver</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-android-and-iphones-hottest-social-tools-to-increase-fb-likes-for-2024/"><u>[New] Android & iPhone's Hottest Social Tools to Increase FB Likes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-behind-the-scenes-with-slow-motion-in-reels/"><u>[New] Behind the Scenes with Slow Motion in Reels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cost-efficiency-in-yt-promotional-campaigns/"><u>[Updated] Cost Efficiency in YT Promotional Campaigns</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-guide-to-the-top-youtube-video-editors/"><u>[Updated] In 2024, Ultimate Guide to the Top YouTube Video Editors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-shielding-imagery-best-practices-for-instagram-photowatermarking/"><u>2024 Approved Shielding Imagery Best Practices for Instagram Photowatermarking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cambia-archivos-aiff-al-formato-mp4-de-forma-gratuita-con-convertidor-online-de-movavi/"><u>Cambia Archivos AIFF Al Formato MP4 De Forma Gratuita Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-m4v-a-mp3-libero-di-prova-servizi-on-line-rapidi-da-movavi/"><u>Conversione M4V a MP3 Libero Di Prova - Servizi On-Line Rapidi Da Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-video-files-instantly-free-webm-to-mp3-online-service-by-movavi-convert-tool/"><u>Convert Video Files Instantly: Free WebM to MP3 Online Service by Movavi Convert Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-comparatif-des-meilleurs-converters-video-libres-et-gratuits-sur-pc-avec-windows/"><u>Guide Comparatif Des Meilleurs Converters Vidéo Libres Et Gratuits Sur PC Avec Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/os-principais-13-programas-de-filmar-aulas-em-live-stream-no-windows-nx-selecionando-o-melhor-com-o-comentario-de-expertos-da-movavi/"><u>Os Principais 13 Programas De Filmar Aulas Em Live Stream No Windows nX, Selecionando O Melhor Com O Comentário De Expertos Da Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-accessing-your-print-job-log-on-windows-11/"><u>Step-by-Step Guide: Accessing Your Print Job Log on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformacion-gratuita-de-archivos-dpx-a-png-online-con-movavi/"><u>Transformación Gratuita De Archivos DPX a PNG Online Con Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m4vmpeg-movavi-on-line-video-converter/"><u>무료 클라우드 버전 M4V/MPEG 영화 코딩: Movavi에서 확장성과 사용자 친화적인 제공 – On-Line Video Converter</u></a></li>
 </ul></div>
 

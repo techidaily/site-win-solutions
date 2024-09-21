@@ -1,7 +1,7 @@
 ---
 title: Solving PC Crashes When Attempting To Finish Your Games - Tips & Tricks
-date: 2024-09-14T16:49:23.644Z
-updated: 2024-09-16T19:39:55.054Z
+date: 2024-09-16T18:03:19.508Z
+updated: 2024-09-21T17:55:14.779Z
 tags:
   - win11
   - win10
@@ -78,7 +78,21 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
 
@@ -87,6 +101,13 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
@@ -104,52 +125,26 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To renew your IP
 
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -199,17 +194,17 @@ See if you can log in or not. if not, try the next fix, below.
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
 
@@ -220,13 +215,6 @@ See if you can log in or not. if not, try the next fix, below.
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
@@ -273,20 +261,14 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-3-alternative-video-portals/"><u>[New] In 2024, Discover the Top 3 Alternative Video Portals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs/"><u>[Updated] Becoming the Ultimate Streamer on YouTube and Twitch Using OBS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>[Updated] In 2024, Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>[Updated] Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bing-enhances-search-capabilities-through-microsoftn-new-ai-features/"><u>Bing Enhances Search Capabilities Through Microsoft'n New AI Features</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/boosting-engagement-with-cookiebot-technology-for-tailored-content-delivery/"><u>Boosting Engagement with Cookiebot Technology for Tailored Content Delivery</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfares-elusive-bug-a-deep-dive-into-fixing-error-6164/"><u>Cracking the Code on Modern Warfare's Elusive Bug: A Deep Dive Into Fixing Error 6164</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001881798-freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a24-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A24 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 20 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-cyberpunk-2077s-failure-to-utilize-graphics-card-on-windows-11/"><u>Resolving Cyberpunk 2077’S Failure to Utilize Graphics Card on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-5-secrets-to-eliminate-high-latency-issues-in-call-of-duty-modern-warfare-ii-warzone-2k4-and-win-battles/"><u>Top 5 Secrets to Eliminate High Latency Issues in Call of Duty: Modern Warfare II (Warzone 2K4) and Win Battles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-overcoming-wolcen-pc-instability-and-crashes/"><u>Troubleshooting Success: Overcoming Wolcen PC Instability and Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-resolving-madden-2n-pc-game-errors/"><u>Ultimate Troubleshooting Tips for Resolving Madden 2N PC Game Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/words-worldwide-war-chatgpt-vs-googles-skill/"><u>Words Worldwide War: ChatGPT Vs. Google's Skill</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-techniques-for-flawless-distance-audio-capture-for-2024/"><u>[New] Top Techniques for Flawless Distance Audio Capture for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-10-timeless-family-adventures-on-screen-this-season-for-2024/"><u>[Updated] Top 10 Timeless Family Adventures on Screen This Season for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-movavi-a-tanari-elosegelyezesek-gyakorneon-es-kozvetlen-szallitasok/"><u>1. Movavi: A Tanári Elősegélyezések Gyakornéon És Közvetlen Szállítások</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-15-programs-to-edit-gopro-footage/"><u>2024 Approved Best 15 Programs to Edit GoPro Footage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-establishing-a-sustainable-meditation-regimen/"><u>ChatGPT's Role in Establishing a Sustainable Meditation Regimen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-m2ts-files-to-mp4-format-for-free-with-movavis-online-tool/"><u>Convert M2TS Files to MP4 Format for Free with Movavi's Online Tool!</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization and Analytics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp4-converter-transform-mp3-to-mp4-file-format-online-with-movavi/"><u>Free MP4 Converter - Transform MP3 to MP4 File Format Online with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-narzo-n55-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Narzo N55 Phone</u></a></li>
 </ul></div>
 

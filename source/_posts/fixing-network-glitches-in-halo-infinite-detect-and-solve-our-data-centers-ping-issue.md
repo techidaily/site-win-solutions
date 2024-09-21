@@ -1,7 +1,7 @@
 ---
 title: "Fixing Network Glitches in Halo Infinite: Detect and Solve 'Our Data Centers' Ping Issue"
-date: 2024-09-11T17:11:19.065Z
-updated: 2024-09-16T21:03:43.520Z
+date: 2024-09-15T16:24:13.141Z
+updated: 2024-09-21T16:33:09.301Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -67,16 +60,10 @@ If this fix doesn’t work, move to the next fix.
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
@@ -95,7 +82,21 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix doesn’t bring luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -133,31 +134,24 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -183,16 +177,17 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-free-world-quest-the-elite-10-mmo-rankings/"><u>[New] Free World Quest The Elite 10 MMO Rankings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-global-leaders-in-real-time-gaming-streams/"><u>[Updated] 2024 Approved Global Leaders in Real-Time Gaming Streams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-masterclass-the-10-best-trimming-software/"><u>[Updated] YouTube Masterclass The 10 Best Trimming Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/compiling-the-best-12-cost-free-video-apps-for-all-platforms-for-2024/"><u>Compiling the Best 12 Cost-Free Video Apps for All Platforms for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-davinci-resolve-launch-failures-in-windows-expert-strategies-to-restore-functionality/"><u>Fixing DaVinci Resolve Launch Failures in Windows - Expert Strategies to Restore Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ls-0013-glitch-resolved-overcoming-fortnites-unreliable-launch-issues/"><u>LS-0013 Glitch Resolved: Overcoming Fortnite's Unreliable Launch Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-uncoordinated-youtube-media-continuous-audio-with-intermittent-video-on-popular-browsers/"><u>Solving the Problem of Uncoordinated Youtube Media: Continuous Audio with Intermittent Video on Popular Browsers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tailored-guide-for-format-hard-drive-on-apple-computers/"><u>Tailored Guide for Format Hard Drive on Apple Computers</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncovering-historical-facebook-bonds/"><u>Uncovering Historical Facebook Bonds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-does-premiere-pro-keep-failing-in-windows-1110-expert-tips-to-stop-the-collapse/"><u>Why Does Premiere Pro Keep Failing in Windows 11/10? Expert Tips to Stop the Collapse</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-taking-your-tweets-public-on-facebook-for-2024/"><u>[New] Taking Your Tweets Public on Facebook for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-insider-secrets-macs-top-rated-snipping-software-list/"><u>2024 Approved Insider Secrets Mac's Top-Rated Snipping Software List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-asf-vers-mp4-gratuit-sur-le-web-avec-movavi-solution-simple-et-efficace/"><u>Conversion Asf Vers MP4 Gratuit Sur Le Web Avec Movavi - Solution Simple Et Efficace</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-capture-top-10-windows-11-cam-recorders/"><u>Cutting-Edge Capture Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-pratico-qual-e-o-arquivo-m4v-e-como-usa-lo-em-seus-dispositivos/"><u>Guia Prático: Qual É O Arquivo M4V E Como Usá-Lo Em Seus Dispositivos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>In 2024, Craft Your Vision Essential Windows 10 Tips for Future Directors</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-or-minimize-windows-11-taskbar/"><u>Maximize or Minimize Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/mbs/"><u>MBS動画イズム動画ダウンロード・セキュリティ対策ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-free-audio-converter-by-movavi-easy-opus-and-wav-format-transformation/"><u>Online Free Audio Converter by Movavi: Easy OPUS and WAV Format Transformation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-methods-for-implementing-captivating-audio-commentary-in-videos/"><u>Quick Methods for Implementing Captivating Audio Commentary in Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-a15-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A15 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verschilrijk-av-afbeeldingen-in-snelle-flac-met-de-gratis-online-convertor-van-movavi/"><u>Verschilrijk AV-Afbeeldingen in Snelle FLAC Met De Gratis Online Convertor Van Movavi</u></a></li>
 </ul></div>
 

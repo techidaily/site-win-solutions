@@ -1,7 +1,7 @@
 ---
 title: "Fix Stagnant Load Screens: Advancing From 90%% in the Latest Phasmophobia Game (202N)"
-date: 2024-09-11T20:54:48.070Z
-updated: 2024-09-16T19:42:44.774Z
+date: 2024-09-19T17:18:53.299Z
+updated: 2024-09-21T16:16:36.622Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ OR
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,10 +98,16 @@ OR
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -108,13 +121,6 @@ OR
  After updating your drivers, restart your computer and launch your game to check if the issue is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -132,25 +138,11 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
@@ -173,10 +165,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
@@ -201,6 +193,13 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
@@ -224,6 +223,13 @@ Take these steps:
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -255,17 +261,16 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leverage-both-youtube-and-twitch-for-broader-audiences/"><u>[Updated] Leverage Both Youtube and Twitch for Broader Audiences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>2024 Approved Uncomplicated Technique Changing Vocal Pattern in WinOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-rx-6700-xt-graphics-card-driver-update-optimized-for-windows-10-8-and-vista-users/"><u>AMD RX 6700 XT Graphics Card Driver Update - Optimized for Windows 10, 8 & Vista Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlenet-launcher-troubleshooting-steps-for-windows-users/"><u>Battle.net Launcher Troubleshooting Steps for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723010196700-error-code-8070057-in-call-of-duty-black-ops-cold-war-heres-the-fix/"><u>Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/football-manager-2021-how-to-fix-persistent-loading-issues/"><u>Football Manager 2021: How To Fix Persistent Loading Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-13-mini-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 13 mini</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>In 2024, The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/perform-a-photoshop-magic-act-erase-those-glassy-pets-peepers/"><u>Perform a Photoshop Magic Act: Erase Those Glassy Pets' Peepers!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-slow-steam-loading-times-enhance-your-gaming-experience/"><u>Quick Fixes for Slow Steam Loading Times – Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-quietness-how-to-get-your-minecraft-game-audio-back-on-a-computer/"><u>Troubleshooting Complete Quietness: How To Get Your Minecraft Game Audio Back On A Computer</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-essential-tools-for-creating-dynamic-talking-avatars/"><u>Updated Essential Tools for Creating Dynamic Talking Avatars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-free-editing-sites-your-gateway-to-flawless-visual-content-creation/"><u>[New] Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-action-screen-recorder-review/"><u>[New] In 2024, Action Screen Recorder Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ai202410/"><u>【AI电影生成推荐】2024年10种最佳人工智能制作软件册」</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-best-live-chat-apps-to-try-with-shopify/"><u>2024 Approved Best Live Chat Apps To Try With Shopify</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-8-plus-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 8 Plus IMEI Checker</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/breaking-down-the-lenovo-legion-pro-5i-gen-9-astonishing-gaming-capabilities-at-a-reasonable-price/"><u>Breaking Down the Lenovo Legion Pro 5I (Gen 9): Astonishing Gaming Capabilities at a Reasonable Price</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-mts-to-mp4-for-free-top-8-methods-for-windows-and-mac-users/"><u>Convert MTS to MP4 for Free: Top 8 Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-adding-timed-alerts-to-video-content-at-no-cost/"><u>Step-by-Step Guide: Adding Timed Alerts to Video Content at No Cost</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-experts-manual-for-fusing-linktree-and-tiktok-biographies/"><u>The Expert's Manual for Fusing Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uskok-6-uletu-k-presunu-nejlepsich-odpovidajicich-obrazu-pro-hledavce-internetu/"><u>Úskok 6 Úletů K Přesunu Nejlepších Odpovídajících Obrazů Pro Hledavče Internetu</u></a></li>
 </ul></div>
 

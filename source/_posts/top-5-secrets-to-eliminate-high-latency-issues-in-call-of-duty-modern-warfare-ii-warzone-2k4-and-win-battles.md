@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Secrets to Eliminate High Latency Issues in Call of Duty: Modern Warfare II (Warzone 2K4) and Win Battles"
-date: 2024-09-15T17:16:27.279Z
-updated: 2024-09-16T18:18:57.817Z
+date: 2024-09-15T17:20:34.006Z
+updated: 2024-09-21T20:08:00.475Z
 tags:
   - win11
   - win10
@@ -83,6 +83,19 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -91,14 +104,14 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your PC for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set texture quality to high or normal
 
@@ -150,13 +163,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Disable Discord in-game overlay
 
  If you’re using any programs with overlay features such as Discord, disable the In-Game Overlay as it will cause random game crashes on your PC.
@@ -170,10 +176,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Change Priority
@@ -191,10 +197,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  4) When prompted for permission to make changes, select**Change Priority** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9\. Repair your system files
@@ -212,13 +218,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -230,6 +229,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -309,16 +315,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-audio-integration-your-youtube-playlist/"><u>[New] 2024 Approved Audio Integration Your YouTube Playlist</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>[New] In 2024, Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>[Updated] The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>2024 Approved Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/baldurs-gate-iii-reducing-excessive-cpu-load-effective-fixes-for-the-2024-edition/"><u>Baldur's Gate III: Reducing Excessive CPU Load - Effective Fixes for the 2024 Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-battlefield-5s-pc-hiccups-effective-solutions-uncovered/"><u>Beat Battlefield 5'S PC Hiccups: Effective Solutions Uncovered!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-90-lite-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 90 Lite</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-your-clownfish-vocal-transformer-malfunctions/"><u>Effective Solutions for When Your Clownfish Vocal Transformer Malfunctions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-why-shadowplay-stops-capturing-video-in-windows-solutions-unveiled/"><u>Fix: Why Shadowplay Stops Capturing Video in Windows - Solutions Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/on-mission-find-the-best-for-your-youtube-channels-vision-and-voice-for-2024/"><u>Mics on Mission Find the Best for Your YouTube Channel’s Vision & Voice for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-missing-easyanticheat-in-eac-launch-errors/"><u>Troubleshooting Steps for Missing EasyAntiCheat in EAC Launch Errors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-gopro-videos-the-ultimate-guide/"><u>[Updated] Mastering Gopro Videos The Ultimate Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-proactive-preservation-ios-photos-to-your-snap-story/"><u>[Updated] Proactive Preservation IOS Photos to Your Snap Story</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ced-presentation-techniques-youtube-in-slides/"><u>Advanced Presentation Techniques YouTube in Slides</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-12-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-facile-dapres-vente-convertir-des-fichiers-mxf-en-mp3-sans-frais-sur-movavi/"><u>Guide Facile D'après-Vente: Convertir Des Fichiers MXF en MP3 Sans Frais Sur Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-cixin-p1-arm-based-industry-standard-6nm-chip-from-china-achieving-45-tops-in-performance/"><u>Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/konvertereen-mp4-naar-gif-zonder-kostjes-veilig-en-gemakkelijk-met-movavi-online-helper/"><u>Konvertereen MP4 Naar GIF Zonder Kostjes - Veilig en Gemakkelijk Met Movavi Online Helper</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-online-nef-tiff-converter-instalacao-e-uso-facil/"><u>Movavi's FREE Online NEF-TIFF Converter - Instalação E Uso Fácil!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-laptops-and-desktops-expert-advice-on-computers-tailored-for-education/"><u>Navigating Through Laptops and Desktops: Expert Advice on Computers Tailored for Education</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/m-titling-service-for-2024/"><u>Stream Titling Service for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transferencia-gratuita-de-video-avi-al-formato-quicktime-mov-guia-rapida-y-sencilla-para-su-uso-online/"><u>Transferencia Gratuita De Video AVI Al Formato QuickTime MOV: Guía Rápida Y Sencilla Para Su Uso Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-dat-files-into-high-quality-mp4-videos-using-these-12-proven-techniques-with-movavis-expertise/"><u>Transform Your DAT Files Into High-Quality MP4 Videos Using These 12 Proven Techniques with Movavi's Expertise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-meizu-21-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mpeg4-to-m4a-movavi/"><u>オンラインで無料でMPEG4 to M4Aにコードクレストする方法 - Movavi</u></a></li>
 </ul></div>
 

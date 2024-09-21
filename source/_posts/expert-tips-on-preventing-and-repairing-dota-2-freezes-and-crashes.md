@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Preventing and Repairing Dota 2 Freezes & Crashes
-date: 2024-09-10T16:40:50.573Z
-updated: 2024-09-16T18:22:36.615Z
+date: 2024-09-16T17:32:07.886Z
+updated: 2024-09-21T20:41:10.682Z
 tags:
   - win11
   - win10
@@ -98,8 +98,23 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -120,29 +135,9 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -157,10 +152,10 @@ There’re mainly two ways you can update your graphics drivers:
 If After Effects still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
@@ -170,10 +165,10 @@ If After Effects still crashes, try the next fix, below.
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
@@ -208,17 +203,12 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-youtube-a-step-by-step-process-unveiled-for-2024/"><u>[New] From Raw Footage to YouTube A Step-by-Step Process Unveiled for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-instagram-live-without-a-trace-the-unseen-spectators-playbook/"><u>[New] In 2024, Instagram Live without a Trace The Unseen Spectator's Playbook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-the-issue-of-synchronizing-artificial-intelligence-with-human-values/"><u>Demystifying the Issue of Synchronizing Artificial Intelligence with Human Values</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-windows-11-unwanted-red-display-problems/"><u>Effective Solutions for Windows 11 Unwanted Red Display Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-office-works-setup-on-win-11/"><u>Essential Guide to Office Works Setup on Win 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/football-manager-2021-launch-failures-effective-solutions-to-fix-stuck-screen-issues-quickly/"><u>Football Manager 2021 Launch Failures – Effective Solutions to Fix Stuck Screen Issues Quickly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios-for-2024/"><u>Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-successfully-tackle-and-fix-cyberpunk-2077s-persistent-black-screen-problem/"><u>How to Successfully Tackle and Fix Cyberpunk 2077'S Persistent Black Screen Problem</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-engineering-unique-tiktok-outro-animations/"><u>In 2024, Engineering Unique TikTok Outro Animations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2023) Pattern Lock Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-sony-vegas-instability-a-step-by-step-guide-to-uninterrupted-workflow/"><u>Overcoming Sony Vegas Instability - A Step-by-Step Guide to Uninterrupted Workflow</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-rainbow-six-siege-network-issues-steps-to-resolve-connections/"><u>Troubleshooting Your Rainbow Six Siege Network Issues: Steps to Resolve Connections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-video-perfection-crafting-squares-for-facebook-popularity/"><u>[Updated] In 2024, Video Perfection Crafting Squares for Facebook Popularity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-notebooks-on-a-budget-under-1000/"><u>High Performance Gaming Notebooks on a Budget Under $1000</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-heimdalls-eye-the-watchers-of-ragnarok/"><u>In 2024, Heimdall's Eye The Watchers of Ragnarok</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/passos-faceis-para-dividir-um-filme-no-after-effects-tutoriais-completos-e-detalhados/"><u>Passos Fáceis Para Dividir Um Filme No After Effects®: Tutoriais Completos E Detalhados</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/regles-dutilisation-guide-complet-pour-les-conditions-de-service/"><u>Règles D'Utilisation: Guide Complet Pour Les Conditions De Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-ferramentas-de-conversao-automatica-de-video-criando-trends-no-mundo-digital/"><u>Top 7 Ferramentas De Conversão Automática De Video Criando Trends No Mundo Digital</u></a></li>
 </ul></div>
 

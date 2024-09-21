@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Play: How to Restore Audio in Roblox on Win11 and Win10"
-date: 2024-09-14T16:04:15.265Z
-updated: 2024-09-16T19:37:50.188Z
+date: 2024-09-18T17:18:34.748Z
+updated: 2024-09-21T20:04:40.806Z
 tags:
   - win11
   - win10
@@ -72,16 +72,16 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -136,43 +136,45 @@ If the problem persists, move on to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
-6. Wait for it to detect problems. This usually takes only a few seconds.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
+6. Wait for it to detect problems. This usually takes only a few seconds.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
-9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
+9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
 If the problem persists, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Reinstall Roblox
 
@@ -186,18 +188,18 @@ If the problem persists, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-24-05.jpg)
 4. Find Roblox player, right-click it then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
 5. Restart your PC.
 6. After you restart your computer, make sure other programs are closed. Go ahead and[download Roblox](https://www.roblox.com/Download) .
 7. Find**RobloxPlayerLauncher.exe** in your Downloads folder, double-click to install.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-33-24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can log on to your account and play a game to see if the sound is back.
 
@@ -224,17 +226,20 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>[New] Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/"><u>[New] The Ultimate YouTube Editor's Handbook A Step-by-Step Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-breaking-into-design-your-strategy-for-career-success/"><u>[Updated] Breaking Into Design Your Strategy for Career Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>2024 Approved From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-hold-whole-page-snapshot-image/"><u>2024 Approved Hold Whole Page Snapshot Image</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cs2-gaming-stability-issues-permanent-fixes-for-pc-crashes-in-the-new-year-of-2024/"><u>CS2 Gaming Stability Issues: Permanent Fixes for PC Crashes in the New Year of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diablo-immortals-launch-stagnation-what-gamers-need-to-know-about-its-absence-from-pc-platforms/"><u>Diablo Immortal's Launch Stagnation - What Gamers Need to Know About Its Absence From PC Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-g42-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia G42 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-t2-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo T2 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mac-professionals-recommendations-the-best-of-screenflow-for-2024/"><u>Mac Professionals Recommendations – The Best of ScreenFlow for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smilescape-turn-daily-life-into-hilarious-stories-for-2024/"><u>SmileScape Turn Daily Life Into Hilarious Stories for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004994842-troubleshoot-your-fortnite-logins-with-these-simple-techniques-no-hassle-guaranteed/"><u>Troubleshoot Your Fortnite Logins with These Simple Techniques - No Hassle Guaranteed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>[New] Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-microsoft-edge-crashing-problem-on-windows-11/"><u>[Solved] Microsoft Edge Crashing Problem on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-corsair-icue-link-h150i-rgb-impressive-efficiency-with-endless-customizing-possibilities/"><u>Comprehensive Guide to the Corsair iCUE Link H150i RGB: Impressive Efficiency with Endless Customizing Possibilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-archivos-mov-al-formato-asf-online-sin-costo-alguno-con-conversor-mov-asf/"><u>Convertir Archivos MOV Al Formato ASF Online Sin Costo Alguno Con Conversor MOV-ASF</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-mp4-videos-into-mp3-audio-files-with-movavi/"><u>Free Online Converter: Transform MP4 Videos Into MP3 Audio Files with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-konvertiemovies-van-avi-naar-ogv-met-efficientie-movavi/"><u>Gratuit Konvertiemovies Van Avi Naar Ogv Met Efficiëntie - Movavi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-xs-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone XS Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-playbook-youtube-gaming-success/"><u>In 2024, The Ultimate Playbook YouTube Gaming Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-methods-for-moving-images-from-your-windows-computer-to-ipad-without-using-itunes/"><u>Seamless Methods for Moving Images From Your Windows Computer to iPad Without Using iTunes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-revamping-msi-motherboard-drivers-for-classic-oss/"><u>Step-by-Step: Revamping MSI Motherboard Drivers for Classic OSs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-mka-videos-into-aac-format-for-free-using-movavis-web-based-service/"><u>Transform MKA Videos Into AAC Format for Free Using Movavi's Web-Based Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verspraeckeen-van-aiff-naar-mp3-online-kostenloos-movavi/"><u>Verspraeckeen Van AIFF Naar MP3 Online Kostenloos - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavif4vwmv/"><u>オンラインで手軽にファイル形式を変更! Movaviの無料F4V・WMV変換ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play
-date: 2024-09-14T18:24:04.195Z
-updated: 2024-09-16T18:12:27.305Z
+date: 2024-09-19T16:16:13.905Z
+updated: 2024-09-21T16:36:19.067Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable hardware acceleration
 
  Hardware acceleration is also known to cause Kodi to crash. To check for it, you should try disabling hardware acceleration in Kodi:
@@ -74,34 +81,27 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa65d2a1b9.jpg)
 2. Click **Player settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa6b255d47.jpg)
 3. In the bottom left corner, click the gear icon**three times** to change the mode from**Standard** to**Expert** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa72e13b88.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa7a1d4a61.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Highlight the **Video** tab, then on the right side, in the **Processing** section, turn off **Allow hardware acceleration -DXVA2** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa89e02e8f.jpg)
 5. Restart Kodi and check if Kodi now works. If not, try Fix 4, below.
@@ -130,19 +130,6 @@ Fortunately, this is also one of the easiest problems to fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reinstall Kodi
 
 You can also try doing a clean install of Kodi:
@@ -151,23 +138,37 @@ You can also try doing a clean install of Kodi:
    1. Press the**Windows logo key**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049208907a.png)  
     and **R**  key simultaneously to open the Run dialog, then type **control**  in the box, and click **OK**  .  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    2. In Control Panel, under**Programs** , click **Uninstall a program** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc0493f39cb6.jpg)  
    3. Right-click Kodi, then click **Unistall** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049667a22b.jpg)
 2. Remove Kodi completely from your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. Press the**Windows logo key** and**E** key at the same time to open**File Explorer** .  
    2. In the address bar, type**%APPDATA%** and press**Enter** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc04983b826b.jpg)  
    3. Select the**Kodi** folder, and press**Shift+Del** to delete the folder permanently.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049984724f.jpg)
 3. **Restart** your PC.
@@ -199,12 +200,13 @@ That’s it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-efficient-video-editing-with-timestamps-and-on-screen-text/"><u>[New] In 2024, Efficient Video Editing with Timestamps & On-Screen Text</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-online-presence-with-manycams-versatile-live-broadcast-and-virtual-camcorder-solutions/"><u>Enhance Your Online Presence with ManyCam's Versatile Live Broadcast and Virtual Camcorder Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-quoras-power-a-step-by-step-guide-to-engage-with-innovative-ai-chatbots-and-llms/"><u>Harnessing Quora's Power: A Step-by-Step Guide to Engage with Innovative AI Chatbots and LLMs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-fallout-3-freezing-problems-on-your-pc-with-windows-10/"><u>How to Prevent and Fix Fallout 3 Freezing Problems on Your PC with Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-battlefield-2042-pc-playback-problems-dealing-with-fps-drops-and-stutters/"><u>Solving Battlefield 2042 PC Playback Problems - Dealing with FPS Drops and Stutters</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unboxing-and-testing-the-stunning-netgear-nighthawk-rax80-the-latest-in-wi-fi-6-technology/"><u>Unboxing and Testing the Stunning Netgear Nighthawk RAX80: The Latest in Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-video-calls-with-zoom-in-gmail-platform/"><u>Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cultivating-your-persona-in-the-world-of-gamers-for-2024/"><u>[Updated] Cultivating Your Persona in the World of Gamers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp3-converter-transforming-mp4-audio-files-into-m4a-format-with-ease/"><u>Free MP3 Converter: Transforming MP4 Audio Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>In 2024, Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter-for-2024/"><u>Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lost-your-android-lock-code-a-guide-on-retrieve-and-secure-your-device-again/"><u>Lost Your Android Lock Code? A Guide on Retrieve and Secure Your Device Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-free-converter-transform-ram-into-mpeg-format-with-movavi/"><u>Online Free Converter: Transform RAM Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dts-mp3-movivi/"><u>オンラインDTS からMP3への無償変換 MoviVi - 使いやすくて信頼性がある</u></a></li>
 </ul></div>
 

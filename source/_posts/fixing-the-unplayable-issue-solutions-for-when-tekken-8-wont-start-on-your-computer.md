@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Unplayable Issue: Solutions for When Tekken 8 Won't Start on Your Computer"
-date: 2024-09-12T19:21:26.828Z
-updated: 2024-09-16T18:51:31.636Z
+date: 2024-09-15T20:44:37.408Z
+updated: 2024-09-21T18:21:41.396Z
 tags:
   - win11
   - win10
@@ -92,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If verifying your game files doesn’t solve your problem, try the next fix.
 
 ## Fix 4: Update your graphics driver
@@ -118,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -134,16 +134,16 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Check your antivirus
 
@@ -156,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 * If available, set your antivirus software to**game mode** .
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -183,16 +176,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
@@ -205,6 +192,13 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -220,15 +214,15 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
 5. Disable the problem program and reboot your PC.
@@ -255,20 +249,16 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-no-price-point-digital-video-recorder/"><u>[Updated] 2024 Approved No-Price Point Digital Video Recorder</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-a-viral-phenomenon-in-micro-bites/"><u>2024 Approved A Viral Phenomenon in Micro-Bites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003159081-avoiding-disaster-navigating-cyberpunk-2077s-troublesome-flatlined-error-2ebdc/"><u>Avoiding Disaster: Navigating Cyberpunk 2077'S Troublesome Flatlined Error 2Ebdc</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-focusrite-scarlett-solo-now-perfect-compatibility-with-windows-systems/"><u>Download the Focusrite Scarlett Solo Now! Perfect Compatibility with Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-l2540dw-windows-printer-driver-software-and-easy-installation-steps/"><u>Get the Latest Brother L2540DW Windows Printer Driver Software & Easy Installation Steps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone SE (2020)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y100t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y100t to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-versus-dailymention-identifying-key-gaps/"><u>In 2024, YouTube Versus DailyMention Identifying Key Gaps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/microsoft-flight-simulator-2020-update-freeze-solved-get-your-game-running-smoothly-again/"><u>Microsoft Flight Simulator 2020 Update Freeze Solved: Get Your Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/minecraft-malfunctions-decoded-correcting-your-crossbow-complications/"><u>Minecraft Malfunctions Decoded: Correcting Your Crossbow Complications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-pauses-mastering-the-fix-for-code-vein-game-glitches/"><u>No More Pauses: Mastering the Fix for Code Vein Game Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/on-the-go-tech-support-navigating-the-compact-version-of-driver-easy/"><u>On-the-Go Tech Support: Navigating the Compact Version of Driver Easy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-rdo-errors-masterful-fixes-to-eliminate-pc-game-interruptions-and-crashes/"><u>Say Goodbye to RDO Errors: Masterful Fixes to Eliminate PC Game Interruptions and Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uninterrupted-quest-experience-addressing-the-immortals-fenynzings-crash-dilemma/"><u>Uninterrupted Quest Experience: Addressing the Immortals Fenynzing's Crash Dilemma</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-drones-expert-buyers-choices-top-5/"><u>[Updated] High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/balancing-netflix-stream-quality-and-playtime-for-2024/"><u>Balancing Netflix Stream Quality and Playtime for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-e-carregamento-livre-online-dos-seus-arquivos-com-o-movavi-sem-custo-simples/"><u>Conversão E Carregamento Livre Online Dos Seus Arquivos Com O Movavi - Sem Custo, Simples!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fotowatermarks-verzekerd-professionele-impressie-bij-het-toevoegen-van-watermarks-met-movavi/"><u>Fotowatermarks Verzekerd: Professionele Impressie Bij Het Toevoegen Van Watermarks Met Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guia-passo-a-passo-para-gravacao-de-tela-com-obs-no-movavi/"><u>Guia Passo a Passo Para Gravação De Tela Com OBS No Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xsipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XS/iPad Without Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 6s and iPad?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mining-marvels-5-best-map-locations-in-terraria-for-2024/"><u>Mining Marvels 5 Best Map Locations in Terraria for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/secure-increase-in-your-tiktok-clout/"><u>Secure Increase in Your TikTok Clout</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-13-ecran-screen-capture-sensors-pour-tous-les-appareils-selection-de-movavi/"><u>Top 13 Écran Screen Capture Sensors Pour Tous Les Appareils | Sélection De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-free-note-taking-apps-compatible-with-windows-7-discover-the-best-for-your-studies/"><u>Top 7 Free Note-Taking Apps Compatible with Windows 7 - Discover the Best for Your Studies</u></a></li>
 </ul></div>
 

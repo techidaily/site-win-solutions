@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up the Sign-In: Fixes for Slow Ubisoft Download Speeds"
-date: 2024-09-11T18:07:52.388Z
-updated: 2024-09-16T17:06:34.587Z
+date: 2024-09-15T16:12:43.085Z
+updated: 2024-09-21T16:56:56.303Z
 tags:
   - win11
   - win10
@@ -121,19 +121,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
@@ -145,13 +132,6 @@ OR
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -167,26 +147,27 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -200,32 +181,26 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
@@ -243,6 +218,13 @@ Here’s what you need to do:
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -268,17 +250,18 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-secrets-to-successful-iphone-sound-captures/"><u>[New] In 2024, Unveiling the Secrets to Successful iPhone Sound Captures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-creating-time-bending-hyperlapse-films/"><u>[Updated] Creating Time-Bending Hyperlapse Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-8k-vision-selecting-the-superior-cameras/"><u>[Updated] Premium 8K Vision Selecting the Superior Cameras</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-srt-files-accessing-on-windowsmac/"><u>[Updated] Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-ultimate-fixes-for-persistent-dauntless-crashing-errors-on-pc/"><u>Beat the Glitch: Ultimate Fixes for Persistent Dauntless Crashing Errors on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-enhance-your-pc-audio-no-cost-methods-to-amplify-sound-on-windows-systems/"><u>In 2024, Enhance Your PC Audio No-Cost Methods to Amplify Sound on Windows Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-on-the-move-picture-and-video-tuning-tips/"><u>In 2024, On-The-Move Picture & Video Tuning Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-insider-solutions-to-modern-warfare-multiplayer-snags/"><u>Overcoming Challenges: Insider Solutions to Modern Warfare Multiplayer Snags</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-bloodhunts-performance-issues-crashes-and-stutters-on-windows/"><u>Solving Bloodhunt's Performance Issues: Crashes & Stutters on Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-20-time-saving-adobe-premiere-shortcuts-every-editor-should-know-for-2024/"><u>Updated 20 Time-Saving Adobe Premiere Shortcuts Every Editor Should Know for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-does-warno-keep-crashing-on-your-computer-find-solutions-now/"><u>Why Does WARNO Keep Crashing on Your Computer? Find Solutions Now</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-5-tools-to-make-a-gif-meme/"><u>[New] In 2024, 5 Tools to Make a GIF Meme</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-androidiphone-instruction-adding-music-files-to-fb-profile/"><u>[Updated] Android/iPhone Instruction Adding Music Files to FB Profile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-mac-gif-capture-top-10-edition-for-2024/"><u>[Updated] Best Mac GIF Capture Top 10 Edition for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users-for-2024/"><u>[Updated] Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-open-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Open to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-transformation-of-swf-videos-into-high-quality-mkv-files-try-it-now/"><u>Effortless Transformation of SWF Videos Into High-Quality MKV Files - Try It Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fec-codes-like-reed-solomon-can-correct-detected-errors-without-retransmission/"><u>FEC Codes Like Reed-Solomon Can Correct Detected Errors without Retransmission.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/los-mejores-8-programas-gratuitos-de-conversion-fotografia-diseno-por-movavi/"><u>Los Mejores 8 Programas Gratuitos De Conversión Fotografía-Diseño Por Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/migracion-gratuita-de-archivos-m4v-a-mp4-con-soluciones-en-linea-hacerlo-facilmente/"><u>Migración Gratuita De Archivos M4V a MP4 Con Soluciones en Línea - Hacerlo Fácilmente</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moveavis-no-cost-solution-for-quick-and-seamless-wma-to-mp4-conversions/"><u>Moveavi's No-Cost Solution for Quick and Seamless WMA to MP4 Conversions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mpeg-4-mp4/"><u>MPEG-4ビデオ形式の変換手順 - スムーズなMP4ファイル再生化</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nine-key-points-before-investing-in-a-new-4k-lens-for-2024/"><u>Nine Key Points Before Investing in a New 4K Lens for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restoring-audio-on-the-steelseries-arctis-1-headset/"><u>Solved: Restoring Audio on the SteelSeries Arctis 1 Headset</u></a></li>
 </ul></div>
 

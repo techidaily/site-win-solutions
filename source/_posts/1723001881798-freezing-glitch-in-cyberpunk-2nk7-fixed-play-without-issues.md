@@ -1,7 +1,7 @@
 ---
 title: Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues
-date: 2024-09-10T18:10:50.738Z
-updated: 2024-09-16T20:14:33.482Z
+date: 2024-09-19T17:30:34.058Z
+updated: 2024-09-21T18:55:41.073Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ If your issue continues to occur, you can move to the next fix.
 
  If this fix doesn’t help your case, simply take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify your game files
 
  This issue might happen when Cyberpunk 2077 files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -81,25 +88,11 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 3. Right-click **Cyberpunk 2077**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** . This could take several minutes. Wait for the process to be complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Adjust your virtual memory
 
@@ -122,6 +115,13 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
 
@@ -129,13 +129,20 @@ If your issue continues to occur, you can move to the next fix.
 8. Restart your computer and test your game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
 
@@ -150,19 +157,6 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -173,17 +167,17 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
@@ -212,17 +206,19 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>[New] In 2024, Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionize-group-calls-top-4-techniques/"><u>[New] In 2024, Revolutionize Group Calls Top 4 Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secure-storage-system-5-ways-to-upload-files/"><u>[New] Secure Storage System 5 Ways to Upload Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-lag-top-techniques-for-optimizing-dota-2-in-2e24/"><u>Beat the Lag: Top Techniques for Optimizing Dota 2 in 2E24</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-printer-driver-downloads-model-mf8200c-supported-on-win7win10win81-platforms/"><u>Canon Printer Driver Downloads: Model MF8200C Supported on Win7/Win10/Win8.1 Platforms</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-killer-e2200-high-speed-gigabit-ethernet-network-adapter-drivers/"><u>Download the Killer E2200 High-Speed Gigabit Ethernet Network Adapter Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dying-light-audio-fixes-overcoming-the-silent-battleground-challenge/"><u>Dying Light Audio Fixes: Overcoming the Silent Battleground Challenge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-avoiding-in-game-disruptions-keeping-starcraft-ii-running-stable-on-your-desktop-pc/"><u>Expert Advice on Avoiding In-Game Disruptions: Keeping StarCraft II Running Stable on Your Desktop PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/guides-for-gathering-live-video-conversations-for-2024/"><u>Guides for Gathering Live Video Conversations for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nier-autos-re-master-launch-hurdles-tips-for-a-smooth-game-experience/"><u>NieR: Auto's Re-Master Launch Hurdles – Tips for a Smooth Game Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xperia-5-evaluation-striking-balance-between-size-luxury-and-price-point/"><u>Sony Xperia 5 Evaluation: Striking Balance Between Size, Luxury & Price Point</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-avatar-frontiers-of-pandora-wont-start/"><u>Troubleshooting Steps for When Avatar: Frontiers of Pandora Won't Start</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-chromebooks-auditory-experience-with-top-5-web-tools/"><u>[New] Transform Your Chromebook's Auditory Experience with Top 5 Web Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-customized-soundscape-in-ps4ps5-games/"><u>[Updated] In 2024, Unlock Customized Soundscape in PS4/PS5 Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[Updated] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/10-years-forward-with-mondlys-direction/"><u>10 Years Forward with Mondly’s Direction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-mastering-the-basics-of-avi-video-conversion-with-a-free-tool/"><u>Beginner's Guide: Mastering the Basics of AVI Video Conversion with a Free Tool</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-content-strategy-prime-video-rank-monitors-for-2024/"><u>Elevate Your Content Strategy Prime Video Rank Monitors for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp3-converter-transforming-mp4-audio-files-into-m4a-format-with-ease/"><u>Free MP3 Converter: Transforming MP4 Audio Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-image-clarity-solutions-for-blurred-graphics-in-cod-warzone-gaming-on-desktops/"><u>Improving Image Clarity: Solutions for Blurred Graphics in COD: Warzone Gaming on Desktops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-plans-exclusive-free-premiere-pro-samples-2023/"><u>In 2024, Premier Plans - Exclusive Free Premiere Pro Samples 2023</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-driver-enhancement-for-improved-gtx-970-graphics/"><u>Latest Driver Enhancement for Improved GTX 970 Graphics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726220492454-movavi-mp4aiff/"><u>Movavi: フリーオンラインで容易なMP4とAiff形式の変換 - 即時利用可能</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-free-converter-transform-ram-into-mpeg-format-with-movavi/"><u>Online Free Converter: Transform RAM Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmaaac/"><u>WMAからAACへのフリーオンラインコンバーター - ムヴァヴィ</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dts-mp3-movivi/"><u>オンラインDTS からMP3への無償変換 MoviVi - 使いやすくて信頼性がある</u></a></li>
 </ul></div>
 

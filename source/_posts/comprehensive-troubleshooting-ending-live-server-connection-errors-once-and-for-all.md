@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting: Ending Live Server Connection Errors Once & For All"
-date: 2024-09-11T19:42:59.372Z
-updated: 2024-09-16T18:52:23.841Z
+date: 2024-09-17T19:09:43.361Z
+updated: 2024-09-21T16:58:00.249Z
 tags:
   - win11
   - win10
@@ -86,10 +86,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -113,6 +113,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -131,6 +138,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
@@ -144,15 +159,21 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
@@ -170,17 +191,17 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
  If this method doesn’t do the trick for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -191,13 +212,6 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -216,13 +230,6 @@ And just for your reference, here’s my graphics settings:
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
@@ -267,21 +274,19 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live-for-2024/"><u>[New] Unveiling the Mechanisms That Govern YouTube After a Video Is Live for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-srgb-versus-rgb-a-detailed-comparison-for-professionals/"><u>[Updated] Srgb Versus Rgb A Detailed Comparison for Professionals</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-lag-solutions-to-valheims-pc-performance-issues/"><u>Fixing Persistent Lag: Solutions to Valheim's PC Performance Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-note-50-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme Note 50 Lock Screen Password</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-success-in-the-metaverse-space/"><u>In 2024, Strategies for Success in the Metaverse Space</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y02t-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y02T Phone Hassle-Free</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-fix-deal-with-dread-hungers-persistent-crashing-issue-on-windows-and-mac/"><u>Master the Fix: Deal with Dread Hunger's Persistent Crashing Issue on Windows and Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rogue-company-pc-stability-patch-say-goodbye-to-unwanted-disconnections-during-play/"><u>Rogue Company PC Stability Patch – Say Goodbye to Unwanted Disconnections During Play</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-pc-crashes-when-attempting-to-finish-your-games-tips-and-tricks/"><u>Solving PC Crashes When Attempting To Finish Your Games - Tips & Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-lag-on-discord-with-this-2024-step-by-step-guide/"><u>Troubleshoot Lag on Discord with This 2024 Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007806107-troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-unforgettable-home-videos-top-dvd-authoring-software/"><u>Updated Create Unforgettable Home Videos Top DVD Authoring Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>[New] Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-font-picks-to-elevate-your-youtube-thumbnail-impact/"><u>[Updated] In 2024, Top Font Picks to Elevate Your YouTube Thumbnail Impact</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221174263-jpg-movavi/"><u>「網路上免費的 JPG 壓縮服務 - Movavi」</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-transform-your-feed-a-comprehensive-guide-to-videos/"><u>2024 Approved Transform Your Feed A Comprehensive Guide to Videos</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuite-de-fichiers-wma-vers-format-3gp-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichiers WMA Vers Format 3GP Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-handling-mfc42dll-is-absent-error-and-restoring-functionality/"><u>Expert Advice on Handling 'mfc42.dll Is Absent' Error and Restoring Functionality</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-nord-ce-3-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord CE 3 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-top-iphone-video-editor-choose-between-cameo-and-filmorago/"><u>In 2024, Top iPhone Video Editor Choose Between Cameo & FilmoraGo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/subir-videos-desde-mp4mpeg-a-flv-sin-costo-con-convertidor-online-de-movavi/"><u>Subir Videos Desde MP4/MPEG a FLV Sin Costo Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-ssd-performance-with-z97-chipset/"><u>Swift SSD Performance with Z97 Chipset</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-rated-free-image-editor-apps-for-pc-users/"><u>Top Rated Free Image Editor Apps for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transcode-un-fichier-ram-en-video-mpeg-sur-internet-gratuite-utiliser-movavi/"><u>Transcode Un Fichier RAM en Vidéo MPEG Sur Internet Gratuite - Utiliser Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verdienen-sie-kostenlose-online-umwandlung-von-tiff-zu-bmp-mit-movavi/"><u>Verdienen Sie Kostenlose Online-Umwandlung Von TIFF Zu BMP Mit Movavi</u></a></li>
 </ul></div>
 

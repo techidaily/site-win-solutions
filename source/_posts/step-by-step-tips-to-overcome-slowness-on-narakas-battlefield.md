@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tips to Overcome Slowness on Naraka's Battlefield
-date: 2024-09-10T21:25:29.884Z
-updated: 2024-09-16T19:27:31.082Z
+date: 2024-09-16T19:59:49.620Z
+updated: 2024-09-21T17:34:04.677Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 4) Try launching Battlefield V again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your device drivers
 
  Battlefield V is a very demanding game, so you need to have the latest drivers installed, especially your graphics driver. Manufacturers such as NVIDIA, AMD work closely with game developers to keep releasing new drivers to improve game performance and fix bugs.
@@ -113,6 +106,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 **OR**
@@ -120,19 +120,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -149,13 +136,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) Restart your PC when the repair is done.
 
  4) Launch your Battlefield V again to see if the crashing issue still persists.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Stop Overclocking
 
@@ -183,6 +163,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Run Origin and BFV as admin
 
  If you run into a game crashing issue, you can always try running both your game launcher and game executable file as an administrator. Your Battlefield 5 crashing issue can be caused by limited access to your game file.
@@ -194,6 +181,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  2) Click the**Compatibility** tab and check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Origin as administrator as well.
 
@@ -226,18 +220,18 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
@@ -256,6 +250,13 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Perform a clean boot
 
  Battlefield V crashing can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -263,13 +264,6 @@ sfc /scannow
  1) Press the**Windows logo key** and**R** at the same time to open the Run box. Type**msconfig** and hit Enter to System Configuration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
@@ -311,17 +305,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/levating-your-youtube-shorts-presence-with-impactful-strategies/"><u>[New] Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-subtle-harmonies-on-desktop-systems/"><u>[Updated] Subtle Harmonies on Desktop Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elder-scrolls-online-wont-start-heres-the-fix/"><u>Elder Scrolls Online Won't Start? Here's the Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-4201-in-genshin-impact-heres-how-you-can-correctly-resolve-it/"><u>Error 4201 in Genshin Impact? Here's How You Can Correctly Resolve It!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/hero-11-and-max-360-comparing-the-bests-in-gopros-world/"><u>Hero 11 and Max 360 Comparing the Bests in GoPro's World</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-v30-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme V30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-technology-for-easy-web-app-development/"><u>Leveraging ChatGPT Technology for Easy Web App Development</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-screen-recording-on-snapchat-devices-for-2024/"><u>Mastering the Art of Screen Recording on Snapchat Devices for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-civ-6-installation-problems-on-windows-11-a-step-by-step-guide/"><u>Overcoming Civ 6 Installation Problems on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-audio-glitches-how-to-get-sounds-back-in-lost-ark/"><u>Solving Audio Glitches - How to Get Sounds Back in 'Lost Ark'</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-ending-gameplay-disruptions-and-stability-problems-with-nioh-2-complete-version/"><u>Step-by-Step Solution: Ending Gameplay Disruptions & Stability Problems with Nioh 2 (Complete Version)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/al-voyage-youtubes-premier-10-vr-video-experience-for-2024/"><u>Virtual Voyage YouTube's Premier 10-VR Video Experience for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-enhancing-vertical-videos-using-fcpx-techniques/"><u>[New] 2024 Approved Instagram Edge Enhancing Vertical Videos Using FCPX Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-selection-top-10-zero-dollar-video-calls-for-2024/"><u>[Updated] The Ultimate Selection Top 10 Zero-Dollar Video Calls for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-10-empowering-flicks/"><u>2024 Approved The Ultimate List 10 Empowering Flicks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movaviswfmp4/"><u>立即開始：免費利用Movavi自動變更SWF為MP4 - 最佳在線圖像編譯器</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226978799-m4v-mp4-movavi/"><u>移動網路上的免費 M4V 至 MP4: 使用 Movavi 預設轉換器</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-gif-fetchers-on-ios-iphone-x-compatible-guide/"><u>Best GIF Fetchers on iOS IPhone X-Compatible Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deducing-the-return-on-investment-for-elite-ai-services/"><u>Deducing the Return on Investment for Elite AI Services</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargar-la-herramienta-online-para-convertir-archivos-de-video-f4v-a-formato-flv-sin-coste-alguno/"><u>Descargar La Herramienta Online Para Convertir Archivos De Vídeo F4V a Formato FLV Sin Coste Alguno</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-gionee-f3-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Gionee F3 Pro FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-itel-p55-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Itel P55 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/professional-android-film-editing-app-easy-to-use-video-editor-for-smartphone/"><u>Professional Android Film Editing App - Easy-to-Use Video Editor for Smartphone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tactics-to-expose-youtubes-well-guarded-videotapes/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worlds-top-techies-and-their-ai-predictions/"><u>World's Top Techies and Their AI Predictions</u></a></li>
 </ul></div>
 

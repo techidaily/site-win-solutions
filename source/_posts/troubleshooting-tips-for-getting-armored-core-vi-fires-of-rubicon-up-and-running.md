@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for Getting Armored Core VI: Fires of Rubicon Up and Running"
-date: 2024-09-12T21:58:20.894Z
-updated: 2024-09-16T21:21:21.321Z
+date: 2024-09-18T18:06:05.468Z
+updated: 2024-09-21T16:29:47.300Z
 tags:
   - win11
   - win10
@@ -89,22 +89,16 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **Apply** , then **OK** .
 
@@ -127,21 +121,22 @@ If your issue continues to occur, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-08-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase virtual memory
 
@@ -155,13 +150,6 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-38.jpg)
@@ -174,13 +162,6 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -190,6 +171,13 @@ If your issue continues to occur, move on and try the next fix.
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-32-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -203,22 +191,16 @@ If your issue persists, then ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-47-57.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-48-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and your game. If your issue still exists, try the fix, below.
 
@@ -267,18 +249,16 @@ Relaunch the game to see if this helped.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>[Updated] 2024 Approved Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pixelpreserve-a-comprehensive-screen-record-review/"><u>2024 Approved 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/achieving-higher-fps-in-new-world-a-comprehensive-guide-to-reducing-stutter/"><u>Achieving Higher FPS in New World – A Comprehensive Guide to Reducing Stutter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-not-ready-for-use-device-warning/"><u>Diagnosing and Repairing the 'Not Ready for Use' Device Warning</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-starfield-applications-spike-in-cpu-usage-with-our-latest-2024-fixes/"><u>Eliminate Starfield Application's Spike in CPU Usage with Our Latest 2024 Fixes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-your-viewing-experience-mastering-camera-focus-online/"><u>In 2024, Sharpen Your Viewing Experience Mastering Camera Focus Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-synthesizing-mood-an-ode-to-trailer-tunes/"><u>In 2024, Synthesizing Mood An Ode to Trailer Tunes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-doom-eternals-crash-problem-a-comprehensive-guide/"><u>Solving DOOM Eternal's Crash Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-palworlds-persistent-session-search-issues/"><u>Solving PalWorld's Persistent Session Search Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-continuous-minecraft-game-crashes-a-6-step-solution/"><u>Ultimate Fix for Continuous Minecraft Game Crashes: A 6-Step Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011317591-warfarin-is-a-well-known-example-where-genetic-testing-can-guide-dosing-to-prevent-bleeding-complications/"><u>Warfarin Is a Well-Known Example Where Genetic Testing Can Guide Dosing to Prevent Bleeding Complications</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-carryminati-the-youtube-money-trail-of-ajey-nagar/"><u>[New] 2024 Approved CarryMinati The YouTube Money Trail of Ajey Nagar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-screen-recording-apps-of-2023-expert-picks/"><u>[New] 2024 Approved Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-winning-collaboration-plans-on-youtube/"><u>[Updated] 2024 Approved Crafting Winning Collaboration Plans on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-samsungs-gear-360-challenger-the-best-cameras-of-the-year-for-2024/"><u>[Updated] Samsung’s Gear 360 Challenger The Best Cameras of the Year for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-change-audio-units-from-au-to-high-quality-mp3-with-movavi/"><u>Free Online Conversion: Change Audio Units From AU to High-Quality MP3 with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-from-wav-to-mpeg-easy-use-with-movavi/"><u>Free Online Converter From WAV to MPEG - Easy Use with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-flv-and-wmv-files-with-movavis-easy-reliable-service/"><u>Free Online Converter: Convert FLV & WMV Files with Movavi's Easy, Reliable Service</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-zero-5g-2023-turbo-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Zero 5G 2023 Turbo Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethinking-confidence-in-ai-six-key-issues-you-need-to-know/"><u>Rethinking Confidence in AI: Six Key Issues You Need to Know</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-eliminare-le-macchie-dal-tuo-album-fotografico-strumenti-per-lediting-delle-foto/"><u>Tutorial: Eliminare Le Macchie Dal Tuo Album Fotografico - Strumenti per L'Editing Delle Foto</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-how-to-effortlessly-cut-out-backgrounds-in-photos/"><u>Ultimate Guide: How to Effortlessly Cut Out Backgrounds in Photos</u></a></li>
 </ul></div>
 

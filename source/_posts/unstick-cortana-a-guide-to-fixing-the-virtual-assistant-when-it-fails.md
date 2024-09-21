@@ -1,7 +1,7 @@
 ---
 title: "Unstick Cortana: A Guide to Fixing the Virtual Assistant When It Fails"
-date: 2024-09-12T18:00:31.115Z
-updated: 2024-09-16T18:28:10.138Z
+date: 2024-09-15T20:23:26.685Z
+updated: 2024-09-21T19:08:09.495Z
 tags:
   - win11
   - win10
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
  If verifying your game files doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your graphics driver
 
  If your graphics driver is outdated or faulty, it may cause issues when The Ascent tries to launch. You may want to make sure yours is up-to-date and functioning properly.
@@ -126,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
  Restart your PC for the new driver to take effect. If updating graphics driver doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Run The Ascent in DirectX 11
 
  Many players reported they couldn’t launch the game with DirectX 12\. It seems like a compatibility issue with DirectX 12 but so far the developers haven’t released a patch for it yet. What you can do for now is to run the game in DirectX 11 as a workaround. Here’s how:
@@ -133,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 1. Open your Steam library and find The Ascent. Right-click the game then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
@@ -156,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 * If available, set your antivirus software to**game mode** .
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -176,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -195,28 +188,15 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch The Ascent. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with The Ascent.  
 
@@ -228,8 +208,22 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
 5. Disable the problem program and reboot your PC.
@@ -256,18 +250,16 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-creating-an-efficient-framework-for-ps3-game-screencasts-for-2024/"><u>[New] Creating an Efficient Framework for PS3 Game Screencasts for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[New] How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[New] In 2024, Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-time-lapse-wizardry-harnessing-gopros-potential/"><u>2024 Approved Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>In 2024, Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-graphics-distortions-a-step-by-nstep-guide-to-fixing-warzone-issues/"><u>Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-disappointment-fix-the-persistent-screen-blinking-problem/"><u>Resolve Your Disappointment: Fix the Persistent Screen Blinking Problem</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snicker-spinner-picture-editor/"><u>Snicker Spinner Picture Editor</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723005333483-troubleshoot-apex-legends-loading-problems-in-minutes/"><u>Troubleshoot Apex Legends Loading Problems in Minutes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-stabilizing-forza-horizon-5-gameplay-on-your-desktop-computer/"><u>Ultimate Guide to Stabilizing Forza Horizon 5 Gameplay on Your Desktop Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-the-full-experience-overcoming-launch-issues-in-mass-effect-legendary-edition/"><u>Unlock the Full Experience: Overcoming Launch Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-digital-trailer-design-studios-for-2024/"><u>Updated Best Digital Trailer Design Studios for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-film-at-a-leisurely-pace-with-your-iphone/"><u>[New] In 2024, Film at a Leisurely Pace with Your iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-identifying-high-growth-youtube-channels-for-personal-development/"><u>2024 Approved Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-graviter-vers-des-conversions-de-dvd-en-h265-a-partir-de-fichiers-blu-ray-sans-cout/"><u>Comment Graviter Vers Des Conversions De DVD en H.265 À Partir De Fichiers Blu-Ray Sans Coût ?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-everything-about-your-movavi-history/"><u>Discover Everything About Your Movavi History</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/extollo-lansocket-1500-a-comprehensive-review-on-high-throughput-reduced-latency-and-transparent-ups-features/"><u>Extollo LANSocket 1500 - A Comprehensive Review on High Throughput, Reduced Latency & Transparent UPS Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-started-with-movavi-video-editor-your-perfect-business-solution-now/"><u>Get Started with Movavi Video Editor - Your Perfect Business Solution Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-i9-and-i7-processors-experience-significant-warframe-performance-issues-developer-insights/"><u>Intel's I9 and I7 Processors Experience Significant Warframe Performance Issues: Developer Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-tool-convert-mp4-videos-into-mpe-format-online-effortlessly/"><u>Movavi's Free Tool: Convert MP4 Videos Into MPE Format Online Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swiftswf-to-mov-changeover-hands-free-conversion-tools-for-quick-and-simple-mov-file-creation/"><u>SwiftSWF-to-MOV Changeover: Hands-Free Conversion Tools for Quick and Simple MOV File Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-videos-rapidamente-on-line-guia-detalhado-para-a-transicao-de-wmv-para-mp4-com-as-ferramentas-facilmente-utilizaveis-no-sitio-movavi/"><u>Transformar Vídeos Rapidamente On-Line: Guia Detalhado Para a Transição De WMV Para MP4 Com as Ferramentas Facilmente Utilizáveis No Sítio Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/yearly-roundup-premium-skype-recorder-options-for-2024/"><u>Yearly Roundup Premium Skype Recorder Options for 2024</u></a></li>
 </ul></div>
 

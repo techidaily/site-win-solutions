@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Notorious 'Back ^Blood: UE4' Gobi Bug with Ease"
-date: 2024-09-12T18:12:42.762Z
-updated: 2024-09-16T20:11:06.428Z
+date: 2024-09-19T19:58:36.699Z
+updated: 2024-09-21T20:52:43.928Z
 tags:
   - win11
   - win10
@@ -74,6 +74,13 @@ There are mainly two ways you can update the driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -83,6 +90,13 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
@@ -94,15 +108,28 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -117,13 +144,6 @@ There are mainly two ways you can update the driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -135,36 +155,16 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -195,18 +195,20 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[New] 2024 Approved Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[New] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-10-in-ultra-hd-top-4k-mirrorless-photo-journals/"><u>[New] Leading 10 in Ultra-HD Top 4K Mirrorless Photo Journals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-highlighting-youtubes-creme-de-la-creme-makeup-influencers-for-2024/"><u>[Updated] Highlighting YouTube's Crème De La Crème Makeup Influencers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-optimal-video-sharing-experience-decide-between-tiktok-and-youtubes-shorts/"><u>In 2024, Optimal Video-Sharing Experience Decide Between TikTok & YouTubes' Shorts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-newest-steelseries-control-software-for-enhanced-keyboard-performance/"><u>Install the Newest SteelSeries Control Software for Enhanced Keyboard Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4amvamvmp4/"><u>MP4からAMVへ、そしてAMV回復MP4 - 完全ガイド</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/preventing-recurring-crashes-in-minecraft-dungeons-on-windows-or-mac/"><u>Preventing Recurring Crashes in Minecraft Dungeons on Windows or Mac</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reevaluating-your-needs-how-you-can-skip-the-expensive-core-i9-and-still-achieve-optimal-computing-power/"><u>Reevaluating Your Needs: How You Can Skip the Expensive Core I9 and Still Achieve Optimal Computing Power</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-continuous-blender-software-freezing-problems-in-5-easy-steps/"><u>Resolving Continuous Blender Software Freezing Problems in 5 Easy Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-enshrouded-pc-crashing-with-our-easy-fix/"><u>Say Goodbye to Enshrouded PC Crashing with Our Easy Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003209149-total-war-three-kingdoms-stability-improvements-no-more-crashes/"><u>Total War: Three Kingdoms Stability Improvements - No More Crashes!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-clouds-advanced-drone-video-techniques/"><u>[Updated] Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-secrets-of-youtube-music-curation/"><u>2024 Approved Unveiling the Secrets of YouTube Music Curation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bade-nu-og-senere-maegtest-du-nu-kobe-movavi-multimedia-software/"><u>Både Nu Og Senere - Mægtest Du Nu Købe Movavi Multimedia Software?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-huggingface-a-detailed-comparison-of-the-two-leading-language-models/"><u>ChatGPT vs HuggingFace: A Detailed Comparison of the Two Leading Language Models</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-swf-file-conversion-to-movquicktime-video-download-for-free-now/"><u>Effortless SWF File Conversion to MOV/QuickTime Video – Download for Free Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortlessly-transition-mp3-tracks-to-ogg-at-no-cost-using-our-simple-web-service/"><u>Effortlessly Transition MP3 Tracks to OGG at No Cost Using Our Simple Web Service!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-recording-netflix-videos-on-a-mac-for-2024/"><u>Essential Guide Recording Netflix Videos on a Mac for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Phantom V Flip</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-visionary-the-ultimate-reddit-marketing-blueprint/"><u>In 2024, From Novice to Visionary The Ultimate Reddit Marketing Blueprint</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximize-your-youtube-experience-top-services-for-easy-video-and-music-extraction-through-smart-subscriptions/"><u>Maximize Your YouTube Experience: Top Services for Easy Video and Music Extraction Through Smart Subscriptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-wtv-convertitore-online-e-libero-utilizzo-facoltativo/"><u>Movavi WTV Convertitore OnLine E Libero - Utilizzo Facoltativo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi3gpmpeg/"><u>Movavi的3GP到MPEG無限制下載移行器，線上免費提供 - 全球影片編碼轉換者</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-video-editing-how-to-add-effects-in-fcp-x-3-simple-steps/"><u>New Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/revive-past-memories-swift-and-reliable-file-recovery/"><u>Revive Past Memories - Swift and Reliable File Recovery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-techniques-for-photo-watermarking-a-quick-guide-by-movavi/"><u>Simple Techniques for Photo Watermarking: A Quick Guide by Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Graphics Card Errors - A Fix for Oculus User Experience
-date: 2024-09-10T16:50:51.293Z
-updated: 2024-09-16T18:28:11.625Z
+date: 2024-09-16T18:18:49.468Z
+updated: 2024-09-21T19:46:15.896Z
 tags:
   - win11
   - win10
@@ -82,23 +82,23 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
- Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
 ### Fix 4 – Increase virtual memory
 
@@ -107,6 +107,14 @@ wireless router
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
@@ -114,31 +122,17 @@ wireless router
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
@@ -160,6 +154,14 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -186,18 +188,15 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central/"><u>[New] From Concept Art to Cinematic Masterpiece Utilizing Luts From CG Central</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-warzone-graphic-glitches-missing-textures-explained/"><u>Comprehensive Guide to Fixing Warzone Graphic Glitches: Missing Textures Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-failed-operations-code-0x0000011b-fixes/"><u>Eliminating 'Failed' Operations: Code 0X0000011B Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/football-manager-2021-launch-failures-effective-solutions-to-fix-stuck-screen-issues-quickly/"><u>Football Manager 2021 Launch Failures – Effective Solutions to Fix Stuck Screen Issues Quickly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-successfully-tackle-and-fix-cyberpunk-2077s-persistent-black-screen-problem/"><u>How to Successfully Tackle and Fix Cyberpunk 2077'S Persistent Black Screen Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-pro-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 Pro 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-5-mts-video-editing-software-recommended/"><u>In 2024, Top 5 MTS Video Editing Software Recommended</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-strategies-for-fixing-launch-problems-with-hogwarts-legacy-game-in-202email-protected/"><u>New Strategies for Fixing Launch Problems with 'Hogwarts Legacy' Game in 202([Email Protected])</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-notorious-fortnite-freeze-issue-essential-hacks-for-gamers-in-202/"><u>Resolving the Notorious Fortnite Freeze Issue: Essential Hacks for Gamers in 202</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-intel-device-manager-not-responding-correctly/"><u>Troubleshooting Guide: Intel Device Manager Not Responding Correctly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-essentials-6-time-saving-tips-for-better-video-edits/"><u>Updated Adobe Premiere Pro Essentials 6 Time-Saving Tips for Better Video Edits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[Updated] In 2024, Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavioggwav/"><u>「簡単な方法: Movaviを利用したOGGからWAVへのオンライン変換ツール - 無料版」</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmvmov-movavi/"><u>免費在線WMV到MOV格式改換 - 以 Movavi 為解決方案</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-samsung-galaxy-z-flip-upcoming-launch-specs-and-pricing-guide/"><u>Discover the Samsung Galaxy Z Flip - Upcoming Launch, Specs & Pricing Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-converter-mp4-para-avi-online-movavi/"><u>Gratuito Converter MP4 Para AVI Online - Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ase-viewership-fairly-insights-for-video-marketers/"><u>Increase Viewership Fairly Insights for Video Marketers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/switch-your-tunes-with-movavis-no-cost-mp3-to-mpeg-tool-upload-and-convert-today/"><u>Switch Your Tunes with Movavi's No-Cost MP3 to MPEG Tool - Upload & Convert Today!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Blaze 2 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upcoming-end-date-xbox-360-content-library-discontinues-service-for-the-month/"><u>Upcoming End Date: Xbox 360 Content Library Discontinues Service for the Month</u></a></li>
 </ul></div>
 

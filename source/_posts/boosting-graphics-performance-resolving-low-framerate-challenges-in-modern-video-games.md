@@ -1,7 +1,7 @@
 ---
 title: "Boosting Graphics Performance: Resolving Low Framerate Challenges in Modern Video Games"
-date: 2024-09-13T19:52:54.880Z
-updated: 2024-09-16T17:16:49.071Z
+date: 2024-09-17T20:36:32.977Z
+updated: 2024-09-21T20:33:08.598Z
 tags:
   - win11
   - win10
@@ -76,13 +76,6 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -92,6 +85,13 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
@@ -103,26 +103,13 @@ Here’s how:
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -135,6 +122,14 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -160,14 +155,20 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-audioanalyzer-reaction-to-recordings/"><u>[New] In 2024, AudioAnalyzer Reaction to Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/15-types-of-camera-shots-in-film-beginners-need-to-know/"><u>15 Types of Camera Shots in Film Beginners Need to Know</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crash-in-lol-easy-fix-guides-you-need-today/"><u>Banish Lag & Crash in LoL: Easy Fix Guides You Need Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-tips-resolving-constant-crashes-of-elex-ii-on-your-computer/"><u>Fixes & Tips: Resolving Constant Crashes of Elex II on Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/insurgency-how-to-fix-sandstorm-game-crashes/"><u>Insurgency: How to Fix Sandstorm Game Crashes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mac-users-mastering-mp3-conversion-from-youtube-for-2024/"><u>Mac Users Mastering MP3 Conversion From YouTube for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maximizing-frame-rates-essential-tips-for-a-smoother-valheim-gameplay-this-year/"><u>Maximizing Frame Rates: Essential Tips for a Smoother Valheim Gameplay This Year</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y27s-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y27s Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-error-display-settings-now-safe/"><u>Reverse Error - Display Settings Now Safe</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-gifs-like-pro-on-any-mac/"><u>[Updated] 2024 Approved Capture GIFs Like Pro on Any Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-stories-integrating-personalized-graphics/"><u>[Updated] 2024 Approved Mastering Instagram Stories Integrating Personalized Graphics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-depth-insights-for-youtube-sound-enhancement/"><u>[Updated] In-Depth Insights for YouTube Sound Enhancement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-examination-unveiling-the-360-camera-wonders/"><u>[Updated] Ultimate Examination Unveiling the 360 Camera Wonders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225600916-wtvavimovavi/"><u>網路直接無成本轉化WTV到AVI：Movavi的過渡魔術師</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225913398-mpeg/"><u>線上無料MPEG轉档服务 - 快速實用解答</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/auto-arcade-adventures-for-kids/"><u>Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-best-19-no-cost-film-makers-compatible-with-windows-11-8-and-among-others/"><u>Discover the Best 19 No-Cost Film Makers Compatible with Windows 11, 8 & Among Others</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exploring-the-cinematic-world-of-francesco-del-vecchio-at-movavicom/"><u>Exploring the Cinematic World of Francesco Del Vecchio at Movavi.com</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-of-tod-files-to-mpeg-format-movavi/"><u>Free Online Conversion of TOD Files to MPEG Format - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintain-confidentiality-delete-your-entire-chatgpt-transcript-history-today/"><u>Maintain Confidentiality: Delete Your Entire ChatGPT Transcript History Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-warnings-in-your-systems-integrated-development-tools/"><u>Resolving Unsupported Hardware Warnings in Your System's Integrated Development Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-14-high-quality-presentation-tools-premium-and-cost-free-options-explored/"><u>Top 14 High-Quality Presentation Tools: Premium and Cost-Free Options Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unfolding-details-the-upcoming-samsung-z-fold-4s-specs-market-price-and-release-info/"><u>Unfolding Details: The Upcoming Samsung Z Fold 4'S Specs, Market Price & Release Info</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrij-van-boodschappen-onlinemethode-om-je-m4b-aanvraag-in-avi-formaat-virtueel-te-veranderen/"><u>Vrij Van Boodschappen - Onlinemethode Om Je M4B-Aanvraag in Avi Formaat Virtueel Te Veranderen</u></a></li>
 </ul></div>
 

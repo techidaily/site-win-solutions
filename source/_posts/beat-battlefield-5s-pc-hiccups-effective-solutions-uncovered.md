@@ -1,7 +1,7 @@
 ---
 title: "Beat Battlefield 5'S PC Hiccups: Effective Solutions Uncovered!"
-date: 2024-09-13T18:14:32.177Z
-updated: 2024-09-16T18:57:04.575Z
+date: 2024-09-16T19:45:28.899Z
+updated: 2024-09-21T16:10:29.509Z
 tags:
   - win11
   - win10
@@ -114,29 +114,9 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete settings and repair your Battlefield V
 
@@ -176,6 +156,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Run Origin and BFV as admin
 
  If you run into a game crashing issue, you can always try running both your game launcher and game executable file as an administrator. Your Battlefield 5 crashing issue can be caused by limited access to your game file.
@@ -188,13 +175,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run Origin as administrator as well.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
@@ -202,10 +182,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
@@ -233,13 +213,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
@@ -254,6 +227,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) When the verification finishes, you may receive one of the following messages:
 
 * **Windows Resource Protection did not find any integrity violations** .  
@@ -262,6 +242,13 @@ sfc /scannow
  You can perform a restart and try to relaunch the game to see if Battlefield 5 crashes are gone.
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -278,6 +265,13 @@ sfc /scannow
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select each startup item and click**Disable** .
 
@@ -311,17 +305,17 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-choosing-your-stage-obs-or-twitch-pro/"><u>[New] 2024 Approved Choosing Your Stage OBS or Twitch Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamlining-youtube-sharing-with-google-account-accessibility/"><u>[New] 2024 Approved Streamlining YouTube Sharing with Google Account Accessibility</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-steps-for-ios-and-android-capture-google-meet/"><u>[Updated] 2024 Approved Easy Steps for iOS and Android Capture Google Meet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-of-effective-powerpoint-presentation-recordings/"><u>[Updated] Secrets of Effective PowerPoint Presentation Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-stability-secrets-for-dynamic-photo-shoots/"><u>[Updated] Stability Secrets for Dynamic Photo Shoots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>2024 Approved A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-the-launch-problems-optimizing-age-of-empires-2-compatibility-with-windows-11/"><u>Conquer the Launch Problems: Optimizing Age of Empires 2 Compatibility with Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/grand-theft-auto-v-gta-5-overcoming-gameplay-interruptions-and-smooth-performance-tips/"><u>Grand Theft Auto V (GTA 5): Overcoming Gameplay Interruptions & Smooth Performance Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>In 2024, Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/roller-champions-cooperative-play-mastery-for-pc-gamers/"><u>Roller Champions Cooperative Play Mastery for PC Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-5-secrets-to-eliminate-high-latency-issues-in-call-of-duty-modern-warfare-ii-warzone-2k4-and-win-battles/"><u>Top 5 Secrets to Eliminate High Latency Issues in Call of Duty: Modern Warfare II (Warzone 2K4) and Win Battles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-overcoming-wolcen-pc-instability-and-crashes/"><u>Troubleshooting Success: Overcoming Wolcen PC Instability and Crashes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[New] 2024 Approved Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks-for-2024/"><u>[Updated] Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-facebooks-secrets-an-introductory-guide/"><u>[Updated] Unlocking Facebook's Secrets An Introductory Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revive-iphone-hdr-video-on-premiere-pro-with-5-tips/"><u>2024 Approved Revive iPhone HDR Video on Premiere Pro with 5 Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bast-gratis-windowsskarmspel-for-windows-11-din-guide-till-finest-gaming/"><u>Bäst Gratis Windowsskärmspel För Windows 11 - Din Guide Till Finest Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-htc-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from HTC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-rated-photo-enlargement-apps-pour-lajouter-a-votre-livre-dart-numerique/"><u>Top Rated Photo Enlargement Apps Pour L'Ajouter À Votre Livre D'art Numérique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-action-cam-editing-solutions/"><u>Ultimate Action Cam Editing Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-based-gratis-converter-tvshow-vod-mp4-movavi/"><u>Web-Based Gratis Converter: TVShow 이미지와 VOD MP4 변환 - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

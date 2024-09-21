@@ -1,7 +1,7 @@
 ---
 title: DirectX Glitch in Anno 1800? Here's Your Ultimate Solution
-date: 2024-09-13T20:41:53.416Z
-updated: 2024-09-16T19:32:03.785Z
+date: 2024-09-17T20:35:00.790Z
+updated: 2024-09-21T16:40:23.482Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Switch DirectX versions
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
@@ -80,13 +87,20 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Check out your **DirectX version** in the first page of the report.
 
@@ -100,29 +114,9 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
@@ -143,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
@@ -176,13 +177,6 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
@@ -209,20 +203,15 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-express-humor-no-charge-with-easymeme-tools/"><u>[New] Express Humor, No Charge with EasyMeme Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>[New] In 2024, 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-high-cpu-consumption-by-antivirus-on-windows-11-fixed/"><u>Dealing with High CPU Consumption by Antivirus on Windows 11 [FIXED]</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/decoding-the-fuzziness-in-facebook-videos/"><u>Decoding the Fuzziness in Facebook Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-playability-recent-patch-tackles-blackwood-lag-in-eso/"><u>Enhanced Playability - Recent Patch Tackles Blackwood Lag in ESO</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862829558-experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-poco-x5-frp-by-drfone-android/"><u>Full Guide to Bypass Poco X5 FRP</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maximizing-gameplay-fluidity-a-guide-for-improving-watch-dogs-legions-fps-and-reducing-lag/"><u>Maximizing Gameplay Fluidity: A Guide for Improving Watch Dogs: Legion's FPS and Reducing Lag</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-graphics-distortions-a-step-by-nstep-guide-to-fixing-warzone-issues/"><u>Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-disappointment-fix-the-persistent-screen-blinking-problem/"><u>Resolve Your Disappointment: Fix the Persistent Screen Blinking Problem</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723005333483-troubleshoot-apex-legends-loading-problems-in-minutes/"><u>Troubleshoot Apex Legends Loading Problems in Minutes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-stabilizing-forza-horizon-5-gameplay-on-your-desktop-computer/"><u>Ultimate Guide to Stabilizing Forza Horizon 5 Gameplay on Your Desktop Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-the-full-experience-overcoming-launch-issues-in-mass-effect-legendary-edition/"><u>Unlock the Full Experience: Overcoming Launch Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/video-upload-insights-aspect-ratio-for-twitters-platform-for-2024/"><u>Video Upload Insights Aspect Ratio for Twitter's Platform for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-get-started-with-movavi-discount-codes-comprehensive-terms-and-conditions-guide/"><u>1. Get Started with Movavi Discount Codes: Comprehensive Terms & Conditions Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-slides-to-screens-easy-recording-techniques/"><u>2024 Approved From Slides to Screens Easy Recording Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-quick-guide-to-overcoming-instagram-video-hiccups/"><u>2024 Approved Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-facilement-votre-fichier-m4v-en-format-mpeg-gratuitement-sur-movavi-conversion-video/"><u>Convertissez Facilement Votre Fichier M4V en Format MPEG Gratuitement Sur Movavi - Conversion Vidéo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-mealtime-with-arfs-auto-feed-dog-and-cat-food-dispenser/"><u>Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-c55-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco C55 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-zero-to-hero-making-your-instagram-videos-go-wild/"><u>In 2024, From Zero to Hero Making Your Instagram Videos Go Wild</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-3gmov/"><u>Movaviの使い方: ユーザーフレンドリーな3GへMOV動画変換器 – 無料オンラインサービス</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/scopri-il-potenziale-di-movavi-photo-editor-un-ottimo-investimento-per-la-tua-creativita-fotografica/"><u>Scopri Il Potenziale Di Movavi Photo Editor - Un Ottimo Investimento per La Tua Creatività Fotografica</u></a></li>
 </ul></div>
 

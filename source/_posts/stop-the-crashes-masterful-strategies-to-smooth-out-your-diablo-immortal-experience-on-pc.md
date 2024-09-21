@@ -1,7 +1,7 @@
 ---
 title: "Stop the Crashes: Masterful Strategies to Smooth Out Your Diablo Immortal Experience on PC"
-date: 2024-09-11T19:41:00.300Z
-updated: 2024-09-16T21:39:27.939Z
+date: 2024-09-15T16:16:53.316Z
+updated: 2024-09-21T18:09:03.855Z
 tags:
   - win11
   - win10
@@ -96,13 +96,6 @@ Praey for the Gods system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
 [No Matter Studios](https://store.steampowered.com/curator/33975030-No-Matter-Studios/) , the developer of Praey for the Gods, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -110,6 +103,13 @@ Praey for the Gods system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Praey for the Gods again and see if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -123,23 +123,9 @@ Praey for the Gods system requirements
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t help, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -150,13 +136,6 @@ Praey for the Gods system requirements
  Launch Praey for the Gods to see if it crashes after you disabled the anti-virus software on your PC.
 
 See if this fix helps. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -174,14 +153,15 @@ See if this fix helps. If not, try the next fix, below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -193,13 +173,41 @@ See if this fix helps. If not, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -239,15 +247,20 @@ See if this fix helps. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[New] 2024 Approved Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unleash-creativity-video-art-and-live-streaming-with-vlc-webcam-capabilities/"><u>[New] 2024 Approved Unleash Creativity Video Art & Live Streaming with VLC Webcam Capabilities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-quick-conversion-at-no-expense-fb-videos-to-mp4-and-hd-now/"><u>[Updated] 2024 Approved Quick Conversion at No Expense - FB Videos to MP4 & HD Now</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-craft-of-looped-visuals-for-social-media-success/"><u>[Updated] Mastering the Craft of Looped Visuals for Social Media Success</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accelerate-chrome-performance-simple-solutions-for-a-quicker-experience/"><u>Accelerate Chrome Performance: Simple Solutions for a Quicker Experience</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-jumpstart-your-recording-with-this-obs-mac-setup-guide/"><u>In 2024, Jumpstart Your Recording with This OBS Mac Setup Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/premiere-pro-no-more-crashes-troubleshooting-for-windows-11-and-10-users/"><u>Premiere Pro No More Crashes - Troubleshooting for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/skyrocketing-success-how-2024-will-reshape-fb-ad-strategies/"><u>Skyrocketing Success How 2024 Will Reshape FB Ad Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-trick-to-prevent-crashes-when-running-no-rest-for-the-wicked-on-your-computer/"><u>The Ultimate Trick to Prevent Crashes When Running 'No Rest for the Wicked' On Your Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-fbx-filming-in-games/"><u>[New] In 2024, Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ideal-picks-9-best-video-calling-apps-for-androidios-business-needs/"><u>[Updated] In 2024, Ideal Picks 9 Best Video Calling Apps for Android/iOS Business Needs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-diminishing-volume-fl-masterclass/"><u>2024 Approved Diminishing Volume FL Masterclass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-avi-to-dvd-effortlessly-top-5-free-techniques-and-tips/"><u>Convert AVI to DVD Effortlessly: Top 5 Free Techniques & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-is-my-keyboards-backspace-function-unresponsive/"><u>Fixing the Issue: Why Is My Keyboard's Backspace Function Unresponsive?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/flv-mpegmp4-movavi/"><u>FLV 포워드에 적합한 MPEG/MP4 파일의 오픈소스 변환 - Movavi 속도화</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-movavi-photo-pro-the-ultimate-solution-for-quick-buy-online-image-editors/"><u>Get Movavi Photo Pro: The Ultimate Solution for Quick-Buy Online Image Editors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-lenovo-thinkpad-t430-driver-downloads-compatible-with-windows-11-8-7/"><u>Hassle-Free Guide to Lenovo ThinkPad T4^30 Driver Downloads Compatible With Windows 11 / 8 / 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-car-ai-troubleshooting-and-fixing-6-common-mishaps/"><u>Mastering Car AI: Troubleshooting & Fixing 6 Common Mishaps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-comprehensive-breakdown-of-average-picture-ratios-your-essential-resource/"><u>Movavi's Comprehensive Breakdown of Average Picture Ratios: Your Essential Resource</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-voiceover-software-for-pc-the-top-6-contenders/"><u>New In 2024, Video Voiceover Software for PC The Top 6 Contenders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-best-drones-for-kids-and-beginners-for-2024/"><u>Top 10 Best Drones for Kids and Beginners for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/voor-windows-14-opgegevene-van-final-cut-pro-gratis-software-opnamen/"><u>Voor Windows: 14 Opgegevene Van Final Cut Pro - Gratis Software Opnamen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ai-mp4-movavi/"><u>ムリョウランオンライン AI MP4変換ツール - Movavi</u></a></li>
 </ul></div>
 

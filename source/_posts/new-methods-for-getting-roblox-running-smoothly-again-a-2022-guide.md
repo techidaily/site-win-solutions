@@ -1,7 +1,7 @@
 ---
 title: "New Methods for Getting Roblox Running Smoothly Again: A 2022 Guide"
-date: 2024-09-13T19:10:47.518Z
-updated: 2024-09-16T21:01:12.884Z
+date: 2024-09-16T16:39:56.277Z
+updated: 2024-09-21T20:26:00.404Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -63,29 +70,30 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
-5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
- If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
 
@@ -107,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -117,28 +132,8 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -163,16 +158,20 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-streaming-the-premier-6-zoom-webcam-picks/"><u>[Updated] Professional Streaming The Premier #6 Zoom Webcam Picks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-tips-for-starting-your-counter-strike-game-without-errors/"><u>Comprehensive Tips for Starting Your Counter-Strike Game Without Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/deciphering-shadows-how-to-get-rid-of-a-black-screen-while-playing-re8-on-pc/"><u>Deciphering Shadows: How to Get Rid of a Black Screen While Playing RE8 on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-silent-broadcasts-solving-twitch-audio-problems/"><u>Fixes for Silent Broadcasts: Solving Twitch Audio Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-live-chat-apps-to-try-with-shopify/"><u>In 2024, Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-depth-evaluation-of-finties-macbook-pro-13-laptop-sleeve-a-blend-of-strength-and-savings/"><u>In-Depth Evaluation of Fintie's MacBook Pro 13 Laptop Sleeve: A Blend of Strength & Savings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-stutter-and-freeze-in-valheim-optimizing-gameplay-on-your-computer/"><u>Overcoming Stutter & Freeze in Valheim: Optimizing Gameplay on Your Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-to-overcome-slowness-on-narakas-battlefield/"><u>Step-by-Step Tips to Overcome Slowness on Naraka's Battlefield</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ais-implications-identifying-possible-threats/"><u>Understanding AI's Implications: Identifying Possible Threats</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-workspace-wonders-top-8-notetaking-apps-no-pen/"><u>Windows Workspace Wonders: Top 8 Notetaking Apps (No Pen)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-advanced-mp4-encoder-for-social-sharing/"><u>[Updated] 2024 Approved Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bast-gratis-windowsskarmspel-for-windows-11-din-guide-till-finest-gaming/"><u>Bäst Gratis Windowsskärmspel För Windows 11 - Din Guide Till Finest Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-cambiar-tu-video-de-swf-a-avi-sin-coste-usando-el-servicio-web-de-movavi/"><u>Cómo Cambiar Tu Vídeo De SWF a AVI Sin Coste, Usando El Servicio Web De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargue-y-conviertan-sus-imagenes-webp-de-forma-gratuita-usando-la-linea-avanzada-de-convertidor-webp-movavi/"><u>Descargue Y Conviértan Sus Imágenes Webp De Forma Gratuita Usando La Línea Avanzada De Convertidor Webp - Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-reviews-on-the-finest-aiff-to-mp3wavflac-transformers-comprehensive-compatibility-check/"><u>Expert Reviews on the Finest AIFF to MP3/WAV/FLAC Transformers – Comprehensive Compatibility Check</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-s18-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S18 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-14-ultra-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi 14 Ultra Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-f54-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy F54 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2020-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2020)? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-guide-how-to-install-updated-targus-displaylink-drivers-on-windows-11-8-and-7/"><u>Latest Guide: How to Install Updated Targus DisplayLink Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movivis-guide-to-converting-webp-images-into-jpeg-format/"><u>MoviVi's Guide to Converting WebP Images Into JPEG Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-sims-ngamers-unite-solving-video-card-errors-on-pc-and-consoles/"><u>The Sims nGamers Unite! Solving Video Card Errors on PC and Consoles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-based-gratis-converter-tvshow-vod-mp4-movavi/"><u>Web-Based Gratis Converter: TVShow 이미지와 VOD MP4 변환 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225668001-caf-m4rmovavi/"><u>オンラインで手軽にCAF M4Rファイルを無料変換:Movaviの専門ソリューション</u></a></li>
 </ul></div>
 

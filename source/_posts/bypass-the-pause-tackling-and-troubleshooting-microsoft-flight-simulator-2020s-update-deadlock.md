@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Pause: Tackling and Troubleshooting Microsoft Flight Simulator 2020'S Update Deadlock"
-date: 2024-09-10T16:53:26.981Z
-updated: 2024-09-16T16:25:44.142Z
+date: 2024-09-17T19:42:05.760Z
+updated: 2024-09-21T19:40:13.866Z
 tags:
   - win11
   - win10
@@ -88,10 +88,10 @@ If the issue remains, try the next fix.
 If this method doesn’t work for you, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -126,6 +126,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Move the community folder
 
  The Microsoft Flight Simulator scans the Official and Community folders every time you click Play or Launch. The bigger the Official and Community folders are, the longer the loading times are likely to be. Depending on your system this process can take up to several minutes. To reduce loading screens, you can delete the package folders of the mods and official aircraft you’re not planning to use regularly or move your community package to another folder. To do so:
@@ -147,13 +154,6 @@ If this method doesn’t work for you, go ahead with the next fix.
  Restart Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
 If the problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check your security software
 
@@ -186,23 +186,9 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -237,6 +223,13 @@ Here are some gaming VPNs we recommend:
 
 If this method doesn’t solve your problem, check out the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Do a clean install
 
  If none of the fixes above solve your problem, try uninstalling and reinstalling the game completely. Before doing a clean install, search the[Bugs & Issue forum](https://forums.flightsimulator.com/c/bugs-and-issues/200)  in case other players shared additional troubleshooting steps.
@@ -247,6 +240,13 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
@@ -265,10 +265,10 @@ If this method doesn’t solve your problem, check out the last fix.
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -298,19 +298,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>[New] In 2024, The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplify-your-macs-sound-recording-journey-with-audacity-for-2024/"><u>[New] Simplify Your Mac's Sound Recording Journey with Audacity for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-tutorial-implementing-gamers-channel-banners/"><u>[New] Ultimate Tutorial Implementing Gamers' Channel Banners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-construct-chuckles-adobe-meme-creation/"><u>[Updated] 2024 Approved Construct Chuckles Adobe Meme Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixel-perfection-radeon-redux-review-for-2024/"><u>[Updated] Pixel Perfection Radeon Redux Review for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-saving-gameplay-moments-for-the-web-for-2024/"><u>[Updated] Saving Gameplay Moments for the Web for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-modern-content-curators-guide-to-branding-10-tools/"><u>[Updated] The Modern Content Curator's Guide to Branding - 10 Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/common-errors-and-solutions-for-installing-minecraft-on-windows-11/"><u>Common Errors & Solutions for Installing Minecraft on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-treasure-trove-guide-to-public-domain-images/"><u>In 2024, A Treasure Trove Guide to Public Domain Images</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-continuous-blender-software-freezing-problems-in-5-easy-steps/"><u>Resolving Continuous Blender Software Freezing Problems in 5 Easy Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-enshrouded-pc-crashing-with-our-easy-fix/"><u>Say Goodbye to Enshrouded PC Crashing with Our Easy Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/six-proven-strategies-to-fix-recurring-crashes-in-minecraft/"><u>Six Proven Strategies to Fix Recurring Crashes in Minecraft</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-outlook-cant-be-opened-errors/"><u>Troubleshooting Tips for 'Outlook Can't Be Opened' Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[New] 2024 Approved Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-list-mix-a-step-by-step-guide/"><u>[Updated] Mastering YouTube List Mix A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/15-stunning-picture-collage-concepts-move-over-with-movavi/"><u>15 Stunning Picture Collage Concepts - Move over with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/decouvrez-les-6-logiciels-gratuits-preferes-pour-copier-et-conserver-vos-films-exploration-approfondie/"><u>Découvrez Les 6 Logiciels Gratuits Préférés Pour Copier Et Conserver Vos Films - Exploration Approfondie</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-without-password-by-drfone-android/"><u>How To Unlock Itel A05s Phone Without Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-smart-8-hd-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Smart 8 HD FRP In 3 Different Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-13c-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi 13C 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/strategie-free-per-cambiare-e-convertire-le-proprie-riprese-video-nel-formato-avi/"><u>Strategie FREE per Cambiare E Convertire Le Proprie Riprese Video Nel Formato AVI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-10-proplus-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 10 Pro+ 5G Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-tus-mp3-a-mp4-gratuitamente-el-mejor-software-online-para-cambiar-facilmente-el-formato/"><u>Transformar Tus MP3 a MP4 Gratuitamente: El Mejor Software Online Para Cambiar Fácilmente El Formato</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-des-clips-audio-gsm-en-videos-mp4-sans-frais-a-laide-de-movavi-service-web-simple-dutilisation-et-securise/"><u>Transformer Des Clips Audio GSM en Vidéos MP4 Sans Frais À L'aide De Movavi - Service Web Simple D'utilisation Et Sécurisé</u></a></li>
+<li><a href="https://discover-help.techidaily.com/wmayoutube/"><u>WMAへのスピーディかつシンプルなYouTubeコンバートガイド</u></a></li>
 </ul></div>
 

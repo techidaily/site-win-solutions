@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting OBS Software Issues on Windows 11/10 - Latest Solutions
-date: 2024-09-10T18:57:06.616Z
-updated: 2024-09-16T17:26:22.817Z
+date: 2024-09-16T17:29:05.849Z
+updated: 2024-09-21T19:18:15.841Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -76,19 +83,19 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -98,10 +105,10 @@ If this doesn’t help, you can take a look at the next fix below.
 If this solution doesn’t help, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -135,10 +142,10 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
@@ -148,13 +155,6 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -177,14 +177,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-nikon-km-170-vs-hero-black-a-tough-decision-for-2024/"><u>[Updated] Nikon KM-170 VS Hero Black A Tough Decision for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/anitoonpro-detailed-2024-analysis/"><u>AniToonPro Detailed 2024 Analysis</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-successfully-getting-past-the-initialization-hurdles-for-final-exams/"><u>Expert Advice: Successfully Getting Past the Initialization Hurdles for Final Exams</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-a-non-functional-thaumaturge-pc-launch-problems-solved-here/"><u>Fix a Non-Functional Thaumaturge: PC Launch Problems Solved Here</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-in-armored-core-6-fires-of-rubicon-pc-edition/"><u>Mastering Troubleshooting in Armored Core 6: Fires of Rubicon - PC Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/propel-your-tiktok-presence-with-accurate-profile-numbers-for-2024/"><u>Propel Your TikTok Presence with Accurate Profile Numbers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-raspberry-pi-pico-projects-why-breadboardos-outshines-traditional-methods/"><u>Revolutionizing Raspberry Pi Pico Projects: Why BreadboardOS Outshines Traditional Methods</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-wow-pc-startup-issues-resolved/"><u>Troubleshooting WoW PC Startup Issues - Resolved!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pioneering-filmmakers-using-vimeo-for-live-captures-for-2024/"><u>[New] Pioneering Filmmakers Using Vimeo for Live Captures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-ais-best-podcast-naming-tools-top-ten-list/"><u>2024 Approved AI's Best Podcast Naming Tools Top Ten List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-libera-online-di-file-mp4-a-wmv-videomagica/"><u>Conversione Libera Online Di File MP4 a WMV - Videomagica</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-add-captions-to-video-content-at-no-cost-a-beginners-guide/"><u>How to Add Captions to Video Content at No Cost: A Beginner's Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-detecting-block-status-recognizing-on-snapchat-silence/"><u>In 2024, Detecting Block Status Recognizing On-Snapchat Silence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verdubbelegd-qt-naar-mp3-geautomatiseerde-online-converteerapplicatie-gratis-movavi/"><u>Verdubbelegd QT Naar MP3: Geautomatiseerde Online Converteerapplicatie Gratis - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrijwel-kosteloos-online-converteer-flac-files-naar-wav-movavi/"><u>Vrijwel Kosteloos Online Converteer Flac-Files Naar Wav: Movavi</u></a></li>
 </ul></div>
 

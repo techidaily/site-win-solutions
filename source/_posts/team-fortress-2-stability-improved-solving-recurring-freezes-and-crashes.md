@@ -1,7 +1,7 @@
 ---
 title: Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes
-date: 2024-09-15T16:46:35.776Z
-updated: 2024-09-16T21:14:02.260Z
+date: 2024-09-20T19:27:31.874Z
+updated: 2024-09-21T17:30:38.904Z
 tags:
   - win11
   - win10
@@ -79,20 +79,20 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
@@ -110,13 +110,6 @@ If the crashing issue remains, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
@@ -133,34 +126,37 @@ Allow Psychonauts 2 through Windows Firewall:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
@@ -192,17 +188,20 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>[New] Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevating-mobile-data-velocity-a-guide-to-rapid-enhancements-through-10-simple-strategies/"><u>Elevating Mobile Data Velocity: A Guide to Rapid Enhancements Through 10 Simple Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-copy-of-cyberpunk-2077-running-overcoming-initial-launch-hurdles/"><u>Get Your Copy of Cyberpunk 2077 Running: Overcoming Initial Launch Hurdles</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-20-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 20 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-paid-to-free-embracing-the-world-of-fcp/"><u>In 2024, From Paid to Free Embracing the World of FCP</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-errors-how-to-fix-closure-issues-successfully/"><u>Resolving GeForce Experience Errors: How to Fix Closure Issues Successfully</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-embedding-subtitles-into-videos-with-vlc-software/"><u>Step-by-Step Instructions: Embedding Subtitles Into Videos with VLC Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-to-increase-frame-rate-quickly-in-tainted-grail-conquest-for-a-better-gaming-experience/"><u>Tips to Increase Frame Rate Quickly in Tainted Grail: Conquest for a Better Gaming Experience</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>Updated In 2024, Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/winning-strategy-top-9-windows-apps-for-animated-gif-mastery/"><u>Winning Strategy Top 9 Windows Apps for Animated GIF Mastery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dragons-echo-leading-places-to-acquire-got-audio-calls-for-2024/"><u>[New] Dragon's Echo Leading Places to Acquire GoT Audio Calls for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ultimate-tutorial-mastering-twitter-video-responses/"><u>[New] In 2024, Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>[New] Toolwiz Analysis Revolutionizing Image Editing on the Go</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-steps-to-record-your-macbooks-display-for-2024/"><u>[Updated] Essential Steps to Record Your MacBook's Display for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comparative-analysis-iobit-vs-movavi-top-free-screen-capture-apps/"><u>Comparative Analysis: IObit Vs. Movavi - Top Free Screen Capture Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-usb-30-drivers-for-windows-10/"><u>Download | Intel USB 3.0 Drivers for Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solutions-to-address-wow-crashing-problems-effectively/"><u>Easy Solutions to Address WoW Crashing Problems Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-emfwav-files-into-3gp-format-with-movavi/"><u>Free Online Converter: Convert EMF/WAV Files Into 3GP Format with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-mp4-videos-into-mp3-audio-files-with-movavi/"><u>Free Online Converter: Transform MP4 Videos Into MP3 Audio Files with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-konvertiemovies-van-avi-naar-ogv-met-efficientie-movavi/"><u>Gratuit Konvertiemovies Van Avi Naar Ogv Met Efficiëntie - Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-startech-drivers-with-older-windows-systems/"><u>Harmonizing StarTech Drivers with Older Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-utorrent-downloading-and-network-issues-with-easy-to-follow-advice/"><u>Overcoming Common uTorrent Downloading and Network Issues with Easy-to-Follow Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-efficace-per-trasformare-i-formati-immagine-webp-in-animazioni-gif-con-le-migliori-tecniche-seo/"><u>Tutorial Efficace per Trasformare I Formati Immagine WebP in Animazioni GIF Con Le Migliori Tecniche SEO</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-htc-u23-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on HTC U23 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228020354-m4aavi-movavi/"><u>무료 오픈소스 M4A/AVI 바이트 대상 전환 - Movavi 웹사이트</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving 2023 MapleStory Crashes on Windows 10"
-date: 2024-09-15T16:00:56.330Z
-updated: 2024-09-16T16:18:45.388Z
+date: 2024-09-15T18:23:02.531Z
+updated: 2024-09-21T20:00:29.363Z
 tags:
   - win11
   - win10
@@ -132,10 +132,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
@@ -145,6 +145,19 @@ In case you don’t know how, here’s the guidance:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
@@ -175,34 +188,28 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -265,13 +272,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
@@ -306,6 +306,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
@@ -319,13 +326,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -353,18 +353,15 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-comprehensive-guide-to-mastering-your-photos-with-facetune-for-2024/"><u>[New] Comprehensive Guide to Mastering Your Photos with Facetune for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertly-curated-audio-experience-on-android/"><u>[New] In 2024, Expertly Curated Audio Experience on Android</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>2024 Approved The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-live-camera-video-using-vlc-media/"><u>Capture Live Camera Video Using VLC Media</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-go-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark Go (2023) to iPod | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-the-fixes-addressing-common-corsair-icue-malfunctions-in-windows-11-environments/"><u>Navigating the Fixes: Addressing Common Corsair iCUE Malfunctions in Windows 11 Environments</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/professional-strategies-boosting-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boosting Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-stop-dread-hunger-from-continuously-crashing-on-pcs/"><u>Resolved: How to Stop 'Dread Hunger' From Continuously Crashing on PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-unfreezing-your-path-of-exile-adventure/"><u>Troubleshooting Tips for Unfreezing Your Path of Exile Adventure</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-frame-rate-drops-and-stutters-in-call-of-dutys-modern-warfare-3-for-a-smoother-gameplay/"><u>Understanding Frame Rate Drops & Stutters in Call of Duty's Modern Warfare 3 for a Smoother Gameplay</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-10-free-online-video-compression-tools/"><u>Updated The Ultimate List 10 Free Online Video Compression Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-top-visual-adjustment-tools/"><u>[Updated] Android's Top Visual Adjustment Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-approaches-to-virtual-reality-gaming-documentation-for-2024/"><u>[Updated] Cutting-Edge Approaches to Virtual Reality Gaming Documentation for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dodging-account-penaltinas-on-youtube-for-2024/"><u>Dodging Account Penaltinas on Youtube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-connect-your-vizio-television-to-wi-fi-effectively/"><u>Expert Advice: Connect Your Vizio Television to Wi-Fi Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-version-of-intel-centrino-advanced-n-6235-wireless-lan-driver-tips-and-tricks/"><u>How to Install the Latest Version of Intel Centrino Advanced-N 6235 Wireless LAN Driver: Tips and Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-swiftly-piece-together-a-stunning-google-photo-collage/"><u>In 2024, Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-files-effortlessly-with-movavis-complimentary-web-based-file-converter-tool-image-to-pdf-and-more/"><u>Transform Your Files Effortlessly with Movavi's Complimentary Web-Based File Converter Tool - Image to PDF and More!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Online Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uskok-6-uletu-k-presunu-nejlepsich-odpovidajicich-obrazu-pro-hledavce-internetu/"><u>Úskok 6 Úletů K Přesunu Nejlepších Odpovídajících Obrazů Pro Hledavče Internetu</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222895536-mpeg-gif-movavi/"><u>오피스에서 MPEG 동영상을 캡처하기: GIF 로드 시 제자리 비교 - Movavi의 가격 무료 도구</u></a></li>
 </ul></div>
 

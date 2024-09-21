@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gameplay Fluidity: A Guide for Improving Watch Dogs: Legion's FPS and Reducing Lag"
-date: 2024-09-13T20:52:01.358Z
-updated: 2024-09-16T21:01:50.305Z
+date: 2024-09-18T17:08:01.511Z
+updated: 2024-09-21T16:36:46.257Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ If Biomutant still crashes, there are more fixes below.
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -55,21 +62,14 @@ If Biomutant still crashes, there are more fixes below.
 2. From the game list, right-click**Biomutant** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
@@ -95,17 +95,17 @@ There are two ways to do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable overlays
 
@@ -115,17 +115,17 @@ There are two ways to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Biomutant on the list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the setting is configured correctly, restart the game and it should be working fine.
 
@@ -149,12 +149,18 @@ There are two ways to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-for-launching-cmd-in-windows-11-10-8-and-7/"><u>Comprehensive Tutorial for Launching CMD in Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-setup-configuring-steam-to-recognize-your-gamepad-on-windows-systems/"><u>Master the Setup: Configuring Steam to Recognize Your Gamepad on Windows Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-users-rejoice-fixing-baldurs-gate-iii-stability-problems/"><u>PC Users Rejoice: Fixing Baldur's Gate III Stability Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-directx-issues-in-fifa-20/"><u>Resolved: How to Fix DirectX Issues in FIFA 20</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-never-ending-loop-the-secret-behind-continual-success-amongst-african-americans/"><u>The Never-Ending Loop: The Secret Behind Continual Success Amongst African Americans</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-x5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco X5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-accurate-age-reporting-tips-for-perfecting-your-tiktok-profile/"><u>[New] Accurate Age Reporting Tips for Perfecting Your TikTok Profile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-dull-to-delightful-text-that-tumbles-and-twirls-for-2024/"><u>[New] From Dull to Delightful Text that Tumbles and Twirls for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-avoid-facebook-video-ad-interruptions/"><u>[Updated] In 2024, Avoid Facebook Video Ad Interruptions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-economical-options-best-11-vlogging-gear/"><u>[Updated] In 2024, Economical Options Best 11 Vlogging Gear</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-examining-ffmpeg-written-by-user/"><u>2024 Approved Examining FFmpeg' Written by User</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-art-of-visual-anonymity-in-videos/"><u>2024 Approved The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/flvswf-movavi/"><u>無料で簡単なオンラインFLVファイルをSWFに変換する - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-konverteren-van-flv-bestandjes-in-zeelijn-beste-online-tools/"><u>Gratuit Konverteren Van FLV-Bestandjes in Zeelijn: Beste Online Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-transform-mov-videos-into-mpeg-the-ultimate-guide-for-pc-and-mac-users-including-web-options/"><u>How to Transform MOV Videos Into MPEG: The Ultimate Guide for PC and MAC Users, Including Web Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/professional-video-editing-software-solutions/"><u>Professional Video Editing Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-rapidement-vos-fichiers-pcx-en-images-bmp-sans-frais-movavi/"><u>Transformez Rapidement Vos Fichiers PCX en Images BMP Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mka-aac-moovavis/"><u>오픈소스 내부 MKA 파일을 자유성 방식 AAC로 전환하세요 - Moovavis 도구</u></a></li>
 </ul></div>
 

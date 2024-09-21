@@ -1,7 +1,7 @@
 ---
 title: Fixing OBS App Crashes in Windows 11/10 – Expert Tips for a Smooth Streaming Experience
-date: 2024-09-10T19:15:24.350Z
-updated: 2024-09-16T20:20:39.362Z
+date: 2024-09-19T20:42:51.398Z
+updated: 2024-09-21T17:48:38.055Z
 tags:
   - win11
   - win10
@@ -93,14 +93,21 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If Tale of Arise still crashes on your PC, try the next fix.
 
@@ -120,13 +127,6 @@ If Tale of Arise still crashes on your PC, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -153,28 +153,8 @@ If Tale of Arise still crashes on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**General** tab, **uncheck the box of_Enable the Steam Overlay while in-game_**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03-1.jpg)
 3. Restart the game to test the issue.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If disabling overlays doesn’t solve your problem, try the next fix.
 
@@ -191,10 +171,10 @@ If Tale of Arise still crashes on your PC, try the next fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
@@ -218,6 +198,13 @@ If Tale of Arise still crashes on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Tales of Arise.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -234,6 +221,13 @@ If Tale of Arise still crashes on your PC, try the next fix.
 5. Disable the problem program and reboot your PC.
 
  If you’ve tried a clean boot but Arise keeps crashing on your PC, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall the game
 
@@ -261,16 +255,17 @@ If Tale of Arise still crashes on your PC, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-captivating-audiences-adopting-youtube-vlogger-charisma/"><u>[New] Captivating Audiences Adopting YouTube Vlogger Charisma</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-fierce-transformative-color-workflows/"><u>[New] From Flat to Fierce Transformative Color Workflows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-moto-z2-unpacked-a-smartphones-triumph/"><u>[Updated] 2024 Approved Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-engaging-facebook-covers-best-practices-unveiled-for-2024/"><u>[Updated] Creating Engaging Facebook Covers Best Practices Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-video-magic-top-7-royalty-free-sounds-for-editors/"><u>[Updated] Unleash Video Magic Top 7 Royalty-Free Sounds for Editors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfares-elusive-bug-a-deep-dive-into-fixing-error-6164/"><u>Cracking the Code on Modern Warfare's Elusive Bug: A Deep Dive Into Fixing Error 6164</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001881798-freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-v29e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo V29e Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-cyberpunk-2077s-failure-to-utilize-graphics-card-on-windows-11/"><u>Resolving Cyberpunk 2077’S Failure to Utilize Graphics Card on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-resolving-madden-2n-pc-game-errors/"><u>Ultimate Troubleshooting Tips for Resolving Madden 2N PC Game Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-will-lead-creativity-notions-gambit-against-gpt-3/"><u>Who Will Lead Creativity? Notion's Gambit Against GPT-3</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>[Updated] How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>2024 Approved Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descubra-as-maiores-solucoes-de-conversao-youtube-em-mp4-nossas-melhores-escolhas/"><u>Descubra as Maiores Soluções De Conversão YouTube Em MP4: Nossas Melhores Escolhas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-and-convert-audio-files-to-mp3-format-for-free-with-online-services/"><u>Download and Convert Audio Files to MP3 Format for Free with Online Services</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/explore-the-finest-cost-free-videocalling-platforms/"><u>Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-change-audio-interchange-file-format-aif-to-ringtone-m4r-files/"><u>Free Online Conversion: Change Audio Interchange File Format (AIF) to Ringtone M4R Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-transforming-m4a-files-into-m4b-audio-books-with-ease/"><u>Free Online Conversion: Transforming M4A Files Into M4B Audio Books with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-must-know-iphone-photography-tips-today/"><u>In 2024, 10 Must-Know iPhone Photography Tips Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a2-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A2?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mlining-the-process-of-finding-your-own-musical-compilation-on-youtube-for-2024/"><u>Streamlining the Process of Finding Your Own Musical Compilation on Youtube for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-vos-videos-dts-en-fluxing-gratuit-avec-movavis-online-convertisseur-facile-et-rapide/"><u>Transformez Vos Vidéos DTS en Fluxing Gratuit Avec Movavi's Online Convertisseur - Facile Et Rapide !</u></a></li>
 </ul></div>
 

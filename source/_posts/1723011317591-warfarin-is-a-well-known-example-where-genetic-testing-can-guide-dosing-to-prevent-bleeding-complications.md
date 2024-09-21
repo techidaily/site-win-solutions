@@ -1,7 +1,7 @@
 ---
 title: Warfarin Is a Well-Known Example Where Genetic Testing Can Guide Dosing to Prevent Bleeding Complications
-date: 2024-09-10T17:25:46.610Z
-updated: 2024-09-16T17:57:43.791Z
+date: 2024-09-18T17:52:58.288Z
+updated: 2024-09-21T20:44:41.523Z
 tags:
   - win11
   - win10
@@ -95,10 +95,10 @@ Here’s how to use Fortect to run a Windows repair:
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
@@ -124,8 +124,23 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
@@ -137,13 +152,6 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
@@ -167,10 +175,10 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
@@ -184,13 +192,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -218,18 +219,21 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-your-potential-with-outstanding-instagram-visuals/"><u>[New] Unlock Your Potential with Outstanding Instagram Visuals</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb/"><u>[Updated] Connecting in Real Time Advanced Tips for Streaming Screens via Fb</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-farm-friendship-quest-the-ultimate-agritainment-guide-for-2024/"><u>[Updated] Farm Friendship Quest The Ultimate Agritainment Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-retweeted-gifs-iphoneandroid-step-by-step-savings-for-2024/"><u>[Updated] Retweeted Gifs IPhone/Android Step-by-Step Savings for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-transforming-your-photos-on-instagram-green-screen/"><u>2024 Approved Transforming Your Photos on Instagram Green Screen</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android-for-2024/"><u>Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dragon-ball-z-kakarot-revisited-solved-bugs-for-a-smoother-gameplay-experience/"><u>Dragon Ball Z: Kakarot Revisited - Solved Bugs for a Smoother Gameplay Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/engage-followers-effective-strategies-for-fb-slideshows/"><u>Engage Followers Effective Strategies for FB Slideshows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-notorious-centipede-error-in-destiny-2-gameplay/"><u>How to Fix the Notorious 'Centipede' Error in Destiny 2 Gameplay</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-battlefield-5-launch-issues-a-comprehensive-guide/"><u>Mastering Battlefield 5 Launch Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/release-delay-no-more-dive-into-immortals-fenyx-rising-now/"><u>Release Delay No More: Dive Into Immortals Fenyx Rising Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-collection-the-507-most-engaging-instagram-captions-of-2024/"><u>Ultimate Collection: The 507 Most Engaging Instagram Captions of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006143352-utorrent-stuck-or-unresponsive-discover-7-reliable-solutions/"><u>Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-recommendations-best-phonespcs-for-chatting-online-for-2024/"><u>[Updated] Expert Recommendations Best Phones/PCs for Chatting Online for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/macmovavi-screen-recorder/"><u>步驟分明：在Mac上利用Movavi Screen Recorder記錄螢幕教學</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m1vmpgmovavi/"><u>免费在线将视频从M1V改造为MPG：用Movavi实现无障碍转换</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975869820-get-your-hands-on-thrustmaster-t150-racing-rapid-download-of-high-quality-drivers/"><u>Get Your Hands on Thrustmaster T150 Racing: Rapid Download of High-Quality Drivers!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-online-konverter-fur-cr2-zu-jpeg-professionelle-dienstleistung-von-movavi/"><u>Gratis Online Konverter Für CR2 Zu JPEG - Professionelle Dienstleistung Von Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-v29e-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo V29e Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-step-by-step-for-powerpoint-voiceover-excellence/"><u>In 2024, Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-cadence-in-coding-envisioning-the-leading-luminaries-amongst-ai-music-architects/"><u>New Cadence in Coding Envisioning the Leading Luminaries Amongst AI Music Architects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/o-segredo-do-perfeito-corte-de-imagens-usando-o-moveavi-dicas-e-trus-para-iniciantes/"><u>O Segredo Do Perfeito Corte De Imagens Usando O Moveavi - Dicas E Trús Para Iniciantes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sans-depenser-un-centime-transformez-facilement-vos-fichiers-avi-en-mp3-grace-a-movavi-online/"><u>Sans Dépenser Un Centime - Transformez Facilement Vos Fichiers AVI en MP3 Grâce À Movavi Online.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/top-15-snapchat-sharing-tactics-for-maximum-impact-for-2024/"><u>Top 15 Snapchat Sharing Tactics for Maximum Impact for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-solving-and-preventing-code-n43-issues/"><u>Ultimate Guide: Solving and Preventing 'Code N43' Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-ais-magic-the-science-of-transfer-learning/"><u>Unraveling AI's Magic: The Science of Transfer Learning</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224721436-orf-png-movavi/"><u>오피니 세트를 사용한 웹 상호 작용을 통해 무료 ORF 화면에서 PNG로 이미지 변환 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225677788-jpg-png-movavi/"><u>텍스트화 가능성 향상: JPG에서 PNG로 빠르게 변환하세요! 무료 Movavi 앱용</u></a></li>
 </ul></div>
 

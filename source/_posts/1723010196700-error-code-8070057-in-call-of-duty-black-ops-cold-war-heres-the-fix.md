@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix"
-date: 2024-09-15T16:12:14.595Z
-updated: 2024-09-16T16:39:15.714Z
+date: 2024-09-17T20:08:04.144Z
+updated: 2024-09-21T16:24:30.780Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ The first thing, as it suggests, is to perform a scan and repair.
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update the graphics driver
@@ -87,12 +87,26 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -108,6 +122,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
 ## 5\. Delete the Battle.net Cache folder
@@ -120,10 +141,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
@@ -137,49 +158,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -206,14 +188,20 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ballot-box-bonanza-prime-politic-strategy-games/"><u>Ballot Box Bonanza Prime Politic Strategy Games</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-your-copy-of-cyberpunk-2077-running-overcoming-initial-launch-hurdles/"><u>Get Your Copy of Cyberpunk 2077 Running: Overcoming Initial Launch Hurdles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12r-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12R Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-yuva-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Yuva 2 FRP Bypass</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-errors-how-to-fix-closure-issues-successfully/"><u>Resolving GeForce Experience Errors: How to Fix Closure Issues Successfully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-to-increase-frame-rate-quickly-in-tainted-grail-conquest-for-a-better-gaming-experience/"><u>Tips to Increase Frame Rate Quickly in Tainted Grail: Conquest for a Better Gaming Experience</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upgrade-your-system-with-revo-uninstaller-pro-5-next-generation-app-cleanup-solution/"><u>Upgrade Your System with Revo Uninstaller Pro #5: Next-Generation App Cleanup Solution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-essential-minecraft-video-tutorials-for-2024/"><u>[New] The Essential Minecraft Video Tutorials for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-choosing-a-screen-recorder-for-learning/"><u>[Updated] 2024 Approved Ultimate Guide to Choosing a Screen Recorder for Learning</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-guide-deleting-items-from-your-youtubeumbers-list-for-2024/"><u>[Updated] Guide Deleting Items From Your YouTube'umbers List for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/15-stunning-picture-collage-concepts-move-over-with-movavi/"><u>15 Stunning Picture Collage Concepts - Move over with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-your-files-with-movavis-w64-online-tool-quick-simple-and-free/"><u>Convert Your Files with Movavi's W64 Online Tool - Quick, Simple & Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719192555427-environment-variables-configuration/"><u>Environment Variables Configuration:</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remium-minecraft-channel-graphics/"><u>Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-u23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from U23.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/personnalisation-des-liens-profonds-avec-affilies-movavi-guide-detaille/"><u>Personnalisation Des Liens Profonds Avec Affiliés Movavi : Guide Détaillé</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/strategie-free-per-cambiare-e-convertire-le-proprie-riprese-video-nel-formato-avi/"><u>Strategie FREE per Cambiare E Convertire Le Proprie Riprese Video Nel Formato AVI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-tus-mp3-a-mp4-gratuitamente-el-mejor-software-online-para-cambiar-facilmente-el-formato/"><u>Transformar Tus MP3 a MP4 Gratuitamente: El Mejor Software Online Para Cambiar Fácilmente El Formato</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-des-clips-audio-gsm-en-videos-mp4-sans-frais-a-laide-de-movavi-service-web-simple-dutilisation-et-securise/"><u>Transformer Des Clips Audio GSM en Vidéos MP4 Sans Frais À L'aide De Movavi - Service Web Simple D'utilisation Et Sécurisé</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-msi-afterburners-inability-to-recognize-gpu-under-windows-11/"><u>Troubleshooting Guide: Addressing MSI Afterburner's Inability to Recognize GPU Under Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-palworld-companion/"><u>Your Ultimate PalWorld Companion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mount and Blade II: Bannerlord Crash Solutions for a Seamless Gaming Experience"
-date: 2024-09-15T19:58:49.762Z
-updated: 2024-09-16T20:18:38.584Z
+date: 2024-09-18T20:50:55.894Z
+updated: 2024-09-21T17:29:59.617Z
 tags:
   - win11
   - win10
@@ -94,6 +94,13 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
  Your game may crash if it doesn’t meet the system requirements for the game. So before attempting anything more advanced, you should compare your system to the officially suggested specifications to see if your PC is powerful enough to run the game.
@@ -118,23 +125,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -145,13 +146,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
@@ -161,6 +155,13 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -175,13 +176,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -195,10 +189,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -224,15 +218,20 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-checklist-for-starting-a-live-feed/"><u>[New] The Ultimate Checklist for Starting a Live Feed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-6-best-snapchat-video-editors-on-android-and-iphone/"><u>[Updated] 6 Best Snapchat Video Editors on Android and iPhone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-your-complimentary-access-to-50-premium-youtube-banners/"><u>[Updated] Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>2024 Approved Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-network-glitches-in-halo-infinite-detect-and-solve-our-data-centers-ping-issue/"><u>Fixing Network Glitches in Halo Infinite: Detect and Solve 'Our Data Centers' Ping Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>In 2024, The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-sony-vegas-instability-a-step-by-step-guide-to-uninterrupted-workflow/"><u>Overcoming Sony Vegas Instability - A Step-by-Step Guide to Uninterrupted Workflow</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-of-a-missing-gpu-on-windows-aturin-11-with-msi-afterburner-fixes/"><u>Overcoming the Challenge of a Missing GPU on Windows Aturin-11 with MSI Afterburner Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-tips-top-5-gpt-powered-tricks-to-streamline-routine-hr-operations/"><u>Quick Tips: Top 5 GPT-Powered Tricks to Streamline Routine HR Operations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sync-your-storytelling-iphone-captures-words-and-pictures/"><u>Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expertly-crafted-cloud-microphones/"><u>[New] 2024 Approved Expertly-Crafted Cloud Microphones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-maximizing-listener-impact-on-day-of-launch/"><u>[New] In 2024, Maximizing Listener Impact on Day of Launch</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-proven-methods-for-downloading-multiple-tiktok-videos/"><u>[Updated] In 2024, Proven Methods for Downloading Multiple TikTok Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2-covert-techniques-silent-screen-recording-on-snapchat-apps/"><u>2. Covert Techniques: Silent Screen Recording on Snapchat Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5lqg6kej5zkm5zwf5yuv5oiq5yqf55qe5yip55uf6kgm6yq3562w55wl/"><u>了解和啟動成功的利盟行銷策略</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-converter-van-ppm-naar-gif-efficient-en-gemakkelijk-met-movavi-online/"><u>Gratis Converter Van PPM Naar GIF - Efficiënt en Gemakkelijk Met Movavi Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-smoothmoves-recordwatcher-study/"><u>In 2024, SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>In 2024, Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-evaluation-of-the-rayneo-air-2s-smart-spectacles-your-own-portable-imaging-solution/"><u>In-Depth Evaluation of the RayNeo Air 2S Smart Spectacles: Your Own Portable Imaging Solution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/powerdirector-2024-explained-in-depth-review-and-guidebook/"><u>PowerDirector 2024 Explained - In-Depth Review & Guidebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-15-piu-visti-estraenti-video-su-reddit/"><u>Top 15 Più Visti Estraenti Video Su Reddit</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformacion-digital-de-imagenes-a-resoluciones-superiores-usando-la-inteligencia-artificial-de-winxvideo-desde-4k-hasta-10k/"><u>Transformación Digital De Imágenes a Resoluciones Superiores Usando La Inteligencia Artificial De Winxvideo: Desde 4K Hasta 10K.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-votre-fichier-wmv-en-fichier-ogg-gratuitement-sur-internet-methode-de-movavi/"><u>Transformez Votre Fichier WMV en Fichier OGG Gratuitement Sur Internet - Méthode De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-list-of-best-free-windows-seven-compatible-video-editors-no-cost-all-features/"><u>Ultimate List of Best Free Windows ˈseven-Compatible Video Editors - No Cost, All Features!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/your-must-listen-tiktok-rap-playlist/"><u>Your Must-Listen TikTok Rap Playlist</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: The Long-Awaited Release of Immortal's Fenyx Rising Is Finally Here"
-date: 2024-09-11T21:37:07.583Z
-updated: 2024-09-16T20:32:12.824Z
+date: 2024-09-16T19:56:15.276Z
+updated: 2024-09-21T18:40:32.359Z
 tags:
   - win11
   - win10
@@ -64,16 +64,24 @@ There are mainly two ways you can do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
-![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
-
- You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -97,54 +105,42 @@ There are mainly two ways you can do this:
 2. Select**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
@@ -170,17 +166,17 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-temporaryfreeze-immediate-recording-guide-for-2024/"><u>[New] TemporaryFreeze Immediate Recording Guide for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/captivating-crafts-trending-instagram-filters-for-2024/"><u>Captivating Crafts Trending Instagram Filters for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-xbox-series-x-the-ultimate-4k-game-console-unveiled/"><u>Comprehensive Analysis of Xbox Series X - The Ultimate 4K Game Console Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/directx-glitch-in-anno-1800-heres-your-ultimate-solution/"><u>DirectX Glitch in Anno 1800? Here's Your Ultimate Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-changer-top-9-innovations-for-an-enhanced-playstation-5/"><u>Game Changer: Top 9 Innovations for an Enhanced PlayStation 5</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-12-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 12</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-external-usb-31-gen-1-optical-drive-review/"><u>OWC Mercury Pro External USB 3.1 Gen 1 Optical Drive Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-and-workarounds-for-world-of-warcrafts-devastating-error-132-fatal-exception/"><u>Quick Fixes and Workarounds for World of Warcraft's Devastating Error 132 Fatal Exception</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-outriders-pc-performance-issues-stop-the-freezes-and-frame-drops/"><u>Solving Outriders PC Performance Issues: Stop the Freezes and Frame Drops</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-for-smoother-gaming-increasing-fps-and-fixing-stutter-issues-in-valorant/"><u>Step-by-Step Guide for Smoother Gaming: Increasing FPS and Fixing Stutter Issues in Valorant</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-the-benefits-of-using-the-chatgpt-desktop-app/"><u>Unlocking Superior Performance: The Benefits of Using the ChatGPT Desktop App</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-efficient-flow-of-content-tiktok-to-your-fb-profile-for-2024/"><u>[New] The Efficient Flow of Content TikTok to Your FB Profile for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlock-artistic-methods-in-fb-video-ad-production/"><u>[Updated] In 2024, Unlock Artistic Methods in FB Video Ad Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-mastering-canva-10-insider-tips-for-editors/"><u>[Updated] Secrets to Mastering Canva 10 Insider Tips for Editors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bast-movavi-for-att-omvandla-videos-till-gifs-2024-sveriges-varldens-8-favoriter/"><u>Bäst Movavi För Att Omvandla Videos Till GIFs, 2024 – Sveriges Världens 8 Favoriter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargar-e-instalar-la-herramienta-online-gratuita-para-convertir-mod-a-mpeg-con-movavi/"><u>Descargar E Instalar La Herramienta Online Gratuita Para Convertir MOD a MPEG Con Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-for-high-performance-smartwatches/"><u>Expert Picks for High-Performance Smartwatches</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/scambio-gratuito-da-file-formato-dng-a-png-utilizzando-lutilita-on-line-di-movavi-conversione-completa-e-facile/"><u>Scambio Gratuito Da File Formato DNG a PNG Utilizzando L'Utilità On-Line Di Movavi – Conversione Completa E Facile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-when-your-android-cannot-place-or-take-calls/"><u>Troubleshooting Steps When Your Android Cannot Place or Take Calls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatbot-technology-how-is-natural-language-processing-used-to-facilitate-talk-with-people/"><u>Understanding Chatbot Technology: How Is Natural Language Processing Used to Facilitate Talk with People?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bmp-png-online/"><u>무료 BMP-PNG 변환기: Online 통합 - 모바이비</u></a></li>
 </ul></div>
 

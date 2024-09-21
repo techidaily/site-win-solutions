@@ -1,7 +1,7 @@
 ---
 title: "Speed Boost Tips for Players of Assassin’s Creed: Valhalla with Slow Performance"
-date: 2024-09-14T16:38:50.791Z
-updated: 2024-09-16T16:55:20.241Z
+date: 2024-09-16T18:14:01.653Z
+updated: 2024-09-21T20:08:05.598Z
 tags:
   - win11
   - win10
@@ -123,15 +123,22 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/roll-back-to-a-previous-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Driver Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/driver-restore.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then follow the on-screen instructions to roll back your drivers.
@@ -153,33 +160,19 @@ Then follow the on-screen instructions to roll back your drivers.
 ![set the priority to high ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Now you’re navigated to**ACValhalla\_Plus.exe** . Right-click it and select**Set priority > High** .  
   
 ![set the priority to high ACValhalla to fix the game stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla-to-fix-the-game-stuttering-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Change priority** .  
   
 ![change priority ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/change-priority.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now play your game and your issue should be resolved.
 
@@ -193,6 +186,13 @@ Now play your game and your issue should be resolved.
   
 ![disable fullscreen optimization fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimization-view-game-details.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Properties** and click**Open folder** to go to the game’s installation folder.  
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering.jpg)
@@ -200,19 +200,6 @@ Now play your game and your issue should be resolved.
  3) Navigate to**ACValhalla** .exe. Right-click it and select**Properties** .  
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering select Properties](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering-select-Properties.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select the**Compatibility** tab. Check the box next to**Disable fullscreen optimizations** . Then click**Apply > OK** .  
   
@@ -233,6 +220,13 @@ Now play your game and your issue should be resolved.
  2) Click on**Settings** .  
   
 ![UBISOFT settings](https://images.drivereasy.com/wp-content/uploads/2020/11/UBISOFT-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and under the**General** section, uncheck the box next to**Enable in-game overlay for supported games** .
 
@@ -278,19 +272,18 @@ Now play your game and your issue should be resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-crafting-authentic-asian-mini-homes-in-mc/"><u>[New] In 2024, Crafting Authentic Asian Mini-Homes in MC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dividing-opinions-is-mirrorless-better-than-dslr-for-vids-for-2024/"><u>[Updated] Dividing Opinions Is Mirrorless Better than DSLR for Vids for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professionals-almanac-to-efficient-voice-recording/"><u>[Updated] Professional's Almanac to Efficient Voice Recording</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-realtime-recording-arena/"><u>2024 Approved RealTime Recording Arena</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/adding-vibrancy-easy-youtube-subscribe-animations-with-filmora-for-2024/"><u>Adding Vibrancy Easy YouTube Subscribe Animations with Filmora for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-restoring-discord-camera-functionality/"><u>Expert Tips for Restoring Discord Camera Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>In 2024, Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-doom-eternals-crash-problem-a-comprehensive-guide/"><u>Solving DOOM Eternal's Crash Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-palworlds-persistent-session-search-issues/"><u>Solving PalWorld's Persistent Session Search Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-the-crashes-masterful-strategies-to-smooth-out-your-diablo-immortal-experience-on-pc/"><u>Stop the Crashes: Masterful Strategies to Smooth Out Your Diablo Immortal Experience on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-real-time-lag-issues-when-using-obs-for-livestreamingrecording/"><u>Troubleshooting Real-Time Lag Issues When Using OBS for Livestreaming/Recording</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-continuous-minecraft-game-crashes-a-6-step-solution/"><u>Ultimate Fix for Continuous Minecraft Game Crashes: A 6-Step Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011317591-warfarin-is-a-well-known-example-where-genetic-testing-can-guide-dosing-to-prevent-bleeding-complications/"><u>Warfarin Is a Well-Known Example Where Genetic Testing Can Guide Dosing to Prevent Bleeding Complications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>[New] Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads-for-2024/"><u>[New] Nifty Steps to Generate Timely Captions and Text for FB Video Uploads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-accelerated-sizing-youtube-content-for-macs/"><u>[Updated] 2024 Approved Accelerated Sizing YouTube Content for MACs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-everything-about-your-movavi-history/"><u>Discover Everything About Your Movavi History</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-microsoft-ergonomic-keyboard-4000-drivers-instantly-simple-steps-for-speedy-installation/"><u>Download Microsoft Ergonomic Keyboard 4000 Drivers Instantly: Simple Steps for Speedy Installation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-movavis-free-web-based-tool-for-transforming-aac-files-into-mp4-videos/"><u>Download Movavi's Free Web-Based Tool for Transforming AAC Files Into MP4 Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-started-with-movavi-video-editor-your-perfect-business-solution-now/"><u>Get Started with Movavi Video Editor - Your Perfect Business Solution Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-tool-convert-mp4-videos-into-mpe-format-online-effortlessly/"><u>Movavi's Free Tool: Convert MP4 Videos Into MPE Format Online Effortlessly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a23-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A23 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swiftswf-to-mov-changeover-hands-free-conversion-tools-for-quick-and-simple-mov-file-creation/"><u>SwiftSWF-to-MOV Changeover: Hands-Free Conversion Tools for Quick and Simple MOV File Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-videos-rapidamente-on-line-guia-detalhado-para-a-transicao-de-wmv-para-mp4-com-as-ferramentas-facilmente-utilizaveis-no-sitio-movavi/"><u>Transformar Vídeos Rapidamente On-Line: Guia Detalhado Para a Transição De WMV Para MP4 Com as Ferramentas Facilmente Utilizáveis No Sítio Movavi</u></a></li>
 </ul></div>
 

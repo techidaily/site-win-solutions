@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix!"
-date: 2024-09-15T21:09:48.054Z
-updated: 2024-09-16T19:54:13.259Z
+date: 2024-09-16T18:47:08.352Z
+updated: 2024-09-21T17:40:02.681Z
 tags:
   - win11
   - win10
@@ -82,22 +82,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -108,26 +102,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Select**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
@@ -147,16 +135,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -167,17 +149,17 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -204,16 +186,15 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>[New] 2024 Approved Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[Updated] 2024 Approved Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/achieving-higher-fps-in-new-world-a-comprehensive-guide-to-reducing-stutter/"><u>Achieving Higher FPS in New World – A Comprehensive Guide to Reducing Stutter</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/buy-now-stellar-data-recovery/"><u>Buy Now - Stellar Data Recovery</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-starfield-applications-spike-in-cpu-usage-with-our-latest-2024-fixes/"><u>Eliminate Starfield Application's Spike in CPU Usage with Our Latest 2024 Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elon-musk-reveals-grok-ai-but-what-is-grok-and-how-much-does-it-cost/"><u>Elon Musk Reveals Grok AI, but What Is Grok, and How Much Does It Cost?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-frequent-pc-crashes/"><u>Fixes & Solutions: How To Stop Valheim From Frequent PC Crashes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-xrwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone XR/Windows/Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/premiere-pro-no-more-crashes-troubleshooting-for-windows-11-and-10-users/"><u>Premiere Pro No More Crashes - Troubleshooting for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warframe-fixes-how-to-get-past-the-not-launching-error/"><u>Warframe Fixes: How To Get Past the 'Not Launching' Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ultivating-connection-not-compulsion-in-subscriptions/"><u>[New] Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[New] In 2024, Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-your-editing-skills-video-enhancer-v22-masterclass/"><u>[Updated] Ace Your Editing Skills Video Enhancer v2.2 Masterclass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts/"><u>[Updated] In 2024, Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/add-14-inch-06-cm-once-you-have-the-width-of-your-cuff-add-approximately-a-quarter-inch-or-half-a-centimeter-for-ease-of-movement-when-fastening-and-unfaste44/"><u>Add 1/4 Inch (0.6 Cm): Once You Have the Width of Your Cuff, Add Approximately a Quarter-Inch or Half a Centimeter for Ease of Movement when Fastening and Unfastening Your Cufflinks. This Will Give You an Accurate Measurement to Work With.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-conversion-of-audio-files-transforming-mp4-book-m4b-into-high-quality-flac-format-with-movavi/"><u>Free Conversion of Audio Files: Transforming MP4 Book (M4B) Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-x6-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco X6 Pro Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manual-to-install-brother-built-in-drivers-for-windows-8-or-later-systems/"><u>Manual to Install Brother Built-In Drivers (For Windows 8 or Later Systems)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-optimizing-video-format-and-quality-for-enhanced-facebook-shares/"><u>Ultimate Guide: Optimizing Video Format and Quality for Enhanced Facebook Shares</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726218771915-m4a-flac-movavi/"><u>무료 인터넷 동시에 M4A 파일을 FLAC로 전환하기: Movavi 코덱스 방법</u></a></li>
 </ul></div>
 

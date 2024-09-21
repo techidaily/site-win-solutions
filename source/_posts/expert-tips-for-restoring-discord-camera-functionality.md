@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Restoring Discord Camera Functionality
-date: 2024-09-14T19:58:30.720Z
-updated: 2024-09-16T16:23:00.854Z
+date: 2024-09-15T20:31:35.417Z
+updated: 2024-09-21T18:42:17.730Z
 tags:
   - win11
   - win10
@@ -104,6 +104,13 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Update your system
 
  The outdated operating system could be the reason for the camera not working problem, the new version may have a patch to fix bugs. So update your system may help you fix the problem.
@@ -114,22 +121,17 @@ OR
 
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -140,21 +142,14 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
@@ -162,29 +157,24 @@ If your camera is still not working on Discord, move to the next fix.
 6. Find the Discord folder and delete it.  
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
-8. Find the Discord folder and delete it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
+8. Find the Discord folder and delete it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
@@ -213,17 +203,18 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-selection-the-greatest-free-editing-software/"><u>[New] In 2024, Essential Selection The Greatest Free Editing Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-leading-lines-crafting-images-on-iphones-for-2024/"><u>[New] The Art of Leading Lines Crafting Images on iPhones for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-digital-savvy-guide-opting-between-software-and-no-software-for-vimeo/"><u>2024 Approved Digital Savvy Guide Opting Between Software & No-Software for Vimeo</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-periscope-pro-the-in-depth-usage-guidebook/"><u>2024 Approved Periscope Pro The In-Depth Usage Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-server-stumbled-glitches-win-1111-store-correction-guide/"><u>Bypassing 'Server Stumbled' Glitches: Win 11/11 Store Correction Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-successfully-getting-past-the-initialization-hurdles-for-final-exams/"><u>Expert Advice: Successfully Getting Past the Initialization Hurdles for Final Exams</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hassle-free-troubleshooting-for-immediate-origin-software-stability/"><u>Hassle-Free Troubleshooting for Immediate Origin Software Stability</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/june-20th-new-york-times-puzzle-solutions-and-answers-issue-375/"><u>June 20Th New York Times Puzzle Solutions & Answers (Issue #375)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-in-armored-core-6-fires-of-rubicon-pc-edition/"><u>Mastering Troubleshooting in Armored Core 6: Fires of Rubicon - PC Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-wow-pc-startup-issues-resolved/"><u>Troubleshooting WoW PC Startup Issues - Resolved!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-software-and-techniques-for-film-from-photos/"><u>[New] Best Software and Techniques for Film From Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-learning-and-work-habits-top-ideas-for-combining-tasks-with-podcasts-for-2024/"><u>[New] Elevate Your Learning & Work Habits Top Ideas for Combining Tasks with Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-free-easy-hd-download-of-fb-media-library/"><u>[Updated] In 2024, Free, Easy HD Download of FB Media Library</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twirl-forge-instruments/"><u>2024 Approved Twirl Forge Instruments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-wmv-to-vob-converter-web-service-moveavi/"><u>Free WMV-to-VOB Converter Web Service - MoveAVI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-facil-para-convertir-videos-flv-a-animaciones-gif-gratuitas-usando-movavi-metodos-y-consejos-de-expertos/"><u>Guía Fácil Para Convertir Videos FLV a Animaciones GIF Gratuitas Usando Movavi: Métodos Y Consejos De Expertos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-flip-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Find N3 Flip Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-curtail-unrequested-youtube-content-streams/"><u>In 2024, Curtail Unrequested YouTube Content Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-resolving-imovie-cuts-understanding-crop-rationale/"><u>In 2024, Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-c55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco C55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revamping-your-online-image-the-best-methods-for-altering-your-videa-profile-photo/"><u>Revamping Your Online Image: The Best Methods for Altering Your Videa Profile Photo</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226864341-vob-flv-movavi/"><u>무료 VOB FLV 변환기: 웹 도구를 사용한 Movavi 방법</u></a></li>
 </ul></div>
 

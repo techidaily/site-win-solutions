@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Tips: Resolving Constant Crashes of Elex II on Your Computer"
-date: 2024-09-15T19:11:22.685Z
-updated: 2024-09-16T18:59:51.266Z
+date: 2024-09-17T19:45:39.023Z
+updated: 2024-09-21T16:48:13.536Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ Once done, restart your game and see if it crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Check for conflicting programs
 
  Some software, especially**hardware tuning utilities** such as MSI Afterburner and Razer Synapse 3, could undermine the stability of your system and thus crash 3D programs. To avoid these interferences, you can do a clean boot and see how it goes.
@@ -83,28 +90,22 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -122,38 +123,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -163,6 +137,13 @@ Here’s how you can check for updates manually:
 
  If your system is already the latest, simply move on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Move game files to your Steam drive
 
  According to some players,**moving game files to the same drive of Steam** might be a cure to the fix. So if you have your games installed in another drive, try moving them to your Steam drive and check the result. This trick was originally used to fix the disconnection issue.
@@ -170,6 +151,13 @@ Here’s how you can check for updates manually:
  You can right-click your Steam client to get the location. To find out where Back 4 Blood is installed, right-click Back 4 Blood in your Steam Library to open properties and browse local files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-browse-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
@@ -185,6 +173,13 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Set**Anti-Aliasing** to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-disable-dlss.jpg)
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,19 +200,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing-for-2024/"><u>[New] Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-gamings-new-leaders-1-ranked-4k-laptops/"><u>[Updated] In 2024, Gaming's New Leaders #1 Ranked 4K Laptops</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leading-the-video-conversion-game-with-ipv-strategies/"><u>[Updated] In 2024, Leading the Video Conversion Game with IPV Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone/"><u>[Updated] In 2024, Top 8 Best Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boosting-graphics-performance-resolving-low-framerate-challenges-in-modern-video-games/"><u>Boosting Graphics Performance: Resolving Low Framerate Challenges in Modern Video Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-valheim-failed-to-load/"><u>Fixing the Issue: Why Valheim Failed to Load</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-pathway-to-authenticity-with-instagrams-verification-badge/"><u>Mastering Your Pathway to Authenticity with Instagram's Verification Badge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-rocket-league-wont-open-effective-fixes-and-tips/"><u>Overcoming 'Rocket League Won't Open': Effective Fixes & Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/practical-comparison-choosing-between-asus-rog-aliya-and-valves-steam-deck/"><u>Practical Comparison: Choosing Between ASUS ROG ALiYA and Valve's Steam Deck</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-you-dont-have-permissions-cant-launch-fortnite-troubleshooting-guide/"><u>Resolve 'You Don't Have Permissions: Can't Launch Fortnite': Troubleshooting Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-call-of-duty-game-not-starting-correctly/"><u>Step-by-Step Solutions to 'Call of Duty' Game Not Starting Correctly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/world-first-stellar-unveils-revolutionary-photo-restoration-and-repair-tool/"><u>World-First: Stellar Unveils Revolutionary Photo Restoration and Repair Tool</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb/"><u>[New] From Silent Videos to Engaging Content Swiftly Add Captions on FB</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey/"><u>[New] In 2024, From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-your-creative-process-essential-affects-plugin-guide/"><u>[New] Master Your Creative Process Essential Affects Plugin Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-using-youtube-in-education/"><u>[New] The Ultimate Guide to Using YouTube in Education</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-the-airwaves-a-beginners-internet-radio-guide/"><u>[Updated] Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-your-gaming-groundwork-perfecting-video-chats-on-xbox-one/"><u>2024 Approved Enhancing Your Gaming Groundwork - Perfecting Video Chats on Xbox One</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-simple-techniques-for-downloading-youtube-content/"><u>2024 Approved Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/acesse-as-melhores-dicas-e-foruns-educacionais-no-portal-de-aprendizagem-movavi/"><u>Acesse as Melhores Dicas E Fóruns Educacionais No Portal De Aprendizagem Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-online-verwerpt-pcx-bestanden-naar-gif-volmaakbare-oplossing-met-movavi/"><u>Gratuit Online Verwerpt PCX-Bestanden Naar Gif: Volmaakbare Oplossing Met Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/imovie-vs-final-cut-pro-showdown-choosing-the-right-video-editing-tool/"><u>IMovie vs Final Cut Pro Showdown: Choosing the Right Video Editing Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-plus-a-smart-investment-evaluating-its-value/"><u>Is ChatGPT Plus a Smart Investment? Evaluating Its Value</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-converter-de-formato-alaw-para-mp3-online-gratuito/"><u>Movavi - Converter De Formato ALAW Para MP3 Online Gratuito</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tamamen-uygulanabilirken-en-az-sevgi-gormuyorlugu-arastirma-yaptiklarin-11-ts-mp4-donusturme-tarziyenin-ve-sistemleri/"><u>Tamamen Uygulanabilirken En Az Sevgi Görmüyorluğu Araştırma Yaptıkların 11 TS MP4 Dönüştürme Tarziyenin Ve Sistemleri</u></a></li>
 </ul></div>
 
