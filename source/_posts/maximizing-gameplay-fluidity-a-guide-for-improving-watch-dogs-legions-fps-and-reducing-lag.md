@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gameplay Fluidity: A Guide for Improving Watch Dogs: Legion's FPS and Reducing Lag"
-date: 2024-09-18T17:08:01.511Z
-updated: 2024-09-21T16:36:46.257Z
+date: 2024-09-24T19:29:29.226Z
+updated: 2024-10-01T17:49:51.286Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 
  Before you proceed to the advanced troubleshooting steps below, make sure your setup meets the[system requirements of Biomutant](https://store.steampowered.com/app/597820/BIOMUTANT/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  If you’ve overclocked the CPU and GPU for better graphics performance, you may find it doesn’t work as expected and can cause incompatibility issues with Biomutant. To see if that’s the case, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** .
@@ -46,13 +53,6 @@ If Biomutant still crashes, there are more fixes below.
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -62,14 +62,21 @@ If Biomutant still crashes, there are more fixes below.
 2. From the game list, right-click**Biomutant** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
@@ -95,13 +102,6 @@ There are two ways to do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,16 +116,29 @@ There are two ways to do this:
 2. Right-click Biomutant on the list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the setting is configured correctly, restart the game and it should be working fine.
 
@@ -147,5 +160,20 @@ There are two ways to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-techniques-in-the-world-of-gif-animation/"><u>[New] Pioneering Techniques in the World of GIF Animation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-screenshot-and-video-recorder-win10/"><u>[Updated] Professional Screenshot & Video Recorder, Win10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>How Can We Bypass Oppo A58 4G FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modify-primary-save-options-for-microsoft-office-2016-word-excel-powerpoint/"><u>Modify Primary Save Options for Microsoft Office 2016 (Word, Excel, PowerPoint)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-and-simple-techniques-for-automating-upperlowercase-conversion-in-excel-2013-utilizing-custom-functions/"><u>Quick & Simple Techniques for Automating Upper/Lowercase Conversion in Excel 2013 Utilizing Custom Functions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-cell-combination-techniques-a-beginners-tutorial-on-string-concat-in-excel/"><u>Seamless Cell Combination Techniques: A Beginner's Tutorial on String Concat in Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamlessly-connecting-microsoft-office-with-your-zoho-crm/"><u>Seamlessly Connecting Microsoft Office with Your Zoho CRM</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-guide-to-iphone-screen-adjustment-for-2024/"><u>Simplified Guide to iPhone Screen Adjustment for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-friendship-woes-be-gone-tackling-the-network-out-of-reach-fault/"><u>Steam Friendship Woes Be Gone: Tackling the Network Out-of-Reach Fault</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-adding-checkmarks-with-ease-in-ms-excel/"><u>Step-by-Step Guide: Adding Checkmarks with Ease in MS Excel</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-online-cartoon-maker-from-photos/"><u>Updated 2024 Approved Online Cartoon Maker From Photos</u></a></li>
+</ul></div>
 

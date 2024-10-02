@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Ultimate Fixes for Persistent Dauntless Crashing Errors on PC"
-date: 2024-09-16T16:49:27.803Z
-updated: 2024-09-21T20:01:17.730Z
+date: 2024-09-26T23:53:29.458Z
+updated: 2024-10-01T18:15:30.917Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 7. [**Turn off SteamVR Beta**](https://tools.techidaily.com/drivereasy/download/)
 8. [**Use VPN**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your avatar to fix VRChat crashing
 
  If you can still access the game, you can press**Ctrl** + (the slash under Backspace) to reset your avatar to default. In most cases, the VRChat crashing issue can be simply caused by avatar issues.
@@ -48,13 +61,20 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/VRChat-Properties.jpg)
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your GPU drivers
@@ -77,6 +97,13 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-driver-1.jpg)
 * [AMD Driver Downloads](https://www.amd.com/en/support)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
@@ -94,16 +121,16 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -118,6 +145,13 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 5. If not, click the **Change settings** button.  
@@ -128,23 +162,16 @@ There are two ways for you to update your drivers:
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you don’t know what the installation folder is for your VRChat, simply right-click on its shortcut and select **Open file location** .
 8. Find **VRChat.exe** and follow the on-screen instructions to make sure VRChat is added to the list and tick **Domain** , and **Public** . Once you’re done, click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Add VRChat as an exception in the Antivirus application
 
@@ -182,10 +209,10 @@ There are two ways for you to update your drivers:
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Create a VRChat account
@@ -228,5 +255,23 @@ To merge your Steam account with your VRChat account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-native-chrome-os-screen-replay-app-for-2024/"><u>[New] Native Chrome OS Screen Replay App for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-goovision-promax-high-res-os-capturer/"><u>[Updated] 2024 Approved GooVision ProMax High-Res OS Capturer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capture-and-share-top-no-cost-screen-recorders-for-windowsmac-users/"><u>[Updated] In 2024, Capture and Share - Top No-Cost Screen Recorders for Windows/Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-decoding-fraps-video-capturing-techniques/"><u>[Updated] In 2024, Decoding Fraps Video Capturing Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/dynamic-duels-in-digital-realms-the-ultimate-top-10-list-for-2024/"><u>Dynamic Duels in Digital Realms The Ultimate Top-10 List for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-14-pro-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 14 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/protecting-data-with-style-embedding-watermarks-on-excel-worksheets-2013/"><u>Protecting Data with Style: Embedding Watermarks on Excel Worksheets (2013)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/secure-your-data-prevent-unauthorized-changes-to-excel-sheets/"><u>Secure Your Data - Prevent Unauthorized Changes to Excel Sheets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-compiling-a-comprehensive-list-of-windows-user-profiles-with-configurations/"><u>Step-by-Step Guide to Compiling a Comprehensive List of Windows User Profiles with Configurations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-applying-date-based-conditional-formatting-in-microsoft-excel/"><u>Step-by-Step Guide: Applying Date-Based Conditional Formatting in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-managing-device-names-and-deletion-in-the-amazon-kindle-ecosystem/"><u>Step-by-Step Guide: Managing Device Names & Deletion in the Amazon Kindle Ecosystem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-mastering-line-breaks-in-your-microsoft-excel-spreadsheets/"><u>Step-by-Step Guide: Mastering Line Breaks in Your Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-mastering-the-art-of-shuffling-data-points-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Shuffling Data Points in Microsoft Excel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-for-a-nonfunctional-samsung-blu-ray-player/"><u>Troubleshooting Tips For A Nonfunctional Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleashing-the-power-of-hashtags-for-instagram-success/"><u>Unleashing the Power of Hashtags for Instagram Success</u></a></li>
+</ul></div>
 

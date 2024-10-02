@@ -1,7 +1,7 @@
 ---
 title: Solutions for the World of Warcraft Not Initializing Properly on Your Desktop
-date: 2024-09-16T17:05:46.689Z
-updated: 2024-09-21T16:30:55.069Z
+date: 2024-09-29T17:25:32.909Z
+updated: 2024-10-01T23:36:16.003Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -71,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
@@ -110,10 +118,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
@@ -132,23 +140,9 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -159,6 +153,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -177,6 +178,13 @@ See if this issue reappears. If not, you have fixed this issue!
  3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
@@ -202,5 +210,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas-for-2024/"><u>[New] Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-forge-funnies-giphys-playground/"><u>[New] Forge Funnies Giphy's Playground</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-instagram-engage-obs-live-streaming-for-2024/"><u>[New] Instagram Engage OBS Live Streaming for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-zoom-black-screen-issues-on-pc-2024-guide/"><u>[SOLVED] Zoom Black Screen Issues on PC – 2024 Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-15-uncomplicated-vlog-ideas-to-ignite-creativity-for-2024/"><u>[Updated] Top 15 Uncomplicated Vlog Ideas to Ignite Creativity for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exceptional-hd-video-documentation-gear/"><u>2024 Approved Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-multiversus-glitching-a-comprehensive-guide-to-the-best-8-remedies/"><u>Beat MultiVersus Glitching: A Comprehensive Guide to the Best 8 Remedies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-repairing-intel-dsa-when-it-stops-functioning/"><u>Expert Guide to Repairing Intel DSA When It Stops Functioning</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-frame-drops-in-v-game-on-windows-a-comprehensive-solution/"><u>Fix Persistent Frame Drops in 'V' Game on Windows: A Comprehensive Solution</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>In 2024, Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/making-chatgpt-your-primary-android-speaker-a-step-by-step-guide/"><u>Making ChatGPT Your Primary Android Speaker: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-glitches-strategies-to-unfreeze-your-overwatch-sessions/"><u>Overcoming Glitches: Strategies to Unfreeze Your Overwatch Sessions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pushing-boundaries-the-9-most-advanced-mobile-filmmaking-accessories-for-2024/"><u>Pushing Boundaries The 9 Most Advanced Mobile Filmmaking Accessories for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-resolving-qbittorent-freezing-issues/"><u>Solutions for Resolving qBittorent Freezing Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-genshin-impact-easy-steps-when-facing-start-up-problems/"><u>Troubleshoot Genshin Impact: Easy Steps When Facing Start-Up Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-overcome-pubgs-stalling-moments-on-windows/"><u>Troubleshooting Guide: Overcome PUBG's Stalling Moments on Windows</u></a></li>
+</ul></div>
 

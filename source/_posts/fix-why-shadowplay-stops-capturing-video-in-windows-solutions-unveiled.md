@@ -1,7 +1,7 @@
 ---
 title: "Fix: Why Shadowplay Stops Capturing Video in Windows - Solutions Unveiled"
-date: 2024-09-20T19:01:49.630Z
-updated: 2024-09-21T17:30:11.478Z
+date: 2024-09-25T16:56:06.946Z
+updated: 2024-10-01T18:24:10.710Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -48,6 +55,13 @@ Here’s how you can check the file integrity on Steam:
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,19 +83,6 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -92,16 +93,16 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -110,6 +111,19 @@ Here’s how you can check the file integrity on Steam:
  The download link above contains the latest GFWL installer shared by other users. You should verify the source and install at your own risk.
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Replace game files with a fan-made patch
 
@@ -121,21 +135,14 @@ Here’s how you can check the file integrity on Steam:
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -147,6 +154,14 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -168,5 +183,20 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-expertise-in-visuals-enhancing-pictures-with-words/"><u>[New] Expertise in Visuals Enhancing Pictures with Words</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-educational-history-vlogs-the-ultimate-list/"><u>[New] In 2024, Educational History Vlogs - The Ultimate List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-comprehending-quadcopters-how-they-soar-and-operate/"><u>[Updated] Comprehending Quadcopters How They Soar and Operate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-and-cpu-usage-6-key-strategies-to-reduce-high-resource-consumption/"><u>Baldur's Gate 3 and CPU Usage: 6 Key Strategies to Reduce High Resource Consumption</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-gaming-troubles-heres-how-to-tackle-the-freezing-and-lag-problems-efficiently/"><u>Dying Light Gaming Troubles? Here's How to Tackle the Freezing & Lag Problems Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-stuttering-and-smooth-out-gameplay-for-assassins-creed-valhalla-on-pc/"><u>How to Eliminate Stuttering and Smooth Out Gameplay for Assassin’s Creed Valhalla on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-past-the-block-steps-to-launch-saints-row-on-your-desktop-smoothly/"><u>How to Get Past the Block: Steps to Launch Saints Row on Your Desktop Smoothly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-movies-the-art-of-making-musical-reels/"><u>In 2024, Melodic Movies The Art of Making Musical Reels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-shooters-guide-to-stability/"><u>In 2024, Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial-for-2024/"><u>New Unleash the Power of Reverse A TikTok Video Editing Tutorial for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pixel-power-streaming-strategies-in-the-software-vs-hardware-arena/"><u>Pixel Power Streaming Strategies in the Software vs Hardware Arena</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tips-transforming-ordinary-into-extraordinary-in-canva/"><u>Top Tips Transforming Ordinary Into Extraordinary in Canva</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/war-thunder-continues-to-crash-essential-troubleshooting-steps/"><u>War Thunder Continues to Crash : Essential Troubleshooting Steps</u></a></li>
+</ul></div>
 

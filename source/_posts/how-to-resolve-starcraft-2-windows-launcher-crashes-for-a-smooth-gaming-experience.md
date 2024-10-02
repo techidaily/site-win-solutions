@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Starcraft 2 Windows Launcher Crashes for a Smooth Gaming Experience
-date: 2024-09-17T18:45:37.496Z
-updated: 2024-09-21T17:03:49.709Z
+date: 2024-09-24T19:45:35.418Z
+updated: 2024-10-01T23:28:58.981Z
 tags:
   - win11
   - win10
@@ -45,9 +45,24 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 2. Right-click the**Deathloop.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -56,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 1. In the Windows search box, type**graphics setting** s and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-1.jpg)
 2. Click**Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
@@ -94,19 +116,20 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -124,10 +147,16 @@ You can also close all unnecessary apps in the background. Here is how:
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
@@ -135,10 +164,10 @@ You can also close all unnecessary apps in the background. Here is how:
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
@@ -155,10 +184,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Discord
@@ -167,19 +196,6 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click the **cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -202,5 +218,20 @@ You can also close all unnecessary apps in the background. Here is how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-highlights-from-the-lg-bp350-monitor-user-experience-review/"><u>[New] Highlights From the LG BP350 Monitor User Experience Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>[New] In 2024, The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-xiaomis-new-smartphone-screenshot-tool-a-game-changer-in-recording-tech/"><u>[Updated] 2024 Approved Xiaomi's New Smartphone Screenshot Tool A Game Changer in Recording Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices/"><u>2024 Approved Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-masterpieces-at-your-fingertips-how-to-merge-dall-e-and-chatgpt-4-capabilities/"><u>AI Masterpieces at Your Fingertips: How to Merge DALL-E and ChatGPT-4 Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-votre-fichier-mp3-en-wav-sans-frais-sur-le-web-audioconvertxpert/"><u>Convertissez Votre Fichier MP3 en WAV Sans Frais Sur Le Web - AudioConvertXpert</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-how-to-overcome-a-504-gateway-error-quickly/"><u>Effective Solutions: How To Overcome A 504 Gateway Error Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-your-access-to-the-latest-hit-the-solution-behind-assassins-creed-valhallas-initial-glitches/"><u>Fixing Your Access to the Latest Hit - The Solution Behind Assassin’s Creed Valhalla’s Initial Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-mir4-game-stability-issues-on-pc/"><u>Resolved: Mir4 Game Stability Issues on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-top-8-solutions-for-stability-improvements-in-guardians-of-the-galaxy-pc-version/"><u>Resolving Issues: Top 8 Solutions for Stability Improvements in Guardians of the Galaxy (PC Version)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-wallpaper-engine-software-faults-for-smooth-operation-in-win11win10-environments/"><u>Resolving Wallpaper Engine Software Faults for Smooth Operation in Win11/Win10 Environments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-solutions-for-resolving-the-csgo-login-issue/"><u>Top 5 Solutions for Resolving the CS:GO Login Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-stability-improvements-for-playing-psychonauts-2-on-your-computer/"><u>Troubleshooting Guide: Stability Improvements for Playing 'Psychonauts 2' On Your Computer</u></a></li>
+</ul></div>
 

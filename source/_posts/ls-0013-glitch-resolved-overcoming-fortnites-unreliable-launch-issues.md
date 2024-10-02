@@ -1,7 +1,7 @@
 ---
 title: "LS-0013 Glitch Resolved: Overcoming Fortnite's Unreliable Launch Issues"
-date: 2024-09-17T19:26:54.899Z
-updated: 2024-09-21T20:27:23.664Z
+date: 2024-09-24T20:25:42.071Z
+updated: 2024-10-01T20:20:20.204Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 3. **[Run TF2 in compatibility mode & as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -62,18 +69,18 @@ By checking your system specs, just follow the instructions below:
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  You might not be able to launch your games if your graphics drivers are corrupt or out-of-date. So to have a better gaming experience, have them updated.
 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
 
@@ -86,10 +93,10 @@ By checking your system specs, just follow the instructions below:
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics drivers (recommended)
@@ -117,13 +124,6 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -132,9 +132,29 @@ OR
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -142,16 +162,16 @@ OR
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -169,6 +189,13 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Set Launch Options
 
  This method is proven to be working for many game players. So you can give it a shot by following these steps:
@@ -180,13 +207,6 @@ OR
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When the window pops up, type**autoconfig** and click**OK** .
 
@@ -222,5 +242,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-acid-pro-overview-plus-best-software-match-ups/"><u>[New] 2024 Approved ACID Pro Overview + Best Software Match-Ups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-detailed-dissection-what-makes-obs-a-top-recorder/"><u>[New] Detailed Dissection What Makes OBS a Top Recorder?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-classifications-of-unmanned-aircraft/"><u>[Updated] Classifications of Unmanned Aircraft</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-wirecast-review-and-alternatives/"><u>[Updated] Wirecast Review and Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chortle-curators-humor-hunt/"><u>Chortle Curators Humor Hunt</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-overcome-battlefield-4s-launch-issues-on-pc/"><u>Fixes and Solutions: How to Overcome Battlefield 4'S Launch Issues on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-titanfall-2-game-crashes-in-just-a-few-steps/"><u>How to Prevent Titanfall 2 Game Crashes in Just a Few Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-step-by-step-guide-to-adjust-youtube-video-speeds-on-the-fly/"><u>In 2024, Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rapid-results-with-star-wars-battlefront-ii-shaders-no-more-stuck-tuning/"><u>Rapid Results with Star Wars Battlefront II Shaders: No More Stuck Tuning!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-manor-lords-game-crashes-on-your-windows-machine-a-step-by-step-guide/"><u>Solving the 'Manor Lords' Game Crashes on Your Windows Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-windows-11s-elevated-powershell-console/"><u>Steps to Activate Windows 11'S Elevated PowerShell Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-division-2-stutter-fix-eliminating-lag-and-improving-frame-rate-in-the-upcoming-patch/"><u>The Division 2 Stutter Fix: Eliminating Lag and Improving Frame Rate in the Upcoming Patch</u></a></li>
+</ul></div>
 

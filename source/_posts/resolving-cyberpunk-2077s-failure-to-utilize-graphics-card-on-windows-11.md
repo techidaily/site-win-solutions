@@ -1,7 +1,7 @@
 ---
 title: Resolving Cyberpunk 2077’S Failure to Utilize Graphics Card on Windows 11
-date: 2024-09-14T17:50:00.573Z
-updated: 2024-09-21T16:44:40.368Z
+date: 2024-09-26T17:47:27.288Z
+updated: 2024-10-01T17:16:30.806Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -87,37 +94,50 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -132,10 +152,10 @@ And it’s quite easy to check for updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -159,5 +179,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-archive-all-highlights-no-limit-savers-available/"><u>[New] 2024 Approved Archive All Highlights No Limit Savers Available</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-trim-video-in-windows-10-photos-easily/"><u>[New] How to Trim Video in Windows 10 Photos Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-interest-with-budget-friendly-youtube-video-intros/"><u>[Updated] 2024 Approved Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-screen-to-stage-best-anime-inspired-tiktok-plays-for-2024/"><u>[Updated] From Screen to Stage Best Anime-Inspired TikTok Plays for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-quick-youtube-comment-removal-techniques/"><u>2024 Approved Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-silence-how-to-fix-lack-of-sound-in-your-pcs-minecraft-adventure/"><u>Conquering Silence: How to Fix Lack of Sound in Your PC's Minecraft Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-methods-for-solving-starfields-excessive-cpu-demand-in-2e24/"><u>Effective Methods for Solving Starfield's Excessive CPU Demand in 2E24</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-chrome-cpu-use-problem-solved-steps-for-optimizing-performance/"><u>High Chrome CPU Use - Problem Solved: Steps for Optimizing Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-images-with-picart-clear-canvas-technique/"><u>In 2024, Transform Your Images with PicArt Clear Canvas Technique</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-seamless-gaming-ultimate-troubleshooting-for-godfall-on-windows/"><u>Master the Art of Seamless Gaming: Ultimate Troubleshooting for Godfall on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-gameplay-fixing-latency-problems-in-chivalry-ii-latest-techniques/"><u>Master Your Gameplay: Fixing Latency Problems in Chivalry II (Latest Techniques)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-resolution-of-gta-vs-directx-initialization-error-errgfxd3dinit-tips-and-tricks-for-gamers/"><u>Mastering the Resolution of GTA V's DirectX Initialization Error (ERR_GFX_D3D_INIT): Tips and Tricks for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-connectivity-problems-in-the-latest-game-version-a-step-by-step-guide/"><u>Solving Connectivity Problems in the Latest Game Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-innovators-defining-next-gen-vr-experiences/"><u>Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-solving-the-issue-of-farmers-delight-fs22-not-starting/"><u>Troubleshooting Tips: Solving the Issue of Farmer's Delight (FS22) Not Starting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-preventing-freezes-and-lag-in-minecraft-windows/"><u>Ultimate Troubleshooting Guide: Preventing Freezes and Lag in Minecraft (Windows)</u></a></li>
+</ul></div>
 

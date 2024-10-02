@@ -1,7 +1,7 @@
 ---
 title: "Mastering Troubled Beginnings: A Guide to Getting Your Witcher 3 Game Running Smoothly"
-date: 2024-09-19T17:49:42.464Z
-updated: 2024-09-21T16:53:59.035Z
+date: 2024-09-24T16:10:33.087Z
+updated: 2024-10-01T19:21:55.219Z
 tags:
   - win11
   - win10
@@ -45,11 +45,25 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -77,7 +91,21 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-4.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,21 +123,14 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Select the**Details** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
@@ -118,19 +139,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Disable the shader cache
 
  If you’re using an NVIDIA graphics card, it’s possible the shader cache has messed up with Destiny 2 Beyond Light and caused the glitches. Try disabling this option to see if the crash stops.
@@ -138,11 +146,32 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Right-click any blank area on the desktop, and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
@@ -155,13 +184,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Open Steam and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
@@ -191,5 +213,24 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-capturing-virtual-conversations-in-real-time/"><u>[Updated] Capturing Virtual Conversations in Real Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dead-by-daylight-stability-guide-avoid-game-crashes-with-these-fixes/"><u>Dead By Daylight Stability Guide : Avoid Game Crashes with These Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-unstuck-from-the-sticky-situation-of-a-frozen-discord-app/"><u>Expert Tips: Unstuck From the Sticky Situation of a Frozen Discord App</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-black-display-error-on-pc-effective-solutions-for-gamers/"><u>Hitman 3 Black Display Error on PC: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-correctly-address-and-repair-the-error-0xc19001e1-on-your-windows-11-system/"><u>How to Correctly Address and Repair the 'Error 0Xc19001e1' On Your Windows 11 System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file document electronically</u></a></li>
+<li><a href="https://extra-information.techidaily.com/identifying-the-best-iphone-watermarks-a-complete-guide/"><u>Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-world-of-aether-defining-its-characteristics-and-joining-procedures/"><u>Inside the World of Aether: Defining Its Characteristics & Joining Procedures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ls-0013-launching-error-on-fortnite-complete-solution-guide/"><u>LS-0013 Launching Error on Fortnite: Complete Solution Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/masterclass-in-elegance-blurring-borders-for-zoom/"><u>Masterclass in Elegance Blurring Borders for Zoom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-red-dead-redemption-2-load-screen-hurdle-expert-advice-and-solutions/"><u>Overcoming the Red Dead Redemption 2 Load Screen Hurdle: Expert Advice and Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smilesketcher-generate-memes-with-a-click-for-2024/"><u>SmileSketcher Generate Memes with a Click for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-achieved-r-type-final-2-pc-version-no-longer-prone-to-crashing/"><u>Smooth Gaming Experience Achieved: R-Type Final 2 PC Version No Longer Prone to Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-robocop-legacy-pc-game-crash-issues/"><u>Solving the 'RoboCop: Legacy' PC Game Crash Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-resolving-windows-spotlight-malfunctions-effortlessly/"><u>Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-server-connection-issues-for-players-of-lost-ark/"><u>Troubleshooting Server Connection Issues for Players of Lost Ark</u></a></li>
+</ul></div>
 

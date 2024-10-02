@@ -1,7 +1,7 @@
 ---
 title: "Speed Boost Tips for Players of Assassin’s Creed: Valhalla with Slow Performance"
-date: 2024-09-16T18:14:01.653Z
-updated: 2024-09-21T20:08:05.598Z
+date: 2024-09-27T23:26:29.573Z
+updated: 2024-10-01T23:44:45.425Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Disable Windows 10 gaming features
 
  Game Mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to make gaming a much better experience, but it seems the opposite is true. And if you have background recording enabled on your system, it may cause micro stutters and even freezes. So to get rid of stutters, you need to disable the background recording feature and turn off Game Mode. To do so, take these steps:
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
  2) Click**Gaming** .  
   
 ![turn off game mode to fix Assasin's Cree Valhalla stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode-to-fix-Assasins-Cree-Valhalla-stuttering-on-PC.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select**Game bar** and set the**Record game clips, screenshots, and broadcast using Game bar** option to**Off** .  
   
@@ -82,9 +96,29 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
   
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, play your game to check if the issue persists. If that didn’t work, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update the graphics card driver
 
@@ -95,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 ### Option 1: Manually update your graphics card driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and[AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics card driver (recommended)
 
@@ -123,23 +170,9 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/roll-back-to-a-previous-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Driver Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/driver-restore.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then follow the on-screen instructions to roll back your drivers.
 
@@ -159,13 +192,6 @@ Then follow the on-screen instructions to roll back your drivers.
   
 ![set the priority to high ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Now you’re navigated to**ACValhalla\_Plus.exe** . Right-click it and select**Set priority > High** .  
   
 ![set the priority to high ACValhalla to fix the game stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla-to-fix-the-game-stuttering-on-PC.jpg)
@@ -173,6 +199,13 @@ Then follow the on-screen instructions to roll back your drivers.
  5) Click**Change priority** .  
   
 ![change priority ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/change-priority.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now play your game and your issue should be resolved.
 
@@ -186,16 +219,16 @@ Now play your game and your issue should be resolved.
   
 ![disable fullscreen optimization fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimization-view-game-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**Properties** and click**Open folder** to go to the game’s installation folder.  
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Navigate to**ACValhalla** .exe. Right-click it and select**Properties** .  
   
@@ -204,6 +237,13 @@ Now play your game and your issue should be resolved.
  4) Select the**Compatibility** tab. Check the box next to**Disable fullscreen optimizations** . Then click**Apply > OK** .  
   
 ![disable fullscreen optimizations Assasin's Creed Valhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, play your game and it should run smoothly without stuttering.
 
@@ -220,13 +260,6 @@ Now play your game and your issue should be resolved.
  2) Click on**Settings** .  
   
 ![UBISOFT settings](https://images.drivereasy.com/wp-content/uploads/2020/11/UBISOFT-settings-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and under the**General** section, uncheck the box next to**Enable in-game overlay for supported games** .
 
@@ -270,5 +303,20 @@ Now play your game and your issue should be resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-live-broadcast-precision-introducing-an-effective-timer/"><u>[New] In 2024, Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-ace-your-edits-youtube-studios-time-saving-secrets-revealed/"><u>[Updated] Ace Your Edits YouTube Studio's Time-Saving Secrets Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhance-team-engagement-with-microsoft-teams-snap-camera-feature/"><u>2024 Approved Enhance Team Engagement with Microsoft Teams' Snap Camera Feature</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-for-creating-random-values-in-excel-spreadsheets/"><u>Effective Techniques for Creating Random Values in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-tips-for-efficiently-finding-variance-with-excel-spreadsheets/"><u>Essential Tips for Efficiently Finding Variance with Excel Spreadsheets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-skill-boost-learn-how-to-efficiently-perform-time-summation-and-reduction-using-microsoft-excel-tools/"><u>Excel Skill Boost: Learn How To Efficiently Perform Time Summation and Reduction Using Microsoft Excel Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-accessing-and-using-microsoft-excels-developer-features/"><u>Guide: Accessing and Using Microsoft Excel's Developer Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone XS Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y27-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y27 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/insightful-analysis-the-phenomenon-of-mixed-reality-for-2024/"><u>Insightful Analysis The Phenomenon of Mixed Reality for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-vivacut-overview-editors-deep-dive/"><u>The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-selection-of-tools-for-adding-fun-emojis-and-graphics-to-your-pictures/"><u>Ultimate Selection of Tools for Adding Fun Emojis and Graphics to Your Pictures</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-optimize-your-mac-a-step-by-step-guide-to-freeing-up-space-for-fcpx/"><u>Updated 2024 Approved Optimize Your Mac A Step-by-Step Guide to Freeing Up Space for FCPX</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Escape Frustrating Lag: Expert Fixes for Assassin's Creed: Valhalla"
-date: 2024-09-18T18:22:17.321Z
-updated: 2024-09-21T19:35:21.330Z
+date: 2024-09-30T22:09:01.165Z
+updated: 2024-10-02T00:49:49.190Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
  Now you can reconnect the Internet and launch Assassin’s Creed Valhalla again to test the issue. If the game is still lagging a lot, check the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 – Update the device drivers
@@ -99,6 +99,13 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
@@ -120,10 +127,10 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Click**Apply** .
@@ -132,13 +139,6 @@ There are two ways for you to update the device drivers:
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
@@ -146,6 +146,13 @@ There are two ways for you to update the device drivers:
  1) On your keyboard, press the**Windows logo** key and**R** at the same time to open the**Run** dialog box. Type**control** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
@@ -160,10 +167,10 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
@@ -188,6 +195,13 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
 ## 6 – Clean all your temp files
@@ -203,16 +217,10 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
@@ -222,6 +230,13 @@ There are two ways for you to update the device drivers:
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Continue** if prompted for permission.
 
@@ -252,5 +267,19 @@ There are two ways for you to update the device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-10-impactful-instagram-tags-for-maximum-reach/"><u>[New] In 2024, Top 10 Impactful Instagram Tags for Maximum Reach</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cracking-comics-the-essential-guide-to-meme-magic-for-2024/"><u>Cracking Comics The Essential Guide to Meme Magic for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-guide-to-the-superior-thermal-pastes-for-optimal-cpu-performance-2024-edition-based-on-extensive-tests-of-90-products/"><u>Essential Guide to the Superior Thermal Pastes for Optimal CPU Performance - 2024 Edition, Based on Extensive Tests of 90 Products</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-resolve-consistent-valorant-application-shutdowns-on-personal-computers/"><u>Expert Tips to Resolve Consistent 'Valorant Application Shutdowns' On Personal Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-tech-news-price-point-and-specs-for-the-upcoming-samsung-galaxy-z-fold-6/"><u>Get Ahead of Tech News: Price Point & Specs for the Upcoming Samsung Galaxy Z Fold 6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-fallout-n3-stalling-problems-on-modern-windows-systems/"><u>How to Resolve Fallout N3 Stalling Problems on Modern Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-lag-and-latency-strategies-to-prevent-fps-drops-in-computer-games/"><u>Overcoming Lag and Latency: Strategies to Prevent FPS Drops in Computer Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/profile-perfection-101-expert-strategies-for-facebook-biography-enhancement/"><u>Profile Perfection 101 Expert Strategies for Facebook Biography Enhancement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-your-lost-connection-with-snapchat-a-detailed-reactivation-process/"><u>Recovering Your Lost Connection with Snapchat: A Detailed Reactivation Process</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-graphics-driver-issues-on-oculus-headset/"><u>Resolved: Fixing Graphics Driver Issues on Oculus Headset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-xbox-one-elite-series-2-gaming-masterpiece-top-controller-evaluation/"><u>Ultimate Guide: Xbox One Elite Series 2 Gaming Masterpiece - Top Controller Evaluation</u></a></li>
+</ul></div>
 

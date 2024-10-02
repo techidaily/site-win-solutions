@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem of Uncoordinated Youtube Media: Continuous Audio with Intermittent Video on Popular Browsers"
-date: 2024-09-15T17:40:43.478Z
-updated: 2024-09-21T19:58:48.755Z
+date: 2024-09-27T23:28:34.648Z
+updated: 2024-10-01T19:32:28.266Z
 tags:
   - win11
   - win10
@@ -62,6 +62,14 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 1. Press the**Windows logo key + R** **key** together, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.png)
 2. Find NVIDIA driver and right-click on it. Click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 3. Relaunch the game.
 
@@ -75,6 +83,20 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Close Steam and relaunch the Witcher 3\. You should be good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Vsync from the options
 
  Vsync is a display option in 3D computer games that allow the gamer to lower the frame rate and get a better stability. It is possible that the crash is caused by the Vsynec option, you can turn off Vsync setting and see if it resolves the crashing issue.
@@ -84,24 +106,25 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Turn off the**VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
 6. Relaunch the game and check the crash is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the game in Full Screen and low settings
@@ -123,13 +146,6 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 
 If this fix doesn’t help, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Remove the frame rate cap
 
  The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
@@ -139,19 +155,19 @@ If this fix doesn’t help, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
 6. Relaunch the game and check the crash is resolved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable your third-party software
 
@@ -163,10 +179,10 @@ If this fix doesn’t help, you can move to the next fix.
 If the game is still crashing, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Update your graphics driver
@@ -218,5 +234,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/mplifying-engagement-with-leading-youtube-ranks-top-8-apps-for-2024/"><u>[New] Amplifying Engagement with Leading YouTube Ranks Top 8 Apps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/roubleshooting-why-are-your-shorts-thumbnails-hiding-for-2024/"><u>[New] Troubleshooting Why Are Your Shorts' Thumbnails Hiding for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-effortless-time-lapse-cinematography-with-samsung-for-2024/"><u>[Updated] Effortless Time-Lapse Cinematography with Samsung for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/te-your-content-game-tactics-for-optimal-youtube-featured-channels/"><u>Elevate Your Content Game Tactics for Optimal YouTube Featured Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013059694-experience-the-epic-battle-god-of-wars-first-person-shooter-released-on-pc/"><u>Experience the Epic Battle - God of War's First-Person Shooter Released on PC!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-warzone-pc-login-failures-to-begin-playing-immediately/"><u>Fixing Warzone PC Login Failures to Begin Playing Immediately</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-street-fighter-6-from-freezing-on-your-pc-new-solutions/"><u>How to Stop Street Fighter 6 From Freezing on Your PC [New Solutions]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-a-persistent-loading-state-in-discord-streaming/"><u>Resolved: Troubleshooting a Persistent 'Loading' State in Discord Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ustream-evaluation-find-alternates/"><u>Ustream Evaluation, Find Alternates</u></a></li>
+</ul></div>
 

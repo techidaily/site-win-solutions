@@ -1,7 +1,7 @@
 ---
 title: Solved! Overcoming Start-Up Hurdles in Video Games by Checking Game Files
-date: 2024-09-17T16:17:05.047Z
-updated: 2024-09-21T16:09:37.179Z
+date: 2024-09-28T01:39:39.606Z
+updated: 2024-10-01T17:04:19.873Z
 tags:
   - win11
   - win10
@@ -94,6 +94,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
@@ -107,6 +114,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  1) Log in Steam and click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
 
@@ -134,15 +148,28 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -151,10 +178,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
@@ -170,10 +197,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
@@ -181,13 +208,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -215,5 +235,22 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-ease-out-methods-in-premiere-pro/"><u>[New] Mastering Audio Ease-Out Methods in Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-art-of-instagram-to-mp4-conversion-expert-tips/"><u>[Updated] 2024 Approved Mastering the Art of Instagram to MP4 Conversion - Expert Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-your-sessions-the-discord-recorders-handbook/"><u>[Updated] Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-10-exclusive-iphone-photo-editors-enhance-selfies-without-spending/"><u>[Updated] Top 10 Exclusive iPhone Photo Editors Enhance Selfies Without Spending</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-turning-your-old-photos-into-snaps-with-camera-roll/"><u>[Updated] Turning Your Old Photos Into Snaps with Camera Roll</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-steams-dark-screensore-error-with-our-proven-step-by-step-solutions/"><u>Beat Steam's Dark Screensore Error With Our Proven, Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996333851-discover-improved-performance-with-the-latest-patch-for-new-world-unfreeze-your-adventure-today/"><u>Discover Improved Performance with the Latest Patch for New World: Unfreeze Your Adventure Today</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-s23-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel S23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mac-ready-detailed-screenflow-review-with-v4/"><u>Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-guide-overcoming-unwanted-application-terminations-and-freezing/"><u>Master Guide: Overcoming Unwanted Application Terminations and Freezing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paladins-game-crashes-ultimate-troubleshooting-guide/"><u>Paladins Game Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722993878057-stop-game-crashes-solve-your-battlefront-ii-pc-issues-today/"><u>Stop Game Crashes – Solve Your Battlefront II PC Issues Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-to-transform-text-into-a-3d-entity/"><u>Techniques to Transform Text Into a 3D Entity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-gamers-handbook-overcome-low-fps-challenges-in-valorant-with-these-latest-202e-tips-and-tricks/"><u>The Gamer's Handbook: Overcome Low FPS Challenges in VALORANT with These Latest 202E Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-halting-halo-infinites-frequent-crashes-on-your-windows-computer/"><u>Troubleshooting Steps for Halting Halo Infinite's Frequent Crashes on Your Windows Computer</u></a></li>
+</ul></div>
 

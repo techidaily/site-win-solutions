@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate III: Reducing Excessive CPU Load - Effective Fixes for the 2024 Edition"
-date: 2024-09-20T19:46:29.437Z
-updated: 2024-09-21T19:35:44.070Z
+date: 2024-09-27T19:36:17.261Z
+updated: 2024-10-01T23:47:40.849Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 5. **[End unnecessary tasks](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Before we begin
 
  Prior to diving into these fixes, it’s vital to ensure **your computer meets the game’s minimum system requirements** . Consult the table below to confirm your setup aligns with the game’s prerequisites:
@@ -60,6 +67,19 @@ To ascertain your computer’s specifications:
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 Update your CPU driver
 
  The Baldur’s Gate 3 high CPU usage problem may occur if you are using the wrong **graphics**  driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. You can head to graphics manufacturers’ websites (like [**Nvidia**](https://www.nvidia.com/Download/index.aspx?lang=en-us) or **[AMD](https://www.amd.com/en/support)**  ) to download the latest drivers. However, if you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,27 +106,35 @@ To ascertain your computer’s specifications:
 2. Select**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-54.png)
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
-4. Choose the**High performance** power plan.  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
+4. Choose the**High performance** power plan.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 Set CPU affinity only use 0-3
 
@@ -124,6 +152,13 @@ Open the game to check for any improvement.
 
 Note: You may need to repeat this process each time you launch the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4 Allow high graphics performance for the game
 
  Setting an individual game with high-performance graphics might reduce its CPU usage. That’s because anything that requires GPU in the game will be using GPU, instead of CPU. However, this method has no guaranteed results. You can switch between different modes to see which one works better in easing the Baldur’s Gate 3 high cpu usage headache.
@@ -135,19 +170,26 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
-Launch the game again to check if the problem has been fixed.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Launch the game again to check if the problem has been fixed.
 
 ## Fix 5 End unnecessary tasks
 
@@ -161,10 +203,10 @@ Launch the game again to check if the problem has been fixed.
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
@@ -184,21 +226,7 @@ Go back to your game to see if it works smoother.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -219,5 +247,20 @@ Go back to your game to see if it works smoother.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>[New] From Catalina to Big Sur A Comprehensive Mac OS Shift Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-saying-goodbye-to-instagram-forever-a-detailed-walkthrough/"><u>[New] Saying Goodbye to Instagram Forever A Detailed Walkthrough</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-process-for-achieving-facebooks-trusted-marker/"><u>[New] Unveiling the Process for Achieving Facebook's Trusted Marker</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-instantaneous-duo-recording-cam-plus-screen/"><u>[Updated] In 2024, Instantaneous Duo Recording Cam + Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>2024 Approved Tailored Treasure Troves The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>2024 Approved The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-in-splitgate-strategies-for-fixing-low-fps-and-reducing-delays/"><u>Achieve Smoother Gameplay in Splitgate: Strategies for Fixing Low FPS & Reducing Delays</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-discord-overlay-issues-fast-step-by-step-guide/"><u>Fix Your Discord Overlay Issues Fast - Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nba-2k23-crashing-problems-on-your-windows-computer-7-effective-methods/"><u>How to Fix NBA 2K23 Crashing Problems on Your Windows Computer - 7 Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-launching-the-witcher-3-game-expert-guide/"><u>Solving the Problem of Launching The Witcher 3 Game - Expert Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-frozen-footage-in-photo-booths-for-2024/"><u>Troubleshooting Frozen Footage in Photo Booths for 2024</u></a></li>
+</ul></div>
 

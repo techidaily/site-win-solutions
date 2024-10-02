@@ -1,7 +1,7 @@
 ---
 title: Team Fortress 2 Stability Improved - Solving Recurring Freezes and Crashes
-date: 2024-09-20T19:27:31.874Z
-updated: 2024-09-21T17:30:38.904Z
+date: 2024-09-27T23:16:06.707Z
+updated: 2024-10-02T01:36:39.998Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
 If the issue persists, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -79,25 +86,25 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -114,6 +121,13 @@ If the crashing issue remains, continue to the next fix.
 
 If this fix doesn’t do the trick, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -127,22 +141,8 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
@@ -151,13 +151,20 @@ Allow Psychonauts 2 through Windows Firewall:
 6. Click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
@@ -186,5 +193,26 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures/"><u>[New] 2024 Approved Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-earning-on-youtube-latest-changes/"><u>[New] In 2024, The Essentials of Earning on YouTube Latest Changes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>[Updated] Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>2024 Approved OBS vs Wirecast Ultimate Broadcast Showdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-stop-content-alerts-from-crashing-windows-and-macos-systems/"><u>Effective Solutions: Stop Content Alerts From Crashing Windows and MacOS Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-warzones-error-5573-expert-fixes-for-console-and-computer-setups/"><u>Eliminating Warzone’s Error 5573: Expert Fixes for Console and Computer Setups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farming-simulator-22-wont-open-here-are-some-helpful-fixes/"><u>Farming Simulator 22 Won't Open? Here Are Some Helpful Fixes!</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-12-proplus-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme 12 Pro+ 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-persistent-screen-flicker-problem-on-your-device/"><u>How to Resolve the Persistent Screen Flicker Problem on Your Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-experience-with-best-rated-android-devices-for-playstation-2-games/"><u>In 2024, Seamless Experience with Best-Rated Android Devices for PlayStation 2 Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011817386-login-troubles-in-fortnite-swiftly-fix-them-here/"><u>Login Troubles in Fortnite? Swiftly Fix Them Here!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-access-fix-palworlds-login-failed-to-eos-error-with-our-top-tips/"><u>Mastering the Art of Access: Fix Palworld's 'Login Failed to EOS Error' With Our Top Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-in-naraka-hunting-grounds-a-complete-crash-solution/"><u>Overcoming Challenges in Naraka: Hunting Grounds - A Complete Crash Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-methods-to-thaw-out-an-unresponsive-laptop-or-desktop/"><u>Solved! Methods to Thaw Out an Unresponsive Laptop or Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-tactics-for-triumph-roller-champions-crossplay-gaming-guide-on-computer-systems-updated/"><u>Top Tactics for Triumph: Roller Champions Crossplay Gaming Guide on Computer Systems (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-ark-system-crashes-effectively/"><u>Troubleshooting and Solving ARK System Crashes Effectively</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

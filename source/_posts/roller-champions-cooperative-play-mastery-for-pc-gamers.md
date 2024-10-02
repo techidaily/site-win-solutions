@@ -1,7 +1,7 @@
 ---
 title: Roller Champions Cooperative Play Mastery for PC Gamers
-date: 2024-09-17T19:32:06.829Z
-updated: 2024-09-21T20:01:12.106Z
+date: 2024-09-30T00:51:23.308Z
+updated: 2024-10-01T16:28:47.959Z
 tags:
   - win11
   - win10
@@ -50,11 +50,38 @@ Here’s how to verify game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** … and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, start God of War and check if the game crashes again.
 
 If this doesn’t give you luck, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2:**Disable in-game overlays**
 
@@ -79,21 +106,28 @@ If this doesn’t fix the issue, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and start God of War.
 
  If the latest graphics driver doesn’t stop the crash, simply try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Make sure Windows is up to date**
 
@@ -106,10 +140,10 @@ Here’s how:
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
@@ -128,13 +162,6 @@ Here’s how to increase the virtual memory of Windows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the**Performance** section, click**Settings…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the**Advanced** tab. Under the**Virtual memory** section, click**Change…** .  
 
@@ -144,14 +171,21 @@ Here’s how to increase the virtual memory of Windows:
 5. Enter**Initial size** and**Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the**Initial size** for me here is**8 x 1024 x 1.5 = 12288 MB** , and the**Maximum size** should be**8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click**Set** , then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can check if you can make it through the crash location.
 
@@ -166,13 +200,6 @@ If God of War crashes at the same spot, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-1.jpg)
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If these tunings don’t seem to help, take a look at the next solution.
 
@@ -208,5 +235,20 @@ If God of War crashes at the same spot, you can try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/1719148392562-terra-trotter-a-tech-savvy-goats-new-identity/"><u>'Terra Trotter': A Tech-Savvy Goat's New Identity.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-pinpointing-personalities-pinning-friends-on-snapchat/"><u>[New] 2024 Approved Pinpointing Personalities Pinning Friends on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>[New] From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-npc-launch-problems-heres-the-fix-that-worked-for-me/"><u>Battlefield nPC Launch Problems? Here's the Fix That Worked for Me!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-with-super-hero-characters-overlapping-on-your-desktop-game/"><u>Fixing Issues with Super Hero Characters Overlapping on Your Desktop Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-crashing-mir4-app-on-your-desktop-tips-and-solutions/"><u>How to Fix a Crashing Mir4 App on Your Desktop - Tips & Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011861597-madden-nfl-20-pc-stability-issues-heres-how-to-stop-game-crashes-and-keep-playing/"><u>Madden NFL '20 PC Stability Issues? Here's How to Stop Game Crashes and Keep Playing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/powerdirector-app-masterclass-2024-edition/"><u>PowerDirector App Masterclass - 2024 Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011951025-troubleshooting-and-fixing-the-errgfxd3dinit-error-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the ERR_GFX_D3D_INIT Error in Grand Theft Auto V</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-solving-modern-warfare-2-pc-crashing-issues/"><u>Troubleshooting Guide: Solving Modern Warfare 2 PC Crashing Issues</u></a></li>
+</ul></div>
 

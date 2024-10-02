@@ -1,7 +1,7 @@
 ---
 title: Mastering Troubleshooting Techniques to Restore Outlook Connectivity Issues
-date: 2024-09-18T17:44:03.522Z
-updated: 2024-09-21T16:45:23.080Z
+date: 2024-10-01T00:03:14.727Z
+updated: 2024-10-02T00:25:13.627Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -105,29 +119,22 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -139,27 +146,20 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -174,6 +174,13 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -199,5 +206,19 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-step-by-step-ios-download-episodes-like-a-pro/"><u>[New] 2024 Approved Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>2024 Approved Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/audacity-version-35-introduces-new-features-cloud-storage-backup-and-seamless-device-synchronization/"><u>Audacity Version 3.5 Introduces New Features: Cloud Storage Backup & Seamless Device Synchronization</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beyond-balancing-sheets-discover-4-everyday-uses-of-excel-outside-the-office/"><u>Beyond Balancing Sheets: Discover 4 Everyday Uses of Excel Outside the Office</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-methods-to-determine-value-discrepancies-as-a-with-microsoft-excel-tutorial/"><u>Easy Methods to Determine Value Discrepancies as a % with Microsoft Excel Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-setup-sequences-preparing-and-configuring-your-new-computer-in-5-steps/"><u>Essential Setup Sequences: Preparing and Configuring Your New Computer in 5 Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-trick-easily-access-shared-data-with-cross-sheets-cell-referencing-techniques/"><u>Excel Trick: Easily Access Shared Data with Cross-Sheets Cell Referencing Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .docx file</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-audio-experience-updating-the-drivers-on-your-audio-technica-equipment/"><u>Improve Your Audio Experience: Updating the Drivers on Your Audio-Technica Equipment</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-top-free-video-editing-apps/"><u>New In 2024, Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-camon-20-pro-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Camon 20 Pro 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-fight-against-fortnite-lag-and-crashes-expert-advice-gaming/"><u>Winning the Fight Against Fortnite Lag and Crashes: Expert Advice Gaming</u></a></li>
+</ul></div>
 

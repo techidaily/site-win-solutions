@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80#70057 in Call of Duty: Black Ops Cold War? Here's the Fix!"
-date: 2024-09-16T18:47:08.352Z
-updated: 2024-09-21T17:40:02.681Z
+date: 2024-09-28T17:50:00.853Z
+updated: 2024-10-01T21:41:20.332Z
 tags:
   - win11
   - win10
@@ -51,7 +51,21 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -79,15 +93,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
 4. Restart your computer and launch your game to test the issue.
 
@@ -102,26 +117,33 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Select**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -135,10 +157,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -153,13 +175,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. If you don’t see English, click**Add a language** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -184,5 +199,24 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>[New] In 2024, Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>2024 Approved 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-seamless-tiktok-content-for-twitter-audience/"><u>2024 Approved Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-tutorial-on-exporting-excel-sheets-with-embedded-comments-for-easy-reference/"><u>Complete Tutorial on Exporting Excel Sheets with Embedded Comments for Easy Reference</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-mastering-collaborative-editing-with-excels-co-authoring-feature/"><u>Comprehensive Guide: Mastering Collaborative Editing with Excel's Co-Authoring Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-intermittent-sound-issues-in-windows-10-a-complete-guide/"><u>Fixing Intermittent Sound Issues in Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-v29-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo V29 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-free-video-editing-software-for-gamers/"><u>New The Ultimate List of Free Video Editing Software for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-non-stuttering-views-only/"><u>Swift Remedy: Non-Stuttering Views Only</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-techniques-for-utilizing-the-findandextract-method-in-excel-for-accurate-data-extraction/"><u>The Ultimate Techniques for Utilizing the FINDANDEXTRACT Method in Excel for Accurate Data Extraction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-tutorial-on-employing-microsoft-excels-count-feature-for-effective-data-analysis/"><u>The Ultimate Tutorial on Employing Microsoft Excel's COUNT Feature for Effective Data Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-13-vital-excel-techniques-to-master-data-entry/"><u>Top 13 Vital Excel Techniques to Master Data Entry</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tips-for-selecting-a-reliable-surge-protector-for-all-your-tech-needs/"><u>Top Tips for Selecting a Reliable Surge Protector for All Your Tech Needs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforming-decimal-symbols-in-excel-switch-from-comma-to-point/"><u>Transforming Decimal Symbols in Excel: Switch From Comma to Point</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-trick-how-to-delete-entire-tables-with-precision-in-excel/"><u>Ultimate Trick: How to Delete Entire Tables with Precision in Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-pythons-integration-into-microsoft-excel-insight-on-potential-limitations/"><u>Unveiling Python's Integration Into Microsoft Excel: Insight on Potential Limitations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/video-cropping-anomaly-decoding-imovies-actions/"><u>Video Cropping Anomaly Decoding iMovie's Actions</u></a></li>
+</ul></div>
 
