@@ -1,7 +1,7 @@
 ---
 title: DirectX Glitch in Anno 1800? Here's Your Ultimate Solution
-date: 2024-09-17T20:35:00.790Z
-updated: 2024-09-21T16:40:23.482Z
+date: 2024-10-01T16:59:47.640Z
+updated: 2024-10-06T16:48:09.723Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Switch DirectX versions
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
@@ -87,24 +80,24 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
  1) On your keyboard, press **the Windows logo key**  and type **check** . Then click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -139,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
@@ -177,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
@@ -201,5 +208,26 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[New] In 2024, Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-tune-into-your-instagram-feed-music-integration-essentials/"><u>[New] In 2024, Tune Into Your Instagram Feed Music Integration Essentials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-iphone-ios-vr-games-you-should-try-for-2024/"><u>[New] Top Iphone IOS VR Games You Should Try for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-media-professionals-recommendations-best-5-web-video-recorders/"><u>[Updated] 2024 Approved Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-ios-download-episodes-like-a-pro/"><u>2024 Approved Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tricking-out-genuine-from-fraudulent-instagram-pals/"><u>2024 Approved Tricking Out Genuine From Fraudulent Instagram Pals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722010248494-chatgpt-upgrades-unveiled-enroll-now-for-the-cutting-edge-plugin-platform/"><u>ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-2024-fix-resolving-path-of-exile-connection-issues-with-the-instance/"><u>Complete 2024 Fix: Resolving Path of Exile Connection Issues with the Instance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-like-a-pro-eliminate-borderlands-3-lag-pc-optimization-techniques-for-maximum-fps/"><u>Game Like a Pro! Eliminate Borderlands 3 Lag: PC Optimization Techniques for Maximum FPS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-tecno-spark-20-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Spark 20 Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-battlefield-1-crashing-easily/"><u>How to Fix Battlefield 1 Crashing [Easily]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-failed-to-connect-hurdle-in-hitman-3-gameplay/"><u>How to Overcome the 'Failed to Connect' Hurdle in Hitman 3 Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-loading-screen-stall-in-football-manager-21/"><u>How to Overcome the Loading Screen Stall in Football Manager 21?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-world-of-tanks-blitz-from-frequent-crashes-and-play-smoothly/"><u>How to Stop 'World of Tanks Blitz' From Frequent Crashes and Play Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-finding-lost-files-on-pc/"><u>Mastering the Art of Finding Lost Files on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-launch-errors-master-guide-for-running-robocop-rogue-city-on-personal-computers/"><u>Overcome Launch Errors: Master Guide for Running RoboCop: Rogue City on Personal Computers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-the-picture-perfect-cover-photo-on-instagrams-highlights-for-2024/"><u>Perfecting the Picture-Perfect Cover Photo on Instagram's Highlights for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-sailing-in-the-wild-west-overcoming-red-dead-redemption-2s-choppy-performance-and-fps-problems/"><u>Smooth Sailing in the Wild West: Overcoming Red Dead Redemption 2'S Choppy Performance & FPS Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-directx-issues-in-call-of-duty-warzone-for-pc-gamers/"><u>Solving DirectX Issues in Call of Duty: Warzone for PC Gamers</u></a></li>
+</ul></div>
 

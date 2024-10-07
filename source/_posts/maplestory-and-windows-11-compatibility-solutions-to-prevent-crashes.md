@@ -1,7 +1,7 @@
 ---
 title: "MapleStory and Windows 11 Compatibility: Solutions to Prevent Crashes"
-date: 2024-09-15T16:07:04.680Z
-updated: 2024-09-21T19:46:14.859Z
+date: 2024-10-05T08:36:27.294Z
+updated: 2024-10-06T20:31:31.702Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ Below are the minimum and recommended system requirements for DayZ:
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your drivers
 
  Corrupted or outdated graphics / sound drivers usually trigger the DayZ crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
@@ -94,29 +87,22 @@ Below are the minimum and recommended system requirements for DayZ:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of the game
@@ -126,6 +112,14 @@ Below are the minimum and recommended system requirements for DayZ:
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**DayZ** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
  Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
@@ -138,9 +132,29 @@ Below are the minimum and recommended system requirements for DayZ:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-settings.png)
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
 
  Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Add DayZ as an exception to your third-party antivirus application
 
@@ -181,5 +195,26 @@ Below are the minimum and recommended system requirements for DayZ:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat/"><u>[New] In 2024, Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-implement-borders-on-instagram-media/"><u>[Updated] Expert Tips Implement Borders on Instagram Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-ultimate-yt-shorts-companion/"><u>[Updated] Your Ultimate YT Shorts Companion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-online-photo-background-changers-filmora-for-2024/"><u>10 Best Online Photo Background Changers - Filmora for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722989683393-battling-with-resident-evil-5-pc-boot-issues-heres-how-you-can-resolve-them/"><u>Battling with Resident Evil #5 PC Boot Issues? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beginners-guide-to-implementing-hyper-v-technology-on-your-windows-10-machine/"><u>Beginner's Guide to Implementing Hyper-V Technology on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-m-audio-fast-track-audio-drivers-now-compatible-with-all-win-versions-10-7-8-and-81/"><u>Download M-Audio Fast Track Audio Drivers Now! Compatible with All Win Versions [10, 7, 8 & 8.1]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-rating-does-aurora-deliver-quality/"><u>In 2024, HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-fps-optimization-techniques-for-gamers-playing-tainted-grail-conquest/"><u>Mastering FPS Optimization Techniques for Gamers Playing Tainted Grail: Conquest</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>New In 2024, Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-tricks-to-repair-oculus-links-black-screen-problem/"><u>Quick Tricks to Repair Oculus Link's Black Screen Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-your-experience-solutions-for-non-responsive-gta-5-online-gameplay/"><u>Reviving Your Experience: Solutions for Non-Responsive GTA 5 Online Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/success-story-solving-crash-issues-in-nier-replicant/"><u>Success Story: Solving Crash Issues in NieR: Replicant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stability-issues-ensuring-smooth-gameplay-for-xianxia-legends-chapter-seven/"><u>Troubleshooting Stability Issues: Ensuring Smooth Gameplay for Xianxia Legends Chapter Seven</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-techniques-for-rainbow-six-siege-performance-hiccups/"><u>Troubleshooting Techniques for Rainbow Six Siege Performance Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-back-to-standard-contrast-on-windows/"><u>Turn Back to Standard Contrast on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-getting-counter-strike-2-to-start-without-glitches/"><u>Unlock the Secrets: Getting Counter-Strike 2 to Start Without Glitches</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-animation-powerhouses-top-8-software-solutions-for-macwindows-for-2024/"><u>Updated Animation Powerhouses Top 8 Software Solutions for Mac/Windows for 2024</u></a></li>
+</ul></div>
 

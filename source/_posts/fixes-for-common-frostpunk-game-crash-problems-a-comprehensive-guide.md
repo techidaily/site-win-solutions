@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Common Frostpunk Game Crash Problems: A Comprehensive Guide"
-date: 2024-09-09T19:10:44.149Z
-updated: 2024-09-16T19:05:55.214Z
+date: 2024-10-05T07:49:02.536Z
+updated: 2024-10-06T16:48:23.708Z
 tags:
   - win11
   - win10
@@ -53,16 +53,16 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
+<span id="1982461">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change the skin
@@ -76,6 +76,13 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
@@ -84,20 +91,33 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can always kick unwanted guests from your lobby.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
 
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6\. Reinstall the game
 
@@ -124,5 +144,26 @@ You can always kick unwanted guests from your lobby.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transform-your-account-with-these-10-must-have-ig-tools/"><u>[New] 2024 Approved Transform Your Account with These 10 Must-Have IG Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ccess-tons-of-free-vocal-textures-in-2024/"><u>[New] Access Tons of Free Vocal Textures, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-waterproof-cams-7-compilation-review/"><u>[Updated] Leading Waterproof Cams #7 Compilation Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-firefoxs-popup-window-magic/"><u>[Updated] Mastering Firefox's Popup Window Magic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>2024 Approved Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-wav-movavi/"><u>免費移動 WMV至 WAV - 用 Movavi 影片編碼工具</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967016200-amd-ati-radeon-hd-3450-secure-your-free-driver-download-and-stay-updated-now/"><u>AMD ATI Radeon HD 3450 - Secure Your Free Driver Download and Stay Updated Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/de-beste-kostenlose-pdf-hergebruikers-voor-windows-verantwoord-applicaties-om-vrije-pdf-formatten-te-editeren/"><u>De Beste Kostenlose PDF-Hergebruikers Voor Windows - Verantwoord Applicaties Om Vrije PDF-Formatten Te Editeren</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dpx-tiff-dpx-movavi/"><u>DPX 투 TIFF: 원활한 웹 구현으로 오랫동안의 무료 DPX 이미지 변환 - Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-tips-implement-borders-on-instagram-media-for-2024/"><u>Expert Tips Implement Borders on Instagram Media for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-verbetering-van-mp3-naar-flac-online-moveaveen/"><u>Gratuit Verbetering Van MP3 Naar FLAC Online - Moveaveen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-simple-de-resizing-gratuita-ajuste-multiple-de-fotografias-en-un-solo-click/"><u>Guía Simple De Resizing Gratuita: Ajuste Múltiple De Fotografías en Un Solo Click</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10c-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10C to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ipodcast-exploration-techniques-with-the-iphone-for-2024/"><u>IPodcast Exploration Techniques with the iPhone for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-onlinestelsel-vrije-mpeg-ogg-converter-voor-professionele-resultaten/"><u>Movavi's Onlinestelsel: Vrije MPEG-OGG Converter Voor Professionele Resultaten</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-8-editors-di-video-in-risoluzione-4k-del-2024-modifiche-facili-e-ottime-prestazioni/"><u>Top 8 Editors Di Video in Risoluzione 4K Del 2024: Modifiche Facili E Ottime Prestazioni</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrijetagsmatig-rmvb-in-mpeg-vullen-met-gratis-movavi-konvertor-online/"><u>Vrijetagsmatig RMVB in MPEG Vullen Met Gratis Movavi Konvertor Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228194678-wmvogg-movavi/"><u>오픈 소스 WMV/OGG 파일 무료 전환 - Movavi</u></a></li>
+</ul></div>
 

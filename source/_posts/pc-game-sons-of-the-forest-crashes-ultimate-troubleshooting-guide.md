@@ -1,7 +1,7 @@
 ---
 title: PC Game 'Sons of the Forest' Crashes - Ultimate Troubleshooting Guide
-date: 2024-09-09T16:21:38.988Z
-updated: 2024-09-16T19:42:50.963Z
+date: 2024-10-02T23:45:42.369Z
+updated: 2024-10-06T23:09:19.829Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ To check the specs of your PC:
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Scavengers Crashing on PC
 
  Here are six fixes that have helped other players resolve the Scavengers crashing on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -70,6 +77,13 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
@@ -103,13 +117,6 @@ Here is how to do it:
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update DirectX
 
  Your game of Scavengers may crash if you don’t have the latest version of DirectX. So you should check on your PC whether you have the latest version; if you don’t, you should update it.
@@ -126,30 +133,24 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With the latest DirectX, check to see if Scavengers still crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Close background apps
 
@@ -164,14 +165,14 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -198,5 +199,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-sync-fix-twitter-vids-and-chrome/"><u>[New] Sync Fix Twitter Vids and Chrome</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-examining-the-tech-in-djis-phantom-3-prototype/"><u>[Updated] 2024 Approved Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-social-media-impact-with-these-top-5-youtube-marketing-techniques-for-2024/"><u>[Updated] Elevate Your Social Media Impact with These Top 5 YouTube Marketing Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-innovators-crafting-marvels-digital-realm-for-2024/"><u>[Updated] Innovators Crafting Marvel's Digital Realm for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-easily-opening-and-using-dat-files-on-windows-and-mac-a-beginners-guide/"><u>1. Easily Opening and Using DAT Files on Windows & Mac: A Beginner's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-top-10-free-animation-maker-programs-including-2d-and-3d-options/"><u>1. Top 10 Free Animation Maker Programs (Including 2D & 3D Options)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-how-to-verify-your-powershell-version-on-a-windows-10-machine/"><u>Discover How to Verify Your PowerShell Version on a Windows 10 Machine</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-transforming-gifs-into-ogv-format-with-ease/"><u>Free Online Conversion: Transforming GIFs Into OGV Format with Ease</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-curve-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze Curve 5G?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-27000mah-chargetech-battery-pack-top-capacity-choice/"><u>In-Depth Analysis of the 27000mAh ChargeTech Battery Pack: Top Capacity Choice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726227380972-mkv-mp4-movavi/"><u>MKV 到 MP4 自由下載的線上轉換器 - 簡便免費運行 Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/prime-image-archive-platforms/"><u>Prime Image Archive Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/regles-dutilisation-guide-complet-pour-les-conditions-de-service/"><u>Règles D'Utilisation: Guide Complet Pour Les Conditions De Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-upgraded-playstation-5-pro-discover-the-top-features-price-info-release-schedule-and-everything-you-should-know-a-comprehensive-guide-by-zdnet95/"><u>Sony Releases Upgraded PlayStation 5 Pro: Discover the Top Features, Price Info, Release Schedule & Everything You Should Know - A Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-trp-values-into-mpg-cost-free-using-movavis-user-friendly-software/"><u>Transform TRP Values Into MPG Cost-Free Using Movavi's User-Friendly Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-video-quicktime-in-formato-mp3-senza-costi-il-modo-semplice-di-moveave/"><u>Trasforma I Tuoi Video QuickTime in Formato MP3 Senza Costi: Il Modo Semplice Di Moveave!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/iuybkounloyjkcdruytrljtsmktsl5ag64ya7zwcioqzooq4isdtjrjsp5eg6rca7j2065ocoidtlytrqqjrnbwg7iks7jqp7j2eioycho2vncdsi6tsmqnsoihsnbgg6riw7iigig/"><u>원더쉐 비디오에 대한 고급 편집 가이드: 필모라 사용을 위한 실용적인 기술</u></a></li>
+</ul></div>
 

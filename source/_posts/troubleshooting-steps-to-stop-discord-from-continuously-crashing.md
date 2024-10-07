@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Stop Discord From Continuously Crashing
-date: 2024-09-17T18:28:48.938Z
-updated: 2024-09-21T17:47:00.874Z
+date: 2024-10-01T22:32:35.805Z
+updated: 2024-10-06T17:02:02.413Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -84,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
@@ -97,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 Your game still freezes? Try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
@@ -113,16 +120,22 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
@@ -165,5 +178,26 @@ If your issue persists, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-started-streaming-learn-obs-for-youtube-now/"><u>[New] In 2024, Started Streaming? Learn OBS for Youtube Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-greener-marketing-blend-screens-subscription-tech/"><u>[Updated] 2024 Approved Greener Marketing Blend Screens, Subscription Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-professional-tips-for-enhancing-your-youtube-videos-with-captions-for-2024/"><u>[Updated] Professional Tips for Enhancing Your YouTube Videos with Captions for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/amazon-prime-video-not-working-heres-how-to-fix-it-quickly/"><u>Amazon Prime Video Not Working? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-troubles-overcome-game-hiccups-with-these-6-critical-fixes-for-freezing-and-stutters/"><u>Baldur's Gate Troubles? Overcome Game Hiccups with These 6 Critical Fixes for Freezing & Stutters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005859203-bluestacks-hiccups-mend-your-mobile-emulator-using-easy-to-follow-techniques/"><u>BlueStacks Hiccups? Mend Your Mobile Emulator Using Easy-to-Follow Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-valorant-resolving-01kbs-downloads/"><u>Boosting Win-Valorant: Resolving 0.1KB/S Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/civilization-6-wont-start-solve-the-problem-on-your-new-windows-11-system/"><u>Civilization 6 Won't Start? Solve the Problem on Your New Windows 11 System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-track-solutions-boost-your-chrome-speed-in-no-time/"><u>Fast Track Solutions - Boost Your Chrome Speed in No Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-utorrent-issues-discover-these-7-reliable-remedies-when-it-freezes-or-crashes/"><u>Fixing Utorrent Issues: Discover These 7 Reliable Remedies When It Freezes or Crashes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-balancing-core-and-supporting-visual-elements/"><u>In 2024, Balancing Core & Supporting Visual Elements</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>In 2024, Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-selections-best-5-interactive-capture-apps/"><u>Professional Selections Best 5 Interactive Capture Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-logitech-devices-arent-working-correctly-on-pcs/"><u>Solutions for When Your Logitech Devices Aren't Working Correctly on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-frame-rate-issues-a-guide-to-improve-cs-2-gameplay-performance/"><u>Solving Frame Rate Issues: A Guide to Improve CS 2 Gameplay Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-fix-how-to-solve-rocket-league-game-lag-issues/"><u>Troubleshooting the Fix: How to Solve Rocket League Game Lag Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/what-to-know-about-the-latest-first-person-shooter-changes-in-call-of-duty-modern-warfare/"><u>What to Know About the Latest First-Person Shooter Changes in Call of Duty: Modern Warfare</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimizing Graphics Performance in Cyberpunk 2077 on New Windows 11 - Issue Resolved
-date: 2024-09-09T17:14:16.691Z
-updated: 2024-09-16T18:00:27.451Z
+date: 2024-10-06T01:45:41.615Z
+updated: 2024-10-07T07:38:18.553Z
 tags:
   - win11
   - win10
@@ -83,30 +83,37 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -119,13 +126,20 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -148,5 +162,22 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>[New] 2024 Approved Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-hubs-for-high-quality-vr-watching/"><u>[New] In 2024, Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-screen-picks-for-professional-image-enhancers/"><u>[New] Top Screen Picks for Professional Image Enhancers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/add-14-inch-06-cm-once-you-have-the-width-of-your-cuff-add-approximately-a-quarter-inch-or-half-a-centimeter-for-ease-of-movement-when-fastening-and-unfaste44/"><u>Add 1/4 Inch (0.6 Cm): Once You Have the Width of Your Cuff, Add Approximately a Quarter-Inch or Half a Centimeter for Ease of Movement when Fastening and Unfastening Your Cufflinks. This Will Give You an Accurate Measurement to Work With.</u></a></li>
+<li><a href="https://facebook.techidaily.com/alter-your-social-media-identity-a-compreenas-guide-to-facebook-renaming/"><u>Alter Your Social Media Identity: A Compreenas Guide to Facebook Renaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-google-pixel-n-review-balancing-budget-and-premium-features/"><u>Comprehensive Analysis of the Google Pixel N Review: Balancing Budget and Premium Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/decoding-the-m1-chip-apples-latest-marvel/"><u>Decoding the M1 Chip Apple's Latest Marvel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-everything-about-your-movavi-history/"><u>Discover Everything About Your Movavi History</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-movavis-free-web-based-tool-for-transforming-aac-files-into-mp4-videos/"><u>Download Movavi's Free Web-Based Tool for Transforming AAC Files Into MP4 Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-success-channel-ideas-to-spark-momentum-for-2024/"><u>Elevating Success Channel Ideas to Spark Momentum for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-started-with-movavi-video-editor-your-perfect-business-solution-now/"><u>Get Started with Movavi Video Editor - Your Perfect Business Solution Now</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-audio-journey-mastering-the-art-of-quick-fixes-for-spotify-setbacks-in-android-auto-unveiling-1e-strategies/"><u>Seamless Audio Journey: Mastering the Art of Quick Fixes for Spotify Setbacks in Android Auto (Unveiling 1E Strategies)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-optimizing-video-format-and-quality-for-enhanced-facebook-shares/"><u>Ultimate Guide: Optimizing Video Format and Quality for Enhanced Facebook Shares</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726218771915-m4a-flac-movavi/"><u>무료 인터넷 동시에 M4A 파일을 FLAC로 전환하기: Movavi 코덱스 방법</u></a></li>
+</ul></div>
 

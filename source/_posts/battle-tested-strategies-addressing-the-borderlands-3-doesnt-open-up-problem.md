@@ -1,7 +1,7 @@
 ---
 title: "Battle-Tested Strategies: Addressing the 'Borderlands 3 Doesn't Open Up' Problem"
-date: 2024-09-10T12:38:13.381Z
-updated: 2024-09-11T12:38:13.381Z
+date: 2024-10-05T08:53:51.988Z
+updated: 2024-10-07T05:35:08.598Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 Star Wars Battlefront 2 is an old game, so is the issue. The old game issue discussions still got new replies. If you have the same problem, don’t worry, this post can help.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -38,19 +24,12 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1\. Check your system requirement
 
@@ -65,26 +44,6 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Storage:    | 4.3 GB                                                                       |
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -94,62 +53,22 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
  If you’re using NVIDIA graphic card on your PC, you can install[NVIDIA GeForce Experience app](https://tools.techidaily.com/drivereasy/download/) , then launch the game through the app.
 
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4\. Update your driver
 
@@ -179,8 +98,23 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -195,8 +129,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +136,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-free-screencast-software-options-on-mac-for-2024/"><u>[New] Exploring Free Screencast Software Options on Mac for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-iphone-photography-during-video/"><u>[New] Seamless iPhone Photography During Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>2024 Approved Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-pilots-best-friend-critical-uav-addons-and-replacements-for-2024/"><u>A Pilot's Best Friend Critical UAV Addons and Replacements for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuit-de-fichiers-aac-en-ligne-avec-movavi-essayez-maintenant/"><u>Conversion Gratuit De Fichiers AAC en Ligne Avec Movavi - Essayez Maintenant!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/die-besten-13-youtube-umwandlungen-in-mp3-format-effizientes-konvertieren-mithilfe-von-movavi/"><u>Die Besten 13 YouTube-Umwandlungen in MP3 Format - Effizientes Konvertieren Mithilfe Von Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-pc-issues-when-playing-star-wars-jedi-fallen-order/"><u>Expert Advice: Fixing PC Issues When Playing Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-immersive-experienences-adding-sounds-to-reels/"><u>In 2024, Crafting Immersive Experienences Adding Sounds to Reels</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/integrating-twitter-promotions-into-your-digital-strategy-for-2024/"><u>Integrating Twitter Promotions Into Your Digital Strategy for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/repondre-a-des-videos-youtube-avec-un-commentaire/"><u>Répondre À Des Vidéos YouTube Avec Un Commentaire</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/spravne-konvertovat-videa-do-mp4-online-bezpecnosti-jednodussi-poznamka/"><u>Správně Konvertovat Videa Do MP4 Online Bezpečností - Jednodušší Poznámka</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-urgent-reasons-behind-italys-recent-ban-of-chatgpt-services/"><u>The Urgent Reasons Behind Italy's Recent Ban of ChatGPT Services</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforma-tu-sonido-desde-m4a-sin-costo-utilizando-la-herramienta-convertidora-en-linea-flac-por-movavi/"><u>Transforma Tu Sonido Desde M4A Sin Costo Utilizando La Herramienta Convertidora en Línea FLAC Por Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-archivos-mod-en-avi-sin-coste-soluciones-de-movavi-para-cargas-multimedia/"><u>Transformar Archivos MOD en AVI Sin Coste: Soluciones De Movavi Para Cargas Multimedia</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-or-freshly-install-the-epson-tm-t88v-driver-for-your-windows-pc/"><u>Update or Freshly Install the EPSON TM-T88v Driver for Your Windows PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/kyfya-astkhdam-albrnamg-oaladoat-aliflatya-motho/"><u>كيفية استخدام البرنامج والأدوات الإفلاتية: موثو</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gif-movavi/"><u>무료 가용성 제공: 온라인 장소에서 및 GIF 교체 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tsmp4-movavi/"><u>オンラインで簡単! TS動画からMP4へ自由に変換 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the FIFA 20 Graphics Guru: Resolving DirectX Issues"
-date: 2024-09-13T20:38:50.128Z
-updated: 2024-09-16T17:13:12.800Z
+date: 2024-10-01T02:04:16.256Z
+updated: 2024-10-07T01:49:19.042Z
 tags:
   - win11
   - win10
@@ -48,8 +48,28 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -73,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Visual C++ Redistributable for Visual Studio 2015:**
@@ -94,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
  After installing the latest Microsoft Visual C++ Redistributable and Microsoft .NET Framework, you need to restart Windows. Then launch NBA 2K20 to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Use a reduced settings profile for graphics related features
@@ -111,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
  T_he system requirements information is captured from Steam_
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify your graphics card settings
 
@@ -155,10 +175,10 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
 3. Select **Intel Graphics Settings**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
@@ -172,19 +192,20 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart NBA 2K20 to see if you can play the game without crashes. If so, congratulations! You’ve resolved this issue; if not, try the next fix, below.
 
@@ -201,10 +222,10 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
  Launch NBA 2K20 again to see if this issue persists. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Add NBA 2K20 as an exception to your 3rd party antivirus software
@@ -235,5 +256,26 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-maze-of-fs-mode-in-ppro/"><u>[New] Navigating the Maze of FS Mode in PPro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-speedy-shots-masterful-iphone-time-lapse-methods/"><u>2024 Approved Speedy Shots Masterful iPhone Time Lapse Methods</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-any-video-file-with-movavis-no-cost-nsv-to-mp3-tool-beginner-friendly/"><u>Convert Any Video File with Movavi's No-Cost NSV to MP3 Tool - Beginner Friendly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-imagesvideos-free-of-charge-movavis-mp4-jpg-avi-offline-mjpeg-online-tool/"><u>Convert Images/Videos Free of Charge - Movavi's MP4, JPG, AVI Offline MJPEG Online Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-file-flac-a-wmv-online-gratuito-con-movavi/"><u>Converti File FLAC a WMV Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/critical-review-of-cyberpunk-2077-unfinished-yet-intriguingly-crafted-world/"><u>Critical Review of Cyberpunk 2077: Unfinished Yet Intriguingly Crafted World</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-oneplus-9-when-calculations-dont-add-up/"><u>Evaluating OnePlus 9: When Calculations Don't Add Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-replace-your-cellphone-screen-guardian-film/"><u>How to Successfully Replace Your Cellphone Screen Guardian Film</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>In 2024, The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-deepcool-assassin-4s-the-stealthy-heat-dissipator-review/"><u>In-Depth Analysis of the DeepCool Assassin 4S - The Stealthy Heat Dissipator Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/les-10-outils-premiers-convertisseurs-dimage-libres-de-frais-en-2024-selon-movavi/"><u>Les 10 Outils Premiers Convertisseurs D'Image Libres De Frais en 2024 Selon Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-no-cost-online-tool-for-moc-to-wma-format-transformation-start-now/"><u>Movavi's No-Cost Online Tool for MOC to WMA Format Transformation - Start Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/onlineskiftet-gratis-transformer-til-mp4-med-movavi-video-konverter/"><u>Onlineskiftet Gratis - Transformér Til MP4 Med Movavi Video Konverter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-video-editing-software-for-tiktok-free-and-premium-options-unveiled/"><u>Top 10 Video Editing Software for TikTok : Free and Premium Options Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-gratuite-du-fichier-rw2-en-format-jpeg-online-avec-movavi/"><u>Transformation Gratuite Du Fichier RW2 en Format JPEG - Online Avec Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-ntsc-and-pal-standards-a-comprehensive-guide/"><u>Understanding NTSC and PAL Standards - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222676227-wmamp4-movavi/"><u>WMAファイルをMP4に自由なオンライン変換 - Movavi</u></a></li>
+</ul></div>
 
