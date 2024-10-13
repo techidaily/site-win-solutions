@@ -1,7 +1,7 @@
 ---
 title: "Shedding Light on Cyberpunk 2077'S Dark Problem: The Ultimate Black Screen Solution"
-date: 2024-09-05T21:05:21.632Z
-updated: 2024-09-06T21:05:21.632Z
+date: 2024-10-06T18:15:05.226Z
+updated: 2024-10-12T19:09:30.460Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/bfb1d21dc7d722196c5d9970ee836e32f9c269de5
 
 After a long wait, Cyberpunk 2077 is finally available now, but many players report numerous problems. If you’re on PC and are running into the Cyberpunk 2077 not launching issue, here’s how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  Due to the different hardware, software and game settings each player has, it’s not always easy to diagnose why the game isn’t running on your computer.
@@ -37,12 +31,6 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 6. [**Clear game cache files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check your computer specs first
 
  **Before moving to fixes, make sure your PC is up for running the game.** Below are the minimum and recommended system requirements for Cyberpunk 2077.
@@ -69,11 +57,18 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
  If you are sure your PC meets the system requirements for Cyberpunk 2077, you can skip to fixes directly. But if unfortunately not, then you’ll need to either update your hardware or play the game on another device that supports it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  The Cyberpunk 2077 not launching issue may occur when you have one or more game files corrupted or deleted by malware. To fix this, try verifying the integrity of game files from [**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[Epic Games](https://tools.techidaily.com/drivereasy/download/)**  depending on which platform you’re on.
@@ -89,6 +84,13 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
  3) Right-click **Cyberpunk 2077** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
 
@@ -106,12 +108,6 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
@@ -129,11 +125,12 @@ If this doesn’t fix the issue, try the next solution below.
 If the game is still unplayable, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Run as administrator
 
  If Cyberpunk 2077 doesn’t have permission for certain game files on your system under a standard user mode, it may not run properly. Try this setting to give the program the administrator privileges:
@@ -148,12 +145,6 @@ If the game is still unplayable, move on to the fix below.
 
  If the game still won’t launch with admin privileges, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update the graphics driver
 
  Your graphics card driver is vital to the gaming experience. If the driver is out of date, it can cause a range of issues, even if your video hardware exceeds the game’s requirements.
@@ -173,11 +164,12 @@ If the game is still unplayable, move on to the fix below.
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -195,12 +187,6 @@ If the game is still unplayable, move on to the fix below.
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Clear game cache files
 
  If your game won’t launch, then it may be due to an issue with game cache files. In this case, clearing your download cache can solve the problem.
@@ -242,18 +228,6 @@ If the game is still unplayable, move on to the fix below.
 
 If this didn’t resolve the issue, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check for Window updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your game running correctly. Here is how to do it:
@@ -263,14 +237,22 @@ If this didn’t resolve the issue, then try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -282,8 +264,6 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -291,4 +271,24 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-websites-for-dynamic-sky-imaging/"><u>[New] Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-11-audio-not-working/"><u>[SOLVED] Windows 11 Audio Not Working</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-snatch-free-media-treasures-from-top-4-online-creators/"><u>[Updated] Snatch Free Media Treasures From Top 4 Online Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-spark-20-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Spark 20 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-the-lagging-problem-stabilize-your-halo-infinite-gameplay-on-personal-computer/"><u>Banish the Lagging Problem - Stabilize Your Halo Infinite Gameplay on Personal Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-l-slow-videos-tips-from-the-pros-on-gopro-hero-10-for-2024/"><u>Crafting Cinematic L-Slow Videos Tips From the Pros on GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-experience-how-to-fix-dark-souls-3-malfunctions/"><u>Crash-Free Experience: How to Fix Dark Souls 3 Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-code-vein-freeze-woes-effective-troubleshooting-methods-revealed/"><u>End Code Vein Freeze Woes: Effective Troubleshooting Methods Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-still-shots-to-moving-images-ipads-timelapse-magic-for-2024/"><u>From Still Shots to Moving Images IPad's Timelapse Magic for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-toshiba-drivers-and-updates-compatible-with-your-windows-system/"><u>Get the Latest Toshiba Drivers and Updates Compatible with Your Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-repair-constant-crashing-in-cities-skylines-2-on-pc/"><u>How to Prevent and Repair Constant Crashing in Cities: Skylines 2 on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-screen-sharing-on-windows-11-via-zoom/"><u>In 2024, Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfectly-pair-photos-for-your-instagram-story-easy-guide/"><u>In 2024, Perfectly Pair Photos for Your Instagram Story Easy Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-guide-to-restore-your-keyboard-functionality-on-pathfinder-wrath-of-the-righteous-game/"><u>In-Depth Guide to Restore Your Keyboard Functionality on Pathfinder: Wrath of the Righteous Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-launch-issues-with-the-updated-version-repaired-diablo-ii-reborn/"><u>Resolving Launch Issues with the Updated Version - [REPAIRED] Diablo II Reborn</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-solutions-for-a-smooth-gta-5-online-session/"><u>Tips and Solutions for a Smooth GTA 5 Online Session</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-guide-for-overcoming-rainbow-six-siege-error-3-0x0001000b/"><u>Ultimate Fix Guide for Overcoming Rainbow Six Siege Error 3-0X0001000B</u></a></li>
+</ul></div>
 
