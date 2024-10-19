@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Fixing Startup Problems in Persona 3 Reload"
-date: 2024-09-01T07:41:35.636Z
-updated: 2024-09-02T07:41:35.636Z
+date: 2024-10-12T21:09:27.148Z
+updated: 2024-10-18T21:34:47.252Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ To do a clean reinstallation of the display card driver with DDU:
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
 7. Double-click the setup file for the display card driver you’ve downloaded from step 1 to run the driver installation.
@@ -71,9 +67,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -102,6 +95,14 @@ To verify the game’s files on Epic Games Launcher:
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When the validation is done, run your Red Dead Redemption 2 again to see if the ERR\_GFX\_STATE error remains.
 
 ### Steam
@@ -112,26 +113,54 @@ To verify the game’s files on Epic Games Launcher:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 5. When the verification is done, check to see if the Red Dead Redemption 2 still has the ERR\_GFX\_STATE error. If so, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Rockstar Games Launcher
 
 1. Open Rockstar Games Launcher.
 2. Click**SETTINGS** , then find Red Dead Redemption 2 in the**My installed game** list, and click the**VERIFY INTEGRITY** button next to the Verify game file integrity option.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/rstar.png)
 3. Wait for the process to finish.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When the verification is done, check to see if the Red Dead Redemption 2 still has the ERR\_GFX\_STATE error. If so, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Change the API settings file
 
  According to users in the comment section, changing the Vulkan to DX12 in the API settings file fixes the ERR\_GFX\_STATE error in Red Dead Redemption 2 for them. To see if this does wonders for you:
@@ -143,9 +172,6 @@ To verify the game’s files on Epic Games Launcher:
 3. Change the API Settings from**Vulkan** to**DX12** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/api-vulkan.png)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/api-dx12.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Save the change.
 
  See if the ERR\_GFX\_STATE error in Red Dead Redemption 2 remains. If so, please move on.
@@ -153,8 +179,12 @@ To verify the game’s files on Epic Games Launcher:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Delete SGA files
 
  Files with the extension**SGA** are created for the game. They are compressed files often containing maps or large groups of related files. But there are situations that these files cause crashing or other errors in your game. So to fix it, you should delete them. To do so, simply follow the instructions below:
@@ -162,18 +192,19 @@ To verify the game’s files on Epic Games Launcher:
 1. Go to **C:\\Users\\ _(your user name)_  \\Documents\\Rockstar Games\\Red Dead Redemption 2\\Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/rdr2-settings.png)
 2. Now you can see three files that begin with**sga** . These are the files that cause the error. So you need to delete them. And your game would not crash again.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/files-that-begin-with-sga.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If deleting these files didn’t work for you, you can alternatively create three empty text files of size 0B and make those files read-only. Also, change the names to**sga\_xxx** accordingly. This might be very specific to your setup and the true root cause you’re having.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Specify launch arguments
 
  Command line arguments are extra commands you can use when launching your game so that the game’s functionality will change. To get rid of the ERR\_GFX\_STATE error, you can define launch arguments to make your game run with certain parameters.
@@ -184,24 +215,23 @@ To verify the game’s files on Epic Games Launcher:
 * [**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/)
 * [**Steam**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Rockstar Games Launcher
 
 1. Open your Rockstar Games Launcher and select**Settings** .
 2. Under**My installed Games** , select**Red Dead Redemption 2** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/rockstar.jpg)
 3. Scroll down to**Launch arguments** . In the text box, add**\-ignorpipelinecache** .  
-![](https://www.drivereasy.com/wp-content/uploads/2020/11/command-line-arguments.jpg)
-4. Now launch your game to check if it did the trick.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2020/11/command-line-arguments.jpg)
+4. Now launch your game to check if it did the trick.
+
 ### Epic Games Launcher
 
 1. Open your Epic Games Launcher. On the bottom-left side, click on**Settings** .
@@ -209,22 +239,20 @@ To verify the game’s files on Epic Games Launcher:
 3. In the text box, add**\-ignorepipelinecache** .
 4. Return to the Main Menu and launch your game to check if it did the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steam Launcher
 
 1. Open your Steam client. Under**LIBRARY** , right-click on**Red Dead Redemption 2** and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 2. Under the launch options, add **\-ignorepipelinecache** . Then save and try to launch Red Dead Redemption 2 to see if the error remains.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/steam-launch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  To conclude, there are different bugs that cause this same error message. It can happen if your GPU is overclocked, it can happen if your RAM is overclocked. Players can get it randomly. It appears to just be a generic message and that’s why there are so many solutions that only work for a small number of people. But I hope the fixes in this post can help you resolve the problem and you can play your game smoothly.
@@ -237,8 +265,6 @@ To verify the game’s files on Epic Games Launcher:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +272,24 @@ To verify the game’s files on Epic Games Launcher:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>[New] In 2024, Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-peering-into-youtube-interactive-threads/"><u>[New] In 2024, Peering Into YouTube Interactive Threads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[New] In 2024, Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-msi-afterburner-not-detecting-gpu-on-windows-1011/"><u>[SOLVED] MSI Afterburner Not Detecting GPU on Windows 10/11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-complete-story-on-dji-phantom-4s-performance/"><u>2024 Approved The Complete Story on DJI Phantom 4'S Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-quest-xi-crashing-no-more-effective-solutions-for-a-smoother-gameplay-experience/"><u>Dragon Quest XI Crashing No More: Effective Solutions for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-overcoming-technical-challenges-within-call-of-dutys-latest-titles/"><u>Expert Advice on Overcoming Technical Challenges Within Call of Duty's Latest Titles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-for-sudden-fps-drops-and-gameplay-lag-in-popular-games/"><u>Fixes and Solutions for Sudden FPS Drops and Gameplay Lag in Popular Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>In 2024, Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mass-effect-legendary-edition-wont-start-solutions-for-common-issues/"><u>Mass Effect Legendary Edition Won't Start – Solutions for Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-transforming-divx-files-into-mp4-format/"><u>Quick and Simple Guide: Transforming DivX Files Into MP4 Format</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-wont-open-heres-how-you-can-overcome-the-hurdles/"><u>Sea of Thieves Won't Open? Here's How You Can Overcome the Hurdles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sharp-advancements-in-shaders-boosting-performance-in-star-wars-battlefront-ii/"><u>Sharp Advancements in Shaders: Boosting Performance in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-escape-from-tarkov-pc-game-crashes-effective-fixes-and-tweaks/"><u>Stop Escape From Tarkov PC Game Crashes: Effective Fixes and Tweaks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-step-by-step-solutions-for-stuttering-and-boosting-fps/"><u>Valorant Troubleshooting: Step-by-Step Solutions for Stuttering and Boosting FPS</u></a></li>
+</ul></div>
 

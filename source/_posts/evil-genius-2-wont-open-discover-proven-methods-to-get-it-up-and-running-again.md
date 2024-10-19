@@ -1,7 +1,7 @@
 ---
 title: Evil Genius 2 Won't Open? Discover Proven Methods to Get It Up and Running Again!
-date: 2024-09-01T07:39:52.385Z
-updated: 2024-09-02T07:39:52.385Z
+date: 2024-10-17T23:40:27.182Z
+updated: 2024-10-18T16:03:50.461Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 2. [Launch with Vulkan](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game file](https://tools.techidaily.com/drivereasy/download/)
 4. [Replace the launcher file](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -55,6 +62,13 @@ Tips: You can disable the alert in the launcher settings.
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -63,9 +77,6 @@ Tips: You can disable the alert in the launcher settings.
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -76,8 +87,12 @@ If this fix doesn’t help, move to the next fix.
 If you’re launching from Steam, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Verify game file
 
  If you launch the game from Steam, then you try to verify game files. This fix will let Steam check your local files. If there’re corrupted files, Steam will redownload them and replace them on your local install.
@@ -86,20 +101,18 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix is not working, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
@@ -108,9 +121,6 @@ If this fix is not working, move to the next one.
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.
 5. Relaunch the game to check.
 
@@ -124,8 +134,6 @@ If this fix is not working, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +141,20 @@ If this fix is not working, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-steps-to-boosting-youtube-visibility/"><u>[New] 2024 Approved Elevate Your Content Steps to Boosting YouTube Visibility</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-eliminate-youtube-short-headaches-with-these-tips/"><u>[Updated] Eliminate YouTube Short Headaches with These Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-start-installing-vrecorder-effortlessly-for-2024/"><u>[Updated] Quick Start Installing VRecorder Effortlessly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-naraka-bladepoint-gameplay-disruption-expert-advice/"><u>Fixing the 'Naraka: Bladepoint' Gameplay Disruption - Expert Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-add-video-filters-in-zoom-for-2024/"><u>How To Add Video Filters In Zoom for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-samurai-warriors-5-from-continuously-crashing-on-your-pc/"><u>How to Stop Samurai Warriors 5 From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>In 2024, The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-trouble-free-gaming-solutions-to-fix-load-screen-hitches-in-red-dead-redemption-2/"><u>Mastering Trouble-Free Gaming: Solutions to Fix Load Screen Hitches in Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/netflix-playback-problems-solved-successful-setup-tips-for-xbox-console-users/"><u>Netflix Playback Problems Solved: Successful Setup Tips for Xbox Console Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/psychonauts-2-pc-version-fixes-and-troubleshooting-tips-for-stop-crashing-issues/"><u>Psychonauts 2 PC Version: Fixes and Troubleshooting Tips for Stop Crashing Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixes-for-overcoming-tfla0002-error-on-windows/"><u>Troubleshooting and Fixes for Overcoming TFLA0002 Error on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/unpacking-the-variance-in-social-media-identity-labels/"><u>Unpacking the Variance in Social Media Identity Labels</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714937848862-updated-in-2024-how-to-add-audio-fade-out-effect/"><u>Updated In 2024, How to Add Audio Fade Out Effect?</u></a></li>
+</ul></div>
 
