@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for When MIR4 Keeps Freezing or Crashing
-date: 2024-09-01T07:39:39.103Z
-updated: 2024-09-02T07:39:39.103Z
+date: 2024-10-18T16:27:29.523Z
+updated: 2024-10-24T18:31:14.013Z
 tags:
   - win11
   - win10
@@ -48,8 +48,12 @@ If you still have the issue, you can try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
  The FIFA crashing issue can be caused by Discord settings. If you have Discord installed, you can turn off Discord Overlay and Hardware Acceleration.
@@ -60,6 +64,13 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
@@ -69,8 +80,12 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -79,9 +94,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 Update your device drivers
 
  If your FIFA 19 just keeps crashing, your device drivers (especially your graphics card driver) are likely outdated or corrupt. To fix it, you can update your drivers**manually** or**automatically** .
@@ -112,6 +124,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -120,9 +139,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 5 Rollback to DirectX11
 
  DX11 or DX12? What’s the difference? You may wonder. There is no visual difference, but using DX12 helps to improve the performance by 10-20 fps. However, FIFA 19 might crash randomly when in DX12\. To save your FIFA 19 from crashing, you can roll back to DX11 in your game settings.
@@ -151,9 +167,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -164,9 +177,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7**Run System File Checker** to repair corrupt files
 
  Corrupt system files might be the cause of the FIFA crashing issue. To check if this is your problem and repair it, here is how:
@@ -178,8 +188,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
@@ -239,16 +253,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -261,19 +276,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -284,6 +300,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Remember to RESTART your PC after enabling each service and application, then open your FIFA 19 to test the issue.
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9 Create TileDatalayer and Database folder
 
@@ -323,8 +346,6 @@ mkdir Database
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -332,4 +353,26 @@ mkdir Database
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-real-world-perceptions-of-vllo/"><u>[New] 2024 Approved Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-peak-post-times-on-instagram/"><u>[New] In 2024, The Ultimate Guide to Peak Post Times on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-strategic-cloud-cost-management-best-price-options/"><u>[Updated] Strategic Cloud Cost Management Best Price Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/alan-wake-2-play-without-interruption-expert-crash-fix-methods-gamers/"><u>Alan Wake 2 Play Without Interruption: Expert Crash-Fix Methods Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-download-velocity-a-comprehensive-guide-for-improving-origin-speed/"><u>Boosting Download Velocity: A Comprehensive Guide for Improving Origin Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-fantasies-gpts-role-in-imagination/"><u>Crafting Fantasies: GPT's Role in Imagination</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-ways-to-prevent-and-fix-bluestacks-software-failures-a-5-point-plan/"><u>Easy Ways to Prevent and Fix Bluestacks Software Failures – A 5-Point Plan</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-amazon-prime-video-glitches-expert-guidance-inside/"><u>Fix Your Amazon Prime Video Glitches - Expert Guidance Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-achieve-maximum-performance-in-ark-genesis-techniques-for-pc-gamers-seeking-fps-boost/"><u>How to Achieve Maximum Performance in ARK: Genesis - Techniques for PC Gamers Seeking FPS Boost</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-fix-projectsdll-crash-in-emeditor-an-in-depth-guide/"><u>How to Fix Projects.dll Crash in EmEditor: An In-Depth Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-excessive-cpu-use-during-a-zoom-call-6-tips/"><u>How to Stop Excessive CPU Use During a Zoom Call: 6 Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-best-recorders-for-lecture-recording/"><u>In 2024, Best Recorders for Lecture Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-starfield-game-crashingfreezing-issues-on-windows/"><u>Resolved: Fixes for Starfield Game Crashing/Freezing Issues on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-netgear-wna3100-driver-installation-and-fresh-update-procedure/"><u>Seamless Netgear WNA3100 Driver Installation & Fresh Update Procedure</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/sonic-boom-the-guide-to-musical-snapchat-videos/"><u>Sonic Boom The Guide to Musical Snapchat Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-fix-for-recurring-fifa-21-pc-game-crashes-a-comprehensive-walkthrough/"><u>The Definitive Fix for Recurring FIFA 21 PC Game Crashes: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-black-ops-cold-war-pc-installation-issues/"><u>Troubleshooting Cod: Black Ops Cold War - PC Installation Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-are-my-youtube-comments-desktopiosandroid-strategies/"><u>Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
+</ul></div>
 

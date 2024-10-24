@@ -1,7 +1,7 @@
 ---
 title: Bypassing Steam Hurdles - Effective Fixes for Helldivers 2 Not Launching
-date: 2024-09-01T07:33:49.415Z
-updated: 2024-09-02T07:33:49.415Z
+date: 2024-10-19T16:12:20.298Z
+updated: 2024-10-24T18:55:46.306Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ![open library](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1027.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Verify** and wait till the verification to complete.
 
 ![verify game files](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1026.png)
@@ -64,9 +61,6 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  Borderlands 3 sometimes may not be able to access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running it as an administrator.
@@ -76,15 +70,16 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 ![open epic launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1020.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and check the**Run this program as an administrator** box. Then click**Apply** and**OK** .
 
 ![go to the compatibility tab](https://images.drivereasy.com/wp-content/uploads/2019/09/image-997.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  3) Go to the directory where you installed Borderlands 3, and run the .exe file as administrator as well.
 
  4) Relaunch**Borderlands 3** from the Epic Games Launcher to test the issue.
@@ -102,24 +97,29 @@ If the problem still persists, then go ahead with the fix below.
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2019/09/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) If there are updates available, you can click**Download** , then follow the on-screen directions to finish installing.
 
 ![update Windows](https://images.drivereasy.com/wp-content/uploads/2019/09/image-970.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or if it says**You’re up to date** , just click**Check for updates** . Windows will start searching for available updates and automatically download and install the updates if there are any.
 
  Once you’ve updated your system, perform a complete shutdown and restart your PC, then see if the issue is fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update device drivers
 
  Sometimes Borderlands 3 may fail to launch because of a**corrupted or outdated driver** ,**especially your graphics card driver** (sometimes your sound card driver). In that case, you’ll probably experience the Borderlands 3 not launching or crashing issues.
@@ -138,12 +138,16 @@ If the problem still persists, then go ahead with the fix below.
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2019/09/image-974.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button to download the correct version of all the drivers that are missing or out of date on your system, and then manually install it.
 
 ![update driver](https://images.drivereasy.com/wp-content/uploads/2019/09/image-975.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or you can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 
@@ -151,9 +155,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reverting back to DX11
 
  If you try to enable DX12 on Borderlands 3 and get stuck in loading forever, you can try to set it back to DX11 and it will work again.
@@ -205,27 +206,31 @@ If the problem still persists, then go ahead with the fix below.
 
 ![open microsoft services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1002.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the**Startup** tab and click**Open Task Manager** .
 
 ![open Start up](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1003.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under the**Startup** tab, select**each** startup item and then click**Disable** .
 
 ![disable start up services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1019.png)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Apply** \>**OK** .
 
 ![open start up settings](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Restart your PC and launch Borderland 3 to see if the game can launch normally.
 
  If so, congrats! However, you’ll need to find out the problematic software. Here is how to do it:  
@@ -246,6 +251,13 @@ If the problem still persists, then go ahead with the fix below.
 
 ![borderlands won't launch open cmd](https://images.drivereasy.com/wp-content/uploads/2019/09/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when you are prompted for permission.
 
  3) In the Command Prompt window, type the following command (**note** that there’s a space between**sfc** and**/** ) and press**Enter** .
@@ -255,6 +267,13 @@ sfc /scannow
  4) Wait for the system scan to finish. Windows will try repairing your corrupted and missing files during the process.
 
 ![not launching](https://images.drivereasy.com/wp-content/uploads/2019/09/verification-image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) When the verification is finished, you may receive the following messages:
 
@@ -268,8 +287,12 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 11: Reinstall the game
 
  If none of the fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -298,8 +321,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -307,4 +328,24 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-rhythm-rendezvous-optimal-dj-video-selections/"><u>[New] 2024 Approved Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-virtual-clarity-streamlining-backgrounds-for-smooth-screenshots/"><u>[New] 2024 Approved Virtual Clarity Streamlining Backgrounds for Smooth Screenshots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-lifetime-visual-vaults-blend-cost-free-sky-spaces-and-paid-premium-alternatives/"><u>[New] In 2024, Lifetime Visual Vaults Blend Cost-Free Sky Spaces & Paid Premium Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-the-best-video-footage-with-gopro-for-2024/"><u>[Updated] Unleashing the Best Video Footage with GoPro for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-the-root-cause-solving-your-oculus-driver-related-glitches/"><u>Addressing the Root Cause: Solving Your Oculus Driver-Related Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-lights-sound-malfunction-solutions-expert-advice-and-tips/"><u>Dying Light's Sound Malfunction Solutions - Expert Advice and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-crashes-in-phoenix-point-ultimate-solution-for-smooth-gaming/"><u>Fixing Crashes in Phoenix Point - Ultimate Solution for Smooth Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-ffxivs-version-check-glitches-for-a-seamless-gaming-experience/"><u>Fixing FFXIV's Version Check Glitches for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-x-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone X Device from iCloud</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pixelprinter-professional-video/"><u>In 2024, PixelPrinter Professional Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-troubleshooting-eliminate-dying-light-game-crashes-in-a-flash/"><u>Master the Art of Troubleshooting: Eliminate Dying Light Game Crashes in a Flash</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/paintbox-pro-comprehensive-review-and-tutorial-2024/"><u>PaintBox Pro Comprehensive Review & Tutorial 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/palworld-wont-open-discover-quick-resolves-to-get-you-back-in-the-game/"><u>Palworld Won't Open? Discover Quick Resolves to Get You Back in the Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-steams-error-code-130-with-these-proven-solutions/"><u>Resolve Steam's Error Code 130 with These Proven Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-windows-groggy-performance-with-microsoft-edge-crashes-fixed/"><u>Troubleshooting Windows Groggy Performance with Microsoft Edge Crashes Fixed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus 12R | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Stall: Essential Tricks for Skipping Past Forza Horizon 5'S Loading Loop"
-date: 2024-09-01T07:35:45.650Z
-updated: 2024-09-02T07:35:45.650Z
+date: 2024-10-22T16:17:19.855Z
+updated: 2024-10-24T18:39:35.398Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -77,9 +84,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -104,9 +108,6 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -127,23 +128,24 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -155,9 +157,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -171,8 +170,12 @@ Now launch Anthem on your computer, and your game should be loading.
 Hopefully this will fix your Anthem not loading issue.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -186,8 +189,12 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
@@ -195,6 +202,13 @@ Here’s what you need to do:
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -207,13 +221,24 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -230,8 +255,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +262,20 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-accelerating-video-playback-on-the-popular-tiktok-app-for-2024/"><u>[New] Accelerating Video Playback on the Popular TikTok App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860376756-updated-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[Updated] Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-easy-path-to-professional-looking-youtube-shorts/"><u>[Updated] The Easy Path to Professional-Looking YouTube Shorts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-your-insta-followers-a-comprehensive-guide-for-engaging-viewers/"><u>Boosting Your Insta-Followers: A Comprehensive Guide for Engaging Viewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-telegram-insights-into-this-global-chatting-platform/"><u>Decoding Telegram: Insights Into This Global Chatting Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-fixing-your-graphics-driver-solves-overwatch-crashes-a-guide/"><u>How Fixing Your Graphics Driver Solves Overwatch Crashes - A Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-many-videos-fit-in-64128gb-data-insight/"><u>How Many Videos Fit In 64/128GB? Data Insight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-a58-4g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo A58 4G.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990349974-kodi-unable-to-connect-couldnt-retrieve-directory-information-solved/"><u>Kodi Unable to Connect: Couldn’t Retrieve Directory Information [Solved]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-nvidia-geforce-driver-update-available-download-for-windows-systems/"><u>Newest NVIDIA GeForce Driver Update Available - Download for Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-tecno-pop-8-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pop 8? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-stability-solved-effective-ways-to-prevent-sudden-crashes/"><u>Steam Stability Solved: Effective Ways to Prevent Sudden Crashes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-problems-with-call-of-duty-modern-warfare-3-quick-fixes/"><u>Troubleshooting PC Problems with Call of Duty: Modern Warfare 3 - Quick Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Lego Star Wars PC Crashes: Updates and Solutions for 202N4 Release"
-date: 2024-08-28T05:13:53.105Z
-updated: 2024-08-29T05:13:53.105Z
+date: 2024-10-18T16:14:17.196Z
+updated: 2024-10-24T16:50:56.093Z
 tags:
   - win11
   - win10
@@ -47,11 +47,22 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -64,9 +75,6 @@ If it’s not working, move to next fix.
 
 No luck with this one? Move to the next.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +103,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +127,14 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +152,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +159,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] Spark Your Audience with Best Video Content Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailor-topical-laughs/"><u>[Updated] Tailor Topical Laughs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-experts-choice-best-6-video-grabber-tools-for-mac/"><u>2024 Approved Expert's Choice Best 6 Video Grabber Tools for Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/common-issues-launching-resident-evil-village-resolve-them-now/"><u>Common Issues Launching Resident Evil Village - Resolve Them Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ready-for-amazon-prime-day-2amday2024-essential-info-you-cant-miss/"><u>Get Ready for Amazon Prime Day 2Amday_2024 – Essential Info You Can't Miss</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Smart 8 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-access-free-picturing-content-streams-for-2024/"><u>Mastering Access Free Picturing Content Streams for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-solving-crashes-in-guilty-gear-strive/"><u>PC Troubleshooting: Solving Crashes in Guilty Gear Strive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992883356-resolving-game-crashes-in-wows-on-pc-try-these-5-proven-fixes/"><u>Resolving Game Crashes in WoWs on PC? Try These 5 Proven Fixes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pre-launch-problems-a-comprehensive-guide-to-playing-age-of-empires-4/"><u>Solving Pre-Launch Problems: A Comprehensive Guide to Playing Age of Empires 4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011600007-troubleshooting-scavengers-game-crashes-on-personal-computers-solutions-inside/"><u>Troubleshooting Scavengers Game Crashes on Personal Computers - Solutions Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-destiny-2-connectivity-solutions-for-lost-server-connections/"><u>Troubleshooting Your Destiny 2 Connectivity: Solutions for Lost Server Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-problematic-java-setup-on-windows-pcs/"><u>Unblocking Problematic Java Setup on Windows PCs</u></a></li>
+</ul></div>
 

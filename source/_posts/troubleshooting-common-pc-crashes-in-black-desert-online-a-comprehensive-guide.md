@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common PC Crashes in Black Desert Online - A Comprehensive Guide
-date: 2024-09-01T07:34:26.899Z
-updated: 2024-09-02T07:34:26.899Z
+date: 2024-10-19T18:36:52.297Z
+updated: 2024-10-24T20:17:27.737Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -66,6 +73,13 @@ System requirements of WRC 10 from Steam
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -87,16 +101,10 @@ System requirements of WRC 10 from Steam
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of WRC 10 FIA World Rally Championship releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -106,8 +114,18 @@ System requirements of WRC 10 from Steam
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -119,8 +137,12 @@ System requirements of WRC 10 from Steam
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -128,27 +150,30 @@ System requirements of WRC 10 from Steam
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -175,8 +200,6 @@ System requirements of WRC 10 from Steam
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +207,26 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-daily-dough-pewdiepies-earnings-breakdown/"><u>[New] In 2024, Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-youtuber-convention-guide-post-vidcon/"><u>[New] The Ultimate Youtuber Convention Guide (Post-VidCon)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-principles-of-momentum-reversal-in-filming/"><u>[Updated] Principles of Momentum Reversal in Filming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-adobe-error-code-0xc0000022-ensuring-smooth-application-start/"><u>Comprehensive Fix for Adobe Error Code 0xC0000022: Ensuring Smooth Application Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-game-without-hiccups-effective-ways-to-resolve-mordhau-crashes/"><u>Fix Your Game Without Hiccups: Effective Ways to Resolve Mordhau Crashes</u></a></li>
+<li><a href="https://techidaily.com/getting-chatgpt-working-again-discover-five-effective-solutions-today/"><u>Getting ChatGPT Working Again: Discover Five Effective Solutions Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-the-command-line-tab-in-windows-11s-task-manager/"><u>How to Add the Command Line Tab in Windows 11'S Task Manager</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-practical-techniques-for-rapid-deletion-of-comments/"><u>In 2024, Practical Techniques for Rapid Deletion of Comments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-analysis-resolving-crash-issues-on-your-computer-for-final-fantasy-xiv/"><u>In Depth Analysis: Resolving Crash Issues on Your Computer for Final Fantasy XIV</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-avoid-pc-lag-in-wwe-2k20-with-easy-tweaks/"><u>Mastering the Fix: Avoid PC Lag in WWE 2K20 with Easy Tweaks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-for-overcoming-eac-installation-error-when-starting-your-favorite-games/"><u>Solution for Overcoming EAC Installation Error When Starting Your Favorite Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-solving-call-of-duty-warzone-disc-reading-issues-for-version-50-and-31/"><u>Step-by-Step Guide: Solving Call of Duty Warzone Disc Reading Issues for Version 5.0 and 3.1</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-how-to-simulate-a-different-gps-position-on-smartphones/"><u>Step-by-Step Tutorial: How to Simulate a Different GPS Position on Smartphones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-fix-chromes-window-freeze-problems-in-windows-11/"><u>Troubleshoot and Fix Chrome's Window Freeze Problems in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-eliminating-lag-issues-in-resident-evil-village-on-your-gaming-pc/"><u>Ultimate Guide to Eliminating Lag Issues in Resident Evil Village on Your Gaming PC</u></a></li>
+</ul></div>
 

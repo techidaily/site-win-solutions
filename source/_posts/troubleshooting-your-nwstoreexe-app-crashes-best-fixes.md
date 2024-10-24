@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your nw_store.exe App Crashes - Best Fixes
-date: 2024-09-01T07:34:21.858Z
-updated: 2024-09-02T07:34:21.858Z
+date: 2024-10-22T19:25:22.292Z
+updated: 2024-10-24T17:47:02.118Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 If it’s not the server, please move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -58,26 +62,31 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Run as administrator
 
@@ -88,16 +97,16 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Update your drivers
 
  Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
@@ -110,6 +119,14 @@ If this method doesn’t help, please move to the next one.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
@@ -155,8 +172,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +179,16 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-potential-50-free-high-impact-banners-at-your-disposal/"><u>[New] Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-make-your-periscope-stream-swifter/"><u>[Updated] How to Make Your Periscope Stream Swifter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-accurate-recordings-of-console-games-on-home-computers/"><u>[Updated] In 2024, Accurate Recordings of Console Games on Home Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-for-debugging-v-rising-instability-problems-on-personal-computers/"><u>Effective Techniques for Debugging 'V Rising' Instability Problems on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-way-through-launch-problems-in-evil-genius-2-expert-advice/"><u>Mastering Your Way Through Launch Problems in Evil Genius 2 - Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-launch-difficulties-in-hogwarts-legacy-expert-tips-and-hacks/"><u>Overcome Launch Difficulties in Hogwarts Legacy - Expert Tips & Hacks</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-unreal-engine-4-error-the-end-of-ue4-madness/"><u>Resolved: Fixing the Unreal Engine 4 Error - The End of UE4 Madness</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-restoring-functionality-to-your-broken-macbook-pro-keys/"><u>Step-by-Step Solutions: Restoring Functionality to Your Broken MacBook Pro Keys</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Perpetual Load on Anthem's Main Menu
-date: 2024-09-01T07:38:38.882Z
-updated: 2024-09-02T07:38:38.882Z
+date: 2024-10-23T18:19:57.810Z
+updated: 2024-10-24T16:43:58.931Z
 tags:
   - win11
   - win10
@@ -29,15 +29,19 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 4. [**Reset your hosts file**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset your Internet connection settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your computer for viruses or malware
 
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
 
  If this resolves your problem, great! But if not, there are still other fixes you can try…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 2: Temporarily disable your antivirus
 
  Your firewall or antivirus software can sometimes cause interference to Origin so it can’t connect to the Internet. To see if that’s the case for you, temporarily disable your firewall and see if the problem remains. (You may need to consult your firewall documentation for instructions on disabling it.)
@@ -46,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having an Internet connection issue with Origin because you’re using the wrong or outdated device drivers. To fix your issue, you should try updating your drivers.
@@ -61,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
 
@@ -74,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reset your hosts file
 
  Maybe your Origin client can’t get online because your hosts file was changed. You should try resetting your hosts file to fix this issue.
@@ -92,11 +94,23 @@ To do so:
 4. Double click**hosts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 # Copyright (c) 1993-2006 Microsoft Corp  
 
@@ -140,13 +154,17 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbeef28c918.jpg)
 7. Click**File** , then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
 
 If not, then you may need to…
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset your Internet connection settings
 
@@ -182,8 +200,6 @@ netsh winhttp reset proxy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +207,24 @@ netsh winhttp reset proxy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-illuminating-the-role-of-color-in-editing-mastery/"><u>[New] Illuminating the Role of Color in Editing Mastery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999625745-solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won’t Launch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-choreographed-combat-selecting-superior-fighting-titles/"><u>[Updated] Choreographed Combat Selecting Superior Fighting Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-skype-recorders-for-quality-compiled/"><u>2024 Approved Best Skype Recorders for Quality Compiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-list-of-public-domain-picture-banks/"><u>2024 Approved Ultimate List of Public Domain Picture Banks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-how-to-fix-disco-elysium-crashes-on-your-windows-pc/"><u>Discover How to Fix 'Disco Elysium' Crashes on Your Windows PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cyberpunk-2077s-pc-freeze-issues-a-comprehensive-guide/"><u>Fixing Cyberpunk 2077'S PC Freeze Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functioning-lenovo-keyboard-step-by-step-guide/"><u>How to Fix a Non-Functioning Lenovo Keyboard – Step by Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-crashing-issues-in-naraka-point-blank/"><u>How to Fix Crashing Issues in Naraka: Point Blank</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 11 Pro Max? | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-unfreeze-apex-legends-on-your-computer-top-troubleshooting-steps/"><u>How to Unfreeze Apex Legends on Your Computer : Top Troubleshooting Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-x100-pro-easily-by-drfone-android/"><u>How To Unlock a Vivo X100 Pro Easily?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pictureperfect-fusion-comprehensive-windowsmac-tool/"><u>In 2024, PicturePerfect Fusion Comprehensive Windows/Mac Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-troubles-in-wow-for-windows-users/"><u>Overcoming Startup Troubles in WoW for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-unfreeze-google-chrome-on-your-windows-10-device-without-hassle/"><u>Step-by-Step Guide: Unfreeze Google Chrome on Your Windows 10 Device Without Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-multiversus-from-freezing-and-crashing-with-these-8-pro-tips/"><u>Stop Multiversus From Freezing & Crashing with These 8 Pro Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-troubleshoot-loaded-lol-screens/"><u>Tactics to Troubleshoot Loaded LOL Screens</u></a></li>
+</ul></div>
 

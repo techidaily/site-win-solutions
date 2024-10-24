@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Winodws Issues with Battle.net Launcher"
-date: 2024-09-01T07:39:36.547Z
-updated: 2024-09-02T07:39:36.547Z
+date: 2024-10-23T16:01:13.875Z
+updated: 2024-10-24T20:11:44.789Z
 tags:
   - win11
   - win10
@@ -39,6 +39,19 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -61,10 +74,14 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It may take some time to complete the verifying process.
 
@@ -79,8 +96,12 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  Graphics driver is essential to the functioning of video games. If Necromunda: Hired Gun keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -95,14 +116,8 @@ It may take some time to complete the verifying process.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -122,8 +137,12 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -133,14 +152,18 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -169,8 +192,6 @@ It may take some time to complete the verifying process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +199,21 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-step-up-your-game-luminous-methods-for-iphone-video-enhancement/"><u>[New] Step Up Your Game Luminous Methods for iPhone Video Enhancement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>[Updated] Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-to-overcome-your-end-of-year-assessment-error-code-tfla0002/"><u>Comprehensive Fixes to Overcome Your End-Of-Year Assessment Error – Code: TFLA0002</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-stuttering-in-halo-infinite/"><u>Comprehensive Guide to Fixing Stuttering in Halo Infinite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-make-invisible-files-visible-on-a-mac-through-terminal/"><u>Comprehensive Steps to Make Invisible Files Visible on a Mac Through Terminal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gaming-experience-overcoming-subnautica-below-zeros-pc-malfunctions/"><u>Enhancing Your Gaming Experience: Overcoming Subnautica Below Zero's PC Malfunctions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-g42-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on G42 5G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-resumption-of-prints/"><u>Immediate Resumption of Prints</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-xs-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone XS Safe and Legal</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>In 2024, Navigating the Minefield Suddenly Banned Videos on Social Media</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-preventing-sekiro-game-crashes-without-hassle/"><u>Master the Art of Preventing Sekiro Game Crashes Without Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-fps-in-lost-ark-comprehensive-troubleshooting-for-smoother-gaming/"><u>Maximize Your FPS in Lost Ark: Comprehensive Troubleshooting for Smoother Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-lost-arks-forgotten-melodies-a-guide-to-fixing-missing-game-sounds/"><u>Restoring Lost Ark’s Forgotten Melodies: A Guide To Fixing Missing Game Sounds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Huawei P60? | Dr.fone</u></a></li>
+</ul></div>
 

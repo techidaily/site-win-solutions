@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Overcoming Stuttering Problems with Fallout 4 on PC Systems
-date: 2024-09-01T07:38:40.120Z
-updated: 2024-09-02T07:38:40.120Z
+date: 2024-10-17T20:03:49.765Z
+updated: 2024-10-24T19:52:49.745Z
 tags:
   - win11
   - win10
@@ -50,11 +50,22 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Relaunch your game to see if it runs properly now. If the issue continues to occur, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The _PoE_ freezing issue may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. There are two ways you can do this:
@@ -82,9 +93,6 @@ Follow the instructions below:
 
 If your issue continues to occur, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run your game as an administrator
 
  Running your game as an administrator can grant it full access to game files and folder on your PC.
@@ -99,19 +107,12 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 **4)** Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-18.jpg)
 
  Relaunch your game to test your issue. If this didn’t work, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of your game files
 
  Game freezing issues happen when a certain game file is damaged or missing. Try verifying the integrity of your game files to see if that’s the problem for you.
@@ -122,20 +123,21 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Path of Exile** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-08-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Increase virtual memory
 
  Virtual memory combines your RAM with temporary space on your hard disk. If you’re running out of RAM and the default size of your virtual memory isn’t large enough for your needs, you’ll need to increase it manually.
@@ -144,27 +146,32 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-29-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Select your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-52.jpg)
@@ -175,16 +182,10 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-33-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-32-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **9)** Restart your computer and your game.
 
 If your issue persists, then ahead with the fix below.
@@ -196,6 +197,13 @@ If your issue persists, then ahead with the fix below.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-47-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -211,21 +219,29 @@ If your issue persists, then ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-32.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  **4)[Download](https://store.steampowered.com/about/)**  and install Steam. Then, reinstall your game on Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Clean the interior of your PC
 
@@ -245,8 +261,6 @@ Relaunch the game to see if this helped.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -254,4 +268,21 @@ Relaunch the game to see if this helped.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capture-and-record-a-2023-look-at-camstudios-capabilities-for-2024/"><u>[New] Capture and Record A 2023 Look at CamStudio's Capabilities for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-inside-screencasting-obs-tools-analyzed-for-optimal-broadcasts/"><u>[New] Inside Screencasting OBS Tools Analyzed for Optimal Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-musical-alchemy-transforming-previews-into-memories/"><u>[New] Musical Alchemy Transforming Previews Into Memories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[Updated] 2024 Approved Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-detailed-procedures-for-elevating-youtube-clips-through-wm-maker/"><u>[Updated] Detailed Procedures for Elevating YouTube Clips Through WM Maker</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-compelling-vlog-dialogue-crafting/"><u>[Updated] The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-and-defeat-minecraft-error-crossbow-glitches-with-our-expert-strategies/"><u>Decode and Defeat Minecraft Error: Crossbow Glitches with Our Expert Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-2-troubleshooting-ultimate-guide-to-resolve-game-crashes/"><u>Dota 2 Troubleshooting: Ultimate Guide to Resolve Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-initial-video-setbacks-in-zoom-sessions/"><u>Expert Tips to Overcome Initial Video Setbacks in Zoom Sessions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-ready-to-roll-top-20-free-adobe-premiere-intro-templates-2023-for-2024/"><u>New Get Ready to Roll Top 20 Free Adobe Premiere Intro Templates 2023 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-saved-no-more-rogue-company-glitches-after-latest-patch/"><u>PC Gaming Saved: No More Rogue Company Glitches After Latest Patch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-mafia-definitive-edition-what-we-know-so-far/"><u>The Wait Continues for Mafia: Definitive Edition – What We Know So Far</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-fixing-low-fps-issues-on-world-of-warcraft-wow/"><u>Top Strategies for Fixing Low FPS Issues on World of Warcraft (WoW)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unleashing-wealth-without-limit-your-complete-walkthrough-for-like-a-dragon-on-pc/"><u>Unleashing Wealth Without Limit: Your Complete Walkthrough for 'Like a Dragon' On PC</u></a></li>
+</ul></div>
 

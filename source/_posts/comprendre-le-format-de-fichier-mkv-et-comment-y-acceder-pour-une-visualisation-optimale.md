@@ -1,7 +1,7 @@
 ---
 title: Comprendre Le Format De Fichier MKV Et Comment Y Accéder Pour Une Visualisation Optimale
-date: 2024-10-16T18:36:04.457Z
-updated: 2024-10-18T20:09:26.926Z
+date: 2024-10-21T20:31:17.072Z
+updated: 2024-10-24T17:51:50.005Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476fd27a01a5370f94ffa41df8.jpg
@@ -140,21 +140,35 @@ YouTube 上不只有很多有趣的影片，也有不少實用的音源。想把
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
 
 **6 種廣受網友推薦的 YouTube 轉 WAV 軟體**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [OnlineVideoConverter](https://onlinevideoconverter.com/zh/youtube-converter)
 
 ![](https://cdn.staticont.net/page_type/0013/40/d165d146a51d036731c8a263975cb2b62d9b34a6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OnlineVideoConverter 是一款多功能的線上檔案轉換工具，其中包括將 YouTube 檔案轉換成 WAV 格式的功能，也支援用 YouTube 影片連結直接轉檔。而且不只 WAV 檔案，MP3、WMA、MP4、WMV、MOV 等最常用的音訊及影片檔也都一併支援，可以滿足一般轉檔需求。
 
@@ -190,25 +204,11 @@ YouTubeTo.org 只提供 YouTube 影片轉檔的線上服務，頁面非常簡單
 * **無法選擇音質：**YouTubeTo.org 為影片檔案提供不同的畫質選項，但音檔無法選擇音質。雖然下載下來的檔案音質不差，但比較不適合需要更高音質檔案的使用者。
 * **只能使用 YouTube 影片連結轉檔：**YouTubeTo.org 只支援用影片連結轉檔。如果是已經用下載器下載好的 YouTube 影片，就需要找到原始連結才能轉成 WAV 檔案。
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [ByClickDownloader](https://www.byclickdownloader.com/zh/)
 
 ![](https://cdn.staticont.net/page_type/0023/47/252d4f7235e320a1268403e0928f7c88b13b33ee.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ByClickDownloader 是一款下載器兼轉檔軟體，需要下載到自己的電腦上才能運行，支援 Windows 和 Mac。ByClickDownloader 分為免費的基本版和需付費的高級版，高級版還包括下載高畫質影片、下載字幕、裁剪檔案等進階功能。如果是一般轉音檔用途，免費版就已經非常實用。以下是 ByClickDownloader 免費版本的優缺點。
 
@@ -225,18 +225,24 @@ ByClickDownloader 是一款下載器兼轉檔軟體，需要下載到自己的�
 
 **無法直接用 YouTube 連結轉檔：**ByClickDownloader 只支援檔案轉檔。開始轉檔前，一定要先下載 YouTube 檔案，不適合電腦空間不足的使用者。
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [Media.io](https://www.media.io/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/f9474affa41c5b466c6a432b2237f57b320e9676.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Media.io 提供轉檔、影片編輯、檔案壓縮等多種功能，其中影片檔案轉 WAV 的線上功能是免費的。在網站上也可以下載桌面版服務，但桌面版需要額外付費，才能取得完整的轉檔檔案。
 
@@ -252,6 +258,13 @@ Media.io 提供轉檔、影片編輯、檔案壓縮等多種功能，其中影�
 * **不支援繁體中文：**與前面幾款工具相比，Media.io 支援的語言種類較少。中文只限簡體中文，沒有繁體中文的服務。
 
 **無法選擇音質：**雖然 Media.io 支援的檔案類型眾多，但缺乏選擇音質的設定。轉檔後的 WAV 檔案音質一般，較不適合想將檔案用於專業用途的使用者。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -273,13 +286,6 @@ Media.io 提供轉檔、影片編輯、檔案壓縮等多種功能，其中影�
 
 **不支援中文：**YTConverter.app 沒有中文選項，但操作十分簡單，只會基礎英文也能快速上手。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [iTubeGo](https://itubego.com/4k-youtube-video-downloader64/)
@@ -287,10 +293,16 @@ Media.io 提供轉檔、影片編輯、檔案壓縮等多種功能，其中影�
 ![](https://cdn.staticont.net/page_type/0023/47/9a9aff28552c74f04990f24b0fcf4981adb3cffb.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iTubeGo 和 ByClickDownloader 很像，是結合了下載器和轉換工具的軟體，需要下載到電腦上才能使用。這款軟體不只支援 YouTube 影片下載，也能下載大量 Facebook、Instagram、Dailymotion、TikTok 等熱門影音網站的影片。此外，iTubeGo 還有下載字幕和擷取片段的功能。值得注意的是，iTubeGo 的免費版本只能轉換三分之一的檔案長度，且不支援 WAV 格式，如果想要轉換完整的 WAV 檔案，需購買提供 30 天免費試用的付費版本。
@@ -383,22 +395,24 @@ Movavi Video Converter
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unleash-your-potential-with-these-free-online-channels-for-fine-artists/"><u>[Updated] 2024 Approved Unleash Your Potential with These Free Online Channels for Fine Artists</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-spectacle-snatcher-hub/"><u>[Updated] Social Spectacle Snatcher Hub</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-building-a-brand-through-effective-live-streaming-practices/"><u>2024 Approved Building a Brand Through Effective Live Streaming Practices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012654714-deathloop-freezing-issues-heres-how-you-can-get-smooth-playback-on-pcps5/"><u>Deathloop Freezing Issues? Here's How You Can Get Smooth Playback on PC/PS5!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-smart-thinking-behind-android-operating-systems/"><u>Decoding the Smart Thinking Behind Android Operating Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-honor-x9b-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor X9b Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-problem-of-internet-explorer-not-functioning-properly/"><u>How to Overcome the Problem of Internet Explorer Not Functioning Properly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-nioh-n-from-freezing-a-comprehensive-guide-to-the-complete-edition/"><u>How to Stop 'Nioh N' From Freezing: A Comprehensive Guide to the Complete Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-microsofts-copilot-image-creator-to-generate-unique-ai-images/"><u>How to Use Microsoft's Copilot Image Creator to Generate Unique AI Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-12-tycoons-a-gamers-dream-achieving-business-brilliance-on-screen/"><u>In 2024, Top 12 Tycoons A Gamer's Dream, Achieving Business Brilliance on Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-initial-hurdles-for-a-successful-fifa-amou-21-start-up-process/"><u>Overcoming Initial Hurdles for a Successful FIFA amoU 21 Start-Up Process</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reel-your-audience-in-with-top-mobile-video-editors-for-snaps/"><u>Reel Your Audience in with Top Mobile Video Editors for Snaps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-resolving-fall-guys-game-lag-issues-on-windows-computers/"><u>Solved: Resolving Fall Guys Game Lag Issues on Windows Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-problems-with-epic-games-launcher-access/"><u>Step-by-Step Guide: Resolving Problems with Epic Games Launcher Access</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tactics-to-rectify-humanitys-inability-to-launch-successfully/"><u>Tactics to Rectify Humanity's Inability to Launch Successfully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wave-goodbye-to-crashes-maplestory-optimization-for-windows-11-users/"><u>Wave Goodbye to Crashes: MapleStory Optimization for Windows 11 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[New] 2024 Approved Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>[New] In 2024, Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sovled-red-dead-redemption-2-errgfxstate-error/"><u>[SOVLED] Red Dead Redemption 2 ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices/"><u>[Updated] 2024 Approved The Complete Guide to Facebook's Live Feature How-To & Best Practices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-comedic-choreography-producing-funny-mock-films/"><u>[Updated] In 2024, Comedic Choreography Producing Funny Mock Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-for-effective-image-pairing/"><u>[Updated] Innovative Methods for Effective Image Pairing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoid-call-of-duty-warzone-crashing-on-pc-in-2er-tips-and-tricks-for-the-latest-update/"><u>Avoid Call of Duty Warzone Crashing on PC in 2Er - Tips & Tricks for the Latest Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-guide-to-rectifying-corsair-icue-not-responding-on-pc-windows-1011/"><u>Easy Guide to Rectifying Corsair iCUE Not Responding on PC (Windows 10/11)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevate-your-photos-tips-and-apps-on-android/"><u>Elevate Your Photos Tips & Apps on Android</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-techniques-to-combat-pc-grounding-and-ensure-smooth-operation/"><u>Expert Techniques to Combat PC Grounding and Ensure Smooth Operation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixing Black Screen Problems in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-overcoming-dark-display-glitches-in-persona-5-strikers/"><u>Guide to Overcoming Dark Display Glitches in Persona 5 Strikers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-magic-6-lite-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Magic 6 Lite Data? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-game-interruptions-resolving-samurai-warriors-5-pc-compatibility-issues/"><u>No More Game Interruptions: Resolving Samurai Warriors 5 PC Compatibility Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-cpu-overload-solutions-top-tips-to-optimize-performance/"><u>Starfield CPU Overload Solutions - Top Tips to Optimize Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-written-by-john-smith-phd-for-2024/"><u>Step-By Written by John Smith, PhD for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-eliminating-the-valheim-version-compatibility-issue-on-pc/"><u>Troubleshooting Steps: Eliminating the Valheim Version Compatibility Issue on PC</u></a></li>
 </ul></div>
 

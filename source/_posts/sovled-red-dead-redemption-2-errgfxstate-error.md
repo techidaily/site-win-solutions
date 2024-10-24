@@ -1,7 +1,7 @@
 ---
 title: "[SOVLED] Red Dead Redemption 2 ERR_GFX_STATE Error"
-date: 2024-09-01T07:38:11.803Z
-updated: 2024-09-02T07:38:11.803Z
+date: 2024-10-21T17:41:35.291Z
+updated: 2024-10-24T17:29:37.121Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable antivirus software
 
  If you have the latest drivers installed but still have a problem playing the game, the culprit could be your antivirus software.
@@ -107,16 +114,10 @@ There are two ways you can update your graphics drivers:
 
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -127,9 +128,6 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Delete Settings
 
  Many users find it works by deleting the configuration file. This will reset your game settings and let your**Red Dead Redemption 2** start again.
@@ -146,18 +144,12 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
 
 If this method doesn’t work for you, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run Red Dead Redemption 2 as admin
 
  Running Red Dead Redemption 2 as an administrator allows you to get full access to the game files.
@@ -177,17 +169,18 @@ If this method doesn’t work for you, you can try the next fix.
 ![Override high DPI for Red Dead Redemption 2](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-over-ride.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) Go back to the**Properties** window, click**Apply** \>**OK** .
 
  7) Launch your game to see if the loading issue still persists.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 6: Turn off Vsync
 
  Some players find that turning off Vsync helped them fix the Red Dead Redemption 2 not loading issue.
@@ -200,9 +193,6 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  4) Under Manage 3D settings, click**Program Settings** \>**Add** \> select your**Red Dead Redemption 2 exe.** program file.  
   
  Then scroll down the list and click**Vertical sync** and**Triple buffering** and select them both On. Click**Apply** to save the changes.
@@ -213,15 +203,19 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![Restore defaults in NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/restore-defaults.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Relaunch your Red Dead Redemption 2 to see if the infinite loading issue is gone.
 
  If Red Dead Redemption 2 still keeps loading forever, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Add Graphics Tools
 
 [for Windows 10 users](https://tools.techidaily.com/drivereasy/download/) [for Windows 11 users](https://tools.techidaily.com/drivereasy/download/)
@@ -240,6 +234,13 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-graphics-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Once complete, restart your computer.
 
 #### in Windows 11
@@ -254,22 +255,40 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-tools-1200x658.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Install** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-Tools-Install-1200x658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 Wait for it to finish the process.
 
  Now launch your Red Dead Redemption to test the issue. If this doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -279,30 +298,25 @@ Wait for it to finish the process.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/11/system-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the **Services** tab and check the **Hide all Microsoft services** box, then click **Disable all** .
 
 ![disable all services](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Select the **Startup** tab and click **Open Task Manager** .
 
 ![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  4) Under the Startup tab, select each startup item and then click**Disable** .
 
 ![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  5) Go back to**System Configuration** , click**OK** .
 
  6) Restart your PC and launch Red Redemption 2 to see if the issue still persists.
@@ -408,8 +422,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -417,4 +429,26 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-achieving-professional-sound-without-a-mic-for-2024/"><u>[New] The Ultimate Guide Achieving Professional Sound without a Mic for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-audio-ambition-selecting-top-6-free-downloader-apps-from-youtube-vaults-for-2024/"><u>[Updated] Audio Ambition Selecting Top 6 Free Downloader Apps From YouTube Vaults for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>[Updated] Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-guide-to-recording-adobe-presentation-videos/"><u>[Updated] Guide to Recording Adobe Presentation Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-solutions-overcome-challenges-in-shader-optimization-for-star-wars-battlefront-ii/"><u>Fast Solutions: Overcome Challenges in Shader Optimization for Star Wars Battlefront II</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-ubisoft-connect-issues-troubleshooting-tips-for-2ndvfc/"><u>Fixing Ubisoft Connect Issues: Troubleshooting Tips for 2nDvfc</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-terrarias-connection-problem-a-step-by-step-guide/"><u>How to Solve Terraria's Connection Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-minecraft-crashes-essential-troubleshooting-steps-for-gamers/"><u>How to Stop Minecraft Crashes : Essential Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Open Bootloader Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-c110-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia C110 online without jailbreak</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-avatar-frontiers-of-pandora-gameplay-overcome-lag-and-enjoy-seamless-adventures/"><u>Optimize 'Avatar: Frontiers of Pandora' Gameplay – Overcome Lag and Enjoy Seamless Adventures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-play-for-star-wars-jedi-fallen-order-on-pc-tackling-troublesome-crashes/"><u>Optimizing Play for Star Wars Jedi: Fallen Order on PC: Tackling Troublesome Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-rejoice-how-to-overcome-modern-warfares-unwanted-pauses-and-keep-playing-effortlessly/"><u>PC Gamers Rejoice! How to Overcome Modern Warfare's Unwanted Pauses and Keep Playing Effortlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revisiting-a-beloved-franchise-in-depth-assessment-of-the-new-and-improved-ratchet-and-clank/"><u>Revisiting a Beloved Franchise: In-Depth Assessment of the New and Improved Ratchet & Clank</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-how-to-fix-repeatedly-crashing-of-thunder-tier-one-game-on-your-computer/"><u>Troubleshooting: How to Fix Repeatedly Crashing of Thunder TIER One Game on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-galaxy-s23-fe-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Galaxy S23 FE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/untangling-the-stalled-90-progress-in-phasmophobia-a-comprehensive-fix-guide-updated/"><u>Untangling the Stalled 90% Progress in Phasmophobia: A Comprehensive Fix Guide (Updated )</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-wisdom-mastering-the-method-of-making-dossiers/"><u>Win11 Wisdom: Mastering the Method of Making Dossiers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Resolve Connection Issues and Prevent Packet Loss in Discord?
-date: 2024-09-01T07:37:53.308Z
-updated: 2024-09-02T07:37:53.308Z
+date: 2024-10-17T16:50:14.018Z
+updated: 2024-10-24T20:03:14.156Z
 tags:
   - win11
   - win10
@@ -53,6 +53,14 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 1. In the Windows Search bar, type**firewall** and select**Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 4. If you don’t find Hitman 3, click**Change settings** .  
@@ -60,18 +68,20 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. Click**Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your network driver
 
  The thing is when you click**Play** or**Retry** , your network adapter driver will be disabled instantly, thus causing you to get stuck in the world of disconnection. To fix this, you can try updating your network driver to resolve this issue.
@@ -88,19 +98,34 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Run your game as an administrator
 
  This might be triggered by limited administrative rights. So to make sure you can access all the game files, you can run Hitman 3 and Epic Games Launcher as administrators. Here’s how to run it as admin permanently:
@@ -119,8 +144,12 @@ OR
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6:**Flush your DNS and Renew your IP**
 
  If you keep getting this “connection failed” error, you can try flushing your DNS and renewing your IP:
@@ -129,22 +158,21 @@ OR
 2. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to run the Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -162,8 +190,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +197,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elemental-story-framework/"><u>[Updated] 2024 Approved Elemental Story Framework</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhance-your-content-creation-with-top-5-facebook-downloaders/"><u>2024 Approved Enhance Your Content Creation with Top 5 Facebook Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcasts-versus-youtube-the-ultimate-content-battle/"><u>2024 Approved Podcasts Versus YouTube The Ultimate Content Battle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/analysis-becomes-analyses/"><u>Analysis Becomes Analyses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-slow-performance-in-outriders-step-by-step-troubleshooting/"><u>How to Fix Slow Performance in Outriders - Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-reduce-cpu-consumption-for-an-optimized-cyberpunk-2077-gaming-experience/"><u>How to Reduce CPU Consumption for an Optimized Cyberpunk #2077 Gaming Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-intrepid-insights-top-10-undiscovered-vlc-commands/"><u>In 2024, Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-pairing-linking-your-airpods-with-macos/"><u>Seamless Pairing: Linking Your AirPods with macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplifying-tech-easy-download-and-installation-of-displaylink-drivers-for-windows-10/"><u>Simplifying Tech: Easy Download and Installation of DisplayLink Drivers for Windows 10</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-fallout-3-game-crashes-on-windows-10-comprehensive-guide-and-fixes/"><u>Stop Fallout 3 Game Crashes on Windows 10 – Comprehensive Guide & Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unraveling-the-tips-and-tricks-for-fixing-tfla0002-in-academic-testing/"><u>Unraveling the Tips & Tricks for Fixing 'TFLA0002' In Academic Testing</u></a></li>
+</ul></div>
 

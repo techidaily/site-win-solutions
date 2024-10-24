@@ -1,7 +1,7 @@
 ---
 title: "How to Stop XCOM 2 From Crashing on Your Windows Computer: Effective Fixes"
-date: 2024-09-01T07:36:52.185Z
-updated: 2024-09-02T07:36:52.185Z
+date: 2024-10-17T18:23:52.691Z
+updated: 2024-10-24T16:18:37.726Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 5. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Repair the game files
 
@@ -56,6 +63,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -92,11 +106,22 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -105,9 +130,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -123,8 +145,12 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 See if the crashing issue goes away. If not, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -137,9 +163,6 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -148,9 +171,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
@@ -160,8 +180,12 @@ Do the crashes disappear now? If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
 **5)** Paste**C:\\Users\\\[User Name\]\\AppData\\Roaming\\Wargaming.net** to the address bar and press Enter. (If you play on Steam, then go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** .)
@@ -183,8 +207,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +214,26 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-essential-fb-video-loader-apps-ranked-5/"><u>[New] 2024 Approved Essential FB Video Loader Apps Ranked #5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-editors-eye-reignite-the-vibrance-of-iphone-hdr-with-4-editing-masterstrokes-for-2024/"><u>[Updated] [Editor's Eye] Reignite the Vibrance of iPhone HDR with 4 Editing Masterstrokes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-the-art-of-video-conferencing-on-xbox-one-for-2024/"><u>[Updated] Mastering the Art of Video Conferencing on Xbox One for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-solving-mysterious-oneself-appearing-in-video-conversations/"><u>[Updated] Solving Mysterious Oneself Appearing in Video Conversations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-breakdown-of-t-mobiles-intra-network-roaming-for-enhanced-mobile-experience/"><u>A Breakdown of T-Mobile's Intra-Network Roaming for Enhanced Mobile Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/batch-uploading-photographs-to-your-facebook-profile-the-quick-and-simple-way/"><u>Batch Uploading Photographs to Your Facebook Profile: The Quick and Simple Way</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-2022-leaf-glitch-fixes-and-solutions-for-apex-legends-players/"><u>Defeating the 2022 'Leaf' Glitch: Fixes and Solutions for Apex Legends Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-call-of-duty-wwii-issue-resolving-error-code-4128/"><u>Fixing Call of Duty: WWII Issue - Resolving Error Code 4128</u></a></li>
+<li><a href="https://fox-within.techidaily.com/get-premium-raaga-tunes-in-mp3-wav-or-aac-format-with-easy-downloading-options/"><u>Get Premium Raaga Tunes in MP3, WAV or AAC Format with Easy Downloading Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-game-crashes-in-team-fortress-2/"><u>How to Fix Persistent Game Crashes in Team Fortress 2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-magic-6-lite-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor Magic 6 Lite to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-red-dead-redemption-crashes-when-played-on-windows-computer/"><u>How to Resolve Red Dead Redemption ^Crashes^ When Played on Windows Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-10-error-code-0x80070426/"><u>How to Resolve the Windows 10 Error Code 0X80070426</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-rust-code-from-abruptly-stopping-a-step-by-step-guide/"><u>How to Stop Your Rust Code From Abruptly Stopping – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-game-performance-resolve-fps-issues-in-dota-2-on-modern-windows-systems/"><u>Improving Game Performance: Resolve FPS Issues in Dota 2 on Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/manage-your-documents-with-confidence-using-wonderfoxs-top-notch-pdf-organizer-suite/"><u>Manage Your Documents with Confidence Using WonderFox's Top-Notch PDF Organizer Suite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-gpu-underutilization-in-warzone-when-playing-on-windows-11-systems/"><u>Resolving GPU Underutilization in Warzone When Playing on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-fortnite-out-of-vram-problem-expert-advice-on-optimizing-performance/"><u>Solving Fortnite Out of VRAM Problem: Expert Advice on Optimizing Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-latency-problems-in-rainbow-six-siege/"><u>Solving Latency Problems in Rainbow Six Siege</u></a></li>
+</ul></div>
 

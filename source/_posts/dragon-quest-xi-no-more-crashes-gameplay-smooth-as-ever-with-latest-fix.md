@@ -1,7 +1,7 @@
 ---
 title: Dragon Quest XI No More Crashes - Gameplay Smooth as Ever with Latest Fix
-date: 2024-08-28T05:13:46.054Z
-updated: 2024-08-29T05:13:46.054Z
+date: 2024-10-22T20:04:14.173Z
+updated: 2024-10-24T19:11:44.648Z
 tags:
   - win11
   - win10
@@ -45,8 +45,12 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1 – Run Hearthstone as administrator
 
  Windows runs Hearthstone in user mode by default, but that might keep it from accessing certain files and cause the crashes. To see if that’s the case, you could run Hearthstone as administrator and relaunch the game.
@@ -54,6 +58,19 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 **1)** Right click the Hearthstone icon on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select the**Compatibility** tab, check**Run this program as an administrator** , and click**OK** .
 
@@ -86,17 +103,12 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You could do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -120,9 +132,6 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for the scan and repair to finish, then relaunch your game to see if the crashing issue is settled. If not, try the next method.
 
 ---
@@ -147,23 +156,14 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right click the Hearthstone folder and click**Delete** , or just move it to another location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch Hearthstone to see if you get rid of the crashing issue. If not, keep reading the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Perform a clean boot
 
  Some services or applications running in the background may also conflict with Hearthstone. A clean boot allows Windows to start up with only critical drivers and programs, so you’ll know if any other software is hindering your game.
@@ -173,9 +173,12 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Select the**Services** tab. Then, check**Hide all Microsoft services** , and click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
@@ -186,13 +189,6 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 **4)** Select the**Startup** tab. Then, right click each enabled startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
@@ -201,9 +197,23 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After your computer restarts, launch Hearthstone to test if the issue has been solved.
 
@@ -215,24 +225,32 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Normal startup** button, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer will start normally after you finish this step. If the crashing issue persists, we’ve got a last fix for you.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Reinstall Hearthstone
 
  If all the solutions above can’t get your Hearthstone right, you should consider reinstalling the game.
@@ -241,17 +259,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **2)** Select**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **3)** Download the latest version of Hearthstone and double click the downloaded file to install it.
 
 ---
@@ -268,8 +279,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +286,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[New] In 2024, Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-fundamentals-of-earnings-on-youtube/"><u>[New] The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-10-video-grabbers-for-streaming-content-creators/"><u>[Updated] Premier 10 Video Grabbers for Streaming Content Creators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-experts-guide-to-discord-streaming-for-2024/"><u>[Updated] The Expert's Guide to Discord Streaming for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-tricks-to-switch-your-pc-to-dark-mode-on-windows-10/"><u>Easy Tricks to Switch Your PC to Dark Mode on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-mastering-data-visualization-with-excels-quick-analysis-tool/"><u>Effective Techniques: Mastering Data Visualization with Excel's Quick Analysis Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-visual-data-with-excel-techniques-for-using-cell-values-in-chart-annotations/"><u>Enhancing Visual Data with Excel: Techniques for Using Cell Values in Chart Annotations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-efficiency-hacks-tips-for-seamless-undo-redo-and-repetition-of-tasks-using-shortcuts/"><u>Excel Efficiency Hacks: Tips for Seamless Undo, Redo, and Repetition of Tasks Using Shortcuts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-essentials-simplifying-complex-decisions-with-the-advanced-ifs-statement-tutorial/"><u>Excel Essentials: Simplifying Complex Decisions with the Advanced IFS Statement Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-60-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo 60 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insert-hyperlink-features-in-microsoft-excel-a-simple-guide/"><u>Insert Hyperlink Features in Microsoft Excel: A Simple Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/lift-the-shadow-off-games-tips-for-clear-recordings-without-black-screen-in-obs-for-2024/"><u>Lift the Shadow Off Games Tips for Clear Recordings without Black Screen in OBS for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-data-merge-techniques-integrating-multiple-spreadsheet-sources-in-excel/"><u>Mastering Data Merge Techniques: Integrating Multiple Spreadsheet Sources in Excel</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/restoring-your-obs-cameras-integrated-functionality/"><u>Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
+</ul></div>
 

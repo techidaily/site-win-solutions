@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Pathfinder Game: Keyboard Issues with 'Wrath of the Righteous'"
-date: 2024-08-28T05:15:08.549Z
-updated: 2024-08-29T05:15:08.549Z
+date: 2024-10-18T20:15:25.576Z
+updated: 2024-10-24T17:00:43.162Z
 tags:
   - win11
   - win10
@@ -43,8 +43,12 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 If you didn’t find any hardware issues, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,6 +59,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -62,14 +73,8 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
@@ -77,8 +82,12 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -95,16 +104,17 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -120,8 +130,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +137,26 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>[New] 2024 Approved Grandview Alliance How to Settle on a CMS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-morning-judgment-creative-viewpoints-for-2024/"><u>[New] Morning Judgment Creative Viewpoints for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/afe-ways-to-download-and-convert-youtubes-audios-as-mp3-for-2024/"><u>[New] Safe Ways to Download and Convert YouTube's Audios as MP3 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-roundup-of-platforms-for-video-intro-acquisition/"><u>[Updated] 2024 Approved Expert Roundup of Platforms for Video Intro Acquisition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-5-tools-to-make-a-gif-meme/"><u>[Updated] 5 Tools to Make a GIF Meme</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/awaken-the-artist-within-selective-shots-for-inspiration/"><u>Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/black-ops-cold-war-e887a0005-bug-fixed-complete-walkthrough-for-players/"><u>Black Ops Cold War E887A0005 Bug Fixed: Complete Walkthrough for Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-chrome-freezes-and-improve-performance-winning-strategies-for-windows-11-users/"><u>Bypass Chrome Freezes & Improve Performance: Winning Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-starvation-issues-prevent-game-from-crashing-on-your-pc/"><u>Fix Persistent Starvation Issues: Prevent Game From Crashing on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-of-ts-files-to-webm-format-with-movavi/"><u>Free Online Conversion of TS Files to WebM Format with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-division-2-up-and-running-proven-techniques-to-resolve-not-loading/"><u>Get Your Division 2 Up and Running: Proven Techniques to Resolve Not Loading</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-groundhog-day-crashing-problems-on-assassins-creed-odyssey-tips-and-tricks-2e14/"><u>How to Fix Groundhog Day Crashing Problems on Assassin's Creed Odyssey - Tips & Tricks 2E14</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-install-battlefield-4-on-your-gaming-computer/"><u>How to Successfully Install Battlefield 4 on Your Gaming Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-performance-hiccups-in-fallout-76-a-comprehensive-guide/"><u>Overcoming Performance Hiccups in Fallout 76 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/phenomenon-becomes-phenomena/"><u>Phenomenon Becomes Phenomena</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v30-lite-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V30 Lite 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-gif-generators-ranked-discover-the-best-applications-for-making-engaging-animated-images/"><u>Top 10 GIF Generators Ranked: Discover the Best Applications for Making Engaging Animated Images</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-back-4-blood-keep-failing-during-play-troubleshooting-tips-for-pc-users/"><u>Why Does 'Back 4 Blood' Keep Failing During Play? Troubleshooting Tips for PC Users</u></a></li>
+</ul></div>
 

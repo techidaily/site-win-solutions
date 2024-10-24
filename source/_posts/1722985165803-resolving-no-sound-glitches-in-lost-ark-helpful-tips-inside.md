@@ -1,7 +1,7 @@
 ---
 title: Resolving No-Sound Glitches in Lost Ark - Helpful Tips Inside!
-date: 2024-09-01T07:37:45.428Z
-updated: 2024-09-02T07:37:45.428Z
+date: 2024-10-20T16:38:41.679Z
+updated: 2024-10-24T18:24:19.731Z
 tags:
   - win11
   - win10
@@ -32,6 +32,14 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Check the in-game volume by hitting the**Esc** button to open the**Setting** menu. Then select**Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/settings.jpg)
 2. Confirm the volume sliders are not set to 0, then you can set it to your personal preference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
@@ -39,6 +47,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
 
@@ -49,9 +64,14 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Press the**Windows logo key + I** together to open**Settings** , then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 2. Click**Apps and Features > Optional features > Add a feature** .
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Search or select**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the sound.
 
@@ -60,16 +80,24 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Press the **Windows logo key + I** together to open **Settings** , then click **Apps** \> Optional features.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Relaunch the game and check the audio.
 
 ### Fix 3: Update your audio driver
@@ -84,31 +112,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -118,11 +128,16 @@ Then, reboot your PC and relaunch the game to check.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
-5. Relaunch the game and check you have sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Relaunch the game and check you have sound or not.
+
 ### Fix 5: Verify game files
 
  Verify your game files would scan and repair the game files to make sure the game won’t crash or cause trouble. It’s a quick and easy fix when you encounter game issues.
@@ -141,8 +156,6 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +163,19 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-screen-recording-innovations-a-comparative-look-for-2024/"><u>[New] Screen Recording Innovations A Comparative Look for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-recording-games-via-steam/"><u>[New] The Ultimate Guide to Recording Games via Steam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/creating-polished-video-content-in-captivate-for-2024/"><u>Creating Polished Video Content in Captivate for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-recurring-system-failures-while-playing-total-war-warhammer-3-on-your-computer/"><u>Fixing Recurring System Failures While Playing Total War: Warhammer 3 on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008837155-resolving-crashes-in-jurassic-world-evolution-a-complete-guide/"><u>Resolving Crashes in Jurassic World Evolution – A Complete Guide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-stuttering-ultimate-fixes-for-minecrafts-lagging-problem-on-pc-updated-guide/"><u>Say Goodbye to Stuttering: Ultimate Fixes for Minecraft's Lagging Problem on PC (Updated Guide )</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013432454-solution-for-silent-screens-bring-the-audio-alive-to-roblox-on-your-win11win10-pcs/"><u>Solution for Silent Screens: Bring the Audio Alive to Roblox on Your Win11/Win10 PCs!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-fifa-20-from-freezing-on-your-pc-a-complete-troubleshooting-guide/"><u>Stop FIFA 20 From Freezing on Your PC: A Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-hack-fixing-crashes-for-a-smooth-manor-lords-gaming-experience/"><u>Ultimate Hack: Fixing Crashes for a Smooth Manor Lords Gaming Experience</u></a></li>
+</ul></div>
 

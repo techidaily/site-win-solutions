@@ -1,7 +1,7 @@
 ---
 title: Madden 20 Crashes On PC [SOLVED]
-date: 2024-09-01T07:33:54.483Z
-updated: 2024-09-02T07:33:54.483Z
+date: 2024-10-23T18:11:48.111Z
+updated: 2024-10-24T17:12:46.334Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -53,10 +60,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -87,13 +90,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -124,9 +131,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -135,10 +139,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -150,15 +150,23 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -181,8 +189,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +196,19 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>[New] 2024 Approved Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-chroma-key-techniques-for-professional-videos/"><u>[New] 2024 Approved Mastering Chroma Key Techniques for Professional Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-energy-for-health-selecting-prime-workout-music/"><u>[New] Harness Energy for Health Selecting Prime Workout Music</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[Updated] In 2024, Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unlock-the-full-potential-of-your-iphones-voice-memo/"><u>2024 Approved Unlock the Full Potential of Your iPhone's Voice Memo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a1-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A1 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-excessive-cpu-use-by-zoom-discover-the-best-6-techniques/"><u>Resolve Excessive CPU Use by Zoom: Discover the Best 6 Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-triumph-dealing-with-football-manager-2021-crashes-on-desktop-pcs/"><u>Troubleshoot & Triumph: Dealing with Football Manager 2021 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unblock-your-path-to-the-last-epoch-comprehensive-guide-on-making-it-work-on-your-pc/"><u>Unblock Your Path to The Last Epoch: Comprehensive Guide on Making It Work on Your PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/understanding-av1-your-initial-compre-point-for-2024/"><u>Understanding AV1 Your Initial Compre Point for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-against-cod-vanguards-error-code-n-e0x00001338-a-comprehensive-fix/"><u>Winning Against COD Vanguard's Error Code N (E:0x00001338): A Comprehensive Fix</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Update Completed: Origin Username & Password Problems Fixed"
-date: 2024-08-28T05:15:12.489Z
-updated: 2024-08-29T05:15:12.489Z
+date: 2024-10-19T17:09:29.248Z
+updated: 2024-10-24T17:08:22.850Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart Origin completely
 
  This is the first thing you should try when you’re experiencing the “login unavailable” error. Just restart Origin completely:
@@ -41,9 +48,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -51,35 +55,47 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Click**OK** .
 
  Now the date and time on your computer is in sync with an Internet time server. Try logging in Origin and see if the error is gone. Hopefully it is. But if not, then try Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re experiencing the Origin error because you’re using a**wrong or outdated device driver** . You should update your drivers and see if this fixes your error.
@@ -96,9 +112,6 @@ or
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to your device to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
@@ -106,9 +119,6 @@ or
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reset your Internet Explorer settings
 
  You may get the Origin error because you’re having some**wrong Internet Explorer’s settings** . To reset these settings to the default:
@@ -118,23 +128,54 @@ or
 2. Click**Control Panel** in the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
 
  Now restart your computer and check to see if this fixed your Origin error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your USB device
 
@@ -146,9 +187,6 @@ or
 3. Double click**Universal Serial Bus controller** , then right click Realtek USB 2.0 Card Reader and select Disable device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-72.png)
 4. Run Origin and see if the error is gone.
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, one of the fixes above worked for you. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
 
@@ -161,8 +199,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +206,24 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-pocket-guide-retaining-twitter-media-on-your-cellphone/"><u>[New] Pocket Guide Retaining Twitter Media on Your Cellphone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-street-smart-showdown-top-hand-to-hand-video-games-for-2024/"><u>[New] Street Smart Showdown Top Hand-to-Hand Video Games for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-to-download-and-run-llama-2-in-your-local-environment/"><u>Easy Instructions to Download and Run LLAMA 2 in Your Local Environment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-your-videoleap-recordings-a-zoom-guide-for-2024/"><u>Fine-Tuning Your Videoleap Recordings A Zoom Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-black-display-error-on-pc-effective-solutions-for-gamers/"><u>Hitman 3 Black Display Error on PC: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-endless-load-screen-in-among-us-and-enjoy-seamless-gameplay/"><u>How to Fix the Endless Load Screen in Among Us and Enjoy Seamless Gameplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-pop-7-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Pop 7 Pro Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-civi-3-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Civi 3 Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ls-0013-launching-error-on-fortnite-complete-solution-guide/"><u>LS-0013 Launching Error on Fortnite: Complete Solution Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-repeated-shutdowns-master-guide-to-fix-elex-ii-stability-issues/"><u>Resolving Repeated Shutdowns: Master Guide to Fix Elex II Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-achieved-r-type-final-2-pc-version-no-longer-prone-to-crashing/"><u>Smooth Gaming Experience Achieved: R-Type Final 2 PC Version No Longer Prone to Crashing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-limits-of-innovation-discovering-7-critical-reasons-for-ineffective-chgpt-jailbreak-efforts/"><u>The Limits of Innovation: Discovering 7 Critical Reasons for Ineffective Ch#GPT Jailbreak Efforts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/train-collisions-decoded-insights-after-the-barrier-breach/"><u>Train Collisions Decoded: Insights After the Barrier Breach</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-server-connection-issues-for-players-of-lost-ark/"><u>Troubleshooting Server Connection Issues for Players of Lost Ark</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warframe-wont-start-troubleshooting-steps-for-successful-launch/"><u>Warframe Won't Start? Troubleshooting Steps for Successful Launch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Connection Woes? Here's How You Can Fix Them
-date: 2024-09-01T07:38:23.565Z
-updated: 2024-09-02T07:38:23.565Z
+date: 2024-10-20T18:54:52.816Z
+updated: 2024-10-24T18:28:39.527Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the server status
 
  The best way to check the server status is through the official channels. The[Apex Legends Twitter](https://twitter.com/PlayApex) account and the[EA Help](https://twitter.com/EAHelp?lang=en) account offer support for Apex Legends. Also, there’re third-party sites that keeping updating server status.
@@ -43,9 +50,6 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -58,16 +62,40 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
@@ -84,15 +112,22 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your drivers
 
  Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
@@ -110,9 +145,6 @@ If this method doesn’t help, please move to the next one.
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -153,8 +185,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +192,16 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-zero-price-super-quality-youtube-thumbnails-extractor-guide/"><u>[New] 2024 Approved Zero Price, Super Quality YouTube Thumbnails Extractor Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-reliable-solutions-how-to-stop-stray-crashes-in-pc-games/"><u>6 Reliable Solutions: How to Stop Stray Crashes in PC Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching/"><u>Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-mobile-audio-tools-selecting-the-top-10-for-ios-and-android-devices-updated/"><u>In 2024, Cutting-Edge Mobile Audio Tools Selecting the Top 10 for iOS and Android Devices - Updated</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elite-10-sound-recording-essentials-on-spotify-platform/"><u>In 2024, Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-server-connection-resets-for-a-flawless-destiny-2-gaming-experience/"><u>Mastering Server Connection Resets for a Flawless Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-freezing-problems-on-call-of-duty-vanguard-easy-no-cost-solutions/"><u>Resolving Freezing Problems on Call of Duty: Vanguard – Easy, No-Cost Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-f1-2021-games-performance-lag-in-frames-per-second-fps-on-pc/"><u>Troubleshooting Steps for F1 2021 Game's Performance Lag in Frames per Second (FPS) on PC</u></a></li>
+</ul></div>
 

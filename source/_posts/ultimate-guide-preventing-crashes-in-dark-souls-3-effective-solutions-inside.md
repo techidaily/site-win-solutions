@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Preventing Crashes in Dark Souls 3 - Effective Solutions Inside"
-date: 2024-08-28T05:14:10.328Z
-updated: 2024-08-29T05:14:10.328Z
+date: 2024-10-18T17:26:00.096Z
+updated: 2024-10-24T20:08:52.674Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -78,9 +85,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -89,11 +93,15 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -128,35 +136,28 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking your GPU
 
  If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
@@ -167,13 +168,14 @@ Key features:
 2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
@@ -182,9 +184,6 @@ Key features:
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
@@ -207,8 +206,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +213,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cutting-edge-premium-video-apps-for-windows-os/"><u>[Updated] In 2024, Cutting Edge Premium Video Apps for Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unified-iptv-streaming-framework-for-2024/"><u>[Updated] Unified IPTV Streaming Framework for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-guide-solving-warzones-dev-error-5573-across-pc-gaming-platforms-and-consoles/"><u>Complete Guide: Solving Warzone's Dev Error 5573 Across PC Gaming Platforms and Consoles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-fubo-tv-tips-for-amazon-fire-tv-stick-users/"><u>Connecting Fubo TV: Tips for Amazon Fire TV Stick Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-steps-to-eliminate-directx-glitches-for-an-uninterrupted-fifa-19-gaming-experience/"><u>Easy Steps to Eliminate DirectX Glitches for an Uninterrupted FIFA 19 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-pc-experience-handling-and-fixing-ghostwire-tokyos-recurring-game-instability-issues/"><u>Enhancing PC Experience - Handling and Fixing Ghostwire: Tokyo's Recurring Game Instability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exploring-bugs-and-glitches-preventing-wolcen-game-from-releasing-successfully/"><u>Exploring Bugs and Glitches Preventing Wolcen Game From Releasing Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-the-potential-of-iphone-burst-photography/"><u>Harness the Potential of iPhone Burst Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melody-management-and-legalities-on-social-media/"><u>In 2024, Melody Management and Legalities on Social Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-90-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 90 Lite without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-poco-c55-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Poco C55 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-fortnite-loading-errors-easy-methods-for-a-smooth-startup/"><u>No More Fortnite Loading Errors: Easy Methods for a Smooth Startup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-steam-damaged-disc-problem-with-easy-fixes-you-can-do-yourself/"><u>Overcome the Steam Damaged Disc Problem with Easy Fixes You Can Do Yourself</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-pc-troubleshooting-steps-for-your-black-screen-dilemma/"><u>Resident Evil Village PC - Troubleshooting Steps for Your Black Screen Dilemma</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-resolving-minecrafts-loading-hang-ups/"><u>Troubleshooting Tips for Resolving Minecraft's Loading Hang-Ups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-pc-solutions-for-fifa-22-stability-issues/"><u>Troubleshooting Your PC - Solutions for FIFA 22 Stability Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-stylus-enabled-tablets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Best Stylus Enabled Tablets of 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creativity-in-youtube-video-splitting-for-2024/"><u>Unlocking Creativity in YouTube Video Splitting for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your FPS & Resolve Stuttering Issues: A Comprehensive Guide for Valorant Gamers"
-date: 2024-08-28T05:14:57.586Z
-updated: 2024-08-29T05:14:57.586Z
+date: 2024-10-23T17:58:22.347Z
+updated: 2024-10-24T20:07:10.541Z
 tags:
   - win11
   - win10
@@ -36,6 +36,14 @@ Here are the steps:
 1. Launch your Steam client and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
@@ -68,16 +76,17 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -93,9 +102,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -103,12 +109,24 @@ There are mainly two ways you can update the graphics driver:
 1. Open Steam and navigate to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
@@ -116,9 +134,12 @@ There are mainly two ways you can update the graphics driver:
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files can also ruin your gaming experience. To scan and repair the faulty game files and cache quickly, you can use Steam’s built-in tool.
@@ -131,8 +152,12 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Once done, start Outriders and test the game.
 
  If all the steps above couldn’t stop Outriders from crashing,**reinstallation** is the last resort. The constant crashes can be triggered by the issues during your previous installation and a thorough reinstallation would just refresh the whole thing.
@@ -149,8 +174,6 @@ Once done, start Outriders and test the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +181,24 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-key-to-attracting-views-youtube-image-marketing/"><u>[New] In 2024, The Key to Attracting Views YouTube Image Marketing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discovering-the-capabilities-of-bandicams-screen-capture-feature/"><u>[Updated] Discovering the Capabilities of Bandicam's Screen Capture Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplifying-your-role-play-roblox-closeup-mastery/"><u>2024 Approved Amplifying Your Role-Play Roblox Closeup Mastery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/access-restored-no-more-login-troubles-with-your-origin-profile/"><u>Access Restored - No More Login Troubles with Your Origin Profile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-application-malfunctions-the-case-of-nwstoreexe/"><u>Fixing Persistent Application Malfunctions: The Case of nw_store.exe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-zero-to-hero-achieving-perpetual-prosperity-in-the-world-of-like-a-dragon-for-windows-gamers/"><u>From Zero to Hero: Achieving Perpetual Prosperity in the World of 'Like a Dragon' For Windows Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers/"><u>Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-everyones-gpt-4-simplified-access-and-implementation-explained/"><u>Introducing Everyone's GPT-4: Simplified Access and Implementation Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-expert-hacks-to-stop-street-fighter-6-from-crashing-on-pcs/"><u>Mastering Stability: Expert Hacks to Stop Street Fighter 6 From Crashing on PCs</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/optimize-open-rates-and-click-through-master-ab-testing-for-effective-email-marketing-with-massmail/"><u>Optimize Open Rates & Click-Through: Master A/B Testing for Effective Email Marketing with Massmail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-if-you-cannot-open-microsoft-outlook/"><u>Step-by-Step Fixes if You Cannot Open Microsoft Outlook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pros-guide-to-best-ever-360-degree-cams-2023-for-2024/"><u>The Pro’s Guide to Best-Ever 360-Degree Cams, 2023 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-issues-resolving-rocket-league-freezing-problems/"><u>Troubleshooting Common Issues: Resolving Rocket League Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-is-fallout-3-failing-to-load/"><u>Troubleshooting Guide: Why Is Fallout 3 Failing to Load ?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valheim-optimization-guide-for-enhanced-frame-rates-fix-low-fps-insights-from-2024/"><u>Valheim Optimization Guide for Enhanced Frame Rates (Fix Low FPS) - Insights From 2024</u></a></li>
+</ul></div>
 

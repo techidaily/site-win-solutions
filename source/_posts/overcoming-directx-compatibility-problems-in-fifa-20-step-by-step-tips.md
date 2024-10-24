@@ -1,7 +1,7 @@
 ---
 title: Overcoming DirectX Compatibility Problems in FIFA 20 - Step-by-Step Tips
-date: 2024-09-01T07:39:33.921Z
-updated: 2024-09-02T07:39:33.921Z
+date: 2024-10-20T17:53:27.127Z
+updated: 2024-10-24T16:19:28.750Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -64,8 +61,12 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -75,6 +76,13 @@ If this method doesn’t help, check out your graphics driver.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -88,14 +96,15 @@ If this method doesn’t help, check out your graphics driver.
 4. Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -104,16 +113,30 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Turn off overlays
 
  As many players reported, programs with an overlay like Discord or GeForce Experience can cause the Blizzard games to crash or get a black screen. To avoid an incompatibility issue like this, simply disable or uninstall it as follows:
@@ -123,14 +146,16 @@ If this method doesn’t help, check out your graphics driver.
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
@@ -153,8 +178,6 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +185,26 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[Updated] 2024 Approved Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>[Updated] Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-7-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 7 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-solutions-to-address-your-steam-vr-headset-detection-issues/"><u>6 Solutions to Address Your Steam VR Headset Detection Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cgp-a-verified-source-or-vague-suggestions/"><u>CGP: A Verified Source or Vague Suggestions?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-getting-your-msi-dragon-center-back-on-track-quickly-and-efficiently/"><u>Expert Advice: Getting Your MSI Dragon Center Back on Track Quickly and Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-shadowplay-recording-issues-in-windows-a-comprehensive-guide/"><u>Fixing Shadowplay Recording Issues in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-tweets-to-tomes-the-full-year-in-video-for-2024/"><u>From Tweets to Tomes The Full Year in Video for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gta-5-stability-tips-fixing-sudden-game-interruptions-and-crashes/"><u>GTA 5 Stability Tips: Fixing Sudden Game Interruptions and Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hogwarts-legacy-gameplay-optimized-top-6-solutions-for-smooth-playback/"><u>Hogwarts Legacy Gameplay Optimized: Top 6 Solutions for Smooth Playback</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-fintie-macbook-pro-13-case-robust-construction-meets-great-value/"><u>In-Depth Assessment of the Fintie MacBook Pro 13 Case - Robust Construction Meets Great Value</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-days-gone-no-longer-pc-compatibility-issue/"><u>Solution Found: Days Gone No Longer PC Compatibility Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-to-enhance-the-download-velocity-on-ubisoft-connect-platform/"><u>Solutions to Enhance the Download Velocity on Ubisoft Connect Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essential-routine-for-updating-intel-drivers-in-win-7/"><u>The Essential Routine for Updating Intel Drivers in Win 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997730009-trouble-with-rogue-company-on-your-computer-heres-how-to-stop-the-constant-pc-crashes/"><u>Trouble with Rogue Company on Your Computer? Here's How to Stop the Constant PC Crashes!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unpack-the-power-of-portable-driver-easy-installation-made-simple-and-mobile/"><u>Unpack the Power of Portable Driver Easy: Installation Made Simple and Mobile</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-superior-mpeg-4-to-mp3-transformer-flawless-gratuitous-migration-from-mpa-files-to-mp3-clips-2023-version/"><u>Updated In 2024, Superior MPEG-4 to MP3 Transformer Flawless, Gratuitous Migration From MPA Files to MP3 Clips (2023 Version)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving the 'Humankind' App Launch Issues"
-date: 2024-09-01T07:39:07.542Z
-updated: 2024-09-02T07:39:07.542Z
+date: 2024-10-20T16:51:31.477Z
+updated: 2024-10-24T17:44:32.958Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Here’s how you can check the file integrity on Steam:
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
@@ -54,9 +61,6 @@ Here’s how you can check the file integrity on Steam:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -66,9 +70,6 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -76,10 +77,28 @@ Here’s how you can check the file integrity on Steam:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -94,9 +113,12 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -105,15 +127,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -124,7 +140,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -138,8 +169,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +176,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secure-stylish-and-smart-choose-from-these-5-recorders/"><u>[New] 2024 Approved Secure, Stylish and Smart - Choose From These 5 Recorders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-black-ops-cold-war-stuck-on-compiling-shaders/"><u>[SOLVED] Black Ops Cold War Stuck on Compiling Shaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>[Updated] Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-comprehensive-marketing-and-pr-solutions-with-massmail-boost-your-brand-visibility/"><u>1. Comprehensive Marketing & PR Solutions with MassMail: Boost Your Brand Visibility</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ascent-on-your-pc-overcome-those-annoying-crashes-with-this-step-by-step-guide/"><u>Ascent on Your PC? Overcome Those Annoying Crashes with This Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-pay-later-borrowing-impacts-your-credit-score-with-experian-tracking/"><u>How Apple Pay Later Borrowing Impacts Your Credit Score with Experian Tracking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-education-without-the-video-element/"><u>In 2024, Navigating Education without the Video Element</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macos-15-sequoia-released-compatibility-insights-upcoming-features-and-whats-new-in-the-latest-update/"><u>MacOS 15 Sequoia Released: Compatibility Insights, Upcoming Features & What's New in the Latest Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-dark-startup-effective-solutions-for-black-screen-in-eldn-ring/"><u>Overcoming the Dark Startup: Effective Solutions for 'Black Screen' In Eldn Ring</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/phoenix-point-crash-no-more-easy-fix-solutions-revealed/"><u>Phoenix Point Crash No More - Easy Fix Solutions Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-critical-wow-error-132-for-smooth-gaming-experience/"><u>Troubleshooting the Critical WOW Error 132 for Smooth Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-poco-c65-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Poco C65.</u></a></li>
+</ul></div>
 

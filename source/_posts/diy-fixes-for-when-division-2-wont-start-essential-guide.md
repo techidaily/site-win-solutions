@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes for When Division 2 Won't Start: Essential Guide"
-date: 2024-08-28T05:14:34.953Z
-updated: 2024-08-29T05:14:34.953Z
+date: 2024-10-19T16:45:47.878Z
+updated: 2024-10-24T16:59:38.005Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 6. **[Run the game as administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update the related software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Disable in-game Overlay
 
  Overlays sometimes eat up bandwidth or introduce compatibility problems, thus causing problems in games, and that includes Resident Evil Village not launching or crashing on start up.
@@ -43,6 +50,13 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 2. Click the **Settings** icon, and then select the **Overlay** tab.
 3. Toggle the switch to disable the **Enable in-game overlay** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-overlay-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: If you want to diable it just for Resident Evil Village, you can go to**Settings** \>**Games** , and togglle**Resident Evil Village** to**Off** .
 
@@ -57,6 +71,13 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 1. Open the Steam client and navigate to the **Steam > Settings/Preferences > In-game** tab.
 2. Uncheck the box next to **Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlay_options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Other common overlay applications
 
@@ -95,9 +116,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -105,9 +123,6 @@ There’re mainly two ways you can update your graphics drivers:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Verify game integrity on Steam
 
  It’s always recommended to verify the game files when you’re experiencing game issues. This will help you rule out the possibility of corrupted game files. Here’s how to do it:
@@ -118,25 +133,25 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Steam will verify the game’s files – this process may take several minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 4\. Disable your antivirus software temporarily
 
  It’s very likely that your antivirus software is interfering with the game, preventing your game from launching normally. To fix this, you can try disabling your antivirus software or add your game to its exception list.
@@ -146,24 +161,38 @@ No advertising on the website.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those that belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech,** and **Intel** . Then click **OK**  to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** +**Shift**  +**Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Launch the game in windowed mode
 
  If you can launch your Resident Evil Village, you can try launching it in windowed mode. Here are the steps you can follow:
@@ -178,10 +207,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/set-launch-options-edited.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Type or paste`**-windowed -noborder**` .
 
  5) Press**OK** to exit.
@@ -199,6 +224,13 @@ No advertising on the website.
 3) In the**Properties** window, go to the**Compatibility** tab, and select**Run this program as an administrator** . Then click**Apply > OK** .
 
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Update the related software
 
@@ -226,8 +258,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +265,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-sneakily-bypass-online-learning-videos-without-breach/"><u>[New] Sneakily Bypass Online Learning Videos Without Breach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/april-2sory-no-more-errors-the-2024-league-of-legends-update-resolves-reconnection-bugs/"><u>April 2Sory, No More Errors: The 2024 League of Legends Update Resolves Reconnection Bugs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-challenge-in-depth-strategies-for-fixing-error-code-103003-in-tarkov-online/"><u>Beat the Challenge: In-Depth Strategies for Fixing Error Code 103003 in Tarkov Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/become-a-professional-in-no-time-using-these-6-effective-strategies-for-learning-portuguese/"><u>Become a Professional in No Time Using These 6 Effective Strategies for Learning Portuguese</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-mastering-the-giant-amongst-rc-trucks-galaxy-ford-f150-edition/"><u>Comprehensive Review: Mastering the Giant Amongst RC Trucks, Galaxy Ford F150 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-release-delayed-update-on-upcoming-launch/"><u>Guilty Gear Strive Release Delayed: Update on Upcoming Launch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x50-gt-music-recovery-recover-deleted-music-from-honor-x50-gt-by-fonelab-android-recover-music/"><u>Honor X50 GT Music Recovery - Recover Deleted Music from Honor X50 GT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-on-the-best-controllers-ever-the-xbox-one-elite-series-2-takes-the-crown/"><u>Masterclass on the Best Controllers Ever? The Xbox One Elite Series 2 Takes the Crown!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tales-from-the-depths-how-to-fix-critical-bugs-in-arise-unreal-engine-4-edition/"><u>Tales From the Depths: How to Fix Critical Bugs in Arise - Unreal Engine 4 Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/twitch-sound-malfunctions-explained-solutions-for-no-output-during-broadcasting/"><u>Twitch Sound Malfunctions Explained: Solutions for No Output During Broadcasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unmasked-exploring-its-hidden-registry-secrets/"><u>Windows 11 Unmasked: Exploring Its Hidden Registry Secrets</u></a></li>
+</ul></div>
 

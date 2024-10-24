@@ -1,7 +1,7 @@
 ---
 title: Minecraft on PC - Diagnosing and Repairing Loss of Game Sound
-date: 2024-09-01T07:34:25.577Z
-updated: 2024-09-02T07:34:25.577Z
+date: 2024-10-18T16:42:20.779Z
+updated: 2024-10-24T19:41:52.407Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -59,6 +56,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -105,9 +109,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -117,8 +118,12 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  4) After updating the drivers, you need to restart your computer to take effect.
@@ -128,8 +133,18 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Minecraft as administrator
 
  Minecraft may not be able to utilize all the resources because of restricted access. So you need to run Minecraft as an administrator to see if this fixes your issue.
@@ -145,15 +160,23 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Macï¼š Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Run Minecraft again to see if this works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable Mods
 
  Mods enable you to have a better experience when playing Minecraft. However, mods can be the cause of your Minecraft not responding issue. If youâ€™ve added any mods to your Minecraft, you can disable them to fix the issue.
@@ -174,9 +197,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
@@ -206,8 +226,6 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +233,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-professional-strategies-for-effective-google-meet-customization/"><u>[Updated] 2024 Approved Professional Strategies for Effective Google Meet Customization</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>[Updated] 2024 Approved Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-collaborative-video-creation-and-growth-tips-for-2024/"><u>[Updated] Collaborative Video Creation & Growth Tips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-brief-scene-structure-summary/"><u>2024 Approved Brief Scene Structure Summary</u></a></li>
+<li><a href="https://facebook.techidaily.com/englands-top-sportsmen-reject-cyber-abuse-on-digital-networks/"><u>England's Top Sportsmen Reject Cyber Abuse on Digital Networks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-eight-premium-tablets-revolutionizing-photography-editing-for-2024/"><u>Exploring Eight Premium Tablets Revolutionizing Photography Editing for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-crash-in-naraka-battlepoint-gameplay/"><u>How to Fix a Crash in Naraka: Battlepoint Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-access-problems-for-oculus-runtime-services-on-your-vr-headset/"><u>How to Overcome Access Problems for Oculus Runtime Services on Your VR Headset</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-winning-at-windows-11-image-tweaking-tricks/"><u>In 2024, Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fixes-of-your-clownfish-voice-modifier-a-comprehensive-guide/"><u>Mastering the Fixes of Your Clownfish Voice Modifier: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-complete-loading-failures-in-vrchat-expert-tips-and-tricks/"><u>Overcoming Complete Loading Failures in VRChat: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-stability-solution-no-more-crashes/"><u>Sea of Thieves Stability Solution â€“ No More Crashes!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-transforming-mtsflvvp9-videos-for-optimal-viewing-on-windows-11-phones-and-tablets/"><u>Step-by-Step Tutorial: Transforming MTS/FLV/VP9 Videos for Optimal Viewing on Windows 11 Phones & Tablets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-the-issue-of-humanitys-delayed-takeoff/"><u>Troubleshooting Tips: Resolving the Issue of Humanity's Delayed Takeoff</u></a></li>
+</ul></div>
 

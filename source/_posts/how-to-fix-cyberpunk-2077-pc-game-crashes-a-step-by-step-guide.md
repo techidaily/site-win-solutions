@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Cyberpunk 2077 PC Game Crashes: A Step-by-Step Guide"
-date: 2024-09-01T07:38:49.150Z
-updated: 2024-09-02T07:38:49.150Z
+date: 2024-10-20T17:12:56.606Z
+updated: 2024-10-24T16:29:27.236Z
 tags:
   - win11
   - win10
@@ -39,6 +39,14 @@ Don’t worry, here’re fixes may help you solve the issue.
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 #### For mouse/keyboard users
@@ -50,6 +58,14 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -59,8 +75,12 @@ If you’re not using the controller, check the below settings.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,26 +89,20 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -120,8 +134,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -136,8 +154,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +161,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-accurate-recordings-of-console-games-on-home-computers/"><u>[New] 2024 Approved Accurate Recordings of Console Games on Home Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures-for-2024/"><u>[Updated] Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-chromatics-a-practical-approach/"><u>[Updated] Mastering Chromatics A Practical Approach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-securing-streams-of-cash-from-content-creation/"><u>[Updated] Securing Streams of Cash From Content Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>2024 Approved Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
+<li><a href="https://article-posts.techidaily.com/action-unleashed-the-latest-in-filmmaking-from-polaroids-xs-for-2024/"><u>Action Unleashed The Latest in Filmmaking From Polaroid's XS for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beating-the-odds-against-the-727e66ac-2024-challenge-in-nba-2k24-proven-tips-and-techniques/"><u>Beating the Odds Against the 727E66ac-2024 Challenge in NBA 2K24 - Proven Tips & Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-a78-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on A78 5G.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990195014-effortless-solutions-overcoming-apex-legends-game-loading-hurdles-today/"><u>Effortless Solutions: Overcoming Apex Legends Game Loading Hurdles Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-error-5573-in-call-of-duty-vanguard-solutions-explored/"><u>How To Fix The 'Error 5573' In Call Of Duty: Vanguard - Solutions Explored</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-apex-legends-bug-deciphering-and-fixing-error-code-leaf/"><u>How to Overcome Apex Legends Bug – Deciphering and Fixing Error Code Leaf</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-subnautica-below-zero-how-to-keep-your-game-smooth-and-stable-on-pc/"><u>Mastering Subnautica: Below Zero - How to Keep Your Game Smooth and Stable on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-logildadll-missing-alert/"><u>Quick-Fix: LogiLDA.dll Missing Alert</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-content-warning-continuously-closes-issue-on-your-computer/"><u>Solving the 'Content Warning Continuously Closes' Issue on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-to-fix-error-code-277-on-your-computers-roblox-game-updated/"><u>Top Strategies to Fix Error Code 277 on Your Computer's Roblox Game (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-0x803f8001-launcher-problem-in-minecraft-players-running-windows-11-or-10/"><u>Troubleshooting the 0X803F8001 Launcher Problem in Minecraft Players Running Windows 11 or 10</u></a></li>
+</ul></div>
 

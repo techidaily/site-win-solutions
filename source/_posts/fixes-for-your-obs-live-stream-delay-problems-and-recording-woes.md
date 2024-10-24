@@ -1,7 +1,7 @@
 ---
 title: Fixes for Your OBS Live Stream Delay Problems and Recording Woes
-date: 2024-09-01T07:37:20.119Z
-updated: 2024-09-02T07:37:20.119Z
+date: 2024-10-21T18:31:24.356Z
+updated: 2024-10-24T19:29:25.241Z
 tags:
   - win11
   - win10
@@ -42,7 +42,21 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Launch Discord again. It should be open normally.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Set your date/time automatically
 
@@ -54,18 +68,12 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Discord as administrator
 
  Some features may be blocked by the Windows system that causes problems. With high integrity access, the Discord can make full use of its features, won’t be blocked by other programs.  
@@ -77,6 +85,13 @@ If it doesn’t work, move to the next fix.
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
@@ -92,8 +107,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Restart Discord. It should open.
 
 ### Fix 5: Disable your proxies
@@ -110,27 +129,38 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Relaunch the Discord and it should open.
 
 ### Fix 6: Flushing your DNS
@@ -150,6 +180,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Launch the Discord again. It should open.
 
 ### Fix 7: Reinstall the Discord
@@ -162,18 +199,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
 ### Bonus: Update your driver
@@ -206,15 +235,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -231,8 +254,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +261,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-from-casual-to-expert-your-path-with-obs-gaming-capture/"><u>[New] From Casual to Expert Your Path with OBS Gaming Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-key-applications-for-superior-vtuber-audible-identity/"><u>[Updated] In 2024, Key Applications for Superior Vtuber Audible Identity</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-bp550-revamped-the-ultimate-2023-examination/"><u>2024 Approved BP550 Revamped - The Ultimate 2023 Examination</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-note-13-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi Note 13 5G Unlock Without Password</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness-for-2024/"><u>Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2022-release-delay-explained-resolved-issues-and-guide/"><u>Football Manager 2022 Release Delay Explained - Resolved Issues and Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-18-quick-and-inspiring-ideas-to-try-in-your-vlog/"><u>In 2024, 18 Quick and Inspiring Ideas to Try in Your Vlog</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/increase-your-pcs-graphics-fluidity-a-guide-to-fixing-dips-in-frames-per-second-fps/"><u>Increase Your PC's Graphics Fluidity: A Guide to Fixing Dips in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://facebook.techidaily.com/masterful-messaging-your-guide-to-essential-social-media-acronyms-and-phrases/"><u>Masterful Messaging: Your Guide to Essential Social Media Acronyms and Phrases</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722994633401-minecraft-quitting-unexpectedly-conquer-that-exit-code-0-dilemma-here/"><u>Minecraft Quitting Unexpectedly? Conquer that Exit Code 0 Dilemma Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-digital-editions-innovating-reading-in-the-digital-era/"><u>Next-Gen Digital Editions: Innovating Reading in the Digital Era</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-initialization-issue-with-vanguard-ability-in-valorant/"><u>Resolved: Fixing the Initialization Issue with Vanguard Ability in Valorant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-discord-live-broadcast-buffering-issues/"><u>Resolved: How to Fix Discord Live Broadcast Buffering Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-instability-issues-in-warframe-tips-for-smoother-gameplay/"><u>Resolving Instability Issues in Warframe: Tips for Smoother Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/star-citizen-no-longer-causes-system-crashes-on-windows-fixed/"><u>Star Citizen No Longer Causes System Crashes on Windows - Fixed!</u></a></li>
+<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-fortnite-issues-a-guide-for-pc-gamers/"><u>Troubleshooting Common Fortnite Issues: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-issues-with-warno-game-crashing-on-windows-systems/"><u>Troubleshooting Common Issues with Warno Game Crashing on Windows Systems</u></a></li>
+</ul></div>
 

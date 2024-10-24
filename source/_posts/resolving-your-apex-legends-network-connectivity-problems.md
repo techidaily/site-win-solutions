@@ -1,7 +1,7 @@
 ---
 title: Resolving Your Apex Legends Network Connectivity Problems
-date: 2024-09-01T07:38:33.944Z
-updated: 2024-09-02T07:38:33.944Z
+date: 2024-10-19T19:56:32.547Z
+updated: 2024-10-24T18:30:02.465Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 If it’s not the server, please move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -65,14 +69,16 @@ If it’s not the server, please move to the next method.
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Reboot the game and check.
 
 ### Method 3: Run as administrator
@@ -84,8 +90,12 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
@@ -102,17 +112,25 @@ If this method doesn’t help, please move to the next one.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -153,8 +171,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +178,24 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-points-in-youtube-monetization-overhaul/"><u>[New] Key Points in YouTube Monetization Overhaul</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-your-creativity-a-detailed-instruction-manual-for-uploading-videos-on-youtube/"><u>[New] Maximize Your Creativity A Detailed Instruction Manual for Uploading Videos on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tailoring-content-creating-ideal-instagram-video-experiences/"><u>[New] Tailoring Content Creating Ideal Instagram Video Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-friendly-pc-screen-recorders/"><u>2024 Approved Budget-Friendly PC Screen Recorders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unveiling-the-world-of-haptic-navigation-systems/"><u>2024 Approved Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-update-eradicating-input-latency-issues-for-a-seamless-gaming-adventure/"><u>Cyberpunk 2077 Update: Eradicating Input Latency Issues for a Seamless Gaming Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-terraria-disconnect-errors-discover-these-proven-methods-for-stable-gameplay/"><u>Defeat Terraria Disconnect Errors: Discover These Proven Methods for Stable Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/device-duet-pairing-your-android-with-a-pc/"><u>Device Duet: Pairing Your Android with a PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-guilty-gear-strive-from-crashing-on-your-computer/"><u>Effective Solutions to Prevent Guilty Gear Strive From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992591861-escape-from-tarkov-fps-boost-pro-level-guide-to-elevate-your-gameplay-speedily/"><u>Escape From Tarkov FPS Boost - Pro-Level Guide to Elevate Your Gameplay Speedily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s18-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S18 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/natureindex-nd-glyphosate-retrieved-from-(httpswwwnatureindexcomresearcherview17506489)/"><u>NatureIndex (N.d.). Glyphosate. Retrieved From <https://www.natureindex.com/researcher/view/17506489></u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-tackle-dread-hunger-pc-stability-problems-effectively/"><u>No More Interruptions: Tackle Dread Hunger PC Stability Problems Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-common-steamvr-malfunctions/"><u>Quick Solutions for Common SteamVR Malfunctions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-strategies-to-open-league-of-legends-easily-this-year/"><u>Winning Strategies to Open League of Legends Easily This Year</u></a></li>
+</ul></div>
 

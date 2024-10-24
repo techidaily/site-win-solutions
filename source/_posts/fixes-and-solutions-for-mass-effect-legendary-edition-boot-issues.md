@@ -1,7 +1,7 @@
 ---
 title: Fixes and Solutions for Mass Effect Legendary Edition Boot Issues
-date: 2024-09-01T07:39:08.819Z
-updated: 2024-09-02T07:39:08.819Z
+date: 2024-10-17T18:37:48.870Z
+updated: 2024-10-24T19:02:20.865Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -58,29 +55,41 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
 8. Reboot the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -90,6 +99,13 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
@@ -105,13 +121,17 @@ If this method doesn’t help, please move to the next one.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Clear game cache
 
@@ -153,8 +173,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +180,20 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-through-excellent-alternatives-to-gopro-cams/"><u>[New] Navigating Through Excellent Alternatives to GoPro Cams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smart-screen-capture-on-mac-understanding-the-best-5-methods/"><u>[Updated] In 2024, Smart Screen Capture on Mac Understanding the Best 5 Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rhythmic-revelations-songs-that-will-echo-yes/"><u>[Updated] Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-evaluationcast-breakdown/"><u>2024 Approved EvaluationCast Breakdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-fix-for-when-you-cant-find-the-msvcr110dll-in-helldivers-2/"><u>Complete Fix for When You Can't Find the MSVCR110.dll in Helldivers 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-the-failed-anticheat-connection-error-in-escape-from-tarkov-gameplay/"><u>Comprehensive Fix for the 'Failed Anticheat Connection' Error in Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-valorant-experience-with-these-high-performance-tweaks-to-combat-low-fps-202n-edition/"><u>Elevate Your Valorant Experience with These High-Performance Tweaks to Combat Low FPS (202N Edition)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-trouble-heres-how-to-stop-pc-game-crashes-in-5-easy-steps/"><u>Guilty Gear Strive Trouble? Here's How to Stop PC Game Crashes in 5 Easy Steps!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-audio-prime-9-mic-recording-solutions/"><u>In 2024, Mastering Audio Prime 9 Mic Recording Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-what-every-independent-youtuber-should-know-about-mcns/"><u>In 2024, What Every Independent YouTuber Should Know About MCNs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nailing-video-format-change-iphonedesktops-8-choices-for-2024/"><u>Nailing Video Format Change IPhone/Desktop's #8 Choices for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-game-freezes-optimizing-your-pc-to-play-assassins-creed-odyssey-smoothly-updated-guide/"><u>Overcome Game Freezes: Optimizing Your PC to Play Assassin’s Creed Odyssey Smoothly (Updated Guide)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-overcoming-persistent-failures-with-lunar-application-on-pc/"><u>Troubleshooting Guide: Overcoming Persistent Failures with Lunar Application on PC</u></a></li>
+</ul></div>
 

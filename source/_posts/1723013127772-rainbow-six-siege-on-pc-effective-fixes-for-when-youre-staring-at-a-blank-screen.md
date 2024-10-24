@@ -1,7 +1,7 @@
 ---
 title: Rainbow Six Siege on PC - Effective Fixes for When You're Staring at a Blank Screen!
-date: 2024-09-01T07:37:00.399Z
-updated: 2024-09-02T07:37:00.399Z
+date: 2024-10-20T20:20:57.343Z
+updated: 2024-10-24T17:52:13.977Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Check that your PC is capable
 
@@ -54,9 +61,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -68,15 +72,16 @@ To play Hitman 3, you need a PC with the following minimum specs:
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
 
  If HITMAN 3 isn’t on the list, take the steps below to add the game to the list.
@@ -92,13 +97,24 @@ To play Hitman 3, you need a PC with the following minimum specs:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -108,6 +124,13 @@ To play Hitman 3, you need a PC with the following minimum specs:
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -121,17 +144,11 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game to see if it looks much better.
@@ -162,10 +179,6 @@ Here’s how:
   
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
@@ -174,9 +187,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable unnecessary programs
 
  Sometimes, the programs running in the background can interfere with Hitman 3\. What’s more, some of them, such as Media Players and web browsers have been constantly using the resources that possibly trigger the black screen in Hitman 3.
@@ -188,6 +198,13 @@ Here’s how to disable programs in Task Manager:
  1) Right-click on the taskbar. Then select **Task Manager** from the list of options.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
   
@@ -211,8 +228,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +235,18 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>[New] In 2024, Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[Updated] 2024 Approved Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hing-the-blank-screen-from-youtube-videos/"><u>Banishing the Blank Screen From YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-video-cutting-tools-of-2024-expert-recommendations-and-feature-comparisons/"><u>Best FREE Video Cutting Tools of 2024 - Expert Recommendations and Feature Comparisons</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-stuttering-and-improving-frame-rates-in-naraka-bladepoint/"><u>Comprehensive Solutions for Stuttering & Improving Frame Rates in Naraka: Bladepoint</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/efficient-strategies-for-backing-up-your-pst-files-incrementally-step-by-step-tutorial/"><u>Efficient Strategies for Backing Up Your PST Files Incrementally – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ce-discoverability-with-effective-video-tags-for-2024/"><u>Enhance Discoverability with Effective Video Tags for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-your-dragon-quest-xi-system-freeze-no-more-interruptions/"><u>Expert Advice on Fixing Your Dragon Quest XI System Freeze – No More Interruptions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-guide-to-color-correction-implementing-luts-within-ae-projects/"><u>Expert Guide to Color Correction Implementing LUTs Within AE Projects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-stability-secured-instantly-tackle-frequent-crashes/"><u>Steam Stability Secured - Instantly Tackle Frequent Crashes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-game-crashes-solutions-for-granblue-fantasy-link-problems/"><u>Troubleshooting PC Game Crashes – Solutions for Granblue Fantasy Link Problems</u></a></li>
+</ul></div>
 

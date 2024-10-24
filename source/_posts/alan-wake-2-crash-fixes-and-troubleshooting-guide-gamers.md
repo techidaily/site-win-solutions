@@ -1,7 +1,7 @@
 ---
 title: Alan Wake 2 Crash Fixes and Troubleshooting Guide Gamers
-date: 2024-09-01T07:35:54.686Z
-updated: 2024-09-02T07:35:54.686Z
+date: 2024-10-20T17:46:43.061Z
+updated: 2024-10-24T16:45:31.729Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -88,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -108,8 +112,12 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -127,24 +135,42 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -157,9 +183,6 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -177,8 +200,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +207,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-cashing-in-on-content-the-carminati-effect-ajay-for-2024/"><u>[New] Cashing In on Content The Carminati Effect (AJay) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] In 2024, Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>2024 Approved Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-11-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-overcoming-launch-problems-with-cyberpunk-2077/"><u>Fixed: Overcoming Launch Problems with Cyberpunk 2077</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-with-zombie-army-4-dead-war-pc-gaming-solutions/"><u>Fixing Issues with Zombie Army 4: Dead War - PC Gaming Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/forza-horizon-5-performance-optimization-say-goodbye-to-game-lag/"><u>Forza Horizon #5 Performance Optimization: Say Goodbye to Game Lag</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>In 2024, Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-obs-mic-malfunctions-with-these-6-revolutionary-fixes/"><u>Overcoming OBS Mic Malfunctions with These 6 Revolutionary Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-in-metro-exodus-for-pc-users/"><u>Resolving Stability Issues in Metro Exodus for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-warzone-pc-server-connection-errors-and-starting-matches/"><u>Resolving Warzone PC Server Connection Errors and Starting Matches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/smartly-craft-your-podcast-title-with-these-tools-for-2024/"><u>Smartly Craft Your Podcast Title with These Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-troubleshooting-ultimate-fixes-and-tips/"><u>Squad Mic Troubleshooting: Ultimate Fixes and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-pc-users-experiencing-game-crashes-with-madden-20-edition/"><u>Step-by-Step Fix for PC Users Experiencing Game Crashes with Madden '20 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-video-uploads-on-instagram-for-2024/"><u>The Ultimate Guide to Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-cyberpunk-2077s-graphics-prefer-cpu-over-gpu-in-windows-10/"><u>Troubleshooting Guide: Cyberpunk 2077'S Graphics Prefer CPU Over GPU in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-lag-problems-in-rainbow-six-siege-for-a-smoother-gaming-experience/"><u>Troubleshooting Lag Problems in Rainbow Six Siege for a Smoother Gaming Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing: Cyberpunk 2077 Doesn't Utilize Graphics Card in Windows 11"
-date: 2024-09-01T07:35:28.861Z
-updated: 2024-09-02T07:35:28.861Z
+date: 2024-10-22T19:14:24.715Z
+updated: 2024-10-24T20:10:23.377Z
 tags:
   - win11
   - win10
@@ -35,8 +35,12 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -65,10 +69,6 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -87,22 +87,45 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -113,14 +136,8 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
 ---
@@ -135,8 +152,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +159,23 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-famous-gamers-software-choices/"><u>[New] 2024 Approved Famous Gamers' Software Choices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-ingredients-to-inspiration-cooking-videos/"><u>2024 Approved From Ingredients to Inspiration Cooking Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-approach-to-solving-the-mystery-why-slime-rancher-2-keeps-crashing-on-windowsmac-and-how-to-fix-it/"><u>A Comprehensive Approach to Solving the Mystery: Why Slime Rancher 2 Keeps Crashing on Windows/Mac and How to Fix It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-slowdowns-expert-tips-to-resolve-lag-issues-in-forza-horizon-5-racing-game/"><u>Banish Slowdowns: Expert Tips to Resolve Lag Issues in Forza Horizon #5 Racing Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chivalry-ii-crash-no-more-steps-to-ensure-uninterrupted-gameplay/"><u>Chivalry II Crash No More: Steps to Ensure Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-lag-in-naraka-bladesport-a-comprehensive-solution/"><u>Eliminate Lag in Naraka Bladesport: A Comprehensive Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/eludir-fijacion-geografica-dvd-tutorial-sobre-crear-un-dvd-sin-regionalizacion-en-sistemas-windows-modernos-windows-1187/"><u>Eludir Fijación Geográfica DVD: Tutorial Sobre Crear Un DVD Sin Regionalización en Sistemas Windows Modernos (Windows 11/8/7)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-stickers-to-instagram-story-and-post-in-2024/"><u>How to Add Stickers to Instagram Story and Post, In 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-audio-issues-on-dying-light-for-a-seamless-gaming-experience/"><u>How to Resolve Audio Issues on Dying Light for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-slash-the-size-efficient-techniques-for-reducing-youtube-video-lengths/"><u>In 2024, Slash the Size Efficient Techniques for Reducing YouTube Video Lengths</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-free-ae-design-blueprints-for-2024/"><u>Premium Free AE Design Blueprints for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-f15-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F15 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secrets-unlocked-the-top-10-shopping-spots-for-boxes/"><u>Secrets Unlocked The Top 10 Shopping Spots for Boxes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-gobi-map-fatal-errors-in-black-mesa-ut-a-guide/"><u>Solving Gobi Map Fatal Errors in Black Mesa UT: A Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-repairing-keyboard-issues-in-pathfinders-wrath-of-the-righteous-game/"><u>Step-by-Step Guide to Repairing Keyboard Issues in Pathfinder's Wrath of the Righteous Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-to-overcome-incompatible-version-error-in-valheim-windows/"><u>Step-by-Step Tutorial to Overcome 'Incompatible Version' Error in Valheim (Windows)</u></a></li>
+</ul></div>
 

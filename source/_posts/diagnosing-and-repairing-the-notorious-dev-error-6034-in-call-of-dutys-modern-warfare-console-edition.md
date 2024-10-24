@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing the Notorious Dev Error 6034 in Call of Duty's Modern Warfare - Console Edition
-date: 2024-09-01T07:35:12.301Z
-updated: 2024-09-02T07:35:12.301Z
+date: 2024-10-17T19:45:27.813Z
+updated: 2024-10-24T17:27:26.345Z
 tags:
   - win11
   - win10
@@ -52,6 +52,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -59,6 +67,13 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -74,15 +89,16 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -90,25 +106,21 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -125,8 +137,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +144,21 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-simple-android-voice-capture-no-root-access-for-2024/"><u>[New] Simple Android Voice Capture - No Root Access for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>[New] Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-understanding-fps-making-a-choice-between-30-and-60-hertz/"><u>[Updated] 2024 Approved Understanding FPS Making a Choice Between 30 & 60 Hertz</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-lifeline-downloading-made-simple-pcmac-for-2024/"><u>[Updated] Instagram Video Lifeline Downloading Made Simple (PC/Mac) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-innovative-techniques-for-secure-and-quality-vimeo-recording/"><u>2024 Approved Innovative Techniques for Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-stabilizing-assassins-creed-syndicate-fixes-and-optimizations/"><u>Comprehensive Guide to Stabilizing Assassin's Creed Syndicate: Fixes & Optimizations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006701405-death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-xs-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone XS and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-hot-40-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Hot 40 Without PUK Codes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubled-waters-in-rainbow-six-siege-for-a-smooth-startup/"><u>Mastering Troubled Waters in Rainbow Six Siege for a Smooth Startup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-yakuza-6-for-pc-instability-top-solutions-discovered/"><u>Resolving Yakuza 6 for PC Instability: Top Solutions Discovered!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-steps-for-preventing-fifa-20-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting Steps for Preventing FIFA 20 From Crashing on Your Computer</u></a></li>
+</ul></div>
 

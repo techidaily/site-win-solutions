@@ -1,7 +1,7 @@
 ---
 title: How to Stop Yakuza 3 Remastered From Crashing on Your Computer
-date: 2024-08-28T05:15:06.082Z
-updated: 2024-08-29T05:15:06.082Z
+date: 2024-10-22T20:19:55.507Z
+updated: 2024-10-24T18:26:45.492Z
 tags:
   - win11
   - win10
@@ -40,13 +40,30 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -55,6 +72,13 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -75,8 +99,12 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -84,6 +112,13 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -93,9 +128,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -118,9 +150,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -129,18 +158,12 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
 ---
@@ -155,8 +178,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +185,22 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-steps-to-become-a-successful-smm/"><u>[New] 2024 Approved 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage-for-2024/"><u>[New] The Enchanted Realm of Bygone Writings A Literary Pilgrimage for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-much-money-flows-from-a-million-views-on-youtube/"><u>[Updated] 2024 Approved How Much Money Flows From A Million Views On YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transform-your-digital-works-into-blockchain-treasures-with-these-tools/"><u>[Updated] 2024 Approved Transform Your Digital Works Into Blockchain Treasures with These Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-outno-cost-clip-art-deposits/"><u>2024 Approved Seeking Outno-Cost Clip Art Deposits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-pc-gaming-experience-tackling-low-fps-in-dota-n-on-windows-versions/"><u>Enhancing PC Gaming Experience: Tackling Low FPS in Dota N on Windows Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-repair-fatal-error-in-ark-game/"><u>How to Address and Repair Fatal Error in Ark Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-htc-u23-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your HTC U23 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/launching-success-unveiling-the-it-takes-two-strategy/"><u>Launching Success: Unveiling the 'It Takes Two' Strategy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-sword-and-fairy-7-strategies-to-prevent-game-freezes-and-crashes-on-your-desktop/"><u>Mastering Sword and Fairy 7: Strategies to Prevent Game Freezes and Crashes on Your Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-new-gameplay-interruptions-a-step-by-step-guide-to-boosting-frame-rates-and-reducing-lag/"><u>Overcoming New Gameplay Interruptions: A Step-by-Step Guide to Boosting Frame Rates and Reducing Lag</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-startup-guide-overcome-wrc-10-crashing-problems-on-pc-systems/"><u>Smooth Startup Guide: Overcome WRC 10 Crashing Problems on PC Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-fixing-crashes-in-days-gone-on-modern-systems/"><u>Step-by-Step Solutions: Fixing Crashes in Days Gone on Modern Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unveiling-the-impact-of-adware-understanding-and-deleting-intrusive-tracking-cookies/"><u>Unveiling the Impact of Adware: Understanding & Deleting Intrusive Tracking Cookies</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-note-30-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Note 30 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

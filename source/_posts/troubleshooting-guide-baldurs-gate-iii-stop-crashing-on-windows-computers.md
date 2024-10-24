@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Baldur's Gate III Stop Crashing on Windows Computers"
-date: 2024-09-01T07:35:53.449Z
-updated: 2024-09-02T07:35:53.449Z
+date: 2024-10-18T18:58:28.294Z
+updated: 2024-10-24T19:39:24.156Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ To check the specs of your PC:
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Scavengers Crashing on PC
 
  Here are six fixes that have helped other players resolve the Scavengers crashing on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -56,13 +63,6 @@ To check the specs of your PC:
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  Device drivers are essential to the functioning of your computer system. If your Scavenger game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,12 +77,17 @@ No advertising on the website.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -109,9 +114,14 @@ Here is how to do it:
 1. Open**Epic Games** **Launcher** , click **Unreal Engine** \> **Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ue.png)
 2. From there, you will see your current version of Unreal Engine. Click the**down arrow** to see if you have the latest one installed.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
@@ -132,15 +142,9 @@ Here is how to do it:
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 With the latest DirectX, check to see if Scavengers still crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -153,10 +157,28 @@ Here’s how to close background apps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -176,8 +198,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +205,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>[New] 2024 Approved Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-charting-the-evolutionary-trajectory-of-mixed-reality/"><u>[New] In 2024, Charting the Evolutionary Trajectory of Mixed Reality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-screens-to-gifs-the-art-of-converting-vimeo-footage-for-2024/"><u>[Updated] From Screens to Gifs The Art of Converting Vimeo Footage for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dread-hunger-game-fixes-solving-constant-pc-crashes/"><u>Dread Hunger Game Fixes: Solving Constant PC Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-running-smoothly-again-how-to-address-and-eradicate-game-lags/"><u>Dying Light Running Smoothly Again: How to Address and Eradicate Game Lags</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-drivers-error-with-your-hp-laserjet-p2ebyte-p2035-in-windows-easily-solved/"><u>How to Resolve Drivers Error with Your HP LaserJet P2ebyte (P2035) in Windows Easily [Solved]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-concept-to-completion-crafting-youtube-shorts-templates-masterfully/"><u>In 2024, From Concept to Completion Crafting YouTube Shorts Templates Masterfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-fixing-lag-fps-drops-and-crashes-in-outriders-pc-edition/"><u>Optimizing Gameplay: Fixing Lag, FPS Drops, and Crashes in Outriders PC Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-players-rejoice-as-fixed-subnautica-below-zero-stability-issues-resolved/"><u>PC Players Rejoice as [FIXED] Subnautica: Below Zero Stability Issues Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pixel-perfect-strategies-for-sharpening-graphics-in-cod-warzone-on-your-computer/"><u>Pixel-Perfect Strategies for Sharpening Graphics in COD: Warzone on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-game-crashes-in-wows-on-pc-try-these-5-proven-fixes/"><u>Resolving Game Crashes in WoWs on PC? Try These 5 Proven Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-effortlessly-fixing-recurring-outriders-crashes/"><u>Seamless Gaming: Effortlessly Fixing Recurring Outriders Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-windows-10-error-code-c1901e-issue/"><u>Step-by-Step Solution for Windows 10 'Error Code C1901e' Issue</u></a></li>
+<li><a href="https://win-web3.techidaily.com/synchronizing-data-with-external-hdd-on-windows-a-step-by-step-guide-for-windows-11-10-8-and-7/"><u>Synchronizing Data with External HDD on Windows: A Step-by-Step Guide for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-the-perfect-angle-10-best-video-rotators-for-online-use/"><u>Updated 2024 Approved Get the Perfect Angle 10 Best Video Rotators for Online Use</u></a></li>
+</ul></div>
 

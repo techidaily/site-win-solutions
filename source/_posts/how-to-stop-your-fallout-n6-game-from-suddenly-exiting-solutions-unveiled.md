@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Fallout N6 Game From Suddenly Exiting - Solutions Unveiled
-date: 2024-09-01T07:34:41.371Z
-updated: 2024-09-02T07:34:41.371Z
+date: 2024-10-18T17:09:00.560Z
+updated: 2024-10-24T19:50:05.868Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  Before we dive into anything advanced, make sure your account is not suspended or banned. A quick way to verify is to **try another account, or log in with your account on another device** . If you suspect your account is locked, contact[Steam support](https://help.steampowered.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your credentials
 
  When you’re having trouble logging in to Steam, the first thing you should always do is to make sure your credentials are correct. This may sound silly, but it does work. Make sure you’re**logging in with your username, not your email** . For password, you can type it down somewhere and paste it in Steam to make sure it’s correct.
@@ -53,8 +60,12 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  If you’ve checked your credentials and everything looks fine, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Check Steam server status
 
  Another quick fix is to see if the problem is with Steam server instead of user-end. You can check the server status on[Steam stats page](https://store.steampowered.com/stats/) , where you’ll see the number of real-time concurrent players. If the server is down, there should be a sharp decline on the current users.
@@ -93,9 +104,6 @@ If this doesn’t work, try the next fix.
 
  If your Internet connection is valid but you still get the login error from Steam, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check your firewall and antivirus
 
  Your firewall or antivirus, if you use any, can block Steam if it thinks Steam is risky. The connection to the Steam server could be interfered with, so you keep getting login errors. In this case, you can allow Steam through your firewall and/or your antivirus.
@@ -106,19 +114,18 @@ If this doesn’t work, try the next fix.
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-19-54.jpg)
 3. Select**View by: Small icons** . Click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-21-09.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-25-19.jpg)
 5. Scroll down and you should see**Steam.exe** , and other Steam related programs. You can**tick the box of Private** to allow Steam through the firewall when you’re using a private network. Click**OK** to save.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
 
  If you didn’t find Steam in the exception list above, you’ll need to **manually add it to the list then allow it through the firewall** . Here’s how:
@@ -132,16 +139,17 @@ If this doesn’t work, try the next fix.
 4. Select**Steam.exe** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-43-21.jpg)
 5. If you want to add other Steam-related programs to the exception list, you can repeat Step 3 and 4\. Once you’re done, select all the programs you wish to add to the list, then click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-45-12.jpg)
 6. **Tick the box of Private** to allow Steam.exe (and other programs if you need) through the firewall when you’re using a private network. Click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The steps for your antivirus software should be similar. You’ll need to add the Steam executable file or select the Steam client, then add it to the whitelist of your antivirus.
 
  It’s also possible to disable your firewall/antivirus to test the login errors. But we don’t recommend doing so as it can be quite dangerous and expose your PC to risks. If you want to give it a try, be extra cautious and don’t download anything from the internet when your PC isn’t under protection.
@@ -149,8 +157,12 @@ If this doesn’t work, try the next fix.
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Disable background programs
 
  Programs running in the background may have been interfering with Steam so you couldn’t log in to Steam. Here’s a[list](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) of programs that could possibly cause the issue. If you suspect any of the programs on your PC, you can close it in the Task Manager then try to log into Steam. Here’s how:
@@ -158,6 +170,14 @@ If this doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that you think could be problematic. Right-click it then select**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
  If this doesn’t give you luck, there’s one more fix you can try.
@@ -177,29 +197,23 @@ If this doesn’t solve your problem, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the driver, then you can manually install it(you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -218,8 +232,6 @@ Restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +239,19 @@ Restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-metaverse-masterpieces-transforming-images-into-memetic-hits/"><u>[Updated] 2024 Approved Metaverse Masterpieces Transforming Images Into Memetic Hits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-overcoming-non-detectable-obs-camera-link-for-2024/"><u>[Updated] Overcoming Non-Detectable OBS Camera Link for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-interruptions-in-psychonauts-2-a-comprehensive-guide-to-fix-pc-issues/"><u>Avoiding Interruptions in Psychonauts 2 - A Comprehensive Guide to Fix PC Issues</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-the-moment-right-using-snap-in-teams/"><u>Capture the Moment Right Using Snap in Teams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-lag-and-crashes-essential-strategies-to-improve-minecraft-performance-on-pc/"><u>Conquer Lag and Crashes: Essential Strategies to Improve Minecraft Performance on PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-samsung-galaxy-s10-the-epitome-of-luxury-and-performance/"><u>Expert Analysis of the Samsung Galaxy S10: The Epitome of Luxury and Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-convertisseurs-videos-gratuit-en-2023-top-10-pour-windows-10/"><u>Les Meilleurs Convertisseurs Vidéos Gratuit en 2023 : Top 10 Pour Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-resolving-persistent-pc-crashes-while-playing-darkest-dungeon-2/"><u>Solution Guide: Resolving Persistent PC Crashes While Playing Darkest Dungeon 2</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-by-step-easy-snapchat-videos-with-multiple-snaps-for-2024/"><u>Step-by-Step Easy Snapchat Videos with Multiple Snaps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-no-more-crashes-in-updated-version-of-classic-diablo-2/"><u>Troubleshooting Guide: No More Crashes in Updated Version of Classic Diablo 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-overcoming-delays-and-lags-in-naraka-blades/"><u>Ultimate Fixes for Overcoming Delays and Lags in Naraka Blades</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visualedits-exploration-in-depth-look-at-androvid-for-2024/"><u>VisualEdits Exploration – In-Depth Look at AndroVid for 2024</u></a></li>
+</ul></div>
 

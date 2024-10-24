@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Opaque Display Dilemamoent: A Guide for Fortnite Players on Windows"
-date: 2024-08-28T05:13:54.300Z
-updated: 2024-08-29T05:13:54.300Z
+date: 2024-10-23T16:19:55.752Z
+updated: 2024-10-24T19:40:43.990Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,6 +62,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 6. [**Unblock the game from Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
 
@@ -70,17 +84,18 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 2. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method: Update your graphics card
 
  The Fortnite black screen problem may occur when your graphics card driver is outdated or faulty. Upgrading your graphics card will help you prevent black screen problem from happening. In addition to solving the black screen issue, updating drivers can also improve your computer performance and give you less hassle when playing games.
@@ -113,15 +128,16 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -129,6 +145,13 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -140,8 +163,12 @@ OR
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -151,23 +178,8 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
@@ -186,8 +198,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +205,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-360-video-how-to-make-and-upload-360-video-to-facebook/"><u>[New] Facebook 360 Video How to Make and Upload 360 Video to Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-obtaining-high-quality-photos-without-restrictions/"><u>[New] Obtaining High-Quality Photos Without Restrictions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-discover-8-fantastic-websites-offering-free-3d-text-psdfiles-for-2024/"><u>[Updated] Discover 8 Fantastic Websites Offering Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capture-video-perfection-in-minutes/"><u>2024 Approved Capture Video Perfection in Minutes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-trending-tracks-todays-youtube-vital-views/"><u>2024 Approved Trending Tracks Today's YouTube Vital Views</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-troubleshooting-techniques-for-seamless-gameplay-fixing-titanfall-2s-crash-problems/"><u>Expert Troubleshooting Techniques for Seamless Gameplay: Fixing Titanfall 2'S Crash Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-gameplay-interruptions-solving-modern-warfares-pc-freezing-problems/"><u>Fixing Gameplay Interruptions - Solving Modern Warfare's PC Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nioh-2-crashing-complete-edition/"><u>How to Fix Nioh 2 Crashing (Complete Edition)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-persistent-problems-with-ubisoft-connect-solutions-revealed/"><u>How to Fix the Persistent Problems with Ubisoft Connect - Solutions Revealed!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-7-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 7 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/packet-loss-troubleshooting-for-discord-proven-fixes-revealed/"><u>Packet Loss Troubleshooting for Discord – Proven Fixes Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-path-of-exile-connection-issues-with-the-2024-server-update/"><u>Resolved: How to Fix Path of Exile Connection Issues with the 2024 Server Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-tips-to-prevent-your-windows-from-freezing-ready-or-not-app-issue/"><u>Resolved: Tips to Prevent Your Windows From Freezing - 'Ready Or Not' App Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-personal-data-from-ai-vulnerabilities-best-practices-for-securely-engaging-with-adaptive-gpt-models/"><u>Safeguard Personal Data From AI Vulnerabilities: Best Practices for Securely Engaging with Adaptive GPT Models</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-phone-calls-on-ios-and-android-devices-as-well-as-pcs/"><u>Step-by-Step Guide: Capturing Phone Calls on iOS & Android Devices, as Well as PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-recurring-shutdowns-during-age-of-wonders-planetfall-on-pc/"><u>Troubleshooting Recurring Shutdowns During Age of Wonders: Planetfall on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/l-storytelling-in-business-marketing-for-2024/"><u>Visual Storytelling in Business Marketing for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DOOM Eternal Installation Woes? Here's Your Ultimate Fix Guide
-date: 2024-09-01T07:36:40.679Z
-updated: 2024-09-02T07:36:40.679Z
+date: 2024-10-21T18:12:40.676Z
+updated: 2024-10-24T19:17:02.492Z
 tags:
   - win11
   - win10
@@ -71,6 +71,19 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  The crashing issue on launch may be triggered by an outdated device driver (especially the graphics card driver). Usually, you can get the latest graphics driver from its manufacturer’s website (such as [NVIDIA](https://www.nvidia.com/Download/index.aspx?lang=en-us) , [AMD](https://www.amd.com/en/support) , [Intel](https://downloadcenter.intel.com/) ); you just need to find exactly the right driver online, download it and install it step by step.
@@ -94,8 +107,12 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Run DOOM Eternal and wait to see if it still fails to launch. If it does, give Fix 2 a try.
@@ -103,8 +120,12 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Use dedicated GPU
 
  If you’re using an integrated GPU, then it’s probably the culprit for your problem. Perform the following actions to make sure you run DOOM Eternal with the NVIDIA dedicated GPU:
@@ -121,18 +142,12 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** If you’re using the AMD GPU, please refer to **[https://www.amd.com/en/support/kb/faq/dh-017](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
  Now try to launch DOOM Eternal and see whether your issue has been solved. If it hasn’t, then proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Plug your monitors into the primary GPU
 
  DOOM Eternal may fail to start if you have multiple monitors plugged into different GPUs, so make sure you plug both monitors into the primary GPU (also the dedicated one). After that, relaunch the game to see if it keeps crashing. If it doesn’t, then congrats – you’ve fixed the issue! If it does, please move on to the next fix, below.
@@ -145,10 +160,6 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your BIOS
 
  There’s a chance that your crash issue is caused by the out-dated Basic Input Output System (BIOS). Since BIOS plays a crucial role in your computer’s normal functioning, you must know that the process of updating BIOS could be risky and error-prone due to various reasons. For example, if you install a wrong BIOS version or your computer loses power during the update, major problems will come along – you might need to spend much to get your PC repaired. In short, perform a BIOS update at your own risk.
@@ -158,8 +169,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable unnecessary programs
 
  Shut down unnecessary programs (such as the Steam overlay) before launching DOOM Eternal in case it conflicts with other applications. To completely shut down a program:
@@ -168,22 +183,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 **Exercise caution with this step.** If you mistakenly end the important system processes, your computer may fail to work properly.
 
 **Note** that your trouble is sometimes caused by interference from**antivirus software** . To see if that’s the problem for you, temporarily disable your antivirus program and check if DOOM Eternal can run normally. (Consult your antivirus documentation for instructions on disabling it.)
@@ -216,6 +219,13 @@ If this fix is to no avail, move on to Fix 8 below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Run the game as administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run DOOM Eternal, you should give this fix a try.
@@ -225,20 +235,27 @@ If this fix is to no avail, move on to Fix 8 below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run DOOM Eternal under administrator privileges permanently. Next up, check to see if you’re able to run DOOM Eternal.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Wait for new game patches
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else rather than sit tight, you can also forward your problem to the developer or look for other solutions on related forums.
@@ -256,8 +273,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +280,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-breaking-barriers-watching-live-events-on-your-roku-screen-for-2024/"><u>[Updated] Breaking Barriers Watching Live Events on Your Roku Screen for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elite-fight-club-best-of-10-battle-royale-titles/"><u>2024 Approved Elite Fight Club Best of 10 Battle Royale Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>2024 Approved Perfect Your Preview Fullscreen Mastery with Premiere Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-technical-glitches-ensuring-smooth-gaming-on-pc-with-persona-5-strikers/"><u>Defeat Technical Glitches: Ensuring Smooth Gaming on PC with Persona 5 Strikers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-addressing-fatal-development-issues-in-modern-warfare-and-warzone-gameplay/"><u>Effective Solutions for Addressing Fatal Development Issues in Modern Warfare and Warzone Gameplay</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/exploring-other-options-to-replace-carbon-copy-cloner-for-various-windows-versions-including-11-10-8-and-e/"><u>Exploring Other Options to Replace Carbon Copy Cloner for Various Windows Versions (Including 11, 10, 8 & E)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-76-performance-boosting-techniques-say-goodbye-to-low-fps/"><u>Fallout 76 Performance Boosting Techniques - Say Goodbye to Low FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/frostpunk-stability-solutions-how-to-stop-game-crashes-for-good/"><u>Frostpunk Stability Solutions: How to Stop Game Crashes for Good</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-pc-crash-woes-here-are-the-solutions/"><u>Halo Infinite PC Crash Woes? Here Are the Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-freeze-ups-when-playing-path-of-exile-a-comprehensive-walkthrough/"><u>How to Stop Freeze-Ups When Playing Path of Exile - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-apps-revolutionizing-video-talks/"><u>In 2024, Innovative Apps Revolutionizing Video Talks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006704830-quick-fix-for-dayz-fps-issues-speed-up-your-game-now/"><u>Quick Fix for DayZ FPS Issues - Speed Up Your Game Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-creative-pebble-speaker-issues-no-more-silence/"><u>Solution Steps for Creative Pebble Speaker Issues – No More Silence!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-wallpaper-engine-not-responding-on-windows-11-and-10/"><u>Troubleshooting Guide: Wallpaper Engine Not Responding on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-windows-1n-arm-vs-standard-windows-benefits-performance-and-differences/"><u>Understanding Windows 1N ARM vs Standard Windows: Benefits, Performance & Differences</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-10-schnelllosung-fur-die-fehlende-wiederherstellungsfunktion/"><u>Windows 10: Schnelllösung Für Die Fehlende Wiederherstellungsfunktion</u></a></li>
+</ul></div>
 

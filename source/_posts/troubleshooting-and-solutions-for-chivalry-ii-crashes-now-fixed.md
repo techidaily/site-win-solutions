@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for Chivalry II Crashes - Now Fixed
-date: 2024-08-28T05:13:33.401Z
-updated: 2024-08-29T05:13:33.401Z
+date: 2024-10-17T19:19:05.556Z
+updated: 2024-10-24T17:00:22.403Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -50,8 +57,12 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -65,8 +76,12 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +110,26 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +140,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +157,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +164,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[New] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aprenda-a-mesclar-seus-videos-com-excelencia-no-windows-nx-melhores-dicas-e-estrategias/"><u>Aprenda a Mesclar Seus Vídeos Com Excelência No Windows nX: Melhores Dicas E Estratégias!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-efficiency-creating-speed-driven-google-collages/"><u>Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-turn-mundane-games-into-epic-scenes/"><u>In 2024, How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-minute-methods-for-retrieving-erased-reddit-threads/"><u>In 2024, Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-prime-video-picks-most-watched-of-all-time/"><u>In 2024, Prime Video Picks Most Watched of All Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-cell-combination-techniques-a-beginners-tutorial-on-string-concat-in-excel/"><u>Seamless Cell Combination Techniques: A Beginner's Tutorial on String Concat in Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamlessly-connecting-microsoft-office-with-your-zoho-crm/"><u>Seamlessly Connecting Microsoft Office with Your Zoho CRM</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-adding-checkmarks-with-ease-in-ms-excel/"><u>Step-by-Step Guide: Adding Checkmarks with Ease in MS Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-creating-and-customizing-microsoft-office-templates-2010-and-2007/"><u>Step-by-Step Guide: Creating and Customizing Microsoft Office Templates (2010 & 2007)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-adding-todays-date-functionality-to-your-excel-spreadsheet/"><u>Step-by-Step Tutorial: Adding Today’s Date Functionality to Your Excel Spreadsheet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-enable-developer-tools-in-microsoft-excel/"><u>Steps to Enable Developer Tools in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/weekly-digest-the-conclusion-of-streamings-starter-pack-and-enhanced-mobile-fixes/"><u>Weekly Digest: The Conclusion of Streaming's Starter Pack & Enhanced Mobile Fixes</u></a></li>
+</ul></div>
 

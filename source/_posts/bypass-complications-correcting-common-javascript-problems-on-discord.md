@@ -1,7 +1,7 @@
 ---
 title: "Bypass Complications: Correcting Common JavaScript Problems on Discord"
-date: 2024-08-28T05:14:56.351Z
-updated: 2024-08-29T05:14:56.351Z
+date: 2024-10-21T19:24:50.566Z
+updated: 2024-10-24T18:40:41.853Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ If that doesn’t work for you, try the fixes below.
 4. **[Run Windows Store troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Allow Minecraft installer through firewall
 
  The Windows Firewall is a built-in application that protects users from internet-based threats. However, sometimes it may mistakenly prevent trustworthy software from making changes on your system. To check if that’s your case, you can manually add Minecraft installer to the list of bypassing the firewall. Below are the steps you can take.
@@ -51,23 +48,28 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -97,13 +99,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -118,22 +124,26 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
 ## 5\. Run a full scan of your PC
@@ -149,8 +159,12 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
  Upon the completion of the repair, try to install Minecraft and you should be able to do it successfully.
@@ -165,8 +179,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +186,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>[New] In 2024, Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-comprehensive-solutions-for-optimizing-origin-game-downloads/"><u>2024'S Comprehensive Solutions for Optimizing Origin Game Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beating-the-chill-expert-advice-on-thawing-out-your-call-of-duty-black-ops-cold-war-experience/"><u>Beating the Chill: Expert Advice on Thawing Out Your Call of Duty: Black Ops Cold War Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/beginners-blueprint-to-blend-brighten-and-balance-for-2024/"><u>Beginner's Blueprint to Blend, Brighten & Balance for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/benutzerfreundliche-anleitung-zum-automatischen-datenaustausch-auf-windows-systemen/"><u>Benutzerfreundliche Anleitung Zum Automatischen Datenaustausch Auf Windows-Systemen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-affordable-hisense-40h5590f-with-smart-features/"><u>Comprehensive Analysis of the Affordable Hisense 40H5590F with Smart Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-lunapic-elevate-your-photographic-skills-for-2024/"><u>Conquer Lunapic Elevate Your Photographic Skills for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-doom-eternal-from-crashing-continuously/"><u>Effective Solutions to Prevent DOOM Eternal From Crashing Continuously</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000467260-effortless-fixes-for-common-fortnite-login-errors-get-back-in-the-game-now/"><u>Effortless Fixes for Common Fortnite Login Errors – Get Back in the Game Now</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-user-tracking-with-advanced-cookiebot-technology/"><u>Enhanced User Tracking with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-dichotomy-how-microsoft-and-native-windows-accounts-contrast/"><u>Exploring the Dichotomy: How Microsoft and Native Windows Accounts Contrast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-back-to-adventuring-quickly-fixes-for-teso-not-launching-correctly/"><u>Get Back to Adventuring Quickly: Fixes for TESO Not Launching Correctly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-reno-11f-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Reno 11F 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-your-failing-companys-launch-process-insights-success/"><u>Reviving Your Failing Company's Launch Process - Insights Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-directx-hardware-setup-failure/"><u>Solution Found: Fixing DirectX Hardware Setup Failure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-when-shadowplay-wont-capture-on-a-pc-setup/"><u>The Ultimate Fix for When ShadowPlay Won’t Capture on a PC Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unstick-your-progress-solutions-for-among-us-perpetual-load-screens/"><u>Unstick Your Progress: Solutions for 'Among Us' Perpetual Load Screens</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+</ul></div>
 

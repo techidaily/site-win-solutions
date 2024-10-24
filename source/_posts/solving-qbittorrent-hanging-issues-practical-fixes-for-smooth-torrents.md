@@ -1,7 +1,7 @@
 ---
 title: "Solving qBittorrent Hanging Issues: Practical Fixes for Smooth Torrents"
-date: 2024-09-01T07:35:48.223Z
-updated: 2024-09-02T07:35:48.223Z
+date: 2024-10-17T18:48:47.093Z
+updated: 2024-10-24T18:22:40.369Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
  If your speed score is fast, chances are your slow download speed has nothing to do with the internet. Read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2\. Restart Your Computer
 
  If the problem wasn’t your internet, it may be your device. The easiest fix to try would be restarting your computer which will close apps running in the background, reset your desktop environment. So if you haven’t yet, give it a shot.
@@ -71,19 +68,27 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-preference.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Under the**General** tab, check the box next to**Append .!ud to incomplete files** and **Pre-allocate all files** . Then click**Apply**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-general-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the**Bandwidth tab** , then set your**Global Upload/Download Rate** and**Number of Connections** as followed:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-bandwidth-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Go to the **Queueing**  tab and set the value as followed. Then, click**Apply** .
 
  If you’re downloading multiple files at a time, it would take more time for each file to be downloaded because each file you download will take a piece of your bandwidth.
@@ -95,8 +100,12 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Apply the settings and restart uTorrent to test the issue.
 
 If your download speed is still slow, move on and try the next fix.
@@ -108,8 +117,12 @@ If your download speed is still slow, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vpn-1200x800.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A good VPN encrypts your data and redirects it through a protected tunnel. In this way, your ISP won’t be able to tell what kind of traffic you’re sending or receiving, and thus can’t interfere with your network.
 
  Some VPN services are free but, as with most things in life, you get what you pay for. Free VPNs are never as good as paid ones; either they’re not as fast or reliable, or they can be forced to share your details with the authorities.
@@ -124,14 +137,8 @@ If your download speed is still slow, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_14-39-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Now you can download securely and anonymously!
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5\. Allow uTorrent through Firewall
 
  If your download speed drops to zero, it could be Windows Firewall that is blocking your torrent client. In this case, you can add an exception to the Windows firewall to fix the issue:
@@ -143,8 +150,12 @@ If your download speed is still slow, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-preference.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Connections** and check the **Add Windows Firewall exception**  box and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
@@ -198,8 +209,18 @@ If your issue persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_18-45-58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the driver you need to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -207,8 +228,12 @@ If your issue persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_18-46-06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -224,9 +249,6 @@ If the problem still exists, read on and try the next fix.
 
  If the number of seeders and peers for the torrent file is small, or the seeds go offline temporarily, your download speed will be slow. So you might want to choose files with more seeders when downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Fix 10\. Add Trackers
 
  Adding more torrent trackers allows you to add more seeds and peers so your download speed will increase.
@@ -237,16 +259,23 @@ If the problem still exists, read on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-58-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  3) Copy the tracker list that you found and paste it to the end of the existing tracker list box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-trackers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IMPORTANT: Protect Your Privacy When Torrenting
 
  Downloading torrents is perfectly legal, so long as the files you’re downloading aren’t protected under copyright.
@@ -269,8 +298,6 @@ If the problem still exists, read on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +305,16 @@ If the problem still exists, read on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-melody-cache-legally/"><u>[Updated] FB Melody Cache (Legally)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c02-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C02 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-enhancement-say-goodbye-to-fallout-ebuttings-hello-to-fluid-action/"><u>Game Enhancement: Say Goodbye to Fallout Ebuttings, Hello to Fluid Action!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-your-rockstar-games-launcher-comprehensive-fixes-for-users/"><u>How to Repair Your Rockstar Games Launcher: Comprehensive Fixes for Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s18-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S18 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-hottest-tiktok-trends-on-twitter/"><u>In 2024, The Hottest TikTok Trends on Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-wma-naar-m4v-verzamelen-vrije-converteertool-via-movavi/"><u>Online WMA Naar M4V Verzamelen - Vrije Converteertool via Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-hell-let-loose-game-crashes-on-windows-now-running-smoothly/"><u>Resolving Hell Let Loose Game Crashes on Windows - Now Running Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-11-tactics-for-fixed-borderlands-3-not-launching-woes/"><u>Troubleshooting Guide: 11 Tactics for Fixed Borderlands 3 Not Launching Woes</u></a></li>
+</ul></div>
 

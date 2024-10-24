@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | CS: GO Lag | Quickly & Easily"
-date: 2024-09-01T07:39:35.262Z
-updated: 2024-09-02T07:39:35.262Z
+date: 2024-10-19T17:17:05.440Z
+updated: 2024-10-24T16:29:49.278Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 7. [**Adjust your Windows system for the best performance**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for GTA 5
 
@@ -61,6 +68,13 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -81,15 +95,16 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -98,9 +113,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest game patch
 
  The developers of GTA 5 release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -118,17 +130,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.”  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -160,6 +173,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Restrict applications and downloads in the background
 
  The GTA FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -168,16 +188,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Run GTA 5 again to see if you can play the game smoothly. It the FPS in GTA 5 still drops, try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Change the power plan of your PC
 
  If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue. Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. To fix the game lag issue, try changing the power plan of your PC to **High performance** . Here is how to do it:
@@ -185,23 +206,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Launch GTA 5 to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
@@ -213,6 +219,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
@@ -232,8 +246,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +253,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-crafting-dynamic-luts/"><u>[New] The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-skyrocketing-engagement-on-igtv-with-smart-hash-tagging/"><u>[Updated] In 2024, Skyrocketing Engagement on IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ios-and-ps2-gaming-top-emulators-unveiled/"><u>[Updated] IOS and PS2 Gaming Top Emulators Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-2024-exclusive-top-8-selfie-accessories-list/"><u>[Updated] Iphone 2024 Exclusive Top #8 Selfie Accessories List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-new-norms-metaverse-marketing-101-for-2024/"><u>[Updated] Navigating New Norms Metaverse Marketing 101 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-navigating-through-gopro-and-time-lapse-synergy/"><u>[Updated] Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-10-key-devices-for-effective-zoom-sessions/"><u>2024 Approved 10 Key Devices for Effective Zoom Sessions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arise-story-mode-continuation-overcoming-unexpected-shutdowns/"><u>Arise Story Mode Continuation: Overcoming Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cortana-troubleshooting-top-tips-for-resolving-issues-quickly/"><u>Cortana Troubleshooting: Top Tips For Resolving Issues Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-for-correcting-resident-evil-villages-pc-black-screen-a-comprehensive-guide/"><u>Expert Advice for Correcting Resident Evil Village's PC Black Screen - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-outpost-infinity-siege-crashing-on-pc/"><u>How to Fix Outpost: Infinity Siege Crashing on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-typographic-tactics-for-advanced-ae-users/"><u>In 2024, Typographic Tactics for Advanced AE Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-error-guide-solving-issue-727e66ac-with-easy-troubleshooting-steps/"><u>NBA 2K24 Error Guide: Solving Issue 727E66ac with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-lag-issues-a-guide-to-lower-your-ping-in-back-4-blood/"><u>Resolving Lag Issues: A Guide to Lower Your Ping in Back 4 Blood</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-overcome-baldurs-gate-freezing-and-hitching/"><u>Smooth Gaming Experience: Overcome Baldur's Gate Freezing & Hitching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-dragons-dogma-2-pc-instability-issues-a-comprehensive-guide/"><u>Solving Dragon's Dogma 2 PC Instability Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-troubleshoot-non-recording-problems-with-obs-software/"><u>Step-by-Step Guide to Troubleshoot Non-Recording Problems with OBS Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+</ul></div>
 

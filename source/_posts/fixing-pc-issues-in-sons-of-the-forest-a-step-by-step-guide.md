@@ -1,7 +1,7 @@
 ---
 title: Fixing PC Issues in 'Sons of the Forest' - A Step-by-Step Guide
-date: 2024-09-01T07:39:15.275Z
-updated: 2024-09-02T07:39:15.275Z
+date: 2024-10-23T17:13:53.211Z
+updated: 2024-10-24T18:29:03.784Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -83,17 +103,18 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -106,18 +127,29 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -137,14 +169,8 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -157,9 +183,6 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -177,8 +200,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +207,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-sculpting-light-and-shadow-the-photoshop-hdr-way-for-2024/"><u>[New] Sculpting Light and Shadow The Photoshop HDR Way for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-spectacular-scrutiny-and-variant-solutions/"><u>[Updated] 2024 Approved Spectacular Scrutiny & Variant Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/combine-the-fractions-on-the-left-side-since-they-have-the-same-denominator/"><u>Combine the Fractions on the Left Side Since They Have the Same Denominator:</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-remedies-for-the-black-screen-glitch-while-playing-fortnite-on-your-pc/"><u>Effective Remedies for the Black Screen Glitch While Playing Fortnite on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-cutting-down-high-ping-and-enhancing-gameplay-in-street-fighter-6-pc/"><u>Expert Tips for Cutting Down High Ping & Enhancing Gameplay in Street Fighter 6 (PC)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stuck-on-loading-in-sea-of-thieves-complete-guide/"><u>Fixing 'Stuck on Loading' In Sea of Thieves: Complete Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 6s Plus and iPad?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>In 2024, Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-breakthrough-ways-to-transform-your-powerpoint-presentations/"><u>In 2024, Breakthrough Ways to Transform Your PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>In 2024, Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-for-persistent-teardown-application-errors-thorough-guide/"><u>Mastering the Fix for Persistent Teardown Application Errors [Thorough Guide]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/octobers-most-sought-after-amazon-echo-offers-unbeatable-black-friday-prices-guaranteed/"><u>October's Most Sought-After Amazon Echo Offers – Unbeatable Black Friday Prices Guaranteed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-cyberpunk-2077-performance-addressing-heavy-cpu-use-problems/"><u>Optimizing Cyberpunk 2077 Performance: Addressing Heavy CPU Use Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-k11x-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo K11x FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-hack-for-launching-hogwarts-legacy-successfully-top-fixes/"><u>Ultimate Hack for Launching Hogwarts Legacy Successfully - Top Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-controllers-unlock-gaming-joy-by-correcting-invisible-input-devices/"><u>Windows Controllers: Unlock Gaming Joy by Correcting Invisible Input Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-against-steam-lag-and-freeze-errors-in-202cdigital-marketing-agency/"><u>Winning Against Steam Lag and Freeze Errors in 202CDigital Marketing Agency</u></a></li>
+</ul></div>
 
