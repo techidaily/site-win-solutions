@@ -1,7 +1,7 @@
 ---
 title: "Optimizing PC Performance to Overcome Star Wars: Battlefront II's Slow Loading Problem"
-date: 2024-08-28T05:10:02.863Z
-updated: 2024-08-29T05:10:02.863Z
+date: 2024-10-24T16:15:13.058Z
+updated: 2024-10-30T16:15:42.335Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[If your game still crashes…](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Switch to DX11
 
  Some players reported on Reddit that they managed to stop game crashes by forcing the game to start in DX11 mode instead of DX12\. To do this, follow the instructions below.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Under the GENERAL tab, enter**\-force -dx11** into the dialog box under the LAUNCH OPTIONS.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/force-dx11.png)
 
@@ -54,11 +68,15 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Select the**LOCAL FILES** tab. Then click on the button**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies Steam will redownload, and repair corrupted files.
 
  When the process is complete, launch your game. If your problem persists, try the next fix below.
@@ -79,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then launch your game and you should be able to enjoy your gameplay without much interruptions.
@@ -107,9 +129,6 @@ Here’s how you can run a scan of your PC with Reimage:
 4. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 1\. Disable V-Sync
 
  Short for vertical sync, V-Sync is a graphics technology that synchronizes the frame rate of your game to the refresh rate of your monitor. Unfortunately, sometimes V-Sync reduces the input responsiveness of your system while gaming, which can cause your computer to crash. And performance issues would arise.
@@ -121,9 +140,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/press-ESC-and-select-SETTINGS.png)
 3. Select**GRAPHICS** . Under**BASIC** , make sure the option ENABLE VSYNC is unchecked.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
@@ -138,11 +154,22 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
 
@@ -155,16 +182,17 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Enable hardware-accelerated GPU scheduling
 
@@ -174,27 +202,15 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If that doesn’t work for you, proceed to the next fix.
 
 ### 5\. Delete temp files
@@ -208,20 +224,27 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 4. Press **Ctrl + A**  at the same time to select all the files inside the folder. Then right-click and select **Delete** .  
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
 ---
@@ -234,8 +257,6 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +264,26 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-video-privacy-techniques-for-obscuring-details/"><u>[New] In 2024, Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-perfect-posts-every-time-mastering-instagram-video-uploads-on-desktop/"><u>[Updated] 2024 Approved Perfect Posts Every Time Mastering Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-audio-outliers-best-sound-distortion-apps-for-your-device-for-2024/"><u>[Updated] Audio Outliers Best Sound Distortion Apps for Your Device for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cinematic-treasures-15-incredible-stop-motion-films-for-2024/"><u>[Updated] Cinematic Treasures 15 Incredible Stop-Motion Films for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tricks-for-making-fb-ads-pop-up-on-screen/"><u>[Updated] In 2024, Tricks for Making FB Ads Pop Up on Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-be-gone-comprehensive-fixes-to-stop-the-cycle-frontier-from-crashing-on-pcs/"><u>Bug Be Gone: Comprehensive Fixes to Stop 'The Cycle: Frontier' From Crashing on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-of-tormented-souls-by-solving-persistent-pc-crashes-issues/"><u>Enhance Gameplay of Tormented Souls by Solving Persistent PC Crashes Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tactics-to-stabilize-your-csgo-frames-per-second-and-eliminate-drops/"><u>Expert Tactics to Stabilize Your CS:GO Frames per Second and Eliminate Drops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-origin-not-launching-issue-in-windows-11-a-step-by-step-guide/"><u>Fixing 'Origin Not Launching' Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-launch-problems-with-mass-effect-legendary-edition-solutions-unveiled/"><u>Fixing Launch Problems with Mass Effect Legendary Edition - Solutions Unveiled!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-7-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 7 Before the Plan Expires</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-edge-stability-fixed-no-more-freezing-on-windows-11/"><u>Microsoft Edge Stability Fixed: No More Freezing on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-corsair-icue-compatibility-issues-with-windows-10-and-11/"><u>Overcoming Corsair iCUE Compatibility Issues with Windows 10 and 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-resolving-ghost-recon-breakpoint-crashing-problems/"><u>Quick Fixes: Resolving Ghost Recon Breakpoint Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-solutions-resolving-wwe-2k2e-pc-game-crashes-quickly/"><u>Simple Solutions: Resolving WWE 2K2e PC Game Crashes Quickly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-locating-and-repairing-the-missing-d3dx9toll-error/"><u>Step-by-Step Guide: Locating and Repairing the Missing D3dx9_toll Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-gpu-step-by-step-nvidia-driver-installation-tutorial/"><u>Update Your GPU: Step-by-Step NVIDIA Driver Installation Tutorial</u></a></li>
+</ul></div>
 

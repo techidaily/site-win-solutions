@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Unstable Performance of Halo Infinite on Personal Computers"
-date: 2024-08-28T05:10:36.116Z
-updated: 2024-08-29T05:10:36.116Z
+date: 2024-10-26T16:12:58.064Z
+updated: 2024-10-30T16:07:55.612Z
 tags:
   - win11
   - win10
@@ -51,21 +51,12 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 1. Launch Deathloop and navigate to**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Check if you still have the freezing issue in Deathloop.
 
 If this does not resolve the problem, proceed to Fix 3\.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, you’re more likely to encounter the freezing issue in Deathloop. To fix it, make sure you have the latest drivers for your graphics card installed.
@@ -76,7 +67,22 @@ If this does not resolve the problem, proceed to Fix 3\.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -91,13 +97,25 @@ If the game still keeps freezing, take a look at the next fix.
 1. Right-click your**taskbar** and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager.jpg)
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
 3. Relaunch Deathloop and test the gameplay.
 
  If the freezing issue still occurs after closing all the background programs, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Switch to Performance Mode on PS5
 
@@ -107,14 +125,15 @@ If the game still keeps freezing, take a look at the next fix.
 2. Choose**Save Data and Game/App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
 
 If this method doesn’t do the trick, check out the last fix.
@@ -126,9 +145,6 @@ If this method doesn’t do the trick, check out the last fix.
 1. Press and hold the**power button** on your controller.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
 4. Plug the power cable back in and turn the console back on by pressing the**power button** on your controller.
 
@@ -148,8 +164,6 @@ Check if the game freezes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +171,26 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-strategies-for-effective-content-promotion-on-youtube-for-2024/"><u>[New] Strategies for Effective Content Promotion on YouTube for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-compendium-of-popular-german-expressions-top-25/"><u>A Compendium of Popular German Expressions (Top 25)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-study-of-progressive-mastery-in-languages/"><u>A Study of Progressive Mastery in Languages</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-avoid-rocket-league-crashing-with-these-expert-tips-updated/"><u>Beat the Glitch: Avoid Rocket League Crashing with These Expert Tips (Updated )</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exclusive-guide-choosing-among-top-9-free-logo-creators-for-2024/"><u>Exclusive Guide Choosing Among Top 9 Free Logo Creators for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-resolving-persistent-crashes-for-age-of-empires-iv-gamers-on-windowsmac-systems/"><u>Guide to Resolving Persistent Crashes for Age of Empires IV Gamers on Windows/Mac Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/heart-of-the-matter-resolving-technical-glitches-in-hearts-of-iron-4-gaming/"><u>Heart of the Matter: Resolving Technical Glitches in Hearts of Iron 4 Gaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-input-lag-issues-in-cyberpunk-2077/"><u>How to Fix Input Lag Issues in Cyberpunk 2077</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-perfect-video-gear-starting-with-beginner-cameras/"><u>In 2024, Perfect Video Gear Starting with Beginner Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-least-expensive-skyvault-service-for-big-files/"><u>In 2024, The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-non-working-function-button-for-brightness-on-windows-11/"><u>Rectifying Non-Working Function Button for Brightness on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-issues-with-inaccessible-steam-social-connections/"><u>Resolved: Fixing Issues with Inaccessible Steam Social Connections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-audio-to-your-minecraft-experience-a-guide-for-players-with-no-sound-issues/"><u>Restoring Audio to Your Minecraft Experience: A Guide for Players with No Sound Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-destiny-2s-beyond-light-update-successfully-launched-on-personal-computers/"><u>Smooth Gaming Experience: Destiny 2'S Beyond Light Update Successfully Launched on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-reactivating-voice-chat-in-among-us-for-windows-users/"><u>Solving the Problem: Reactivating Voice Chat in Among Us for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-3-remastered-pc-version-released-with-optimized-stability-fixes-for-gamers/"><u>Yakuza 3 Remastered Pc Version Released with Optimized Stability Fixes for Gamers</u></a></li>
+</ul></div>
 

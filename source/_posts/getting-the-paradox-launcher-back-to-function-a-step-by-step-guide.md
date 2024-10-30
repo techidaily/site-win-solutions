@@ -1,7 +1,7 @@
 ---
 title: "Getting the Paradox Launcher Back to Function: A Step-by-Step Guide"
-date: 2024-08-28T05:07:20.345Z
-updated: 2024-08-29T05:07:20.345Z
+date: 2024-10-23T16:03:34.120Z
+updated: 2024-10-30T16:16:24.547Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -50,20 +47,22 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
 7. Then install it and reboot it to check.
 
 There’s another situation that
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your drivers
 
  Outdated or wrong drivers could cause trouble. When you meet computer problems but have no clue to fix them, you can update related drivers for a try. Keeping your drivers updated can help you enhance device functions to improve computer performance.
@@ -75,6 +74,13 @@ There’s another situation that
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -92,16 +98,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,8 +123,19 @@ OR
 3. Reboot your camera to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -128,11 +146,16 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -148,8 +171,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +178,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-deciphering-the-differences-between-youtubes-and-dailymentions-for-2024/"><u>[New] Deciphering the Differences Between YouTubes & DailyMentions for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/evolutionary-techniques-for-high-quality-sound-recording-no-microphone-required/"><u>[New] Revolutionary Techniques for High-Quality Sound Recording, No Microphone Required</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-editing-perfecting-transitions-in-kinemaster/"><u>[Updated] Advanced Editing Perfecting Transitions in Kinemaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-must-see-top-5-youtube-link-share-extensions-for-2024/"><u>[Updated] Must-See Top 5 YouTube Link Share Extensions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-terria-customization-collection/"><u>2024 Approved Ultimate Terria Customization Collection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-huion-kamvas-gt-191-art-pad-assessment-exceptional-features-and-impressive-performance/"><u>Comprehensive Huion Kamvas GT- 191 Art Pad Assessment: Exceptional Features & Impressive Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2022-delayed-discover-these-quick-fixes-to-launch-it-successfully/"><u>Football Manager 2022 Delayed? Discover These Quick Fixes to Launch It Successfully!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-how-to-stop-rainbow-six-extraction-from-crashing-on-your-pc/"><u>Guide: How to Stop Rainbow Six Extraction From Crashing on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-acer-nitro-curved-monitor-34-wqhd-slashed-to-2nk-available-only-at-newegg/"><u>Huge Savings Alert: Acer Nitro Curved Monitor, 34 WQHD, Slashed to $2Nk – Available Only at Newegg!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-realtime-replay-recorder/"><u>In 2024, RealTime Replay Recorder</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-stutters-optimizing-mass-effect-legendary-edition-performance/"><u>No More Stutters: Optimizing Mass Effect Legendary Edition Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-fifa-20-gameplay-interruption-caused-by-directx-glitches/"><u>Overcoming the FIFA 20 Gameplay Interruption Caused by DirectX Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-crashes-a-comprehensive-guide-to-stabilizing-playstation-game-horizon-forbidden-west-on-your-computer/"><u>Solving Crashes: A Comprehensive Guide to Stabilizing PlayStation Game 'Horizon Forbidden West' On Your Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-constant-stardew-valley-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Constant Stardew Valley PC Game Crashes</u></a></li>
+</ul></div>
 

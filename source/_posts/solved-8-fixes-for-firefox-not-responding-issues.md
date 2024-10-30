@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] 8 Fixes for Firefox Not Responding Issues"
-date: 2024-08-28T05:07:45.615Z
-updated: 2024-08-29T05:07:45.615Z
+date: 2024-10-23T16:00:43.745Z
+updated: 2024-10-30T16:03:15.148Z
 tags:
   - win11
   - win10
@@ -108,9 +108,6 @@ Now go on to check if the problem remains with your Firefox browser.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Firefox is not responding_
 
  If you saw few specific details other than “Firefox is not responding” on the error message you received, and the browser didn’t respond to any of your clicks or keystrokes, then here’re some of the most useful methods you should try.
@@ -146,19 +143,27 @@ If this fix didn’t help, please proceed to the next one.
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the**General** tab, in the results pane, under**Performance** , untick the**Use recommended performance settings** check box. Then, uncheck**Use hardware acceleration when available** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-30.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Close Firefox and reopen it.
 
  If you find that the problem no longer exists, then chances are your graphics card drivers have been corrupt or outdated. You can simply leave hardware acceleration disabled, or update your graphics drivers (in this case you may be able to turn on hardware acceleration again).
@@ -179,6 +184,13 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-29.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the**Privacy & Security** tab, in the results pane, scroll down until you’ve found the**Cookies and Site Data** section. Then, click**Clear Data…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-34-1024x374.png)
@@ -188,13 +200,12 @@ If this fix didn’t help, please proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-35.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When prompted for confirmation, click**Clear Now** .
 
  On completion, relaunch Firefox and check whether there’re still times when Firefox becomes unresponsive. In case the problem persists, move on to the next fix, below.
@@ -209,13 +220,17 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Help** \>**Troubleshooting Information** .
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Under**Try Safe Mode** , click**Restart with Add-ons Disabled…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-58.png)
@@ -234,16 +249,10 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-59.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-59.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the**Themes** tab, click on the three-dot button of your disabled**Default** theme and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-61-1024x401.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and wait to see if the problem disappears. If it does, then reverting your Firefox theme to the default should have well resolved the issue; if it doesn’t, keep trying the next step.
 
  7)**Check for problematic extensions** . To do this, click the**menu** button at the top right and then select**Add-ons** (as shown in Step 6).
@@ -252,9 +261,6 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-60-1024x389.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-60-1024x389.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, apply the above step to all your extensions one by one until you find out whether any of them was actually causing the problem.
 
  8) Suppose you find out which extension has caused you trouble, you can try updating it first. To do this, also go to the**Extensions** tab as illustrated in Step 7\. Click the**gear icon** to the right of**Manage Your Extensions** , and select**Check for Updates** .
@@ -262,8 +268,12 @@ If this fix didn’t help, please proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-62.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If there’re any updates detected, click**Install Updates** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works properly. In case updating extensions didn’t help, you can also check the extension settings, as shown below.
 
  9) Click the three-dot icon of that extension, and select**Options** .
@@ -271,8 +281,12 @@ If this fix didn’t help, please proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-63.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the pop-up page, you’ll see quite a few extension settings. Now you should judge by yourself which one might be the cause of your issue and make a change depending on your situation.
 
 Restart Firefox and see if the not-responding problem goes away.
@@ -290,6 +304,13 @@ Restart Firefox and see if the not-responding problem goes away.
  2) Click**Help** \>**About Firefox** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then Firefox will check automatically whether your version is up-to-date and update it if it isn’t.
 
@@ -313,9 +334,6 @@ Restart Firefox and see if the not-responding problem goes away.
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the upper right corner, under**Give Firefox a tune up** , click**Refresh Firefox…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-49-1024x247.png)
@@ -336,8 +354,6 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -345,4 +361,23 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-nocturnal-tales-on-the-silver-screen/"><u>[New] Nocturnal Tales on the Silver Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-vr-movie-releases-worth-watching/"><u>[Updated] Premier VR Movie Releases Worth Watching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-resolution-guide-for-cod-black-ops-cold-war-understanding-and-fixing-error-80070057/"><u>Error Resolution Guide for Cod: Black Ops Cold War - Understanding and Fixing Error 80070057</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-wwe-2k20-pc-instability-with-simple-troubleshooting-steps/"><u>Fix WWE 2K20 PC Instability with Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-common-problems-with-starting-destiny-e2-on-your-computer-step-by-step-guide/"><u>Fixing Common Problems with Starting Destiny E2 on Your Computer – Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-gt-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 GT Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Smart 8 Plus Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 14</u></a></li>
+<li><a href="https://extra-information.techidaily.com/manufacture-jokes-memes-using-adobe/"><u>Manufacture Jokes Memes Using Adobe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-performance-of-necromunda-hired-gun-fix-pc-crashes-effectively/"><u>Optimize Performance of Necromunda 'Hired Gun' - Fix PC Crashes Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-no-more-freezes-master-stable-gameplay-in-assassins-creed-valhalla-for-pc/"><u>Resolved: No More Freezes - Master Stable Gameplay in Assassin's Creed: Valhalla for PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-elden-rings-dark-launch-steps-to-a-successful-start/"><u>Resolving Elden Ring's Dark Launch: Steps to a Successful Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-persona-3-fe-not-working-properly-on-windows/"><u>Solving the Issue: Persona 3 FE Not Working Properly on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-pinterest-automation-apps-you-cant-miss/"><u>Top 5 Essential Pinterest Automation Apps You Can't Miss</u></a></li>
+</ul></div>
 

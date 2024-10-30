@@ -1,7 +1,7 @@
 ---
 title: Overcoming Visual Distortions in Rust - Now Squashed
-date: 2024-08-28T05:08:23.615Z
-updated: 2024-08-29T05:08:23.615Z
+date: 2024-10-24T16:08:23.895Z
+updated: 2024-10-30T16:13:49.529Z
 tags:
   - win11
   - win10
@@ -53,11 +53,25 @@ Minimum system requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -68,9 +82,6 @@ Minimum system requirements:
 
 If the Rust graphic error persists, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Turn off new screen effects
 
  Changing the in-game settings will make the game look better.**Remove all of the new screen effects** . They are the culprit of the weird colors on the game. If you want to improve the graphics quality, follow the steps below.
@@ -89,9 +100,6 @@ If the Rust graphic error persists, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-3-1200x461.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Head to**IMAGE EFFECTS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-5.png)
@@ -104,9 +112,6 @@ If the Rust graphic error persists, then go ahead with the fix below.
 
 If you still have this issue, move on to try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the game files
 
  When Rust has corrupted files, you can’t run Rust correctly. You can verify the integrity of Rust files from Steam. (Steam will fix corrupted files automatically if it detects any.)
@@ -126,11 +131,28 @@ If you still have this issue, move on to try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-795.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Relaunch Rust to see if your problem has been resolved.
 
 If it’s not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Rust
 
@@ -148,40 +170,43 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-390.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-790.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right-click the **Steam icon**  on the taskbar, then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Press the **Windows logo**  key + **E**  on your keyboard at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **7)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then press the **Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)**  Highlight the **Rust folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 **9)**  Relaunch Steam to download and reinstall Rust.
@@ -198,8 +223,6 @@ Follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +230,21 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-efficiency-in-conversion-a-compact-list-of-the-top-10-video-transformers/"><u>[New] 2024 Approved Efficiency in Conversion A Compact List of the Top 10 Video Transformers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-heightened-aesthetics-editing-high-resolution-footage-in-fcpx-for-instagram-for-2024/"><u>[New] Heightened Aesthetics Editing High-Resolution Footage in FCPX for Instagram for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>[New] In 2024, A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-strategies-for-effective-youtube-short-creation/"><u>2024 Approved Top Strategies for Effective YouTube Short Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-online-video-recording-apps-discover-manycam-and-virtual-webcams/"><u>Best Online Video Recording Apps: Discover ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-silence-troubleshooting-audio-issues-in-skyrim/"><u>Fixing the Silence: Troubleshooting Audio Issues in Skyrim</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/increase-performance-resolving-low-fps-issues-in-forza-horizon-5-solved/"><u>Increase Performance: Resolving Low FPS Issues in Forza Horizon 5 [SOLVED]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realms-reborn-state-of-the-art-virtual-experience-for-2024/"><u>Realms Reborn State-of-the-Art Virtual Experience for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/red-dead-redemption-2-troubleshooting-solving-errgfxstate-mistakes/"><u>Red Dead Redemption 2 Troubleshooting: Solving ERR_GFX_STATE Mistakes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-continuous-crashes-in-world-of-tanks-blitz/"><u>Resolved: Fixes for Continuous Crashes in World of Tanks Blitz</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-m2070-software-updates-quick-deployment-and-troubleshooting-advice/"><u>Samsung M2070 Software Updates – Quick Deployment and Troubleshooting Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-device-unable-to-boot-issue-solutions-for-code-10/"><u>Troubleshooting the 'Device Unable to Boot' Issue – Solutions for Code #10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-lag-and-freezing-in-naraka-bladepoint-performance-tips-and-tricks/"><u>Ultimate Fixes for Lag and Freezing in Naraka: Bladepoint – Performance Tips & Tricks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Movavi Türkiye's Paragraflarını Daha Eğlenceli Ve Kolayca Sürüşebilir Görünen Yönler
-date: 2024-10-20T17:33:10.367Z
-updated: 2024-10-24T19:05:14.443Z
+date: 2024-10-25T16:17:31.232Z
+updated: 2024-10-30T16:01:15.478Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d0215534d64f40b8e2e1bab83a4ee.jpg
@@ -152,9 +152,23 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
@@ -213,6 +227,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -318,13 +345,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -338,10 +358,10 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
@@ -351,6 +371,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -415,6 +442,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -424,19 +458,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -482,30 +503,9 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -516,13 +516,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -532,13 +525,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -553,6 +539,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -571,6 +564,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,20 +607,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-for-post-upload-video-improvement-for-2024/"><u>[New] Expert Tips for Post-Upload Video Improvement for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[New] Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-understanding-the-edge-of-av1-in-video-encoding-for-2024/"><u>[New] Understanding the Edge of AV1 in Video Encoding for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>[Updated] Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypass-the-pause-tackling-and-troubleshooting-microsoft-flight-simulator-2020s-update-deadlock/"><u>Bypass the Pause: Tackling and Troubleshooting Microsoft Flight Simulator 2020'S Update Deadlock</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-how-to-keep-your-fifa-21-game-running-smoothly-without-crashes-on-desktop/"><u>Expert Tips: How to Keep Your FIFA 21 Game Running Smoothly Without Crashes on Desktop</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-repair-your-broken-obs-microphone-expert-solutions-and-tips-updated/"><u>How to Repair Your Broken OBS Microphone - Expert Solutions and Tips (Updated )</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6s-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6s Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-gigabyte-z370p-driver-version-for-optimal-performance-free-downloads-available/"><u>Latest Gigabyte Z370P Driver Version for Optimal Performance – Free Downloads Available</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maplestory-and-windows-11-compatibility-solutions-to-prevent-crashes/"><u>MapleStory and Windows 11 Compatibility: Solutions to Prevent Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-network-for-seamless-new-world-gameplay-performance/"><u>Optimizing Your Network for Seamless New World Gameplay Performance</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/seamless-streaming-made-easy-expert-picks-for-samsung-video-players/"><u>Seamless Streaming Made Easy - Expert Picks for Samsung Video Players</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-outriders-pc-performance-issues-stop-the-freezes-and-frame-drops/"><u>Solving Outriders PC Performance Issues: Stop the Freezes and Frame Drops</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-unfreezing-your-path-of-exile-adventure/"><u>Troubleshooting Tips for Unfreezing Your Path of Exile Adventure</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tutorial-for-refreshing-your-windows-os-and-microsoft-mouse-driver-at-once/"><u>Tutorial for Refreshing Your Windows OS and Microsoft Mouse Driver at Once</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-best-yoga-youtube-channels-to-follow-keep-fit-for-2024/"><u>[Updated] 10 Best Yoga YouTube Channels to Follow - Keep Fit for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>[Updated] 2024 Approved Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tiny-tycoon-how-ryans-channel-became-a-millionaire-hub/"><u>[Updated] Tiny Tycoon How Ryan’s Channel Became a Millionaire Hub</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unleashing-creativity-uploading-movies-from-mmc-to-vimeo-for-2024/"><u>[Updated] Unleashing Creativity Uploading Movies From MMC to Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/10-laughingcrying-phenomenal-instagram-meme-feeds-for-2024/"><u>10 Laughing/Crying Phenomenal Instagram Meme Feeds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-memes-edit-master/"><u>2024 Approved Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726221657930-ppm-jpeg-movavi/"><u>線上無成本 PPM 改為 JPEG 方便換片 - 效果強的 Movavi 轉換器選擇</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008544272-destiny-2-for-pc-is-finally-up-and-running-how-we-fixed-it/"><u>Destiny 2 for PC Is Finally Up and Running: How We Fixed It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-discord-keeps-collapsing-during-live-streams-step-by-step-guide/"><u>Effective Solutions for When Discord Keeps Collapsing During Live Streams: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-to-overcome-finals-error-code-tfla0002-issues/"><u>Effective Strategies to Overcome Finals Error Code TFLA0002 Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-10-screen-recording-devices-for-enterprise-use/"><u>In 2024, Top 10 Screen Recording Devices for Enterprise Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985918324-quick-solutions-no-more-control-crashing-troubles/"><u>Quick Solutions - No More Control Crashing Troubles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-how-to-resolve-when-microsoft-outlook-fails-to-launch/"><u>Solution Guide: How to Resolve When Microsoft Outlook Fails to Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-overcoming-the-black-display-issue-on-star-wars-battlefront-2-gaming-console/"><u>Solution: Overcoming the Black Display Issue on Star Wars Battlefront 2 Gaming Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-cpu-performance-optimization-guide-key-adjustments-to-enhance-gameplay-as-of-2024/"><u>Starfield CPU Performance Optimization Guide: Key Adjustments to Enhance Gameplay as of 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-on-portable-drivereasy-for-mobile-troubleshooting/"><u>Step-by-Step Tutorial on Portable DriverEasy for Mobile Troubleshooting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001315914-stop-paladins-from-crashing-once-and-for-all-proven-solutions-for-gamers-in-202ebuilders-how-to-resolve-crashing-issues-on-various-devices/"><u>Stop Paladins From Crashing Once & For All - Proven Solutions for Gamers in 202Ebuilders, How to Resolve Crashing Issues on Various Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-social-networking-grounds-for-youtube-growth/"><u>Top Social Networking Grounds for YouTube Growth</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixes For Dragon Age: Origins Game Crash Issues in Windows 11"
-date: 2024-08-28T05:07:04.856Z
-updated: 2024-08-29T05:07:04.856Z
+date: 2024-10-28T16:07:25.878Z
+updated: 2024-10-30T16:09:27.980Z
 tags:
   - win11
   - win10
@@ -39,14 +39,18 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Edit your configuration file
 
  If you follow the guide to install the game correctly, you can edit the configuration file to solve the freezing problem.
@@ -55,13 +59,18 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
@@ -75,11 +84,24 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
@@ -116,19 +138,15 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -137,8 +155,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -155,8 +177,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +184,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal/"><u>[New] Which Is Better for Vloggers on Facebook Vertical or Horizontal?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[Updated] 2024 Approved Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-demystifying-youtube-seo-terminology-and-tactics/"><u>[Updated] In 2024, Demystifying YouTube SEO Terminology and Tactics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-show-your-appreciation-budget-friendly-video-closings/"><u>2024 Approved Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-asuss-latest-bluetooth-drivers-and-update-guide/"><u>Effortless Installation of Asus's Latest Bluetooth Drivers and Update Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-eliminating-the-fifa-21-crashing-issues-on-desktop-computers/"><u>Expert Advice: Eliminating the FIFA 21 Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/graphic-geniuses-discover-the-best-10-free-sketch-for-mac-for-2024/"><u>Graphic Geniuses Discover the Best 10 Free Sketch for Mac for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210351693-9781952961045-highlights-of-palmistry/"><u>Highlights of Palmistry | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-game-stutters-for-buttery-smooth-graphics-and-high-fps-gaming-experience/"><u>How To: Overcome Game Stutters for Buttery Smooth Graphics & High FPS Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-summary-avengers-endgame-is-often-seen-as-a-landmark-film-not-only-for-its-place-within-the-mcu-but-also-for-its-broader-influence-on-modern-cinemas-appr445/"><u>In Summary, Avengers: Endgame Is Often Seen as a Landmark Film Not only for Its Place Within the MCU but Also for Its Broader Influence on Modern Cinema's Approach to Franchise-Building and Storytelling Across Multiple Installments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-guide-troubleshoot-and-solve-fallout-3-crash-on-launch-2024-tactics/"><u>New Guide: Troubleshoot & Solve Fallout 3 Crash on Launch - 2024 Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-graphics-performance-in-cyberpunk-2077-on-new-windows-11-issue-resolved/"><u>Optimizing Graphics Performance in Cyberpunk 2077 on New Windows 11 - Issue Resolved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pc-fails-during-outpost-infinity-gameplay-a-step-by-step-approach/"><u>Solving 'PC Fails During Outpost Infinity Gameplay' - A Step-by-Step Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-viewers-into-cashflow-your-online-income-plan-for-2024/"><u>Turn Viewers Into Cashflow Your Online Income Plan for 2024</u></a></li>
+</ul></div>
 

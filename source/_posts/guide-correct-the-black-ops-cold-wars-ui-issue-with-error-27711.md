@@ -1,7 +1,7 @@
 ---
 title: "Guide: Correct the Black Ops Cold War's UI Issue with Error #27711"
-date: 2024-08-28T05:08:27.253Z
-updated: 2024-08-29T05:08:27.253Z
+date: 2024-10-23T16:10:09.880Z
+updated: 2024-10-30T16:10:48.302Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
  If this doesn’t fix the error code 80070057, try “Scan and Repair” again in the Batttle.net app.
@@ -45,7 +52,21 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -55,16 +76,25 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
+
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Update the graphics driver
 
  If this error code 80070057 persists after you tried “Scan and Repair” and “Check for Updates”, it is mainly related to the video file, which can be caused by an outdated/corrupt driver or driver incompatibility.
@@ -81,17 +111,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Run your game in DX11
 
  If you still get this error in some specific spots, but all of your device drivers are up-to-date, the culprit might be DirectX 12\. There are some problems with advanced DX12 features such as ray tracing and variable rate shading. To enjoy a crash-free game, you can run your game in DX 11 instead. Here’s how:
@@ -101,17 +124,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Delete the Battle.net Cache folder
 
  Your cache folder might get corrupted and it might cause some game issues such as the error code 80070057\. To fix this error code, you can try deleting the Cache folder (this won’t affect your game data) to resolve issues caused by outdated files.
@@ -120,8 +137,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Press**Windows** Key+**R** to open the Run dialogue. Type**%ProgramData%** into the Run field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
 
@@ -130,18 +162,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. In the Windows Search bar, start typing**language** and select**Language settings** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Restart your computer and relaunch your game again to test the issue.
 
 ---
@@ -158,8 +182,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +189,24 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-harnessing-the-power-of-your-retweet-archives/"><u>2024 Approved Harnessing the Power of Your Retweet Archives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-comprehensive-guide-to-fixing-overwatch-startup-problems/"><u>A Comprehensive Guide to Fixing Overwatch Startup Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-game-crashing-dilemma-eliminating-directx-problems-in-fifa-20/"><u>Beat the Game Crashing Dilemma - Eliminating DirectX Problems in FIFA 20</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-enhanced-the-future-of-artificial-intelligence-powered-searches/"><u>Bing Enhanced: The Future of Artificial Intelligence-Powered Searches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008422847-expert-tips-to-eliminate-genshin-impacts-error-4201-get-back-into-the-game/"><u>Expert Tips to Eliminate Genshin Impact's Error 4201 – Get Back Into the Game!</u></a></li>
+<li><a href="https://facebook.techidaily.com/hold-your-breath-for-oculus-quest-iii-schedule-change/"><u>Hold Your Breath for Oculus Quest III Schedule Change</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-audiotest-review/"><u>In 2024, AudioTest Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>In 2024, Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toonbox-complete-insight-for-24-year/"><u>In 2024, ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-multi-impact-pc-errors-a-complete-troubleshooting-guide/"><u>Mastering Multi-Impact PC Errors: A Complete Troubleshooting Guide.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-unraveling-the-mystery-of-rusts-screen-distortion-issue/"><u>Resolved: Unraveling the Mystery of Rust's Screen Distortion Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silenced-mic-glitch-cleared-in-discord/"><u>Silenced Mic Glitch Cleared in Discord</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-game-startup-problems-resolved-a-comprehensive-guide-for-windows-10-users/"><u>Steam Game Startup Problems Resolved: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-transferring-your-iphone-data-to-a-pc-using-itunes-and-alternatives/"><u>Step-by-Step Guide: Transferring Your iPhone Data to a PC Using iTunes & Alternatives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-get-vanguard-to-use-graphics-card-on-windows-11-systems/"><u>Troubleshooting: Get Vanguard to Use Graphics Card on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-your-gpus-potential-for-higher-performance-in-warzone-on-windows-11/"><u>Unlock Your GPU's Potential for Higher Performance in Warzone on Windows 11</u></a></li>
+</ul></div>
 

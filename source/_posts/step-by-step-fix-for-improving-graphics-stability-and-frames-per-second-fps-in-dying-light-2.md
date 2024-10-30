@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Improving Graphics Stability and Frames Per Second (FPS) in Dying Light 2
-date: 2024-08-28T05:09:44.121Z
-updated: 2024-08-29T05:09:44.121Z
+date: 2024-10-29T16:04:05.910Z
+updated: 2024-10-30T16:07:01.544Z
 tags:
   - win11
   - win10
@@ -40,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The game crashing issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors.
@@ -86,9 +90,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![fix Rage 2 crash](https://images.drivereasy.com/wp-content/uploads/2019/06/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Save the changes and exit the game.
 
 3) Open Nvidia Control Panel and**force the VSync feature off** for**Rage 2** .
@@ -100,8 +101,12 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Compatibility Troubleshooter
 
 **Program Compatibility Troubleshooter** is a built-in tool in Windows OS that can check whether programs are compatible for your current Windows OS or not. The game crash issues often occur when some program settings are not compatible with the current Windows OS.
@@ -115,8 +120,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Navigate to**the Compatibility tab** and click**Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-4.png)
@@ -127,14 +136,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
 * **Compatibility mode:**  If Rage 2 keeps crashing on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
@@ -144,8 +145,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 See if this fix works. If not, try the next fix, below.
 
 ---
@@ -172,8 +177,6 @@ See if this fix works. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +184,21 @@ See if this fix works. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-high-definition-facebook-video-downloads/"><u>[New] In 2024, Mastering High-Definition Facebook Video Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-tips-for-shooting-profesional-youtube-videos-for-2024/"><u>10 Tips For Shooting Profesional YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/behind-the-scenes-look-at-mafia-the-final-cuts-launch-hiccups-now-resolved/"><u>Behind-the-Scenes Look at Mafia: The Final Cut's Launch Hiccups – Now Resolved!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-x100-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo X100 Device SIM</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-your-game-of-gta-5-just-wont-launch/"><u>Effective Solutions For When Your Game of GTA 5 Just Won't Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-a-smooth-launch-top-solutions-for-preventing-street-fighter-6-crashes-on-pc/"><u>How to Ensure a Smooth Launch: Top Solutions for Preventing Street Fighter 6 Crashes on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-non-gta-narratives-exploring-alternative-stories/"><u>In 2024, Non-GTA Narratives Exploring Alternative Stories</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-30-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 30 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lego-star-wars-the-skywalker-saga-pc-game-no-more-crashes-with-latest-patch-updated/"><u>Lego Star Wars The Skywalker Saga PC Game - No More Crashes with Latest Patch (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-guide-resolving-the-corrupt-disk-issue-in-steam-games-seamlessly/"><u>Quick Guide: Resolving the 'Corrupt Disk' Issue in Steam Games Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformation-gratuite-dun-fichier-mp3-vers-le-format-mov-en-ligne-avec-movavi/"><u>Transformation Gratuite D'un Fichier MP3 Vers Le Format MOV en Ligne Avec Movavi</u></a></li>
+</ul></div>
 

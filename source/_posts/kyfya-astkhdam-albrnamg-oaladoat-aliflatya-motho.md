@@ -1,7 +1,7 @@
 ---
 title: "كيفية استخدام البرنامج والأدوات الإفلاتية: موثو"
-date: 2024-10-19T19:08:20.429Z
-updated: 2024-10-24T17:00:53.112Z
+date: 2024-10-24T16:12:31.916Z
+updated: 2024-10-30T16:16:31.867Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d64275a707a4eb2f0cc766f8.jpg
@@ -161,6 +161,13 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [Movavi Photo Editor](https://tools.techidaily.com/movavi/photo-editor/)
@@ -211,13 +218,6 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
 優點：
@@ -227,13 +227,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 對普通使用者而言工具太多了
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -252,10 +245,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 使用者介面過時且不符合大眾口味
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -263,6 +256,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -275,10 +281,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 圖片只能在單一頁籤中開啟且無法捲動
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -296,6 +302,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 佈局過於簡單，可能會使初學者困惑
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -327,27 +340,19 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 常見問題集
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -361,13 +366,6 @@ Movavi Photo Editor
 * Nomacs
 * Google Photos
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 那一個是用於觀賞照片的最佳軟體?
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
@@ -375,6 +373,13 @@ Movavi Photo Editor
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -419,6 +424,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -458,16 +470,24 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-complete-guide-to-voiced-ppt-mastery/"><u>[New] The Complete Guide to Voiced PPT Mastery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-5-gaming-headsets-for-youtube-for-2024/"><u>[New] Top 5 Gaming Headsets for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[Updated] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypass-the-frustration-easy-four-step-solution-to-warzones-directx-troubles/"><u>Bypass the Frustration: Easy Four-Step Solution to Warzone's DirectX Troubles</u></a></li>
-<li><a href="https://facebook.techidaily.com/expecting-a-shielded-future-e2ee-for-fb-messenger/"><u>Expecting a Shielded Future: E2EE for FB Messenger</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-video-card-drivers-for-your-pc-with-windows-os/"><u>Get the Newest AMD Video Card Drivers for Your PC with Windows OS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-quick-and-efficient-download-speed-fixes-for-the-origin-platform-tips-for-a-smoother-gaming-experience-in-202n4/"><u>Guide to Quick and Efficient Download Speed Fixes for the Origin Platform: Tips for a Smoother Gaming Experience in 202N4</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-steam-cloud-desync-problems-effectively/"><u>How to Resolve Steam Cloud Desync Problems Effectively</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-swift-techniques-for-authenticating-insta-networks/"><u>In 2024, Swift Techniques for Authenticating Insta Networks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-in-city-builders-overcoming-freezing-glitches-in-cities-skylines-insider-tips-from-2024/"><u>Mastering Stability in City Builders: Overcoming Freezing Glitches in Cities: Skylines [Insider Tips From 2024]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-pc-performance-to-overcome-star-wars-battlefront-iis-slow-loading-problem/"><u>Optimizing PC Performance to Overcome Star Wars: Battlefront II's Slow Loading Problem</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>[New] In 2024, Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stop-quittime-video-capture-procedures/"><u>[New] Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sj-cam-s6-unboxed-a-full-evaluation-in-detail/"><u>[Updated] SJ-CAM S6 Unboxed A Full Evaluation in Detail</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-your-destiny-2-online-access-hurdles-a-step-by-step-solution-walkthrough/"><u>Banish Your Destiny 2 Online Access Hurdles – A Step-by-Step Solution Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-center-controls-essential-tuning-tips-for-fps-beginnings/"><u>Command Center Controls: Essential Tuning Tips for FPS Beginnings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-custom-iphone-ringtones-from-dvd-audio-tracks-a-step-by-step-guide/"><u>Creating Custom iPhone Ringtones From DVD Audio Tracks: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-call-of-duty-modern-warfare-2-playability-solutions-for-windows-users-dealing-with-fps-drops-and-hiccups/"><u>Enhancing Call of Duty Modern Warfare 2 Playability: Solutions for Windows Users Dealing with FPS Drops and Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-overcome-dreamlight-valley-pc-game-crashes-in-6-simple-steps/"><u>Expert Tips and Tricks - Overcome Dreamlight Valley PC Game Crashes in 6 Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitech-options-issues-troubleshooting-tips-for-windows-users/"><u>Fixing Logitech Options Issues: Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009262845-genshin-impact-hacked-demystifying-and-solving-error-code-4201-now/"><u>Genshin Impact Hacked? Demystifying and Solving Error Code 4201 Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-on-pc-stability-solutions-top-fixes-to-prevent-game-crashes/"><u>Hitman 3 on PC Stability Solutions: Top Fixes to Prevent Game Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tools-to-replay-ps3-classics-on-pc/"><u>In 2024, Essential Tools to Replay PS3 Classics on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nier-shadow-complexes-how-to-stop-game-crashes-and-play-smoothly/"><u>NieR: Shadow Complexes - How to Stop Game Crashes and Play Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-recovery-methods-for-frozen-mouse-clicks/"><u>Quick Recovery Methods for Frozen Mouse Clicks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-aspect-ratio-adaptation-in-dev-workflows/"><u>Seamless Aspect Ratio Adaptation in Dev Workflows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-persistent-crashes-of-microsoft-edge-on-win10-systems/"><u>Troubleshooting Persistent Crashes of Microsoft Edge on Win10 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-bland-unresponsiveness-in-borderlands-3/"><u>Troubleshooting Tips: Resolving Bland Unresponsiveness in Borderlands 3</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-converting-your-pdfs-into-microsoft-word-format-with-excel-approved-tools/"><u>Ultimate Guide to Converting Your PDFs Into Microsoft Word Format with Excel-Approved Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-convert-and-enjoy-downloading-4k-videos-in-mp4-format-made-simple-for-2024/"><u>Updated Convert and Enjoy Downloading 4K Videos in MP4 Format Made Simple for 2024</u></a></li>
 </ul></div>
 

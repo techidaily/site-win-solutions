@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Woes: Fix Your Game From Constantly Crashing in the New World!"
-date: 2024-08-28T05:12:05.152Z
-updated: 2024-08-29T05:12:05.152Z
+date: 2024-10-27T16:12:24.566Z
+updated: 2024-10-30T16:09:40.770Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ _The Surge 2_ crashing issues are most likely to occur if you’re using the wro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,14 +79,6 @@ _The Surge 2_ crashing issues are most likely to occur if you’re using the wro
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run The Surge 2 as an administrator
 
 _The Surge 2_ may fail to access certain game files and folders under a standard user account. To see if that’s the cause of your issue, try running your game as an administrator to give it high integrity access. Follow the instructions below:
@@ -91,15 +90,16 @@ _The Surge 2_ may fail to access certain game files and folders under a standard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-352-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-353-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 **4)**  Relaunch _The Surge 2_ from Steam.
 
 If the crashing issue continues to occur, go to the next fix.
@@ -119,16 +119,10 @@ If the crashing issue continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **3)** Right-click the process you want to end and select **End Process Tree** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -150,8 +144,12 @@ If the crashing issue continues to occur, go to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Right-click the process you want to end and select **End task** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -176,6 +174,13 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-217.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-218.png)
@@ -194,30 +199,18 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-219.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-220.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click the list box below to select **Windows 8/Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-221.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  You should be able to play_The Surge 2_ now. If your problem still exists, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking your CPU
 
  An unstable overclock will crash your game and the whole system. If you overclocked your GPU, that may be the issue. So, you should set your CPU clock speed rate back to the default to see if it fixes your issue.
@@ -225,8 +218,12 @@ If your issue persists, check the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Adjust your virtual memory
 
  In some cases, players encounter_The Surge 2_ crashing issues due to low RAM. But this doesn’t necessarily mean you should get a new RAM. This is when the paging file comes into play!
@@ -250,16 +247,10 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-880-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/pasted-image-0-3-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-879-5.png)
@@ -274,9 +265,6 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-877-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **9)** Restart your computer and your game.
 
  If _The Surge 2_ crashing issues still exist, read on and check the fix below.
@@ -291,11 +279,38 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575-6.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer and_The Surge 2_ . If the crashing issue happens again, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -305,16 +320,10 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-359-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-360-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-6.png)
@@ -323,9 +332,6 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-374.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-364-3.png)
@@ -340,9 +346,6 @@ If your issue persists, check the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-366-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Hopefully, you’re able to play_The Surge 2_ without errors now! Feel free to leave a comment below if you have any questions or suggestions.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -357,8 +360,6 @@ If your issue persists, check the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -366,4 +367,24 @@ If your issue persists, check the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-recording-virtual-sessions-ios-and-android-methods/"><u>[New] In 2024, Recording Virtual Sessions IOS & Android Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-thumbnails-essential-dimensions-explored/"><u>[New] Mastering YouTube Thumbnails Essential Dimensions Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-teenyvid-viewers-assessment-on-screenshots/"><u>[New] TeenyVid Viewer's Assessment on Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-9-must-play-screen-free-apps-for-offline-android-enthusiasts-for-2024/"><u>[Updated] 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmv-mp3-movavi/"><u>网上免费WMV MP3转换专用 - 使用 Movavi提高效率</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-convertir-videos-en-wmv-sin-complicaciones-usando-herramientas-de-movavi/"><u>Cómo Convertir Vídeos en WMV Sin Complicaciones Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-convertirte-wav-a-mov-sin-costo-usando-el-servicio-de-movavi/"><u>Cómo Convertirte WAV a MOV Sin Costo Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/converting-wmv-files-to-mp4-format-for-free-top-online-tools-compared/"><u>Converting WMV Files to MP4 Format for Free: Top Online Tools Compared</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-engaging-visuals-after-effects-best-10-text-plans-for-2024/"><u>Crafting Engaging Visuals After Effect's Best 10 Text Plans for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creer-des-images-png-a-partir-de-fichiers-raw-pour-free-tutoriel-facile-dutilisation-de-movavi/"><u>Créer Des Images PNG À Partir De Fichiers RAW Pour Free - Tutoriel Facile D'utilisation De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enrichir-votre-creation-video-avec-les-secrets-des-effets-imovie-une-strategie-de-marqueur-seo-optimisee/"><u>Enrichir Votre Création Vidéo Avec Les Secrets Des Effets iMovie: Une Stratégie De Marqueur SEO Optimisée</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-wmv-files-into-ogv-format-movevi/"><u>Free Online Converter: Transform WMV Files Into OGV Format - MoveVi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-11-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Reno 11 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-mkv-players-compilation/"><u>In 2024, Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/planen-sie-ihre-aufgaben-mit-der-datei-kopie-auf-das-netzlaufwerk-unter-windows-10/"><u>Planen Sie Ihre Aufgaben Mit Der Datei-Kopie Auf Das Netzlaufwerk Unter Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-for-google-chrome-that-wont-start-expert-advice-and-steps/"><u>The Ultimate Fix for Google Chrome That Won't Start – Expert Advice and Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-16-herramientas-de-grabado-de-video-libres-y-premium-para-todos-los-dispositivos-en-2024/"><u>Top 16 Herramientas De Grabado De Video Libres Y Premium Para Todos Los Dispositivos en 2024</u></a></li>
+</ul></div>
 

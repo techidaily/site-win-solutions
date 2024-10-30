@@ -1,7 +1,7 @@
 ---
 title: Footwear
-date: 2024-08-28T05:07:39.544Z
-updated: 2024-08-29T05:07:39.544Z
+date: 2024-10-29T16:11:25.840Z
+updated: 2024-10-30T16:08:54.927Z
 tags:
   - win11
   - win10
@@ -49,11 +49,31 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,11 +83,22 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.
@@ -80,8 +111,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +118,16 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>[New] 2024 Approved Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-facebook-profile-with-these-11-superior-tools-for-2024/"><u>[Updated] Elevate Your Facebook Profile with These 11 Superior Tools for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-gaming-portability-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>Comparing Gaming Portability: Nintendo Switch Lite Vs. Nintendo Switch OLED</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiences-through-prominent-social-media-facey-tweets-gram-and-tube/"><u>Engaging Audiences Through Prominent Social Media - Facey, Tweets, Gram & Tube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-pc-overcoming-sovled-necromunda-crash-issues-for-a-smooth-gaming-experience/"><u>Fix Your PC! Overcoming [SOVLED] Necromunda Crash Issues for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-pc-tips-eradicating-frame-drops-and-smoothing-out-gameplay/"><u>Fortnite PC Tips: Eradicating Frame Drops and Smoothing Out Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-of-wsappx-effective-techniques-for-reducing-memory-and-processor-burden/"><u>Overcoming the Challenge of WSAPPX: Effective Techniques for Reducing Memory and Processor Burden</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-issues-preventing-rainbow-six-siege-from-starting-up/"><u>Solved: Issues Preventing Rainbow Six Siege From Starting Up</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-ultimate-car-video-editors-master-the-craft-of-autonomous-video-production/"><u>Top 7 Ultimate Car Video Editors - Master the Craft of Autonomous Video Production</u></a></li>
+</ul></div>
 

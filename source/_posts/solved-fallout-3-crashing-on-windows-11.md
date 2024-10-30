@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Fallout 3 Crashing on Windows 11"
-date: 2024-08-28T05:09:00.479Z
-updated: 2024-08-29T05:09:00.479Z
+date: 2024-10-26T16:14:12.263Z
+updated: 2024-10-30T16:07:41.856Z
 tags:
   - win11
   - win10
@@ -52,22 +52,36 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -77,14 +91,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
@@ -94,8 +110,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Update your graphics card drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter freezes. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -127,8 +147,12 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -152,8 +176,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +183,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-brand-alliances-elevating-youtube-content/"><u>[New] In 2024, Brand Alliances Elevating YouTube Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-novice-cinematographers-initial-work-analysis-and-replacements/"><u>[New] In 2024, Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-call-of-duty-black-ops-cold-war-pc-troubleshooting-how-to-prevent-the-persistent-crashing-guide/"><u>[SOLVED] Call of Duty Black Ops Cold War PC Troubleshooting - How to Prevent the Persistent Crashing (Guide)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-tweeting-expert-video-conversion-software/"><u>2024 Approved Seamless Tweeting Expert Video Conversion Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-disaster-navigating-cyberpunk-2077s-troublesome-flatlined-error-2ebdc/"><u>Avoiding Disaster: Navigating Cyberpunk 2077'S Troublesome Flatlined Error 2Ebdc!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Huawei Nova Y91</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-legacy-memorializing-vs-removing-deceaseds-facebook-profile/"><u>Digital Legacy: Memorializing Vs. Removing Deceased's Facebook Profile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/disco-elysium-game-crash-woes-heres-how-to-get-back-in-the-groove-on-your-computer/"><u>Disco Elysium Game Crash Woes? Here's How to Get Back in the Groove on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-track-fixes-for-slow-ubisoft-game-installations-expert-advice/"><u>Fast Track Fixes for Slow Ubisoft Game Installations: Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-end-red-dead-redemption-iis-frame-rate-hiccups-and-freezing-problems/"><u>Fixes and Solutions: End Red Dead Redemption II's Frame Rate Hiccups & Freezing Problems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps-for-2024/"><u>How to Record, Edit and Export High-Quality Webcam Videos[Easy Steps] for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-x8b-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor X8b Pattern Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-11-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme 11 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-lifetime-troubles-in-true-colors-with-a-simple-fix/"><u>Mastering Lifetime Troubles in 'True Colors' With a Simple Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-playing-steam-games-on-your-newly-updated-windows-11-pc/"><u>Overcoming the Challenge: Playing Steam Games on Your Newly Updated Windows 11 PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-problems-in-tribes-of-midgard-how-to-stop-crashes/"><u>Resolving Problems in 'Tribes of Midgard': How to Stop Crashes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wiederherstellen-sie-ihren-windows-server-201n-auf-werkseinstellungen-zwei-methoden-erklart/"><u>Wiederherstellen Sie Ihren Windows Server 201N Auf Werkseinstellungen - Zwei Methoden Erklärt</u></a></li>
+</ul></div>
 

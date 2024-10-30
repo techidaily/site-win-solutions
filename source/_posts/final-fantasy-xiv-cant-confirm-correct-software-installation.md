@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy XIV Can't Confirm Correct Software Installation
-date: 2024-08-28T05:11:33.032Z
-updated: 2024-08-29T05:11:33.032Z
+date: 2024-10-24T16:13:57.715Z
+updated: 2024-10-30T16:05:31.104Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ Here’s how:
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and open the**Stardew Valley** folder.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Find the**startup\_preferences** folder then delete it.
 5. Launch the game to check.
 
@@ -64,8 +61,12 @@ Make sure you’ve verified the Steam Files as well.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If it doesn’t work, move to the next fix.
 
 ### 3\. Install XNA installer
@@ -76,19 +77,36 @@ If it doesn’t work, move to the next fix.
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and open the**Stardew Valley** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find the**\_Redist** folder, then run**xnafx40\_redist installer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-30-45.jpg)
 5. When the whole process is finished, back to the upper folder, right-click on Stardew Valley and click**Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-36-48.jpg)
-6. The game should launch normally.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-36-48.jpg)
+6. The game should launch normally.
+
  Don’t bother downloading the Microsoft XNA framework, Microsoft has removed it from their official website.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Update d3d9.dll
 
@@ -102,9 +120,6 @@ If it doesn’t work, move to the next fix.
 6. Navigate to`C:\Windows\SysWOW64` and paste the file to replace the old one.
 7. Run Stardew Valley to check.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Set Launch Options in Steam
 
  Setting up the Steam Launch options would be a usable fix for Stardew Valley.
@@ -113,6 +128,14 @@ If it doesn’t work, move to the next fix.
 2. In the General tab, click**SET LAUNCH OPTIONS.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_15-15-13.jpg)
 3. Make sure the pop-up window’s box is empty. Then click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run Stardew Valley to check.
 
  We’ve collected all the methods that you may don’t know. I believe you’ve already tried reboot, reinstall the game, verify the game files, Run Stardew Valley as administrator and shut down antivirus or firewall.
@@ -147,22 +170,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## For Mac users
 
  If you haven’t granted the game access to folder, you may encounter this issue. Follow the steps to fix the error:
@@ -205,8 +226,6 @@ Save file location:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +233,26 @@ Save file location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-implementing-dynamic-filters-transform-your-videos-digitally/"><u>[Updated] In 2024, Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-launch-fb-video-campaigns-utilize-the-gratis-creation-kit/"><u>[Updated] In 2024, Launch FB Video Campaigns Utilize the Gratis Creation Kit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-top-10-capture-cards-for-youtube/"><u>[Updated] In 2024, The Top 10 Capture Cards for YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor-for-2024/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instantaneous-collage-creation-for-dynamic-fb-presence/"><u>[Updated] Instantaneous Collage Creation for Dynamic FB Presence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-buffering-expert-tricks-for-enhancing-chromes-pace/"><u>Bypass the Buffering: Expert Tricks for Enhancing Chrome's Pace!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fabricating-temporal-anomaly-illusions/"><u>Fabricating Temporal Anomaly Illusions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996855733-finding-a-fix-when-your-computer-isnt-responding-to-the-minecraft-game/"><u>Finding a Fix When Your Computer Isn't Responding to the Minecraft Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-enjoy-uninterrupted-gaming-hitman-3-stability-hacks-for-pc-users/"><u>Fix and Enjoy Uninterrupted Gaming: Hitman 3 Stability Hacks for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998273684-fixing-fallout-eblack-screen-dilemma-troubleshooting-steps-and-tips/"><u>Fixing Fallout Eblack Screen Dilemma - Troubleshooting Steps & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-cpu-use-by-chrome-issue-now-resolved-steps-to-optimize-performance/"><u>High CPU Use by Chrome Issue Now Resolved - Steps to Optimize Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-g310-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia G310 Lock Screen Password</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-best-budget-edits-8-no-charge-video-editing-software/"><u>In 2024, Best Budget Edits 8 No-Charge Video Editing Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>In 2024, From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/intel-support-software-problem-solved-restart-and-repair-tips-for-windows-users/"><u>Intel Support Software Problem Solved: Restart and Repair Tips for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-necromunda-hired-gun-stability-issues-on-your-computer-tips-and-fixes/"><u>Overcome Necromunda: Hired Gun Stability Issues on Your Computer - Tips and Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-team-fortress-2-initialization-problems/"><u>Overcoming Team Fortress 2 Initialization Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-countdown-is-over-discover-it-takes-two-has-officially-launched/"><u>The Countdown Is Over! Discover 'It Takes Two' Has Officially Launched</u></a></li>
+</ul></div>
 

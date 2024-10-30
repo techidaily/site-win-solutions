@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Our Data Centers Could Not Find a Response Error in Halo Infinite
-date: 2024-08-28T05:06:18.322Z
-updated: 2024-08-29T05:06:18.322Z
+date: 2024-10-28T16:03:31.071Z
+updated: 2024-10-30T16:18:02.376Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 
  If you’re sure the problem doesn’t come from the controller, try the following to troubleshoot PC configurations.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update all your drivers
 
  One of the common causes of the controller issues is that you’re using**broken or outdated computer drivers** . For your controller to work with Steam with zero error, make sure your PC has the latest drivers installed.
@@ -49,15 +56,26 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve updated all the drivers, reboot your PC and check if your controller is working now.
 
  If the latest drivers didn’t give you luck, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Disable Steam configuration in Big Picture**
 
@@ -68,31 +86,18 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 1. Launch your**Steam** client. At the bottom right corner of your taskbar, right-click the**Steam** icon and select**Big Picture** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-1.jpg)
 2. Select**LIBRARY** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-2.jpg)
 3. In the left pane, select**Installed** . Then select the target game.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-3.jpg)
 4. From the left menu, select**Manage Game Options** . Under the**Steam Input** section, select**Controller Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-4.jpg)
 5. In the pop up window, set**Steam Input Per-Game Setting** to**Forced Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Now you can launch your game and check if the controller is working.
 
 If this solution doesn’t work for you, try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your Steam client
 
  You’ll likely run into trouble if you’re using an outdated Steam client. To rule out the possibility, you need to make sure your Steam version is the latest.
@@ -106,8 +111,12 @@ Here’s how
  If your Steam client is already up to date, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Install all Windows updates
 
  When Steam is not recognizing your controller, you might be experiencing a compatibility issue. One way to fix that is to make sure you’ve installed all the Windows patches.
@@ -117,11 +126,16 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  After installing all the system updates, restart your PC and check if your controller is working with Steam.
@@ -138,8 +152,6 @@ Here’s a quick guide for that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +159,20 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-analyzing-multi-angle-video-technology-trends-today/"><u>[New] 2024 Approved Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-nighttime-exposures-for-your-iphone-lens-for-2024/"><u>[New] Nighttime Exposures for Your iPhone Lens for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-total-insight-into-vscos-photography-ecosystem/"><u>[Updated] 2024 Approved Total Insight Into VSCO's Photography Ecosystem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-unleashed-easymeme-tutorial-without-cost/"><u>2024 Approved Humor Unleashed EasyMeme Tutorial Without Cost</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-phantom-3-face-off-apparition-4-unveiled/"><u>2024 Approved Phantom 3 Face-Off Apparition 4 Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/harper-lees-to-kill-a-mockingbird/"><u>Harper Lee's To Kill a Mockingbird</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-dragon-quest-xis-persistent-freezing-glitches/"><u>How to Resolve Dragon Quest XI's Persistent Freezing Glitches?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-latency-in-star-wars-battlefront-ii-a-seamless-play-is-back/"><u>Improved Latency in Star Wars Battlefront II: A Seamless Play Is Back</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-game-lag-and-crashes-in-xcom-2-on-windows-ultimate-solutions-unveiled/"><u>Overcoming Game Lag and Crashes in XCOM 2 on Windows - Ultimate Solutions Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-car-crashes-in-forza-horizon-4-on-pc/"><u>Resolved: How to Fix Car Crashes in Forza Horizon 4 on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-frei-verfugbare-h265hevc-player-fur-ultra-hd-videos-im-jahre-2022-aktualisierte-liste/"><u>Top-Frei Verfügbare H.265/HEVC-Player Für Ultra HD-Videos Im Jahre 2022 - Aktualisierte Liste</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-an-unresponsive-igadget-with-ease/"><u>Troubleshoot and Fix an Unresponsive iGadget with Ease</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/what-is-mukbang-and-how-to-make-mukbang-videos-for-2024/"><u>What Is Mukbang and How to Make Mukbang Videos for 2024</u></a></li>
+</ul></div>
 

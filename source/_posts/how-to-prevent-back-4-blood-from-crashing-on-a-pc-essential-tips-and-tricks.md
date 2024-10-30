@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Back 4 Blood From Crashing on a PC - Essential Tips and Tricks
-date: 2024-08-28T05:05:53.998Z
-updated: 2024-08-29T05:05:53.998Z
+date: 2024-10-29T16:10:03.822Z
+updated: 2024-10-30T16:00:36.789Z
 tags:
   - win11
   - win10
@@ -40,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/verify-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game’s files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After doing this, launch Guilty Gear Strive again to see if it fixes the problem.
 
 If not, go ahead and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -58,6 +72,14 @@ If not, go ahead and try the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/61604-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660.jpg)
 
@@ -65,9 +87,6 @@ If not, go ahead and try the next fix.
 
 If the game still crashes, don’t worry, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Perform a clean boot
 
  A clean boot is often used to diagnose and troubleshoot software conflict issues. To perform a clean boot means starting your computer only with a minimal set of drivers and startup programs. Then you can identify if there are any conflicts between your game and another program. To do so:
@@ -75,30 +94,41 @@ If the game still crashes, don’t worry, try the next fix.
 1. On your keyboard, press**the Windows logo key** and type**System Configuration** , then click**Open** from the list of results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/systemconfiguration.jpg)
 2. In the System Configuration window, click the**Services** tab, check**Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. Select the Startup tab and click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/startup.jpg)
 5. In the pop-up window, for each startup item, select the item and then click**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/end.jpg)
 6. Close Task Manager.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 7. Go back to the System Configuration window and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ok.jpg)
 8. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restarting your computer, launch the Guilty Gear Strive to see if it crashes.
 
@@ -108,9 +138,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If the game still crashes after you disabled all the programs and services, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Try different launch options
 
  To launch the game with different launch options has been proven to be another useful way to fix crashing issues. For example, we can add the console command “-d3d11” to force the game to run on DirectX 11\. Or we can add the console command “-nohmd” to launch the game with no head-mounted display, so it won’t need to boot up SteamVR. Here’s how to do it:
@@ -120,9 +147,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. On the General tab you’ll find the**LAUNCH OPTIONS** section. In the blank text box, type “**\-nohmd** ” or “**\-d3d11** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Close the game’s Properties window.
 
  Now you can launch Guilty Gear Strive again to see if it fixes the crashing issue.
@@ -136,9 +160,14 @@ If not, try the next fix.
 1. Open your**Steam Library** . Right-click Guilty Gear Strive and select**Manage** , then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/uninstall.jpg)
 2. Click**Uninstall** again to confirm that you want to delete its files.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Wait a few minutes to uninstall the game.
 4. Reinstall the game.
 
@@ -156,8 +185,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +192,19 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[Updated] In 2024, Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2023s-premier-tale-spinners-on-yt/"><u>2023’S Premier Tale Spinners on YT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-transform-your-content-emulate-top-tiktok-trends-on-instagram-reels/"><u>2024 Approved Transform Your Content Emulate Top TikTok Trends on Instagram Reels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-pics-to-perfection-without-expenditure/"><u>Elevating Pics to Perfection Without Expenditure</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-14-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 14 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-9-choices-for-video-auto-translate/"><u>New 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-stability-problems-how-to-prevent-dirt-5-from-crashing-on-windows-machines/"><u>Overcoming Stability Problems: How to Prevent Dirt 5 From Crashing on Windows Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-fixing-acrocef-errors-for-smooth-operation/"><u>Step-by-Step Guide to Fixing AcroCEF Errors for Smooth Operation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-your-kodi-connection-overcome-unable-to-retrieve-directory-errors-easily/"><u>Troubleshoot Your Kodi Connection: Overcome Unable to Retrieve Directory Errors Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-the-issue-of-rocket-league-not-starting/"><u>Troubleshooting Tips: Fixing the Issue of Rocket League Not Starting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/anxieties-unmasked-how-to-combat-them/"><u>Vlog Anxieties Unmasked How to Combat Them</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wrangling-wyrms-and-windows-woes-dragon-age-origins-compatibility-fixes-for-your-pc/"><u>Wrangling Wyrms and Windows Woes: Dragon Age: Origins Compatibility Fixes for Your PC</u></a></li>
+</ul></div>
 

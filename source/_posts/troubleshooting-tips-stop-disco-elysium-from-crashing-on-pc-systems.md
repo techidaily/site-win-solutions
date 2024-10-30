@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop 'Disco Elysium' From Crashing on PC Systems"
-date: 2024-08-28T05:09:30.663Z
-updated: 2024-08-29T05:09:30.663Z
+date: 2024-10-29T16:12:50.285Z
+updated: 2024-10-30T16:09:27.032Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -74,8 +78,12 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -100,32 +108,35 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 1. In Uplay, navigate to **the Games tab** and move your mouse cursor to the game tile of Ghost Recon Breakpoint. Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
 2. Select **Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 #### Epic Game Launcher
 
 1. In Epic Game Launcher, navigate to your **Library** .
 2. Click **the cog icon** on the lower-right corner of Ghost Recon Breakpoint.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic.jpg)
 3. Click **Verify** to start verifying the game files.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent the game crash issues, you should reset the CPU or the graphics card to the manufacturer specifications.
@@ -133,6 +144,13 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  If this issue persists after you reset the CPU or graphics card to its manufacturer specifications, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower in-game settings
 
@@ -194,8 +212,6 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +219,22 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhance-your-video-watching-with-top-fire-browser-extensions-for-facebook-videos-2023-edition/"><u>[New] 2024 Approved Enhance Your Video Watching with Top Fire-Browser Extensions for Facebook Videos, 2023 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-zero-cost-chromebook-recorders-for-2024/"><u>[New] Best Zero Cost Chromebook Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailoring-melodies-for-youtube-personalized-list-creation/"><u>[New] Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-through-your-new-laptops-m1-max-clips/"><u>[Updated] In 2024, Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dark-souls-iii-update-eliminating-the-persistent-crash-issues-once-and-for-all/"><u>Dark Souls III Update: Eliminating the Persistent Crash Issues Once and For All</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gameplay-ultimate-guide-to-solve-frame-drops-and-raise-fps-in-valorant/"><u>Enhancing Your Gameplay: Ultimate Guide to Solve Frame Drops & Raise FPS in VALORANT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/facing-launch-errors-with-lol-master-these-pro-tips-to-get-back-into-game-mode-quickly-2024-edition/"><u>Facing Launch Errors with LoL? Master These Pro Tips to Get Back Into Game Mode Quickly - 2024 Edition!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-tips-to-get-helldivers-2-running-on-steam-successfully/"><u>Fixes and Tips to Get Helldivers 2 Running on Steam Successfully</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-pro-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-world-of-warcraft-frame-rate-with-these-essential-tweaks/"><u>Improve World of Warcraft Frame Rate with These Essential Tweaks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-start-up-problems-with-call-of-duty-black-ops-4-demystified/"><u>Solving the Issue: Start-Up Problems with Call of Duty: Black Ops 4 Demystified</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-success-elite-video-tagging-secrets-for-2024/"><u>Unlocking YouTube Success Elite Video Tagging Secrets for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-free-special-effects-apps-for-mobile-video-editing/"><u>Updated In 2024, Elevate Your Videos Top Free Special Effects Apps for Mobile Video Editing</u></a></li>
+</ul></div>
 

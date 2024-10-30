@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Errors in Armored Core VI: Expert Strategies to Get Fires of Rubicon Running Smoothly"
-date: 2024-08-28T05:07:02.473Z
-updated: 2024-08-29T05:07:02.473Z
+date: 2024-10-26T16:05:35.445Z
+updated: 2024-10-30T16:14:13.744Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Among Us on another GPU](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The constant crashes with Among Us may indicate an integrity with the game files. It could mean some files are corrupted or missing. You can follow these steps to fix that:
@@ -42,8 +49,18 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
  If this method doesn’t give you any luck, you can check out the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Perform a clean boot
 
  A clean boot means starting your PC with only the necessary utilities and system services. It would very likely fix most of the software conflict, which might fix the crash at the same time.
@@ -57,21 +74,30 @@ And here’s how you can do a clean boot:
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your PC restarts, only the essential programs and services will start. You can now launch Among Us and check if it crashes again. If not, you can try to root out the culpable program or service. A way to do that is to repeat the steps above, but **disable half of the services and programs** .
 
  If this trick doesn’t stop the crash, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In some cases, your game will keep crashing if you’re using a faulty or outdated graphics driver. Though Among Us is never a graphically demanding title, using the latest graphics driver could help you avoid lots of errors.
@@ -96,9 +122,6 @@ And here’s how you can do a clean boot:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -107,6 +130,19 @@ And here’s how you can do a clean boot:
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Among Us.
 
 If the crash continues to happen, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -119,15 +155,19 @@ Here’s how:
 2. Click **Check for updates** . Windows will automatically download and install the available updates. This might take some time depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your computer to take full effect. Next you can launch Among Us and test the stability.
 
  If this trick doesn’t solve your problem, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Run Among Us on another GPU
 
  According to some players, the crashing issue can be bypassed by shifting to another GPU. So if your gaming rig is equipped with dual GPU (e.g. PC/laptops with a built-in CPU graphics plus an additional AMD or NVIDIA graphics card), you can give this trick a shot and see how it goes.
@@ -141,21 +181,26 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Among Us launcher.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
-4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
+4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
+
 Now you can launch Among Us and see if it crashes again.
 
 ---
@@ -168,8 +213,6 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +220,21 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-sky-high-adventures-the-gopro-karma-experience/"><u>[New] Sky-High Adventures The GoPro Karma Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>[New] Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-choosing-the-best-mac-mkv-players-guide/"><u>[Updated] 2024 Approved Choosing the Best Mac MKV Players Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ace-list-of-low-cost-youtube-caption-tools/"><u>[Updated] In 2024, Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-honorable-highlights-elite-websites-for-obtaining-snapalert-beats/"><u>2024 Approved Honorable Highlights Elite Websites for Obtaining SnapAlert Beats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-underdeveloped-world-of-vr-experiences/"><u>2024 Approved The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-by-solving-fortnites-ram-problems/"><u>Boost Your Gaming Experience by Solving Fortnite's RAM Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/detailed-guide-resolving-sound-issues-in-minecraft-when-played-on-desktops/"><u>Detailed Guide: Resolving Sound Issues in Minecraft When Played on Desktops</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/dvdwindows-11dvd/"><u>DVD取り込み手順集：Windows 11で幅広いDVDフォーマットを保存する方法</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-adobe-after-effects-instability-issues-on-windows-1110/"><u>How to Resolve Adobe After Effects Instability Issues on Windows 11/10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimizing-live-streams-with-onestream-a-beginners-guide/"><u>In 2024, Optimizing Live Streams with OneStream A Beginner's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-not-working-master-the-fixes-to-launch-successfully-on-your-steam-or-xbox-console/"><u>Starfield Not Working? Master the Fixes to Launch Successfully on Your Steam or Xbox Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-moderating-role-of-raceethnicity-in-the-association-between-socioeconomic-status-and-health-outcomes/"><u>The Moderating Role of Race/Ethnicity in the Association Between Socioeconomic Status and Health Outcomes.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-made-simple-addressing-continuous-outriders-game-crashes/"><u>Troubleshooting Made Simple: Addressing Continuous Outriders Game Crashes</u></a></li>
+</ul></div>
 

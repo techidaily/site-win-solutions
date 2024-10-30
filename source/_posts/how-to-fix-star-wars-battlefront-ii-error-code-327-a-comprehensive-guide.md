@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Star Wars Battlefront II Error Code 327: A Comprehensive Guide"
-date: 2024-08-28T05:08:22.426Z
-updated: 2024-08-29T05:08:22.426Z
+date: 2024-10-28T16:14:04.583Z
+updated: 2024-10-30T16:03:26.634Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Star Wars Battlefront 2 is a classic game which released in 2017, but the error 
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Renew the IP address](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the server status
 
  Error code 327, error code 721 are quite the same. They often appear when attempting to join the game. The first thing to do is restarting the game and try to connect to the server again. When it’s not working, check Star Wars Battlefront 2 server status, if it’s a server problem, you need to wait for the developer team to do the work, there is not much you can do.
@@ -36,9 +43,6 @@ You can also play at another time when the servers are a little lighter.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### 2\. Use a VPN
 
  If it’s not a server problem, a VPN may help you fix the issue. Using a VPN would change the server you linked and make a difference. A paid VPN provides you a safe and better internet performance.
@@ -52,9 +56,6 @@ You can also play at another time when the servers are a little lighter.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Relaunch Star War Battlefront 2.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  By the way, you can temporarily disable your firewalls, antivirus software to make sure it’s not your firewall blocking part of the game and cause the problem. Make sure that “EA.exe” is unblocked.
 
@@ -63,8 +64,18 @@ You can also play at another time when the servers are a little lighter.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Update your driver
 
  The error code is related to the network connectivity which network driver involves. If you have an outdated network adapter driver, you may encounter various network issues such as disconnect from an online game. This may not the fix for a specific problem, but it’s no harm to upgrade your driver to make your PC work efficiently.
@@ -77,22 +88,34 @@ You can also play at another time when the servers are a little lighter.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Renew the IP address
 
  If update your driver doesn’t help, renew the IP address would be the next step. Renew your IP address will let your PC get rid of its IP address and ask DHCP server for a new one which may fix the issue.
@@ -114,8 +137,6 @@ You can also play at another time when the servers are a little lighter.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +144,24 @@ You can also play at another time when the servers are a little lighter.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-fortnite-black-screen-on-windows/"><u>[SOLVED] Fortnite Black Screen on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leverage-linked-profiles-to-amplify-fb-stories-for-2024/"><u>[Updated] Leverage Linked Profiles to Amplify FB Stories for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-holistic-motion-analysis-2023/"><u>2024 Approved Holistic Motion Analysis 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps-for-2024/"><u>Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-fixing-a-non-responsive-windows-spotlight-on-windows/"><u>Effective Solutions for Fixing a Non-Responsive Windows Spotlight on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-intel-pc-back-online-solutions-for-a-broken-device-tool/"><u>Get Your Intel PC Back Online: Solutions for a Broken Device Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-airpods-when-connected-to-pc-windows-1110/"><u>How to Restore Sound on Your AirPods when Connected to PC (Windows 11/10)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-gif-archiver/"><u>In 2024, Master Mac GIF Archiver</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-your-syma-x8c-flight-patterns/"><u>In 2024, Mastering Your Syma X8C Flight Patterns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-in-century-age-of-ashes-overcoming-pc-gaming-crashes/"><u>Mastering Stability in Century: Age of Ashes – Overcoming PC Gaming Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/phoenix-point-stability-enhancements-tips-to-avoid-in-game-crashes/"><u>Phoenix Point Stability Enhancements: Tips to Avoid In-Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-the-black-ops-cold-war-visual-bug-code-27711-with-easy-steps/"><u>Resolve the Black Ops: Cold War Visual Bug Code [27711] with Easy Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-dying-light-game-crash-issues-instantly/"><u>Resolve Your Dying Light Game Crash Issues Instantly</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/the-best-free-software-solutions-for-dvd-extraction-on-windows-1011-full-version-download-guide/"><u>The Best Free Software Solutions for DVD Extraction on Windows 10/11 - Full Version Download Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eaction-gurus-playbook-crafting-unforgettable-videos-in-under-5-minutes-each/"><u>The Reaction Guru's Playbook Crafting Unforgettable Videos in Under 5 Minutes Each</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-a56s-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo A56s 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-getting-valorant-up-and-running-on-your-computer/"><u>Troubleshooting Steps for Getting Valorant Up and Running on Your Computer</u></a></li>
+</ul></div>
 

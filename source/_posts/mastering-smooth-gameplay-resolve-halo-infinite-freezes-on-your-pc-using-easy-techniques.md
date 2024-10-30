@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Gameplay: Resolve Halo Infinite Freezes on Your PC Using Easy Techniques"
-date: 2024-08-28T05:07:06.057Z
-updated: 2024-08-29T05:07:06.057Z
+date: 2024-10-26T16:06:12.749Z
+updated: 2024-10-30T16:19:11.457Z
 tags:
   - win11
   - win10
@@ -42,15 +42,20 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 1. Open your Steam library and find Tales of Arise. Right-click the game and click**Properties.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. In the**Local files** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-2.jpg)
 3. Steam will scan the game files in your local game folder and compare them with those on the server. If anything seems wrong, Steam will fix it for you.
 4. Once the scan is done, restart the game.
 
  If you’ve verified your game files but still get the UE4 fatal error crash, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Install the latest Windows updates
 
  Keeping your system up-to-date may solve, or at least help prevent some compatibility issues that can trigger the fatal error. Here’s how to install the latest Windows updates:
@@ -61,15 +66,35 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available updates. If there aren’t any, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
  If installing the Windows updates doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check your antivirus software
 
@@ -95,24 +120,15 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall Microsoft Visual C++ Redistributable
 
  Some players were able to solve the problem by reinstalling the Microsoft Visual C++ Redistributable files on their PC. These files are essential for games and if they are corrupt, it may interfere with UE4 and cause a fatal error crash. Here’s how to reinstall it:
@@ -129,8 +145,12 @@ If this doesn’t solve your problem, try the next fix.
  If reinstalling Microsoft Visual C++ Redistributable doesn’t give you luck, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6: Disable overclocking and overlays
 
  UE4-built games are prone to fatal errors when players overclock their GPU, since the game engine doesn’t support overclocked graphics cards that well. If you’re using MSI Afterburner or other overclocking software for Tales of Arise, try to disable it then test the issue.
@@ -150,8 +170,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +177,16 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-stepwise-instructions-enabling-or-disabling-youtubes-pip-mode-for-2024/"><u>[New] Stepwise Instructions Enabling or Disabling YouTube's PIP Mode for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causes-winos-bsod-error/"><u>[Resolved] dxgkrnl.sys Causes WinOS BSOD Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-uninterrupted-warzone-fun-fix-your-directx-problem-with-these-4-easy-solutions/"><u>Achieve Uninterrupted Warzone Fun – Fix Your DirectX Problem with These 4 Easy Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-techniques-for-excellent-powerpoint-recordings/"><u>In 2024, Cutting-Edge Techniques for Excellent PowerPoint Recordings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007307644-insurgency-update-say-goodbye-to-sandstorm-crashing-problems/"><u>Insurgency Update: Say Goodbye to Sandstorm Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012033927-pc-gamers-rejoice-detroit-become-human-now-plays-smoothly-no-more-pc-crashes/"><u>PC Gamers Rejoice: Detroit: Become Human Now Plays Smoothly, No More PC Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/share-your-chatgpt-interactions-easily-the-ultimate-tutorial-on-linking-chats/"><u>Share Your ChatGPT Interactions Easily - The Ultimate Tutorial on Linking Chats</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/the-ultimate-tutorial-for-retrieving-accidentally-deleted-data-on-windows/"><u>The Ultimate Tutorial for Retrieving Accidentally Deleted Data on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-persistent-frost-in-the-new-world-insights-and-solutions/"><u>Understanding the Persistent Frost in The 'New World': Insights and Solutions</u></a></li>
+</ul></div>
 

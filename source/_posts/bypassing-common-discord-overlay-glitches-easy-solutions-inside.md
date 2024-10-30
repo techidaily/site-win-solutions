@@ -1,7 +1,7 @@
 ---
 title: Bypassing Common Discord Overlay Glitches - Easy Solutions Inside
-date: 2024-08-28T05:12:59.635Z
-updated: 2024-08-29T05:12:59.635Z
+date: 2024-10-28T16:04:51.447Z
+updated: 2024-10-30T16:05:03.288Z
 tags:
   - win11
   - win10
@@ -65,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -75,8 +72,12 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
@@ -94,20 +95,18 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -118,16 +117,33 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -138,6 +154,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -157,12 +180,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -177,8 +210,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +217,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-subscriber-boost-the-4-simplest-tricks-to-grow-your-channel-faster/"><u>[New] 2024 Approved YouTube Subscriber Boost – The 4 Simplest Tricks to Grow Your Channel Faster</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-for-experts-only-top-5-best-drones-to-buy-for-2024/"><u>[New] For Experts Only – Top 5 Best Drones to Buy for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[New] Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dancefloor-dynamics-top-rated-dj-video-selections/"><u>[Updated] 2024 Approved Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-cross-platform-magic-joining-instagram-and-tiktok/"><u>2024 Approved Cross-Platform Magic Joining Instagram and TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ace-your-match-in-rainbow-six-siege-by-fixing-the-server-connectivity-glitch/"><u>Ace Your Match in Rainbow Six Siege by Fixing the Server Connectivity Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aif-to-mp4-transformation-convert-your-media-file-without-cost-using-movavis-service/"><u>AIF to MP4 Transformation - Convert Your Media File Without Cost Using Movavi's Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cambia-archivos-aiff-al-formato-mp4-de-forma-gratuita-con-convertidor-online-de-movavi/"><u>Cambia Archivos AIFF Al Formato MP4 De Forma Gratuita Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-best-apple-smart-speaker-a-comprehensive-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Best Apple Smart Speaker: A Comprehensive Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-m4v-a-mp3-libero-di-prova-servizi-on-line-rapidi-da-movavi/"><u>Conversione M4V a MP3 Libero Di Prova - Servizi On-Line Rapidi Da Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-smooth-operation-download-universal-pci-drivers-for-windows-os/"><u>Ensure Smooth Operation: Download Universal PCI Drivers for Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-conversor-de-milhas-por-galao-para-video-em-formato-wma-online-e-facil-de-usar-com-o-moviemaker-da-movavi/"><u>Gratuito Conversor De Milhas Por Galão Para Vídeo Em Formato WMA - Online E Fácil De Usar Com O MovieMaker Da Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-comparatif-des-meilleurs-converters-video-libres-et-gratuits-sur-pc-avec-windows/"><u>Guide Comparatif Des Meilleurs Converters Vidéo Libres Et Gratuits Sur PC Avec Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nef-inhoud-opschonen-en-veilig-hopen-gratuit-dek-iptc-afbeeldingen-met-movavi/"><u>NEF-Inhoud Opschonen En Veilig Hopen, Gratuit! Dek IPTC Afbeeldingen Met Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformacion-libre-de-archivos-multimedia-guia-para-cambiar-3g2-en-wma/"><u>Transformación Libre De Archivos Multimedia: Guía Para Cambiar .3G2 en .WMA</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-full-potential-of-youtube-with-a-subscription/"><u>Unlock the Full Potential of YouTube with a Subscription</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/m4vmpeg-movavi-on-line-video-converter/"><u>무료 클라우드 버전 M4V/MPEG 영화 코딩: Movavi에서 확장성과 사용자 친화적인 제공 – On-Line Video Converter</u></a></li>
+</ul></div>
 

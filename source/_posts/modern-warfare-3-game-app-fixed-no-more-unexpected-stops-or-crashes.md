@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare 3 Game App Fixed: No More Unexpected Stops or Crashes"
-date: 2024-08-28T05:07:26.615Z
-updated: 2024-08-29T05:07:26.615Z
+date: 2024-10-24T16:13:35.363Z
+updated: 2024-10-30T16:14:23.348Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 5. [**Check your RAM**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Warzone on DirectX 11
 
  According to some gamers, the error seems to have disappeared when they**run Warzone on DirectX 11** . So you can try the same and see if this trick works for you too.
@@ -42,14 +49,24 @@ Here’s how:
 3. From the left menu, select**Game Settings** . Check the box next to**Additional command line arguments** . In the input area, type**\-d3d11** (mind the dash). Then click**Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-d3d11-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can launch Warzone and test the stability.
 
 If this fix doesn’t help, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The Dev Error 6068 message suggests a**DirectX** issue, which means it could be graphics-related. In other words, you might be using**a broken or outdated graphics driver** . So before trying anything more complicated, definitely check if you’re using the latest GPU driver.
@@ -63,18 +80,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Warzone crashes again.
@@ -92,15 +97,19 @@ And here’s a quick guide:
 2. Click **Check for updates** . It will take some time for Windows to download and install available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all system updates, restart your computer and test the gameplay in Warzone.
 
  If this method doesn’t give you luck, simply continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  While it’s common belief that overclocking serves as a zero-cost performance booster, things might turn out otherwise. It actually, in some AAA titles, undermines the stability and leads to constant crashes.
@@ -108,8 +117,12 @@ And here’s a quick guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 MSI Afterburner
 
  According to some gamers, high clock speed might be one of the causes of this error. So if you’re using overclocking utilities such as**MSI Afterburner, Intel Xtu (Extreme Tuning Utilities)** , try turning them off before you enter the game. And if your RAM clock speed is over 3000 MHz, try dialing it down a bit and see if it helps.
@@ -133,9 +146,6 @@ And here’re some solid brands we recommend:
 
  Or you can check out the fix below to use virtual memory as a temporary workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Increase your virtual memory
 
  Virtual memory serves as additional RAM when your system is out of memory. This is often useful when you’re running a big and resource-hungry application.**Increasing your computer’s virtual memory** can at some point mitigate the crash.
@@ -145,23 +155,30 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to**Automatically manage paging file size for all drives** . Then select **Customize size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now launch Warzone and check if the problem persists.
 
@@ -175,8 +192,6 @@ Now launch Warzone and check if the problem persists.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +199,26 @@ Now launch Warzone and check if the problem persists.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-manga-to-screen-applying-snapchats-anime-filter/"><u>[New] In 2024, From Manga to Screen Applying Snapchat's Anime Filter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unravel-the-mystery-of-reversed-videos-on-snapchat-for-2024/"><u>[New] Unravel the Mystery of Reversed Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elite-recording-devices-for-livestream-producers-for-2024/"><u>[Updated] Elite Recording Devices for Livestream Producers for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anthropics-toolkit-the-complete-guide-to-claude-3/"><u>Anthropic's Toolkit: The Complete Guide to Claude 3</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beating-the-bullet-expert-advice-to-resolve-chivalry-2s-ping-and-performance-problems-fresh-strategies/"><u>Beating the Bullet: Expert Advice to Resolve Chivalry 2'S Ping and Performance Problems [Fresh Strategies]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from OnePlus Nord CE 3 5G.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-hitman-3s-previous-pc-launch-issues-now-defeated/"><u>Farewell to Frustration: Hitman 3'S Previous PC Launch Issues Now Defeated!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-path-not-found-on-pc-systems/"><u>Fixing Path Not Found on PC Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-bug-how-to-resolve-wolcen-lords-of-mayhem-pc-game-crash/"><u>Fixing the Bug: How to Resolve 'Wolcen: Lords of Mayhem' PC Game Crash</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-starfield-and-reduce-cpu-usage-top-strategies-for-gamers/"><u>How to Optimize Starfield and Reduce CPU Usage - Top Strategies for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-call-of-duty-world-war-ii-error-code-4128-an-easy-fix-for-gamers/"><u>How to Solve Call of Duty World War II Error Code #4128: An Easy Fix for Gamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insightful-analysis-the-it-takes-two-project-has-been-successfully-launched/"><u>Insightful Analysis: The 'It Takes Two' Project Has Been Successfully Launched</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>New Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-cyberpunk-2077s-ice-age-update-patches-game-freezes/"><u>Overcome Cyberpunk 2077'S Ice Age: Update Patches Game Freezes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/social-media-savviness-mastering-4-techniques-to-record-facebook-lives/"><u>Social Media Savviness Mastering 4 Techniques to Record Facebook Lives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-call-of-duty-vanguard-game-crashes/"><u>Ultimate Guide to Resolving 'Call of Duty: Vanguard' Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/watch-dogs-legion-stuck-on-loading-screen-solved/"><u>Watch Dogs: Legion Stuck On Loading Screen [Solved]</u></a></li>
+</ul></div>
 

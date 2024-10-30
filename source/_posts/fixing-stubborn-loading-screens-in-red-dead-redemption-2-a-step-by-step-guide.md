@@ -1,7 +1,7 @@
 ---
 title: Fixing Stubborn Loading Screens in Red Dead Redemption 2 - A Step-by-Step Guide
-date: 2024-08-28T05:10:40.878Z
-updated: 2024-08-29T05:10:40.878Z
+date: 2024-10-23T16:12:48.187Z
+updated: 2024-10-30T16:03:49.148Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable antivirus software
 
  If you have the latest drivers installed but still have a problem playing the game, the culprit could be your antivirus software.
@@ -80,9 +77,6 @@ Follow the links below to check how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics drivers
 
  Rockstar Games says the most common cause of**Red Dead Redemption 2** not loading problem is outdated graphics drivers. NVIDIA and AMD work closely with game developers to keep releasing new drivers to boost performance and fix bugs.
@@ -113,6 +107,13 @@ There are two ways you can update your graphics drivers:
 
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
@@ -126,6 +127,13 @@ Note: You can do it for free if you like, but it’s partly manual.
  Launch the game again to see if**Red Dead Redemption 2** continues to get stuck on the loading screen.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Delete Settings
 
@@ -143,9 +151,6 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
 
 If this method doesn’t work for you, you can try the next fix.
@@ -164,9 +169,6 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![run Red Dead Redemption 2 as admin](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-run-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click**Change high DPI settings** .
 
  5) Under the**High DPI scaling override** section, tick the**Override high DPI scaling behavior** . Make sure scaling is performed by the**Application** . Then click**OK** .
@@ -179,9 +181,6 @@ If this method doesn’t work for you, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Turn off Vsync
 
  Some players find that turning off Vsync helped them fix the Red Dead Redemption 2 not loading issue.
@@ -194,22 +193,30 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under Manage 3D settings, click**Program Settings** \>**Add** \> select your**Red Dead Redemption 2 exe.** program file.  
   
  Then scroll down the list and click**Vertical sync** and**Triple buffering** and select them both On. Click**Apply** to save the changes.
 
 ![manage 3D settings](https://images.drivereasy.com/wp-content/uploads/2019/11/Turn-on-vsync-and-triple-buffering.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) If this method doesn’t work for you, go to**NVIDIA Control Panel** \>**Manage 3D settings** \>**Restore Defaults** .
 
 ![Restore defaults in NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/restore-defaults.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) Relaunch your Red Dead Redemption 2 to see if the infinite loading issue is gone.
 
  If Red Dead Redemption 2 still keeps loading forever, please move on to the next fix.
@@ -227,9 +234,12 @@ If this method doesn’t work for you, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/optional-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Add a feature** and choose**Graphics Tools** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-feature-1.jpg)
@@ -248,16 +258,10 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-1200x658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click on the**View features** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-tools-1200x658.jpg)
@@ -266,18 +270,12 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-Tools-Install-1200x658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Wait for it to finish the process.
 
  Now launch your Red Dead Redemption to test the issue. If this doesn’t work for you, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Perform a clean boot
 
  If Red Dead Redemption still fails to load, it may be caused by other software on your PC. You may need a clean boot to see if that’s your issue. Here is how to do it:
@@ -290,9 +288,6 @@ Wait for it to finish the process.
 
 ![disable all services](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the **Startup** tab and click **Open Task Manager** .
 
 ![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
@@ -301,9 +296,6 @@ Wait for it to finish the process.
 
 ![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Go back to**System Configuration** , click**OK** .
 
  6) Restart your PC and launch Red Redemption 2 to see if the issue still persists.
@@ -326,6 +318,13 @@ Wait for it to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -338,6 +337,13 @@ Wait for it to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -349,6 +355,19 @@ Wait for it to finish the process.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -409,8 +428,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -418,4 +435,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/xploring-many-youtube-courses-together/"><u>[New] Exploring Many YouTube Courses Together</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-easytime-timer-solutions-at-zero-cost/"><u>[New] Top EasyTime Timer Solutions at Zero Cost</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-flicker-studio-the-complete-lightroom-alternatives-guide/"><u>[Updated] Flicker Studio The Complete Lightroom Alternatives Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/can-pressing-prtscr-open-snipping-tool-how-to-block-it-on-windows-11/"><u>Can Pressing PrtScr Open Snipping Tool? How to Block It on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-gameplay-with-these-techniques-to-boost-fps-in-tainted-grail-conquest/"><u>Elevate Your Gameplay with These Techniques to Boost FPS in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002115036-enhance-gaming-experience-solve-frame-rate-issues-smooth-out-stutters-improve-speed/"><u>Enhance Gaming Experience: Solve Frame Rate Issues, Smooth Out Stutters, Improve Speed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-a-crashingnon-responsive-nvidia-control-panel-a-guide/"><u>Fixing a Crashing/Non-Responsive NVIDIA Control Panel: A Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-tackle-the-user-login-problems-in-counter-strike-global-offensive-a-5-step-guide/"><u>How to Tackle the User Login Problems in Counter-Strike Global Offensive - A 5 Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find N3 Flip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-sidestep-these-8-common-errors/"><u>Mastering Windows 11: Sidestep These 8 Common Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mir4-stability-tips-ensuring-uninterrupted-performance-for-your-pc/"><u>MIR4 Stability Tips: Ensuring Uninterrupted Performance for Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-issue-of-fall-guys-game-crashing-on-windows-computers/"><u>Resolving the Issue of Fall Guys Game Crashing on Windows Computers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-talent-spotlights-inspiring-recruitment-chronicles-1-10-for-2024/"><u>Top Talent Spotlights Inspiring Recruitment Chronicles #1-10 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-overcome-apex-legends-engine-glitches-effectively/"><u>Troubleshoot and Overcome Apex Legends' Engine Glitches Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valorant-performance-boost-a-guide-to-fixing-freezes-and-maximizing-fps/"><u>Valorant Performance Boost: A Guide to Fixing Freezes and Maximizing FPS</u></a></li>
+</ul></div>
 

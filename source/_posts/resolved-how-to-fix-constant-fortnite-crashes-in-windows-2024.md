@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Constant Fortnite Crashes in Windows 2024"
-date: 2024-08-28T05:12:57.227Z
-updated: 2024-08-29T05:12:57.227Z
+date: 2024-10-24T16:00:52.898Z
+updated: 2024-10-30T16:09:54.779Z
 tags:
   - win11
   - win10
@@ -56,22 +56,19 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 2. **Right-click** on **F1 2021** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch F1 2021 and check if this fix works. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If F1 2021 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -86,15 +83,20 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of F1 2021 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -103,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 
  Launch F1 2021 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Update DirectX and Visual C++ Redistributables
 
  To ensure compatibility, you will need to update your Microsoft C++ redistributables. If your PC is running on Windows 10, you just need to perform a Windows Update.
@@ -115,13 +114,35 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Then click **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 2. Click **Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++, you can download its installation files via the links below on your own and manually install them on your PC.
 
 * [Visual C++ Redistributables](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
 
  Restart your PC after you installed the Visual C++ Redistributables. Then run F1 2021 and see if the game crashes. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -142,24 +163,28 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch F1 2021 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -187,8 +212,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +219,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-integrate-voice-over-into-powerpoint-shows-easily/"><u>[New] Integrate Voice-Over Into PowerPoint Shows Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-optimize-your-presence-on-spotify-ads/"><u>[Updated] 2024 Approved How to Optimize Your Presence on Spotify Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-screen-recording-the-top-5-android-capturing-apps-for-2024/"><u>[Updated] Elite Screen Recording The Top 5 Android Capturing Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ensuring-accurate-earnings-tracking-for-creators-for-2024/"><u>[Updated] Ensuring Accurate Earnings Tracking for Creators for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/2-troubleshooting-steps-when-ios-apps-wont-launch-on-macos-systems/"><u>2. Troubleshooting Steps When iOS Apps Won't Launch on macOS Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-archivo-pbm-para-su-visualizacion-en-vista-previa-gratuita-guia-paso-a-paso-de-movavi/"><u>Convertir Archivo PBM Para Su Visualización en Vista Previa Gratuita: Guía Paso a Paso De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-audio-converter-au-download-mp3-files-easily-with-movavi/"><u>Free Online Audio Converter (AU) - Download MP3 Files Easily with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuit-online-transformez-vos-fichiers-m4v-en-m4a-avec-movavi/"><u>Gratuit Online: Transformez Vos Fichiers M4V en M4A Avec Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-craft-professional-profiles-with-movavi-a-complete-guide/"><u>How to Craft Professional Profiles with Movavi: A Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/las-extensiones-de-chrome-mas-efectivas-para-grabacion-de-pantalla-en-2023/"><u>Las Extensiones De Chrome Más Efectivas Para Grabación De Pantalla en 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/methodology-to-purging-your-youtube-watch-later-playlist-for-2024/"><u>Methodology to Purging Your YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mp3-vs-aac-una-comparacion-completa-para-optimizar-la-experiencia-de-escucha-movavi/"><u>MP3 vs AAC: Una Comparación Completa Para Optimizar La Experiencia De Escucha - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-hidden-internet-portal-in-ps5/"><u>Revealing Hidden Internet Portal in PS5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-our-handpicked-selection-of-travelers-essentials-iphone-cases-portable-chargers-and-apple-watch-bands-with-a-sweet-20-discount-today-zdnet/"><u>Shop Our Handpicked Selection of Traveler's Essentials: IPhone Cases, Portable Chargers & Apple Watch Bands with a Sweet 20% Discount Today | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-9-online-video-editoren-laten-meest-gewone-knipper-voor-je-geluksbrigade/"><u>Top 9 Online Video Editoren - Laten Meest Gewone Knipper Voor Je Geluksbrigade</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-un-fichier-raf-en-image-jpeg-gratuite-en-ligne-facile-avec-movavi/"><u>Transformer Un Fichier RAF en Image JPEG Gratuite en Ligne – Facile Avec Movavi</u></a></li>
+</ul></div>
 

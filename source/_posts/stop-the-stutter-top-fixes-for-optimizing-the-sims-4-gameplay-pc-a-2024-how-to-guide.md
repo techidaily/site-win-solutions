@@ -1,7 +1,7 @@
 ---
 title: "Stop the Stutter: Top Fixes for Optimizing The Sims 4 Gameplay (PC) – A 2024 How-To Guide"
-date: 2024-08-28T05:13:25.664Z
-updated: 2024-08-29T05:13:25.664Z
+date: 2024-10-25T16:11:18.704Z
+updated: 2024-10-30T16:04:15.886Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
  If you’re using a custom wallpaper on Windows 10, you can enable an option to**set the accent color** of the Start menu, taskbar, and action center to match the base color of the image automatically.
@@ -60,11 +67,16 @@ Passive Adapter (DP to HDMI)
 1. On the empty area of your desktop, right-click and select**Personalize** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/personalize-01.jpg)
 2. From the left menu, select**Colors** . Under the**Choose your accent color** section, make sure you’ve**unchecked** the box next to**Automatically pick an accent color** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  If this method doesn’t help your case, you can take a look at the next one.
 
@@ -89,6 +101,13 @@ Passive Adapter (DP to HDMI)
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your network driver, restart your computer and check if Chrome flickers again.
@@ -104,19 +123,17 @@ If you don’t know how, simply follow these steps:
 1. Open Chrome. In the address bar, type or paste**chrome://flags** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-1.jpg)
 2. In the search box, type or paste**smooth scrolling** . Set**Smooth Scrolling** to**Enabled** or**Disabled** and see which one works best for you. Remember to restart Chrome after changing the settings.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  If this trick doesn’t give you luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Update Chrome
 
  Chrome updates include bug fixes and compatibility improvements. It’s possible that the flickering issue has been fixed in the latest version. So, you can follow these steps to check for Chrome updates:
@@ -127,12 +144,15 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re already using the latest version of Chrome, please continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 7: Install all Windows updates
 
  Windows updates offer regular**security patches** and sometimes (twice a year) a**performance boost** . If it’s been a while since the last time you checked for system updates, you need to do it now as it might fix your problem right away.
@@ -144,28 +164,36 @@ If you don’t know how, simply follow these steps:
 1. Launch Google Chrome. In the upper right corner, click the “three dots” icon. Then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-settings-1.jpg)
 2. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to “off” (grey-out) position. Then click**Relaunch** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-hardware-acceleration-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now you can test some websites and see if Chrome flickers again.
 
 If this fix doesn’t work for you, go ahead and try the last one.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Downgrade your Chrome version
 
  According to some users, the flickering issue appears to only happen on some certain builds. If you’ve tried all the methods above and none works, you might want to try**downgrading your Chrome version** . To do this, simply go to the[Slimjet download page](https://www.slimjet.com/chrome/google-chrome-old-version.php) and select the previous version of your choice. Once you’ve installed an old version of Chrome, don’t forget to turn off auto-update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 10: Modify your Registry
 
  Some users reported that the flickering might be caused by dwm.exe (Desktop Window Manager) and is fixed in Windows 11\. And there’s also a Windows 10 workaround. To check if this applies to your case, you can modify your registry and see if this works for you.
@@ -173,18 +201,20 @@ If this fix doesn’t work for you, go ahead and try the last one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) and type or paste**regedit** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-2.jpg)
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 If the issue lingers on, you can try the next solution.
 
 ### Fix 11: Check for system issues
@@ -197,9 +227,6 @@ If the issue lingers on, you can try the next solution.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -214,8 +241,6 @@ If the issue lingers on, you can try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +248,19 @@ If the issue lingers on, you can try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-the-gold-standard-in-selecting-accurate-3ds-simulators-for-2024/"><u>[New] The Gold Standard in Selecting Accurate 3DS Simulators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-game-strategies-for-stellar-gaming-youtube-banners-for-2024/"><u>[Updated] Elevate Your Game Strategies for Stellar Gaming YouTube Banners for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-explore-online-downloads-converting-youtube-to-mp3-made-simple-for-2024/"><u>[Updated] Explore Online Downloads Converting YouTube to MP3 Made Simple for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-enhancing-zoom-visual-acuity-easy-steps/"><u>2024 Approved Enhancing Zoom Visual Acuity Easy Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-tutorial-on-saving-your-creations-video-exporting-techniques-in-after-effects/"><u>Complete Tutorial on Saving Your Creations: Video Exporting Techniques in After Effects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ideas-creativas-y-unicas-para-impulsar-el-crecimiento-en-tu-canal-de-youtube/"><u>Ideas Creativas Y Únicas Para Impulsar El Crecimiento en Tu Canal De YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-eliminate-non-existent-fb-ad-impressions/"><u>In 2024, Eliminate Non-Existent FB Ad Impressions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-tool-convert-mp4-videos-into-mpe-format-online-effortlessly/"><u>Movavi's Free Tool: Convert MP4 Videos Into MPE Format Online Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swiftswf-to-mov-changeover-hands-free-conversion-tools-for-quick-and-simple-mov-file-creation/"><u>SwiftSWF-to-MOV Changeover: Hands-Free Conversion Tools for Quick and Simple MOV File Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-power-of-meta-interpretation-and-compliance-in-games/"><u>The Power of 'Meta': Interpretation & Compliance in Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-smart-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Smart Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-videos-rapidamente-on-line-guia-detalhado-para-a-transicao-de-wmv-para-mp4-com-as-ferramentas-facilmente-utilizaveis-no-sitio-movavi/"><u>Transformar Vídeos Rapidamente On-Line: Guia Detalhado Para a Transição De WMV Para MP4 Com as Ferramentas Facilmente Utilizáveis No Sítio Movavi</u></a></li>
+</ul></div>
 
