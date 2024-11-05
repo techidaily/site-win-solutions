@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies: Fix Hitman 3 Crashes and Boost Performance in Your Gaming Rig"
-date: 2024-08-28T05:03:38.879Z
-updated: 2024-08-29T05:03:38.879Z
+date: 2024-11-01T05:36:54.172Z
+updated: 2024-11-04T17:56:35.425Z
 tags:
   - win11
   - win10
@@ -29,17 +29,38 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -52,8 +73,12 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -65,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -96,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
 Now launch Dark Souls 3 and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -107,9 +126,6 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -118,9 +134,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -135,6 +148,13 @@ Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -145,9 +165,6 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
@@ -156,9 +173,6 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam, and open Dark Souls 3 to play.
@@ -175,8 +189,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +196,17 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-compelling-end-screens-in-youtube-videos/"><u>[New] Crafting Compelling End Screens in YouTube Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips/"><u>2024 Approved Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932974-9781855843479-anthroposophy-a-z/"><u>Anthroposophy A-Z | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-eliminate-freezing-in-persona-3-reload-when-played-on-windowspc/"><u>Effective Solutions to Eliminate FREEZING in Persona 3 Reload When Played on Windows/PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/experience-uninterrupted-vr-solve-oculus-links-blackout-in-just-six-steps/"><u>Experience Uninterrupted VR: Solve Oculus Link's Blackout in Just Six Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002441435-immortals-fenyx-rising-launch-issues-resolved-start-playing-today/"><u>Immortals Fenyx Rising Launch Issues Resolved – Start Playing Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 11 Pro Max? How to Fix</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/optimal-data-harmony-leading-external-drive-sync-solutions/"><u>Optimal Data Harmony: Leading External Drive Sync Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-to-get-the-thaumaturge-program-running-smoothly-on-desktop-pcs/"><u>Solutions to Get the Thaumaturge Program Running Smoothly on Desktop PCs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-10-excellent-free-video-compressors-compatible-with-windows-10/"><u>Updated 10 Excellent Free Video Compressors Compatible with Windows 10</u></a></li>
+</ul></div>
 

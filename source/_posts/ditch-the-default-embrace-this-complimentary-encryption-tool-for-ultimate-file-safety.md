@@ -1,7 +1,7 @@
 ---
 title: "Ditch the Default: Embrace This Complimentary Encryption Tool for Ultimate File Safety"
-date: 2024-08-28T04:59:38.737Z
-updated: 2024-08-29T04:59:38.737Z
+date: 2024-11-03T16:45:34.548Z
+updated: 2024-11-05T00:57:30.556Z
 tags:
   - windows
 categories:
@@ -26,8 +26,12 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
  After my issues with Windows Backup, I searched for a more reliable and secure backup tool for Windows. That's when I discovered KopiaUI. KopiaUI allows me to create snapshot backups and send them to multiple locations, so I never have to worry about a hard drive failure again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Is KopiaUI and Why You Should Use It?
 
  KopiaUI is a fast, secure, open-source backup and restore tool. It creates file-system snapshots in a remote location with built-in client-side encryption, ensuring your files are safe.
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
  KopiaUI is a compelling alternative to Windows Backup, especially for users prioritizing incremental backups, diverse storage options, robust security, and advanced features. While its interface might not be as intuitive as Windows Backup's, its reliability and comprehensive features make it a strong contender for safeguarding your valuable data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Getting Started With KopiaUI
 
  To use KopiaUI, you'll need to download it and install it on Windows. Head over to the KopiaUI GitHub releases page, and [grab the latest version for Windows.](http://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe) 
@@ -65,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
  With your storage solution chosen, you'll be asked to finish creating your KopiaUI repository by entering a password. Do so, and then click "Create Repository" to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Using KopiaUI With Cloud storage
 
  KopiaUI supports a wide variety of cloud storage options, like Dropbox, OneDrive, Google Drive, etc. However, it requires a tiny bit of setup to make it work. Thankfully, it isn't difficult to set up (relatively speaking).
@@ -83,9 +81,6 @@ choco install rclone
 
 ![Rclone connecting to Google Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-connected-to-google-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From here, connect to your favorite Cloud service:
 
 rclone config
@@ -96,9 +91,6 @@ rclone config
 
 ![Rclone is connected to Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-connect-to-google-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Kopia, enter "C:\\programdata\\chocolatey\\bin\\rclone.exe" as the path to Rclone.
 
 **Configuring Dropbox** 
@@ -123,6 +115,13 @@ rclone ls <remote-name>:
 
  After connecting to a cloud service, you'll be asked to finish creating your KopiaUI repository by entering a password. Do so, and then click "Create Repository" to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Creating Your First Backup
 
  When you've connected KopiaUI to your storage solution of choice, your new KopiaUI repository will be ready to use. To create your first backup, find the Snapshots section of KopiaUI, and select the "New Snapshot" button. After selecting the "New Snapshot" button, you'll be asked to "enter path to snapshot." Browse for the folder you wish to back up to KopiaUI. When you've selected it, find the "Snapshot Now" button and select it.
@@ -130,11 +129,22 @@ rclone ls <remote-name>:
 ![Rclone is taking a snapshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-snapshot-in-progress-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After selecting the "Snapshot Now" button, you can customize the settings for your backup in KopiaUI. However, this is not required. You can just as easily leave everything at default. When you've finished looking over the settings, click "Snapshot Now" again to start the backup process.
 
  When the snapshot is completed, KopiaUI will list this backup in the UI. Select the backup to view the contents. If you want to restore a backup with KopiaUI, select the snapshot, and then select "Restore Files & Directories" to restore it to their original locations, or a location of your choosing. You can also mount your backups directly as a filesystem by selecting the "Mount as Local Filesystem" option.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Peace of Mind With KopiaUI
 
@@ -146,8 +156,6 @@ rclone ls <remote-name>:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +163,22 @@ rclone ls <remote-name>:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhance-watchability-with-full-screen-on-fb-videos-for-2024/"><u>[New] Enhance Watchability with Full-Screen on FB Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-your-screen-share-experience-with-meet-for-2024/"><u>[New] Streamlining Your Screen Share Experience with Meet for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-ranked-ios-tools-to-experience-real-psp-games/"><u>[Updated] In 2024, Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-apple-iphone-xs-max-why-it-claims-its-spot-as-the-finest-yet-most-expensive-smartphone/"><u>Analyzing the Apple iPhone XS Max: Why It Claims Its Spot as the Finest Yet Most Expensive Smartphone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-maplestory-crashes-on-windows-11-with-these-proven-solutions/"><u>Beat MapleStory Crashes on Windows 11 with These Proven Solutions</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C33 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/convert-pbm-images-to-jpg-for-free-using-movavis-web-based-tool/"><u>Convert PBM Images to JPG for Free Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-professionalism-the-best-practices-for-post-upload-editing-for-2024/"><u>Crafting Professionalism The Best Practices for Post-Upload Editing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-solutions-for-the-common-palworld-eos-login-error-learn-from-these-6-techniques/"><u>Essential Solutions for the Common PalWorld EOS Login Error – Learn From These ☣️ 6 Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-samsung-galaxy-tab-s3-a-reliable-tablet-option-an-in-depth-analysis/"><u>Is the Samsung Galaxy Tab S3 a Reliable Tablet Option? An In-Depth Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-expert-hacks-to-stop-street-fighter-6-from-crashing-on-pcs/"><u>Mastering Stability: Expert Hacks to Stop Street Fighter 6 From Crashing on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-launch-errors-addressed-tips-and-tricks-for-a-successful-game-start-on-your-pc/"><u>Outriders Launch Errors Addressed - Tips and Tricks for a Successful Game Start on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-connected-seamless-messaging-and-calling-on-your-apple-watch-tips-and-tricks/"><u>Stay Connected: Seamless Messaging and Calling on Your Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-is-fallout-3-failing-to-load/"><u>Troubleshooting Guide: Why Is Fallout 3 Failing to Load ?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winwordexe-application-snags-here-are-five-straightforward-fixes/"><u>WINWORD.EXE Application Snags? Here Are Five Straightforward Fixes</u></a></li>
+</ul></div>
 

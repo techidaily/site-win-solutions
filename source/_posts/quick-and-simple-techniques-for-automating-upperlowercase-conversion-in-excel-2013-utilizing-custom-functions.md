@@ -1,7 +1,7 @@
 ---
 title: Quick & Simple Techniques for Automating Upper/Lowercase Conversion in Excel 2013 Utilizing Custom Functions
-date: 2024-08-28T05:00:56.120Z
-updated: 2024-08-29T05:00:56.120Z
+date: 2024-11-04T07:51:22.399Z
+updated: 2024-11-05T02:03:28.397Z
 tags:
   - excel
 categories:
@@ -75,8 +75,6 @@ You may find you need to change multiple cells from one case to another in Excel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +82,28 @@ You may find you need to change multiple cells from one case to another in Excel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>[New] The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>[Updated] 2024 Approved Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-transition-adopting-windows-11/"><u>[Updated] Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/demystifying-gopro-video-capture-with-burst-mode-for-2024/"><u>Demystifying GoPro Video Capture with Burst Mode for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-on-duplicating-excel-graphs-using-the-clipboard-method/"><u>Guide on Duplicating Excel Graphs Using the Clipboard Method</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/latest-enhancements-introduced-by-the-microsoft-creators-update-in-windows-10/"><u>Latest Enhancements Introduced by the Microsoft Creators Update in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-excel-table-titles-top-techniques-and-best-practices/"><u>Mastering Excel Table Titles: Top Techniques and Best Practices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-changing-string-data-to-date-formats-in-excel-efficiently/"><u>Mastering the Art of Changing String Data to Date Formats in Excel Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-data-lookup-a-comprehensive-guide-to-using-vlookup-in-excel/"><u>Mastering the Art of Data Lookup: A Comprehensive Guide to Using VLOOKUP in Excel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated In 2024, Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-s-most-popular-online-video-reverse-editors-for-2024/"><u>Updated S Most Popular Online Video Reverse Editors for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Fortnite Loading Screen Issue - Solutions for Getting Unstuck!
-date: 2024-08-28T05:05:02.068Z
-updated: 2024-08-29T05:05:02.068Z
+date: 2024-10-31T00:55:11.324Z
+updated: 2024-11-05T01:12:21.101Z
 tags:
   - win11
   - win10
@@ -38,13 +38,23 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
 Still no luck? Move on to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
  It’s also possible that Windows Security and other antivirus have prevented Monter Hunter Rise from running, and therefore the game fails to launch. To tweak the settings, follow the steps below:
@@ -54,19 +64,27 @@ Still no luck? Move on to the next method below.
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -79,8 +97,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
@@ -91,16 +123,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Check your current **CPU and memory usage** to see what apps are consuming your resources most. Then right-click the process you want to end and select **End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 Check if the game launches as expected. If not, take a look at Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  To troubleshoot any missing or damaged game files that might cause MHR to malfunction, you could perform an integrity check. Newly-released games keep rolling out patches, and doing this will also check for the game updates.
@@ -108,19 +142,10 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 1. Open Steam and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
 
 ### Fix 6 – Repair your system files
@@ -133,13 +158,26 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 Test the game to see if your system runs faster and smoother now.
 
 ---
@@ -155,8 +193,6 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +200,20 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-audience-enhancement-with-audition-fades-for-2024/"><u>[New] Audience Enhancement with Audition Fades for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[Updated] 2024 Approved Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-discord-buffering-expert-strategies-for-ultimate-stability-2nd/"><u>Beat Discord Buffering: Expert Strategies for Ultimate Stability 2nD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-v-purse-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor V Purse via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-methods-how-to-convert-mp3-to-m4r-itunes-format-for-iphone-ringtones/"><u>Best Methods: How to Convert MP3 to M4R iTunes Format for iPhone Ringtones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008639690-expert-tips-to-boost-chrome-performance-fast-and-easy/"><u>Expert Tips to Boost Chrome Performance Fast and Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-dynamics-of-canon-timelapse-imagery/"><u>Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/optimizing-warzone-gameplay-on-windows-11-by-utilizing-your-gpu/"><u>Optimizing Warzone Gameplay on Windows 11 by Utilizing Your GPU</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-baldurs-gate-iii/"><u>PC에서 Baldur's Gate III가 문제 없이 작동하도록 해결하는 복습 조치</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reignite-f-keys-the-ultimate-guide-to-fixing-windows-10/"><u>Reignite F-Keys: The Ultimate Guide to Fixing Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-repair-dealing-with-persistent-outriders-game-crashes/"><u>Simple Repair: Dealing with Persistent Outriders Game Crashes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/subtitles-in-a-click-our-free-top-10-converter-picks-for-2024/"><u>Subtitles in a Click - Our Free, Top 10 Converter Picks for 2024</u></a></li>
+</ul></div>
 

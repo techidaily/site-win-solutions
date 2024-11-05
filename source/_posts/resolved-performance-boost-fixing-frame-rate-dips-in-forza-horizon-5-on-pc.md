@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Performance Boost - Fixing Frame Rate Dips in Forza Horizon 5 on PC"
-date: 2024-08-28T05:02:37.648Z
-updated: 2024-08-29T05:02:37.648Z
+date: 2024-10-31T16:26:39.894Z
+updated: 2024-11-04T19:24:37.460Z
 tags:
   - win11
   - win10
@@ -43,7 +43,22 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -60,21 +75,20 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
-3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
-4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
+3. Click**Windows Update** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 Once done, restart your PC and see if Warzone is using your GPU.
@@ -82,9 +96,12 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Change settings in your graphics control panel
 
  You can also force Warzone to run on your graphics card by changing settings in the graphics control panel. If you don’t know how, here’re the steps for NVIDIA GPUs:
@@ -96,9 +113,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
 
@@ -109,27 +123,32 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -139,6 +158,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -150,8 +176,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +183,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-art-of-flipping-photo-shades/"><u>[New] 2024 Approved Unveiling the Art of Flipping Photo Shades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-editing-to-sharing-using-premiere-with-youtube/"><u>[New] In 2024, From Editing to Sharing Using Premiere with YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-visual-storytelling-on-macbook-webcam-setup/"><u>[Updated] 2024 Approved Visual Storytelling on MacBook Webcam Setup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-precision-guide-for-webp-to-jpg-conversion/"><u>[Updated] Precision Guide for WebP to JPG Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-review-of-apeaksoft-for-video-capture-technology/"><u>2024 Approved Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-methods-for-solving-starfields-excessive-cpu-demand-in-2e24/"><u>Effective Methods for Solving Starfield's Excessive CPU Demand in 2E24</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-concurrent-frames-per-second-decrease-on-your-pc-gaming-rig/"><u>How to Fix Concurrent Frames Per Second Decrease on Your PC Gaming Rig</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solution-to-persistent-terraria-game-crashes-edition/"><u>Master the Solution to Persistent Terraria Game Crashes Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-ai-inputs-returns-on-financial-front/"><u>Premium AI Inputs - Returns on Financial Front?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-behind-continuous-crashes-of-call-of-duty-black-ops-cold-war-on-windows-pcs/"><u>Solving the Mystery Behind Continuous Crashes of Call of Duty Black Ops Cold War on Windows PCs</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/waht-is-ai-pixel-art-generator-wondershare-virbo-glossary-for-2024/"><u>Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+</ul></div>
 

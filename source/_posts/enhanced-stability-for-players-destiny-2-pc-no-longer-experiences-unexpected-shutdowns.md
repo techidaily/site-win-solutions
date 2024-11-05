@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Stability for Players: Destiny 2 PC No Longer Experiences Unexpected Shutdowns"
-date: 2024-08-28T05:05:43.771Z
-updated: 2024-08-29T05:05:43.771Z
+date: 2024-11-01T09:41:09.298Z
+updated: 2024-11-04T18:58:58.234Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
@@ -52,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
  Relaunch SnowRunner after the verifying process completed to see if this fix works. If not, don’t worry. Just move on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If SnowRunner keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -68,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -106,15 +114,23 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If SnowRunner works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean boot
 
  The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic program that crashes the game** . Once you locate the program, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -124,21 +140,28 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run SnowRunner to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -164,8 +187,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +194,24 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-for-2024/"><u>[Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-quick-content-in-a-facebook-frame/"><u>[New] Quick Content in a Facebook Frame</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/winx-dvd-ripper-platinum-dvd-32microsoft-appleandroiddvd/"><u>公式 WinX DVD Ripper Platinum - DVDコピープロテクトが完璧に解除! 高効率32倍速でMicrosoft, AppleデバイスとAndroidへのDVD変換</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1726228001654-m1vavi-movavi/"><u>線上免費變更影片格式：由M1V改成AVI - Movavi視頻轉框器指南</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-firestick-and-your-phones-wifi-the-comprehensive-guide-to-setting-them-up-together/"><u>Amazons Firestick and Your Phone's WiFi: The Comprehensive Guide to Setting Them Up Together</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhanced-joy-in-switchs-hd-gameplay-through-cards-for-2024/"><u>Enhanced Joy in Switch's HD Gameplay Through Cards for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-game-crashes-in-team-fortress-2/"><u>How to Fix Persistent Game Crashes in Team Fortress 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-constant-craving-glitches-leading-to-computer-breakdowns/"><u>How to Overcome Constant Craving Glitches Leading to Computer Breakdowns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-red-dead-redemption-crashes-when-played-on-windows-computer/"><u>How to Resolve Red Dead Redemption ^Crashes^ When Played on Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-rust-code-from-abruptly-stopping-a-step-by-step-guide/"><u>How to Stop Your Rust Code From Abruptly Stopping – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-game-performance-resolve-fps-issues-in-dota-2-on-modern-windows-systems/"><u>Improving Game Performance: Resolve FPS Issues in Dota 2 on Modern Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-live-to-recorded-simplifying-facebook-broadcasting/"><u>In 2024, From Live to Recorded Simplifying Facebook Broadcasting</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok/"><u>In 2024, Take Control How to Involve Yourself in a Friend's Live on TikTok</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-gpu-underutilization-in-warzone-when-playing-on-windows-11-systems/"><u>Resolving GPU Underutilization in Warzone When Playing on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-fortnite-out-of-vram-problem-expert-advice-on-optimizing-performance/"><u>Solving Fortnite Out of VRAM Problem: Expert Advice on Optimizing Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-latency-problems-in-rainbow-six-siege/"><u>Solving Latency Problems in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-performing-a-clean-slate-restart-on-your-pc-with-windows-11/"><u>Step-by-Step Guide: Performing a Clean Slate Restart on Your PC with Windows 11</u></a></li>
+</ul></div>
 

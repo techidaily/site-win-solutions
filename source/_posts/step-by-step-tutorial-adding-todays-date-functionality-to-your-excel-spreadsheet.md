@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Adding Today’s Date Functionality to Your Excel Spreadsheet"
-date: 2024-08-28T05:01:02.525Z
-updated: 2024-08-29T05:01:02.525Z
+date: 2024-11-03T23:48:31.707Z
+updated: 2024-11-05T06:12:32.631Z
 tags:
   - excel
 categories:
@@ -40,10 +40,6 @@ Related: [How to See Multiple Time Zone Clocks on Windows 10's Taskbar](https://
 
 ![Select a cell to display the date in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  While the cell is selected, press Ctrl+; (semicolon) to add today's date in the cell. This keyboard shortcut works on both Windows and Mac.
 
  Your cell now has today's date in it.
@@ -52,7 +48,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Today's date in a cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-add-today-date-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add Today's Date as a Dynamic Date in Excel
 
@@ -66,9 +76,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Select a cell to display the date in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the cell, type the following function and press Enter:
 
 =TODAY()
@@ -77,23 +84,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Enter the function to add today's date.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-excel-today-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And Excel will display today's date in your cell.
 
 ![Today's date added with a function in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-insert-today-date-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  If you reopen your spreadsheet, you will see the date of that day.
 
 Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Change the Date Format in Excel
 
  If you prefer a specific format for your dates, Excel has an option to [customize the date format](https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac-for-2024/). This way, you can display your date in whatever format you desire.
@@ -107,11 +105,22 @@ Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://
 ![Select a date format and click "OK" on the "Format Cells" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-change-date-format-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Your date now uses your selected format.
 
 ![Today's date in a different format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-new-date-format-excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's how you quickly display today's date in your various spreadsheets. Very useful!
 
@@ -127,8 +136,6 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +143,22 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>[Updated] 2024 Approved The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hd-to-uhd-seamless-video-transformations/"><u>[Updated] HD to UHD Seamless Video Transformations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/10-remains-my-preferred-choice-for-everyday-computing/"><u>10 Remains My Preferred Choice for Everyday Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-methods-for-streamlining-console-playback-pc-wise/"><u>2024 Approved Expert Methods for Streamlining Console Playback PC-Wise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-effective-strategies-for-enhancing-search-performance-in-windows-11/"><u>6 Effective Strategies for Enhancing Search Performance in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-comprehensive-tutorial-for-turning-on-and-leveraging-the-find-my-device-functionality-in-microsofts-latest-os-windows-nineteen/"><u>A Comprehensive Tutorial for Turning On and Leveraging the 'Find My Device' Functionality in Microsoft's Latest OS, Windows Nineteen!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amplifi-hd-unveiled-a-game-changer-for-wi-fi-coverage-ending-the-dead-zone-dilemamo/"><u>Amplifi HD Unveiled: A Game-Changer for Wi-Fi Coverage, Ending the Dead Zone Dilemamo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/audiovisual-archive-system-and-voice-recordings-for-2024/"><u>Audiovisual Archive System & Voice Recordings for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-your-video-calls-on-windows-11-with-your-android-smartphones-cameras/"><u>Boosting Your Video Calls on Windows 11 with Your Android Smartphone's Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-lenovo-tab-4-cost-effective-tablet-understanding-its-restrictions/"><u>Exploring the Lenovo Tab 4: Cost-Effective Tablet, Understanding Its Restrictions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-configuring-parent-friendly-settings-in-windows-11/"><u>Ultimate Guide: Configuring Parent-Friendly Settings in Windows 11</u></a></li>
+<li><a href="https://win-help.techidaily.com/un-effettivo-manuale-per-trasformare-i-tuoi-indirizzi-email-di-gmail-in-un-documento-pdf-passaggio-dopo-passaggio/"><u>Un Effettivo Manuale per Trasformare I Tuoi Indirizzi Email Di Gmail in Un Documento PDF: Passaggio Dopo Passaggio!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-microsoft-needs-to-reintroduce-metro-ui-to-revolutionize-portable-console-gaming/"><u>Why Microsoft Needs to Reintroduce Metro UI to Revolutionize Portable Console Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Fix for DirectX Errors on Battlefield 2042 - Complete Instructions
-date: 2024-08-28T05:05:06.470Z
-updated: 2024-08-29T05:05:06.470Z
+date: 2024-11-02T18:38:50.358Z
+updated: 2024-11-05T03:16:20.683Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 | **Storage**      | 100 GB                                          | 100 GB SSD                                       |
 | **DirectX**      | Version 12                                      | Version 12                                       |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -61,20 +68,28 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair game files
 
@@ -86,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest Windows updates
 
  According to players’ reports, updating the system has solved the DirectX errors for them. Keeping your system up-to-date may solve compatibility issues and improve stability. This fix may make a difference if your DirectX errors were triggered by Windows issues.
@@ -98,16 +110,28 @@ If this doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Force-run DirectX 12
 
@@ -136,25 +160,19 @@ If this doesn’t solve your problem, try the next fix.
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Reboot your PC and run Battlefield 2042 via Origin.
 
 #### EA desktop app
@@ -166,9 +184,6 @@ If this doesn’t solve your problem, try the next fix.
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions.
@@ -179,8 +194,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +201,19 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-melodic-migration-6-preferred-free-apps-for-moving-youtube-audio-on-android/"><u>[New] 2024 Approved Melodic Migration 6 Preferred Free Apps for Moving YouTube Audio on Android</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-nier-replicant-crashing/"><u>[SOLVED] NieR: Replicant Crashing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-pro-sports-youtube-feed-on-macos-for-2024/"><u>[Updated] Crafting a Pro Sports YouTube Feed on MacOS for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-low-light-iphone-luminary-techniques/"><u>2024 Approved Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/buy-wonderfoxs-top-rated-nokia-video-transcoder-software-factory-pro-edition/"><u>Buy WonderFox's Top-Rated Nokia Video Transcoder Software – Factory Pro Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-game-hiccups-fixing-age-of-empires-4-performance-problems/"><u>Eliminate Game Hiccups: Fixing Age of Empires 4 Performance Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-black-screen-issue-in-hitman-3-for-pc-troubleshooting-guide/"><u>Fixing 'Black Screen' Issue in Hitman 3 for PC - Troubleshooting Guide</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/get-the-ultimate-app-download-winx-mobile-youtube-video-downloader/"><u>Get the Ultimate App: Download WinX Mobile YouTube Video Downloader</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-z-flip-5-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy Z Flip 5 Phone Screen?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-launch-issues-heres-how-to-get-past-the-loading-hurdle/"><u>Minecraft Launch Issues? Here's How to Get Past the Loading Hurdle</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-take-your-edits-to-the-next-level-10-free-fcpx-plugins-for-2024/"><u>New Take Your Edits to the Next Level 10 Free FCPX Plugins for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/power-up-your-page-with-strategic-admins/"><u>Power Up Your Page with Strategic Admins</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Chivalry 2 Stability Fix: How To Prevent Game From Freezing or Crashing"
-date: 2024-08-28T05:02:48.401Z
-updated: 2024-08-29T05:02:48.401Z
+date: 2024-11-03T23:53:43.031Z
+updated: 2024-11-04T18:47:38.965Z
 tags:
   - win11
   - win10
@@ -70,14 +70,15 @@ Here are the requirements for your reference:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Then try your Cities: Skylines 2 again to see if it still crashes. If the problem remains, please move on to the next fix.
 
 ---
@@ -101,8 +102,12 @@ To do so, first visit the website of your GPU manufacturer:
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -114,9 +119,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -132,22 +142,19 @@ To do so, first visit the website of your GPU manufacturer:
 1. Launch the Steam app and navigate to **the LIBRARY tab** , then **right-click** Cities: Skylines 2 and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files** .  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
 3. Then wait for the process to be done – it could take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 4. When the verification is done, launch Steam and try Cities: Skylines 2 again to see if its crashing problem is fixed. If not, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Repair damaged or corrupted system files
 
 **Repairing corrupted or damaged system files** could help fix performance issues like crashing with Cities: Skylines 2\. This is because the integrity of Windows system files is essential for proper operation and stability, while errors in critical system files can cause crashes, freezes, and problems that affect gaming performance.
@@ -158,15 +165,34 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall Cities: Skylines 2
 
  If your Cities: Skylines 2 still crashes after all the above, especially after the game file verification process, you may need to consider reinstalling it. To do so:
@@ -174,9 +200,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. In your Steam library, right-click Cities: Skylines 2, and select **Manage**  then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-123.png)
 2. When Cities: Skylines 2 is removed from your computer, restart the Steam client.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Then go to your Steam library, find**Cities: Skylines 2** , and install it again.
 
 ---
@@ -191,8 +214,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +221,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-download-instagram-vids-effortlessly-on-your-desktop-system-pcmac/"><u>[New] 2024 Approved Download Instagram Vids Effortlessly on Your Desktop System (PC/Mac)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-create-professional-minecraft-graphics/"><u>[New] Create Professional Minecraft Graphics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-5-multitasking-visual-and-audio-producers/"><u>[Updated] In 2024, Best 5 Multitasking Visual & Audio Producers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectral-control-enhancing-image-aesthetics/"><u>2024 Approved Spectral Control Enhancing Image Aesthetics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726026641731-dvd/"><u>結婚式DVDのバックアップ作成方法: 完璧なコピーテクニックとヒント</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-the-root-cause-solving-your-oculus-driver-related-glitches/"><u>Addressing the Root Cause: Solving Your Oculus Driver-Related Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-pc-game-lag-expert-solutions-for-stable-playtime/"><u>Beat PC Game Lag: Expert Solutions for Stable Playtime</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-correcting-halo-infinites-audiovisual-disruptions-swiftly/"><u>Diagnosing and Correcting Halo Infinite's Audiovisual Disruptions Swiftly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-solutions-for-when-your-epic-games-app-keeps-crashing/"><u>Fast Solutions for When Your Epic Games App Keeps Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-crashes-in-phoenix-point-ultimate-solution-for-smooth-gaming/"><u>Fixing Crashes in Phoenix Point - Ultimate Solution for Smooth Gaming</u></a></li>
+<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-datos-de-hdd-a-ssd-en-computadoras-con-windows-preinstalado/"><u>Guía Paso a Paso: Transferir Datos De HDD a SSD en Computadoras Con Windows Preinstalado</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-visuals-and-vibrations-merging-soundtracks-with-vimeo-media/"><u>In 2024, Visuals and Vibrations Merging Soundtracks with Vimeo Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b/"><u>LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-mechanics-keeping-genshin-impact-stable-and-crash-free-on-windowsmacos/"><u>Mastering the Mechanics: Keeping Genshin Impact Stable and Crash-Free on Windows/MacOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/palworld-wont-open-discover-quick-resolves-to-get-you-back-in-the-game/"><u>Palworld Won't Open? Discover Quick Resolves to Get You Back in the Game</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/retrouvez-vos-documents-perdus-comment-remettre-en-vie-les-fichiers-supprimes-de-votre-corbeille-sous-windows-7/"><u>Retrouvez Vos Documents Perdus: Comment Remettre en Vie Les Fichiers Supprimés De Votre Corbeille Sous Windows 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-timeout-problem-when-downloading-files-a-comprehensive-guide/"><u>Solving the 'Timeout' Problem When Downloading Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/"><u>Troubleshooting Guide: How to Prevent Elex II From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-civi-3-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Civi 3</u></a></li>
+</ul></div>
 

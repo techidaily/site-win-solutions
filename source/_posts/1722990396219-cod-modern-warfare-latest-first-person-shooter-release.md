@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare - Latest First-Person Shooter Release!"
-date: 2024-08-28T05:04:25.136Z
-updated: 2024-08-29T05:04:25.136Z
+date: 2024-11-03T05:43:27.599Z
+updated: 2024-11-04T23:02:37.612Z
 tags:
   - win11
   - win10
@@ -56,9 +56,6 @@ If this didn’t work, move on to the next fix.
 
 However, if this didn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Adjust in-game settings
 
  Sure, you can settle for the default presets, but there are some settings that are worth tweaking, which give you a significant performance boost. Read on for more information…
@@ -78,16 +75,10 @@ However, if this didn’t help, proceed to the next fix.
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  3) Click**CONFIRM** .  
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
 **CHROMATIC ABERRATION:** OFF  
@@ -102,16 +93,27 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -140,15 +142,16 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable fullscreen optimizations
 
  Many gamers found that there are certain CPU demanding games that are particularly affected by low FPS issues when enabling fullscreen optimizations. Although Days Gone might not be one of them, you can actually attempt to disable fullscreen optimizations to check if this helps improve your gaming experience:
@@ -162,24 +165,36 @@ Here’s how to update drivers with Driver Easy:
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-fullscreen-optimization.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Check the box**Override high DPI scaling behavior** . Then click**OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/override-DPI-scaling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Apply > OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this didn’t make a difference, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Customize graphics performance preference
 
  Windows 10 allows users to assign graphics performance preference to specific programs. When you’re playing a PC game which is resource intensive, assigning the high performance preference can have a positive impact on your gameplay. Here’s how you can do this:
@@ -188,12 +203,16 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference ](https://images.drivereasy.com/wp-content/uploads/2021/05/display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  2) Scroll down and find**Graphics settings** and click on it.  
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-from-display.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click on the**Browse** button.  
   
@@ -203,10 +222,6 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  5) Click**Options** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
@@ -215,14 +230,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After saving the changes, launch Days Gone and check if it helped.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Disable background apps
 
  You may not know that many apps run in the background at all times – even the ones you never use! They use a portion of your system resources, making your machine run a little bit slower. And this may result in poorer programs performance. To get rid of this, you can attempt to disable background apps:
@@ -265,8 +281,6 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +288,26 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-launching-a-graphics-career-strategies-and-steps/"><u>[New] Launching a Graphics Career Strategies and Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-craft-cinematic-edits-with-ease-and-precision-in-camtasia-9-for-2024/"><u>[Updated] Craft Cinematic Edits with Ease and Precision in Camtasia 9 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>[Updated] In 2024, Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/allow-each-layer-to-dry-completely-before-applying-the-next-color-this-may-take-several-hours/"><u>Allow Each Layer to Dry Completely Before Applying the Next Color (This May Take Several Hours).</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/guide-to-recording-tv-screens-with-ease-and-precision-for-2024/"><u>Guide to Recording TV Screens with Ease and Precision for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-days-gone-crashing-2024/"><u>How To Fix Days Gone Crashing – 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-your-pc-from-crashing-while-playing-detroit-become-human/"><u>How to Prevent Your PC From Crashing While Playing Detroit: Become Human</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>In 2024, Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice-by-zdnet/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-crusader-kings-3-running-smoothly-without-interruptions-on-pc/"><u>Optimizing Performance: Crusader Kings 3 Running Smoothly without Interruptions on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-choice-high-quality-4k-dslr-mounting-systems/"><u>Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-server-accessibility-problems/"><u>Resolving Steam Server Accessibility Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-glitches-fixing-the-infamous-assassins-creed-odyssey-pc-crash-issue/"><u>Say Goodbye to Glitches: Fixing the Infamous Assassin's Creed Odyssey PC Crash Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-valorant-pc-startup-issue-top-strategies-of-2eby4/"><u>Solving the Valorant PC Startup Issue: Top Strategies of 2Eby4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-v-rising-pc-gameplay-interruptions/"><u>Step-by-Step Fix for V Rising PC Gameplay Interruptions</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y55s-5g-2023-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y55s 5G (2023) Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolve-constant-crashes-of-palworld-game-in-windows/"><u>Ultimate Guide to Resolve Constant Crashes of Palworld Game in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-is-doom-eternal-not-launching-and-how-to-resolve-it/"><u>Why Is DOOM Eternal Not Launching and How to Resolve It?</u></a></li>
+</ul></div>
 

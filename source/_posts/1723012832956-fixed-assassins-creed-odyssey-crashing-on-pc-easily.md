@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Assassin's Creed Odyssey Crashing on PC. Easily!"
-date: 2024-08-28T05:05:21.980Z
-updated: 2024-08-29T05:05:21.980Z
+date: 2024-11-04T06:20:10.834Z
+updated: 2024-11-04T21:36:33.455Z
 tags:
   - win11
   - win10
@@ -31,11 +31,31 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
 
@@ -44,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -71,18 +95,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -101,9 +113,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -111,20 +120,17 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -134,6 +140,19 @@ No advertising on the website.
 * **Volumetric Clouds** : Low
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
@@ -152,15 +171,16 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
@@ -169,9 +189,6 @@ Open Assassin’s Creed Odyssey and see if it works.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is Assassin’s Creed Odyssey crashing?
 
  Usually, your game crashes on your computer due to a hardware issue, for example, your PC hardware doesn’t meet the minimum system requirements. So be sure your computer meets the system requirements to play Assassin’s Creed Odyssey.
@@ -190,8 +207,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +214,21 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[New] 2024 Approved Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-five-tips-for-writing-dialogue-and-narrative-scripts/"><u>[Updated] Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-practices-for-stable-playthroughs-of-final-fantasy-xv-on-windows-computers/"><u>Best Practices for Stable Playthroughs of Final Fantasy XV on Windows Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-copyright-rules-for-your-musical-creations-on-insta/"><u>Demystifying Copyright Rules for Your Musical Creations on Insta</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-starfields-unwanted-behavior-no-more-pc-freezing-or-crashing-moments/"><u>Fix Starfield's Unwanted Behavior: No More PC Freezing or Crashing Moments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997483647-fixes-for-dying-light-2s-optimization-problems-boost-your-fps/"><u>Fixes for Dying Light 2'S Optimization Problems – Boost Your FPS!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/industry-standards-in-digital-media-capture-for-2024/"><u>Industry Standards in Digital Media Capture for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990749037-master-the-game-no-more-crashing-in-world-of-tanks-blitz/"><u>Master the Game - No More Crashing in World of Tanks Blitz!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-microphone-issues-on-laptops-effective-solutions-unveiled/"><u>Mastering Microphone Issues on Laptops - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Networks: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-assassins-creed-odyssey-stuttering-issues-on-your-pc-ultimate-guide-tips-and-tricks-for-seamless-gaming-in-2/"><u>Solve Assassin's Creed Odyssey Stuttering Issues on Your PC: Ultimate Guide, Tips & Tricks for Seamless Gaming in 2#</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-your-gaming-experience-rainbow-six-siege-wont-launch-solved/"><u>Unlock Your Gaming Experience: Rainbow Six Siege Won't Launch Solved</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo S18 | Dr.fone</u></a></li>
+</ul></div>
 

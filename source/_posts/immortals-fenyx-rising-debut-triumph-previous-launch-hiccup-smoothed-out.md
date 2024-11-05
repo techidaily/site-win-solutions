@@ -1,7 +1,7 @@
 ---
 title: "Immortals: Fenyx Rising Debut Triumph - Previous Launch Hiccup Smoothed Out"
-date: 2024-08-28T05:05:11.117Z
-updated: 2024-08-29T05:05:11.117Z
+date: 2024-11-02T19:33:46.182Z
+updated: 2024-11-04T16:04:42.303Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -48,19 +45,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  Gaming issues like Immortals Fenyx Rising not launching may indicate you’re using a faulty or outdated graphics driver. To fix it and improve the game performance, you need to install the latest graphics driver.
@@ -77,7 +65,21 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -91,9 +93,6 @@ There are mainly two ways you can do this:
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
@@ -101,26 +100,55 @@ There are mainly two ways you can do this:
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
 
@@ -138,8 +166,6 @@ There are mainly two ways you can do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +173,19 @@ There are mainly two ways you can do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-audio-artisans-crafting-a-personal-library-with-6-best-free-youtube-apps-for-2024/"><u>[Updated] Audio Artisans Crafting a Personal Library with 6 Best Free YouTube Apps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-the-challenge-of-stalled-finals-rollout-proven-solutions/"><u>Conquering the Challenge of Stalled Finals Rollout - Proven Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fatal-error-ark-effective-solutions-and-quick-fixes/"><u>Fatal Error ARK – Effective Solutions & Quick Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-design-and-deploy-bespoke-ringtone-options-for-whatsapp-users-for-2024/"><u>How to Design & Deploy Bespoke Ringtone Options for WhatsApp Users for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-musical-guide-to-enhancing-slides-with-tunes/"><u>In 2024, A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-90-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor 90</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outlook-crashes-heres-what-you-need-to-know-for-a-smooth-experience/"><u>Outlook Crashes? Here's What You Need to Know for a Smooth Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-x50i-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor X50i Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-your-social-media-potential-find-the-best-8-instagram-timers-for-2024/"><u>Unleash Your Social Media Potential Find the Best 8 Instagram Timers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unveiling-the-most-trustworthy-digital-chat-services-for-social-engagement-for-2024/"><u>Unveiling the Most Trustworthy Digital Chat Services for Social Engagement for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-isnt-cortana-responding-a-guide-to-restoring-functionality/"><u>Why Isn't Cortana Responding? A Guide to Restoring Functionality</u></a></li>
+</ul></div>
 

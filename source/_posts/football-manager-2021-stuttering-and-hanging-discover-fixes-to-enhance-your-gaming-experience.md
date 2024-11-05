@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2021 Stuttering & Hanging? Discover Fixes to Enhance Your Gaming Experience
-date: 2024-08-28T05:05:14.756Z
-updated: 2024-08-29T05:05:14.756Z
+date: 2024-10-29T17:46:42.154Z
+updated: 2024-11-04T17:11:00.084Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -50,9 +57,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -60,17 +64,18 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -85,9 +90,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -96,6 +98,14 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
@@ -108,18 +118,27 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -138,8 +157,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +164,18 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-curated-lists-of-websites-offering-youtube-tone-purchases/"><u>[New] 2024 Approved Curated Lists of Websites Offering YouTube Tone Purchases</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-craft-your-story-aspect-ratios-for-powerful-yt-thumbnails/"><u>[Updated] Craft Your Story Aspect Ratios for Powerful YT Thumbnails</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-metropolis-mastery-failures-steps-for-launching-skylines-city-builder/"><u>Addressing Metropolis Mastery Failures: Steps for Launching Skylines City Builder</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-habits-for-reducing-online-social-engagement/"><u>Constructive Habits for Reducing Online Social Engagement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-constant-crashes-in-tower-of-fantasy-for-your-windows-computer/"><u>Fixing the Constant Crashes in Tower of Fantasy for Your Windows Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maplestory-and-windows-10-expert-tips-to-stop-game-crashes/"><u>MapleStory and Windows 10: Expert Tips to Stop Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/team-fortress-2-continuous-crashing-problems-heres-how-to-fix-them/"><u>Team Fortress 2 Continuous Crashing Problems? Here's How to Fix Them</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-ig-dashboard-unraveling-user-engagement-patterns-for-2024/"><u>The Ultimate IG Dashboard Unraveling User Engagement Patterns for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harts-tactics-when-to-go-live-on-youtube/"><u>Top Charts Tactics When to Go Live on YouTube</u></a></li>
+</ul></div>
 

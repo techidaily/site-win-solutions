@@ -1,7 +1,7 @@
 ---
 title: "Excel Tricks Unveiled: How To Seamlessly Hide Comments, Formulas, Overflow Content & Gridlines"
-date: 2024-08-28T05:01:16.707Z
-updated: 2024-08-29T05:01:16.707Z
+date: 2024-11-01T06:14:03.316Z
+updated: 2024-11-04T16:13:37.496Z
 tags:
   - excel
 categories:
@@ -20,11 +20,25 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
  We’ve shown you how to [hide cells, rows, and columns](https://screen-capture.techidaily.com/2024-approved-innovative-fbx-gametime-tracking-solutions/) and how to [hide worksheets/tabs and entire workbooks](https://fox-boxes.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest-for-2024/) in Excel. Additionally, you can hide items such as comments, formulas, overflow text, and gridlines. We’ll show you how to hide these items.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Hide Comments
 
  When you [add a comment to a cell](https://screen-sharing-recording.techidaily.com/2024-approved-switch-off-crossplay-for-personalized-apex-legends-experience/) in Excel, a small red triangle displays in the upper-right corner of the cell to indicate a comment was added. When you hover your mouse over the cell, or select the cell, the comment displays in a popup window.
 
 ![25_comment_in_a_cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/25_comment_in_a_cell.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have a lot of comments in your worksheet, you may not want to see the red triangles and have comments popup as you move your mouse around the worksheet. To hide the comments, click the “File” tab.
 
@@ -72,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![17_selecting_format_cells_hide_formulas](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/17_selecting_format_cells_hide_formulas.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the “Protection” tab on the “Format Cells” dialog box, and select the “Hidden” check box so there is a check mark in the box. Click “OK” to accept the change and close the dialog box.
 
 ![18_selecting_hidden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/18_selecting_hidden.png) 
@@ -83,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![19_clicking_protect_sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/19_clicking_protect_sheet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  The “Protect Sheet” dialog box displays. To prevent other users from unhiding the formulas, enter a password in the “Password to unprotect sheet” edit box. Specify the actions you want to allow users to perform on the worksheet by selecting check boxes in the “Allow all users of this worksheet to” list. Click “OK” to accept your changes and close the dialog box.
 
  NOTE: The password is not required, but we recommend you enter one if you don’t want other users to be able to unprotect the worksheet.
@@ -96,13 +104,17 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![21_confirm_password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/21_confirm_password.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The formulas in the selected cells do not display in the Formula Bar, but the results of the formulas remain visible in the cells. If you entered a password when protecting the sheet, other users will not be able to use the “Show Formulas” button on the “Formulas” tab to display all the formulas in the worksheet.
 
 ![22_formula_not_showing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/22_formula_not_showing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To unhide the formulas, click “Unprotect Sheet” in the “Changes” section of the “Review” tab.
 
 ![23_clicking_unprotect_sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/23_clicking_unprotect_sheet.png) 
@@ -111,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![24_unprotect_sheet_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/24_unprotect_sheet_dialog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Select the cells for which you hid the formulas, right-click on the cells, and select “Format Cells” from the popup menu. Deselect the “Hidden” option on the “Protection” tab of the “Format Cells” dialog box so there is NO check mark in the box.
 
  Another way to hide formulas from other users is to [convert the formulas to static values](https://screen-sharing-recording.techidaily.com/updated-segment-screen-showdown-recorders-leader-status/) and save the workbook with a different filename. Then, distribute this new workbook to the users.
@@ -129,8 +138,12 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![35_text_blocking_another_cells_overflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/35_text_blocking_another_cells_overflow.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to hide the overflow text in a cell, such as A1 in this example, without having to type anything into the adjacent cells, right-click on the cell and select “Format Cells” from the popup menu.
 
 ![36_selecting_format_cells_for_overflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/36_selecting_format_cells_for_overflow.png) 
@@ -140,30 +153,31 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![37_selecting_fill_text_alignment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/37_selecting_fill_text_alignment.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The overflow text from cell A1 is hidden even though there is no text in cell B1.
 
 ![38_overflow_text_hidden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/38_overflow_text_hidden.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can prevent text from overflowing to adjacent cells using the “Wrap Text” feature. Select the cell containing overflowing text and access the “Format Cells” dialog box as described earlier in this article. Click the “Alignment” tab and select the “Wrap text” check box so there is a check mark in the box. Click “OK” to accept the change and close the dialog box.
 
 ![39_selecting_wrap_text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/39_selecting_wrap_text.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  When you choose to wrap text in a cell, the cell height is adjusted to accommodate the text. If you want to keep the row height at the standard value (15) for a single line of text, right-click on the row number and select “Row Height” from the popup menu.
 
 ![40_selecting_row_height](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/40_selecting_row_height.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the “Row Height” dialog box, type “15” in the edit box and click “OK”.
 
 ![41_setting_row_height](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/41_setting_row_height.png) 
@@ -177,8 +191,12 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![43_selecting_autofit_row_height](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/43_selecting_autofit_row_height.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Hide Gridlines
 
  If you are displaying your worksheet in a presentation, you can hide the gridlines to make the presentation of the data in your worksheet cleaner. There are a couple of different methods you can use to hide all the gridlines in a worksheet. For the first method, click the “View” tab.
@@ -189,9 +207,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![08_clicking_gridlines_on_view_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/08_clicking_gridlines_on_view_tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For the second method, click the “Page Layout” tab.
 
 ![09_clicking_page_layout_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/09_clicking_page_layout_tab.png) 
@@ -201,8 +216,12 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![10_clicking_view_on_page_layout_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/10_clicking_view_on_page_layout_tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Remember, you can also hide other items in Excel such as [cells, rows, and columns](https://screen-capture.techidaily.com/2024-approved-innovative-fbx-gametime-tracking-solutions/) and [worksheets/tabs and even entire workbooks](https://fox-boxes.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest-for-2024/).
 
 <ins class="adsbygoogle"
@@ -211,8 +230,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +237,19 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-kid-safe-games-galore-your-picks-of-the-week/"><u>[New] Kid-Safe Games Galore Your Picks of the Week</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593836-9781683250272-cancer/"><u>Cáncer | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y27-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y27 4G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-guide-resolving-maplestory-crashes-on-windows-11/"><u>Essential Guide: Resolving MapleStory Crashes on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-update-season-eb-understanding-the-enhanced-gameplay-performance/"><u>Fortnite Update - Season Eb: Understanding the Enhanced Gameplay Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-a60-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel A60 to iPod | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-14-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 14? Find the Best Solution Here</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>New Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-assassins-creed-odyssey-pc-stalling-problems/"><u>Ultimate Fix for Assassin's Creed Odyssey PC Stalling Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-windows-11-encourages-the-integration-of-cloud-services-like-onedrive/"><u>Why Windows 11 Encourages the Integration of Cloud Services Like OneDrive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-11-notepad-enhancement-introducing-built-in-spell-check-feature/"><u>Windows 11 Notepad Enhancement: Introducing Built-In Spell Check Feature</u></a></li>
+</ul></div>
 

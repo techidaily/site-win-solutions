@@ -1,7 +1,7 @@
 ---
 title: "Desbloquea El Poder Del Alineamiento Profesional: Descarga Yoconvert Archivos Alaw De Gratis en Movavi"
-date: 2024-10-07T18:03:51.825Z
-updated: 2024-10-12T20:01:13.881Z
+date: 2024-11-02T07:36:27.116Z
+updated: 2024-11-04T19:18:34.789Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0e7972cc64ae0b415a19b02f.jpg
@@ -156,25 +156,11 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -195,13 +181,6 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -231,6 +210,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -256,13 +248,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -297,6 +282,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -334,6 +326,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -346,13 +345,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -360,6 +352,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -379,6 +378,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -386,13 +392,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -403,6 +402,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -437,13 +443,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -460,6 +459,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -468,13 +474,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -510,6 +509,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -601,21 +607,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-prime-virtual-locations-for-elevating-your-mp3-audio-levels/"><u>2024 Approved Prime Virtual Locations for Elevating Your MP3 Audio Levels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/boost-your-periscope-broadcast-speed-a-guide/"><u>Boost Your Periscope Broadcast Speed A Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-duty-vanguard-fix-overcoming-error-0x00001338-on-your-gaming-pc/"><u>Call of Duty Vanguard Fix - Overcoming Error 0X00001338 on Your Gaming PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clogs-and-backups/"><u>Clogs And Backups:</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965767376-d-link-driver-installation-and-update-tutorial-for-windows-users-solved/"><u>D-Link Driver Installation & Update Tutorial for Windows Users - SOLVED</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/1723262378086-exclusive-deal-buy-an-alienware-gaming-powerhouse-for-only-1499-equiped-with-rtx-4070-and-intel-i7/"><u>Exclusive Deal: Buy an Alienware Gaming Powerhouse for Only $1,499! Equiped with RTX #4070 and Intel I7.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-getting-your-msi-mystic-light-functioning-again-on-a-windows-machine/"><u>Expert Advice: Getting Your MSI Mystic Light Functioning Again on a Windows Machine</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-ae-presets-unleashed-10-essential-design-principles/"><u>In 2024, AE Presets Unleashed 10 Essential Design Principles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-computer-for-smooth-fortnite-play-fix-stuttering-problems-now/"><u>Optimizing Your Computer for Smooth Fortnite Play – Fix Stuttering Problems Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-issue-streaming-troubleshooting-guide-how-to-fix-netflix-on-xbox-one/"><u>Resolved Issue: Streaming Troubleshooting Guide - How To Fix Netflix on Xbox One</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-final-era-release-issues-on-pc-essential-updates-and-solutions/"><u>Solve 'Final Era' Release Issues on PC: Essential Updates & Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-persistent-problems-with-game-launches-insurgency-sandstorm-stability/"><u>Solving the Persistent Problems with Game Launches - Insurgency: Sandstorm Stability</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/tailoring-the-frame-how-to-optimize-videography-for-instagram/"><u>Tailoring the Frame How to Optimize Videography for Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/why-does-my-iphone-screen-stay-on-expert-advice-on-faster-turnoff-techniques/"><u>Why Does My iPhone Screen Stay On? Expert Advice on Faster Turnoff Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/xbox-one-streamers-rejoice-fixes-and-advice-for-restoring-netflix-functionality/"><u>Xbox One Streamers Rejoice: Fixes and Advice for Restoring Netflix Functionality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omprehensive-tips-for-monitoring-subscriber-engagement-for-2024/"><u>[New] Comprehensive Tips for Monitoring Subscriber Engagement for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-obs-the-ultimate-tutorial-for-live-broadcasts/"><u>[Updated] 2024 Approved Mastering OBS The Ultimate Tutorial for Live Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stage-talent-video-download-permission-form/"><u>[Updated] Stage Talent Video Download Permission Form</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/rutube/"><u>「Rutubeから動画ダウンロード・セーブ手順」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-sync-your-amazon-fire-stick-with-the-perfect-remote-control/"><u>Easy Steps to Sync Your Amazon Fire Stick with the Perfect Remote Control</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-brand-with-movavis-powerful-video-creation-tools/"><u>Enhancing Your Brand with Movavi's Powerful Video Creation Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-clutter-to-clarity-with-the-all-inclusive-11-in-1-dock-pro-up-to-44-cheaper-on-zdnet/"><u>Transform Clutter to Clarity with the All-Inclusive 11-in-1 Dock Pro, Up to 44% Cheaper on ZDNET!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-completement-gratuite-de-videos-wmv-avec-movavi-online-pas-un-centime-supplementaire/"><u>Transformation Complètement Gratuite De Vidéos WMV Avec Movavi Online - Pas Un Centime Supplémentaire</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wtv-a-avi-conversione-gratuita-e-on-line-con-convertitore-di-file-video-fast/"><u>WTV a AVI: Conversione Gratuita E On-Line Con Convertitore Di File Video Fast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226450232-aifc-m4a-moveavew/"><u>오피스에서 자원 지출 없이 AIFC M4A를 효과적으로 변환하는 방법: Moveavew</u></a></li>
 </ul></div>
 

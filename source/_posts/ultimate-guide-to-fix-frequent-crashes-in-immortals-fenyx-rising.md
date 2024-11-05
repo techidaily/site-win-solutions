@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Fix Frequent Crashes In Immortals: Fenyx Rising"
-date: 2024-08-28T05:03:50.809Z
-updated: 2024-08-29T05:03:50.809Z
+date: 2024-10-31T19:27:16.835Z
+updated: 2024-11-05T08:15:16.529Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Halo Infinite freezing PC how to fix](https://cdn.akamai.steamstatic.com/steam/apps/1240440/ss_df472c9be04184fae305b8fee28fa384a2d18846.1920x1080.jpg?t=1639025793)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download & install all Windows updates
 
  Before delving into any advanced tweaks, you should make sure that you have installed Windows updates. Microsoft makes available updates on a regular basis to patch any security hole and to improve the functionality of the operating system.
@@ -43,6 +50,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
 
@@ -57,8 +71,12 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
@@ -72,6 +90,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 If updating drivers doesn’t help, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Delete temp files
 
  Temp files are referred to temporary files, which are files that your operating system only needed to exist temporarily while in use. But they are now just wasting space. This can slow down your PC and significantly affects the performance. To fix it, you can delete the files and it won’t cause any problems. Below are the steps you can follow.
@@ -81,29 +106,31 @@ If updating drivers doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Disable background applications
 
  Games require a considerable amount of memory to function properly. If too many unwanted or unnecessary programs keep running in the background, there will be insufficient memory, which causes the freezing issue. To solve the problem, you can disable some background applications.
@@ -113,22 +140,20 @@ If updating drivers doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -143,10 +168,6 @@ To verify the integrity of your game files, follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
 ## 6\. Uninstall Multiplayer High-Res Textures
@@ -172,11 +193,21 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now relaunch your game and you should be able to play in rows without having the annoying freezing issue.
 
@@ -204,8 +235,6 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +242,22 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-optimizing-your-gameplay-boosting-fps-and-smoothing-stutter-in-red-dead-redemption-2/"><u>[FIXED] Optimizing Your Gameplay: Boosting FPS and Smoothing Stutter in Red Dead Redemption 2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-generate-giggle-worthy-graphics/"><u>[New] Generate Giggle-Worthy Graphics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[New] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/8-best-educational-animation-software-for-school/"><u>8 Best Educational Animation Software for School</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/civilization-vi-civ-version-6-expert-tips-for-addressing-access-violation-exceptions-edition/"><u>Civilization VI (CIV) Version 6: Expert Tips for Addressing Access Violation Exceptions Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-thrustmaster-t300-steering-wheel-software-for-windows-1011/"><u>Download Thrustmaster T300 Steering Wheel Software for Windows 10/11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-2020-expo-where-language-learning-soars/"><u>Dubai 2020 Expo: Where Language Learning Soars</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-overcome-lag-and-hang-ups-in-minecraft-for-desktop-players/"><u>Guide to Overcome Lag and Hang-Ups in Minecraft for Desktop Players</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-11x-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 11X 5G?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-hurdles-a-comprehensive-fix-for-lost-ark-not-launching-this-year/"><u>Overcoming Startup Hurdles: A Comprehensive Fix for Lost Ark Not Launching This Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-troubleshooting-guide-for-optimal-lag-management-in-chivalry-ii/"><u>Step-by-Step Troubleshooting Guide for Optimal Lag Management in Chivalry II</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-preventing-skyfall-problems-in-how-to-build-a-metropolis-cities-skylines-latest-fixes/"><u>Top Strategies for Preventing Skyfall Problems in How to Build a Metropolis: Cities Skylines [Latest Fixes]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-reducing-latency-mastering-chivalry-iis-performance-woes/"><u>Top Strategies for Reducing Latency: Mastering Chivalry II's Performance Woes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-issues-how-to-stop-v-rising-from-unexpectedly-closing/"><u>Troubleshooting PC Issues: How to Stop 'V-Rising' From Unexpectedly Closing</u></a></li>
+</ul></div>
 

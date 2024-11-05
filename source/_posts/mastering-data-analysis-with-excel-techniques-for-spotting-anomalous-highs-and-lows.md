@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Analysis with Excel: Techniques for Spotting Anomalous Highs and Lows"
-date: 2024-08-28T05:01:24.941Z
-updated: 2024-08-29T05:01:24.941Z
+date: 2024-11-02T19:01:13.626Z
+updated: 2024-11-04T18:47:52.290Z
 tags:
   - excel
 categories:
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/c3cb24735a325c59b374deb74baa7c6af50100c3f
 
 ![Conditional formatting for numbers above average](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/QuickRuleAverage-ExcelHighlightAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a More Detailed Formatting Rule
 
  The quick [formatting rule](https://youtube-help.techidaily.com/manipulate-sound-rate-in-youtube-playback-for-2024/) above is handy for a fast way to see numbers above or below average. But you may want more detail or different formatting. By creating a rule from scratch, you can tailor it to fit your needs.
@@ -49,43 +46,60 @@ Related: [How to Apply a Color Scale Based on Values in Microsoft Excel](https:/
 
 ![New Rule in the Conditional Formatting menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ConditionalFormattingNewRule-ExcelHighlightAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At the top of the pop-up window, choose Format Only Values That Are Above or Below Average.
 
 ![Above or Below Average Conditional Formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NewRuleAverage-ExcelHighlightAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  At the bottom of the window, use the Format Values That Are drop-down menu to select the average you want to highlight. You can pick from options like above, below, equal to or above, equal to or below, or use a standard deviation.
 
 ![Values to apply to the new rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NewRule-ExcelHighlightAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select "Format" and then choose how you want to highlight those cells. You can use the tab for Font to pick a font color, style, or format or use the Fill tab to pick a fill color or pattern for the cells. You can also use a combination of formats if you like. Click "OK" when you finish.
 
 ![Font and Fill formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FontCellFormat-ExcelHighlightAverage.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll then be back to the Formatting Rule window where you'll see the Preview of the formatting you just selected. If you're happy with the rule, pick "OK."
 
 ![Conditional Formatting rule preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NewRulePreview-ExcelHighlightAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You'll then see your cells highlighted per your choices.
 
 ![Above or Below Average Conditional Formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NewRuleAverage-ExcelHighlightAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can [apply more than one rule](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) to the same set of cells if you wish. For instance, you may have one rule to highlight cells above average using one format and another for cells below average using a different format.
 
 Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -98,8 +112,6 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +119,22 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-connect-and-share-youtube-in-instagrams-ecosystem/"><u>[New] 2024 Approved Connect & Share YouTube in Instagram's Ecosystem</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-a-million-eyes-engaging-content-strategy/"><u>[Updated] 2024 Approved Unlock a Million Eyes Engaging Content Strategy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exciting-ios-applications-for-playing-psp-titles-1-5/"><u>[Updated] In 2024, Exciting iOS Applications for Playing PSP Titles #1-5</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-the-nuances-of-sound-reduction-in-pp-projects/"><u>2024 Approved Navigating the Nuances of Sound Reduction in PP Projects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-strategies-for-addressing-the-new-world-connection-problem/"><u>Effortless Strategies for Addressing the 'New World Connection Problem'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-repair-a-broken-paradoe-game-launcher-a-comprehensive-guide/"><u>Expert Tips to Repair a Broken Paradoe Game Launcher - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-keys-to-starting-system-repair-tools/"><u>Five Keys to Starting System Repair Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-crashing-problems-in-discord-for-a-stable-chat-experience/"><u>Fix Persistent Crashing Problems in Discord for a Stable Chat Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-launch-issues-with-valorant-on-computers-a-comprehensive-tutorial/"><u>Fixing Launch Issues with Valorant on Computers: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-increase-fps-in-csgo-ultimate-optimization-guide/"><u>How to Increase FPS in CS:GO – Ultimate Optimization Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-bandwidth-effective-techniques-to-accelerate-ubisoft-connect-file-transfers/"><u>Optimizing Bandwidth: Effective Techniques to Accelerate Ubisoft Connect File Transfers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-of-an-unresponsive-razer-synapse-program/"><u>Overcoming the Challenge of an Unresponsive Razer Synapse Program</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/safeguard-your-apple-phone-exploring-6-leading-virus-shield-applications/"><u>Safeguard Your Apple Phone: Exploring 6 Leading Virus Shield Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-mouse-control-issues-in-resident-evil-village-expert-tips-and-guides/"><u>Solving Mouse Control Issues in Resident Evil Village - Expert Tips & Guides</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/wie-man-die-problematik-eines-unzuganglichen-standard-posteingangs-in-outlook-behebt/"><u>Wie Man Die Problematik Eines Unzugänglichen Standard-Posteingangs in Outlook Behebt</u></a></li>
+</ul></div>
 

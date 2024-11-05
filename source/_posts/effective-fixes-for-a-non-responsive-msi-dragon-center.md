@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for a Non-Responsive MSI Dragon Center
-date: 2024-08-28T05:04:34.788Z
-updated: 2024-08-29T05:04:34.788Z
+date: 2024-11-02T03:07:12.886Z
+updated: 2024-11-04T22:45:25.308Z
 tags:
   - win11
   - win10
@@ -41,8 +41,12 @@ You may have tried the basic troubleshooting methods such as:
 8. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Remove All 3rd Party Mods
 
  I know most Payday 2 gamers just love the mods, and some love the mods part even more than the game itself. However, I’m not saying you should remove these mods for good, but just rename**WSOCK32.dll** and maybe**IPHLPAPI.dll** as well. If this method doesn’t do the trick, you can change it back later on.
@@ -86,8 +90,12 @@ For non-mod players, you can skip to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 OR
@@ -96,24 +104,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Free-Pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .
 
 4) After updating with Driver Easy, restart your PC to take full effect.
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3:**Change render\_settings file**
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 4. Locate**render\_settings** , then right-click and select**Edit with Notepad++** .
 5. Once opened, press**Ctrl** +**F** and enter**resolution** to find the resolution setting.  
  Eg.**resolution=”1920 1080?**
@@ -140,8 +149,12 @@ OR
 Now you can run your Payday 2 to check if it launches properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Switch to the Right Graphics Card
 
  There’s an issue with Payday 2 using the integrated card instead of the dedicated one. Laptop users should force Payday 2 to use the AMD/Nvidia card instead. Here’s how to do it:
@@ -177,11 +190,14 @@ Now you can run your Payday 2 to check if it launches properly.
 1. Press**Windows** key +**X** and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/device-manager-1.jpg)
 2. Expand**Display Adapters** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Right-click your integrated graphics card and choose**Disable** , then your screen resolution will change.
 4. Restart the computer.
 5. Run**PAYDAY 2** and then close it.
@@ -189,8 +205,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 7. Right-click your integrated card and choose**Enable** .
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Perform a Clean Boot
 
  If your Payday 2 doesn’t launch whatsoever, and all of these methods above failed to solve the issue, it’s probably caused by conflicting software.
@@ -222,17 +242,18 @@ The following programs are known to cause issues when playing Payday 2:
 3. Under the**General** tab, uncheck**Load Startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/load-startup-item.jpg)
 4. Then go to the**Services** tab and check**Hide all Microsoft services** . Then click**Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/disable-all-start-up.jpg)
 5. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 6. Now restart your computer and try running Payday 2 again to check if the not launching issue still persists.
 
  If this doesn’t work for you, you can open the system configuration again and enable all the services. But if a clean reboot helps, you can find out which one is at fault by enabling the services one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Run SFC
 
@@ -244,9 +265,6 @@ The following programs are known to cause issues when playing Payday 2:
 3. In the Command Prompt window, enter the following command:**`sfc /scannow`** . Note that there’s a space between sfc and /.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/sfc-scannnow.jpg)
 4. Wait for the process to complete.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may need to reboot your computer and try running your Payday 2\. If this doesn’t work, you’ll need to run this command again and reboot.
 
@@ -260,8 +278,6 @@ The following programs are known to cause issues when playing Payday 2:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +285,26 @@ The following programs are known to cause issues when playing Payday 2:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies/"><u>[New] Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-roundup-of-platforms-for-video-intro-acquisition/"><u>[Updated] 2024 Approved Expert Roundup of Platforms for Video Intro Acquisition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-android-screen-captures/"><u>[Updated] Mastering Android Screen Captures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/decrypting-secure-dvds-effortlessly-on-your-macbook-discover-the-leading-dvd-protection-removal-tool/"><u>Decrypting Secure DVDs Effortlessly on Your Macbook - Discover the Leading DVD Protection Removal Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-gameplay-tackling-frame-rate-drops-in-resident-evil-village-on-computer-systems/"><u>Elevate Your Gameplay - Tackling Frame Rate Drops in Resident Evil Village on Computer Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-persistent-errors-in-vrchat-performance/"><u>Expert Advice on Fixing Persistent Errors in VRChat Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-youtube-viewing-a-fix-for-video-stuttering-problems/"><u>How to Ensure Smooth YouTube Viewing: A Fix for Video Stuttering Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/illusions-unveiled-8-ways-ai-transforms-views/"><u>Illusions Unveiled: 8 Ways AI Transforms Views</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>In 2024, Full Analysis and How-To The Ultimate PicsArt Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>In 2024, Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-steams-black-screen-challenge-with-these-7-effective-troubleshooting-techniques-for-2hren/"><u>Overcome Steam's Black Screen Challenge with These 7 Effective Troubleshooting Techniques for 2Hren</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overwatchs-troubled-relationship-with-graphics-drivers-mended-successfully/"><u>Overwatch's Troubled Relationship with Graphics Drivers Mended Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-troubleshoot-how-to-stop-gas-station-simulator-from-continuously-crashing/"><u>PC Gaming Troubleshoot: How to Stop Gas Station Simulator From Continuously Crashing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/time-trends-hourly-top-10-youtube-pickers-for-2024/"><u>Real-Time Trends Hourly Top 10 YouTube Pickers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-call-of-duty-warzone-memory-glitch-error-0-1766-for-both-xbox-and-pc-players/"><u>Solving Call of Duty: Warzone Memory Glitch (Error 0-1766) for Both Xbox & PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-persistent-long-load-time-problems-in-fallout-4-tips-and-tricks/"><u>Solving Persistent LONG Load Time Problems in Fallout 4: Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-the-windows-telnet-client/"><u>Step-by-Step Guide: Mastering the Windows Telnet Client</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unfreeze-your-gaming-experience-a-guide-to-resolving-overwatch-issues/"><u>Unfreeze Your Gaming Experience: A Guide to Resolving Overwatch Issues</u></a></li>
+</ul></div>
 

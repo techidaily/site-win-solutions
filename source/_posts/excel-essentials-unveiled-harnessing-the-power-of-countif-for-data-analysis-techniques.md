@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials Unveiled: Harnessing the Power of Countif for Data Analysis Techniques"
-date: 2024-08-28T05:01:14.394Z
-updated: 2024-08-29T05:01:14.394Z
+date: 2024-10-30T22:13:17.764Z
+updated: 2024-11-05T06:42:48.399Z
 tags:
   - excel
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  Excel's FREQUENCY function lets you count how many times values fall within specific ranges. For example, if you had the ages of a group of people in your spreadsheet, you could figure out how many people fall into different age ranges. Let's take a look at how to calculate frequency distributions and, with a slight modification, frequency percentages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Does the FREQUENCY Function Do?
 
  Excel's FREQUENCY array function lets you calculate a dataset's frequency distribution. You provide the numerical dataset (that's the actual cells you use as your source), a list of bin thresholds (that's the categories into which you're sorting data), and then press Ctrl+Shift+Enter.
@@ -36,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  The FREQUENCY function requires two arrays as inputs: a "Data\_array" and a "Bins\_array." Arrays are simply lists of values. The "Data\_array" needs to contain values---like the numerical grades for students---that Excel can compare to a series of thresholds defined in the "Bins\_array"---like the letter grades in that same example.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  Let's Look at an Example
 
  For our example, we will calculate the frequency distribution and frequency percentages of a set of 18 numbers between 0 and 10\. It's just a simple exercise where we're going to determine how many of those numbers fall between one and two, between two and three, and so on.
@@ -55,9 +59,23 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-2-find-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Function Arguments window pops up. Click in the "Data\_array" box and then highlight the cells in the "Data\_array" column (you can also type the cell numbers if you prefer).
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-3-select-data-array.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you receive an error message saying you cannot edit only part of an array, it means you didn't select all of the cells of the array. Click "OK" and then hit the Esc key.
 
@@ -73,23 +91,38 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-5-press-ok-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  You will see that only the first cell of the "Results" column has a value, the rest are blank.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-6-initial-result.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To see the other values, click inside the "Formula" bar and then press Ctrl+Shift+Enter.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-7-click-inside-function-bar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Results column will now display the missing values.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-8-results-after-cse.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can see that Excel found four values that were less than or equal to one (highlighted in red) and also found the counts of each of our other number ranges. We've added a "Result Description" column to our spreadsheet so that we can explain the logic Excel used to calculate each result.
 
@@ -111,35 +144,20 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-10-modify-formula-for-percentages.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The new formula divides each element of the Results array by the total count of values in the "Data\_array" column.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-11-initial-percentage-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  The results are not automatically formatted as percentages, but that's easy enough to change. Switch to the "Home" menu and then press the "%" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-12-format-using-number-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The values will now appear as percentages. So, for example, you can now see that 17% of the numbers in the "Data\_array" column fell in the 1-2 range.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-frequency-13-formatted-percentage-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Best of all, now that the formula is in place in the "Results" column, you can alter any of the values in the "Data\_array" and "Bins\_array" columns and Excel will automatically refresh the results with updated values.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Bypassing the Formulas Menu and Using the Function Bar
 
  If you prefer typing and know your way around naming columns and cells, you can always bypass digging through the "Formulas" menu by simply typing functions directly into Excel's Function Bar and then pressing Ctrl+Shift+Enter.
@@ -166,8 +184,6 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +191,24 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-ios-tools-for-ps2-game-replication-for-2024/"><u>[New] Innovative IOS Tools for PS2 Game Replication for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-tips-for-gaining-attention-via-snapchat-star/"><u>[New] Tips for Gaining Attention via Snapchat Star</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-novices-approach-to-acquiring-picture-frames/"><u>[Updated] A Novice's Approach to Acquiring Picture Frames</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/for-the-cover-crop-extraction-ignore-common-words-like-and-the-a-etc-but-ensure-all-instances-including-types-of-crops-or-their-effects-on-soil-are-included268/"><u>For the Cover Crop Extraction, Ignore Common Words Like and, the, a, Etc., But Ensure All Instances Including Types of Crops or Their Effects on Soil Are Included.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/guide-how-to-install-additional-games-on-your-nes-classic-console/"><u>Guide: How to Install Additional Games on Your NES Classic Console</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-convert-jpg-and-png-images-to-pdf-on-an-iphone/"><u>How to Convert JPG and PNG Images to PDF on an iPhone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/managing-your-internet-bandwidth-on-windows-11-key-strategies-for-monitoring-data-use/"><u>Managing Your Internet Bandwidth on Windows 11: Key Strategies for Monitoring Data Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-classic-technique-transferring-files-effortlessly-to-your-smartphone-at-any-age/"><u>Mastering the Classic Technique: Transferring Files Effortlessly to Your Smartphone at Any Age</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-windows-11-efficiency-with-microsoft-copilot-a-step-by-step-guide/"><u>Maximizing Windows 11 Efficiency with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-introduces-new-advertising-features-within-windows-11s-start-screen/"><u>Microsoft Introduces New Advertising Features Within Windows 11'S Start Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-targets-resolution-of-fuzzy-font-issue-in-windows-version-of-chrome/"><u>Microsoft Targets Resolution of Fuzzy Font Issue in Windows Version of Chrome</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/qr-code-marketing-innovations-featuring-prominent-lock-screen-placement-in-microsoft-windows/"><u>QR Code Marketing Innovations: Featuring Prominent Lock Screen Placement in Microsoft Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-location-not-found-issues-in-windows-1110/"><u>Resolving 'Location Not Found' Issues in Windows 11/10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-your-windows-license-allows-a-single-display-language-mistake-a-step-by-step-guide/"><u>Resolving 'Your Windows License Allows a Single Display Language' Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-clear-of-xboxs-dead-end-road-error-on-modern-os/"><u>Steering Clear of Xbox's Dead-End Road Error on Modern OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017001360-voicemod-wont-open-or-function-expert-troubleshooting-tips-for-202e/"><u>Voicemod Won't Open or Function? Expert Troubleshooting Tips for 202E!</u></a></li>
+</ul></div>
 

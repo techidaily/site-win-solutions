@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Enhancing Fluidity for Age of Empires IV Players
-date: 2024-08-28T05:04:14.298Z
-updated: 2024-08-29T05:04:14.298Z
+date: 2024-11-03T23:57:56.505Z
+updated: 2024-11-05T07:14:44.120Z
 tags:
   - win11
   - win10
@@ -24,6 +24,19 @@ Is your Borderlands 3 so laggy that it’s all but unplayable? If yes, don’t l
  If your Borderlands 3 seems laggy even in offline mode, then you’re very likely having a frame rate problem (e.g., having low FPS because your computer can barely handle the game). There’s also an outside chance that the game per se has some unforeseen bugs, so you could only wait for new patches to fix them.
 
  Now, after figuring out what sort of “lag” issues you have, read on and find possible fixes for your problem.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixes for Borderlands 3 lag issues
 
@@ -110,9 +123,6 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-626.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Expand **View by:** and select **Category** . Then, click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-627.png)
@@ -121,9 +131,6 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click on your network and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-629.png)
@@ -133,13 +140,18 @@ ipconfig /flushdns
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-483.png)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** .
@@ -158,9 +170,6 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive view of what process is now taking up the most of your network resources.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-482.png)
@@ -172,6 +181,13 @@ ipconfig /flushdns
  4) If prompted for permission, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-508.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Exercise caution with Step 3 and 4.**DO NOT** close any unfamiliar processes in case you mistakenly end some of the crucial ones (often related to your system), such as sychost.exe.
 
@@ -209,10 +225,6 @@ If this fix didn’t work, take a stab at the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### **I’m having frame rate problems**
 
  More often than not, frame rate problems are related to your hardware (for example, your PC can hardly keep up with the game). Regarding how to improve your FPS in Borderlands 3, I’ve already written a post before: **[FPS Drops in Borderlands 3? Try These Fixes on PC](https://tools.techidaily.com/drivereasy/download/)**  . It includes 8 fixes that helped resolve the frame rate problem and if you’re interested in it, just check it out.
@@ -241,15 +253,19 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your graphics card driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Launch Borderlands 3 and check if your lag issue still remains. In case it does, move down to the next fix.
@@ -262,23 +278,28 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Then **VISUALS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-523.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) On the **BASIC** tab, make sure you set **Display Mode** to **Full Screen** . As for other options, you can simply copy the following settings or modify them according to your taste.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) On the **ADVANCED** tab, make the following tweaks:
 
 * Graphics API: **DirectX 11**
@@ -293,9 +314,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-558.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Next up:
 
 * Shadows: **Medium/Low**
@@ -309,6 +327,13 @@ Now I’ll list three of the fixes included:
 * Screen Space Reflections: **Off**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-561.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you see instant improvements in FPS, you can either stop here or go on to try the next fix.
 
@@ -326,8 +351,12 @@ Now I’ll list three of the fixes included:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-414.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) In the Borderlands 3 Properties window, on the **Compatibility** tab, select the **Disable fullscreen optimizations** check box. Then, click **Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-419.png)
@@ -352,8 +381,6 @@ Now I’ll list three of the fixes included:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -361,4 +388,24 @@ Now I’ll list three of the fixes included:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>[New] A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>[Updated] In 2024, Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-historical-gems-art-unshackled-by-laws/"><u>2024 Approved Historical Gems Art Unshackled by Laws</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-the-superior-coding-companion-between-chatgpt-and-gemini/"><u>AI Showdown: Determining the Superior Coding Companion Between ChatGPT and Gemini</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic5-ultimate-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic5 Ultimate to Protect Your Individual Information</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x7b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X7b Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996571952-mastering-the-court-and-your-computer-solve-nba-2k21-pc-glitches-easily/"><u>Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-combat-fixes-eliminating-dev-error-6068-in-call-of-dutys-mw-warzone/"><u>Modern Combat Fixes: Eliminating Dev Error 6068 in Call of Duty's MW Warzone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-integrating-airpods-with-your-desktop-system/"><u>New Integrating AirPods with Your Desktop System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-smoothing-out-performance-issues-in-the-ascent/"><u>Step-by-Step Solutions for Smoothing Out Performance Issues in The Ascent</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-the-problem-proven-strategies-to-get-your-overwatch-n-game-running-again/"><u>Tackling the Problem: Proven Strategies to Get Your Overwatch N Game Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-guide-to-dominating-roller-champions-crossplay-strategies-for-the-modern-gamer/"><u>The Definitive Guide to Dominating Roller Champions: Crossplay Strategies for the Modern Gamer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-modern-warfare-3-battling-frames-per-second-fluctuations/"><u>Troubleshooting COD: Modern Warfare 3 - Battling Frames Per Second Fluctuations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixing-update-loop-problems/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixing Update Loop Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-triumph-overcoming-death-stranding-crash-problems-on-your-pc-game-experience/"><u>Troubleshooting Triumph! Overcoming Death Stranding Crash Problems on Your PC Game Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-secret-to-a-seamless-freeze-free-experience-with-overwatch/"><u>Unlocking the Secret to a Seamless, Freeze-Free Experience with Overwatch</u></a></li>
+</ul></div>
 

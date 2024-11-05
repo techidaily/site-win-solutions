@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for ntdll.dll System Crashes on Modern Windows Operating Systems
-date: 2024-08-28T05:03:00.030Z
-updated: 2024-08-29T05:03:00.030Z
+date: 2024-10-28T18:27:56.643Z
+updated: 2024-11-04T18:41:41.146Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -61,16 +65,32 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Under the**Advanced** tab, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
@@ -83,10 +103,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
@@ -94,8 +110,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -124,9 +144,6 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -137,8 +154,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +161,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-travel-guide-youtubes-best-vlogs/"><u>[New] 2024 Approved The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-budget-conscious-shooters-7-best-4k-cameras/"><u>[New] Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-hastening-vimeo-media-transmission/"><u>[Updated] 2024 Approved Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>[Updated] 2024 Approved The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-screen-recording-software-list-for-vloggers-for-2024/"><u>[Updated] Essential Screen Recording Software List for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>[Updated] Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-showcase-highest-quality-enhanced-mouse-mats-for-efficiency-and-comfort/"><u>2024 Showcase: Highest-Quality Enhanced Mouse Mats for Efficiency & Comfort</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-methods-for-monitoring-internet-consumption/"><u>Efficient Methods for Monitoring Internet Consumption</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-display-malfunctions-in-ie-a-guide-to-clear-website-visibility-issues/"><u>Fixing Display Malfunctions in IE - A Guide to Clear Website Visibility Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Missing Driver Issues on Windows 10, 8, and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-age-of-empires-iv-download-problems-via-microsoft-store/"><u>How to Fix Age of Empires IV Download Problems via Microsoft Store</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-stuttering-and-low-fps-in-naraka-bladepoint/"><u>How to Fix Stuttering and Low FPS in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-no-rest-for-the-wicked-from-crashing-your-pc-essential-fixes-and-tweaks/"><u>How to Stop 'No Rest for the Wicked' From Crashing Your PC: Essential Fixes & Tweaks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issue-fixing-the-eac-not-installed-message-during-game-setup/"><u>Resolved Issue: Fixing the 'EAC Not Installed' Message During Game Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/silent-adventure-no-more-fixing-sound-problems-in-lost-ark/"><u>Silent Adventure No More: Fixing Sound Problems in Lost Ark</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issues-troubleshooting-thaumaturge-game-crashes-on-windows/"><u>Solving the Issues: Troubleshooting Thaumaturge Game Crashes on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/terraria-crash-troubles-top-solutions-and-fixes/"><u>Terraria Crash Troubles ? Top Solutions & Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-stuttering-and-fps-drops-on-red-dead-redemption-2/"><u>Troubleshooting Tips for Stuttering and FPS Drops on Red Dead Redemption 2</u></a></li>
+</ul></div>
 

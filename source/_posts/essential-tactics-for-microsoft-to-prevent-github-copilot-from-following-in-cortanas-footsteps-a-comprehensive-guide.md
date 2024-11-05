@@ -1,7 +1,7 @@
 ---
 title: "Essential Tactics for Microsoft to Prevent GitHub Copilot From Following in Cortana's Footsteps: A Comprehensive Guide"
-date: 2024-08-28T04:59:02.723Z
-updated: 2024-08-29T04:59:02.723Z
+date: 2024-11-04T00:06:19.019Z
+updated: 2024-11-04T18:25:26.745Z
 tags:
   - windows
 categories:
@@ -29,6 +29,13 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Clippy, a paperclip with googly eyes and eyebrows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/clippy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Clippy debuted in Microsoft Office 97 and gave tips to help new users familiarize themselves with the software. Things were all well and good, except for one key detail that Microsoft forgot to consider when building Clippy: humans learn.
 
  As the fledgling PC users slowly became familiar with their computers, they eventually advanced to the point where they no longer needed Clippy's advice. Unfortunately for them, Clippy just didn't care. The relentless little assistant was designed to help, and help it would, regardless of whether you wanted it or not.
@@ -44,8 +51,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
 
  These challenges meant that Cortana struggled to amass a sizable user base. Even Microsoft didn't believe in Cortana’s future, gradually diminishing it until it was finally killed off in 2023.
@@ -53,17 +70,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
  What annoyed early Windows users the most about Clippy was the fact that it just wouldn't stop bugging you. No sooner had you typed "dear" into MS Word than Clippy was there, parroting the words: "It looks like you’re writing a letter, would you like help?" No, Clippy, I would not in fact like help. What I would like is for you to leave me alone!
 
 ![An unfinished letter in Microsoft Word and a paperclip with a textbox above it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-unfinished-letter-in-microsoft-word-and-a-paperclip-with-a-textbox-above-it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Cortana was much the same. It held the search bar hostage, and there was no simple way to disable it. Microsoft even baked Cortana into the setup process for new PCs so she was impossible to escape.
 
  In my opinion, a good assistant should help you when you need it, and get out of your way when you don’t. No one likes a backseat driver. It might seem counterintuitive, but if Copilot is to succeed, it needs to be as unobtrusive as possible.
@@ -71,8 +89,12 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Don't Just Tell Me How—Do It for Me
 
  One thing that irked me about Cortana was that it couldn’t do much. Oh, it could search Bing and tell you all the different ways to do a thing, but actually taking action on your behalf was beyond its capabilities.
@@ -85,12 +107,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copilot, Respect My Boundaries
 
  Microsoft has a spotty record when it comes to respecting user privacy. Back in 2019, they were caught [listening to audio recordings](https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-12-mini-by-drfone-ios/) of people talking to Cortana and even sharing those recordings with contractors. As if people needed any more reason to hate Cortana, now they had to worry about whether she was spying on them.
@@ -115,8 +131,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +138,24 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] 2024 Approved Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-the-law-recording-youtube-content-playback/"><u>[Updated] 2024 Approved Exploring the Law Recording YouTube Content Playback</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-iii-pc-stability-problems-solutions-and-fixes-unveiled/"><u>Baldur's Gate III PC Stability Problems: Solutions and Fixes Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bulk-lowering-your-cpu-use-for-smoother-zooms-top-tips/"><u>Beat the Bulk: Lowering Your CPU Use for Smoother Zooms – Top Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/color-dynamics-bringing-artistic-vision-to-life-for-2024/"><u>Color Dynamics Bringing Artistic Vision to Life for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-top-ai-assistants-chatgpt-microsoft-copilot-and-gemini-who-reigns-supreme/"><u>Comparing Top AI Assistants: ChatGPT, Microsoft Copilot & Gemini – Who Reigns Supreme?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-handling-opengl-format-issues-during-context-initialization/"><u>Expert Advice: Handling OpenGL Format Issues During Context Initialization</u></a></li>
+<li><a href="https://discover-data.techidaily.com/how-to-swiftly-reduce-pdf-size-with-precision-methods-free-tools/"><u>How To Swiftly Reduce PDF Size with Precision Methods, Free Tools!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-display-settings-install-hp-graphics-in-win11/"><u>Improve Display Settings: Install HP Graphics in Win11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-user-manual-for-water-imagery/"><u>In 2024, The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-roundup-post-vlc-media-players/"><u>In 2024, The Ultimate Roundup Post-VLC Media Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-lag-issues-a-comprehensive-guide/"><u>Modern Warfare 3 Lag Issues : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-call-of-duty-black-ops-cold-war-fixing-ui-error-code-27711/"><u>Resolved: Call of Duty Black Ops Cold War - Fixing UI Error Code 27711</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-overcoming-timeout-during-file-downloads/"><u>Step-by-Step Solution for Overcoming 'Timeout' During File Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-for-successfully-starting-the-elder-scrolls-online-without-errors/"><u>Tips for Successfully Starting The Elder Scrolls Online Without Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wolcen-lords-of-mayhem-pc-crash-issues-resolved/"><u>Wolcen: Lords of Mayhem - PC Crash Issues Resolved</u></a></li>
+</ul></div>
 

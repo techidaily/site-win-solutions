@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 GPU Issues Resolved on Windows 10 Platform
-date: 2024-08-28T05:03:32.967Z
-updated: 2024-08-29T05:03:32.967Z
+date: 2024-11-02T09:19:27.368Z
+updated: 2024-11-05T00:22:10.222Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -34,9 +41,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -65,11 +69,23 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -86,39 +102,29 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates include some security patches and sometimes, a performance booster. The important part is that these system updates could tackle compatibility issues, thus being a potential fix to your issue.
@@ -131,8 +137,12 @@ And it’s quite easy to check for updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
 ---
@@ -147,8 +157,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +164,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-captivating-jujutsu-kaisen-videos-for-tiktok-for-2024/"><u>[New] Crafting Captivating Jujutsu Kaisen Videos for TikTok for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-step-by-step-approach-to-twitter-archive-usage/"><u>[New] The Step-by-Step Approach to Twitter Archive Usage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepwise-approach-to-downloading-movie-maker-6/"><u>[Updated] Stepwise Approach to Downloading Movie Maker 6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/continuous-play-made-easy-overcoming-common-poe-freezing-problems/"><u>Continuous Play Made Easy - Overcoming Common POE Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-startup-glitches-a-step-by-step-guide-to-solving-lost-ark-issues/"><u>Defeating Startup Glitches: A Step-by-Step Guide to Solving Lost Ark Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-halting-baldurs-gate-3s-high-cpu-consumption-2024-update/"><u>Effective Solutions for Halting Baldur’s Gate 3'S High CPU Consumption - 2024 Update</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elite-6-platforms-paving-the-way-for-biz-success/"><u>Elite 6 Platforms Paving the Way for Biz Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-tips-to-fix-bloodhunts-performance-issues-on-windows-machines/"><u>Essential Tips to Fix Bloodhunt's Performance Issues on Windows Machines</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-tweeter-conversion-for-social-sharing/"><u>In 2024, Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-plus-a-valuable-investment-for-users/"><u>Is ChatGPT Plus a Valuable Investment for Users?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-star-wars-fighter-squadron-collisions-resolved/"><u>Mastering Star Wars: Fighter Squadron Collisions - Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-atomic-heart-initialization-glitches-for-a-smooth-launch/"><u>Resolving 'Atomic Heart' Initialization Glitches for a Smooth Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-logitech-c920-heres-how-to-get-your-webcam-up-and-running-again/"><u>Trouble with Logitech C920? Here's How to Get Your Webcam Up and Running Again!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooted-missing-wireless-adapter-in-windows-10/"><u>Troubleshooted Missing Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-issues-when-finals-wont-launch/"><u>Ultimate Guide: Resolving Issues When Finals Won't Launch</u></a></li>
+</ul></div>
 

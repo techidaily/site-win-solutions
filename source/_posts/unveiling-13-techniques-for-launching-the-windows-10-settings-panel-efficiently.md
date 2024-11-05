@@ -1,7 +1,7 @@
 ---
 title: Unveiling 13 Techniques for Launching the Windows 10 Settings Panel Efficiently
-date: 2024-08-28T05:00:24.788Z
-updated: 2024-08-29T05:00:24.788Z
+date: 2024-11-01T10:08:18.043Z
+updated: 2024-11-05T08:38:18.709Z
 tags:
   - windows
 categories:
@@ -34,6 +34,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Just press Windows+i and the Settings menu will launch.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Start Menu
 
  You can also quickly access Settings from the Start menu. First, click the Windows icon in the bottom-left corner of the desktop. The Start menu will open. Click the gear icon near the bottom of the menu.
@@ -60,9 +73,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Settings will then launch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Access Settings From the Context Menu on the Desktop
 
  Another quick way to access Settings is from the desktop's context menu. First, right-click anywhere on your desktop and the context menu will appear. At the bottom of the context menu, click "Display Settings" or "Personalize."
@@ -70,37 +80,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click Display Settings or Personalize from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Display-Settings-or-Personalize-from-the-context-menu..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Either one will open up the respective option in the Settings menu. From there, just click "Home" to go to the top of the Settings app.
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Open Settings From File Explorer
 
  You can also access the Settings app from File Explorer's ribbon. First, [open File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) by clicking its icon in the Taskbar, or use the Windows+E keyboard shortcut.
 
 ![Click the File Explorer icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-File-Explorer-icon..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
 
  The Settings app will open.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Action Center
 
@@ -112,9 +121,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click "Expand."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Expand..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The list of options will expand. Click "All Settings."
 
 ![Click "All Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-All-Settings..png) 
@@ -122,8 +128,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Settings will now open.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Task Manager
 
  You can open all kinds of apps from Task Manager—including the Settings app. First, [open Task Manager](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) by using the Ctrl+Shift+Esc keyboard shortcut. In Task Manager, click the "File" tab and then click "Run New Task" from the drop-down menu.
@@ -136,9 +152,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Settings will open.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Use the Control Panel
 
  Opening the Settings app from the Control Panel is a bit more involved, but it can still be done. First, [open the Control Panel](https://tech-recovery.techidaily.com/1722861107683-troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/) by typing "Control Panel" in the Windows Search bar and then clicking the "Control Panel" app from the search results.
@@ -149,34 +162,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click "User Accounts" in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-in-Control-Panel..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the next screen, click "User Accounts" again.
 
 ![Click "User Accounts" again.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-again..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Next, click the "Make Changes to My Account in PC Settings" option.
 
 ![Click "Make changes to my account in PC settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Make-changes-to-my-account-in-PC-settings..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  The Settings app will open and you'll be on your profile information page. Click "Home" to go to the top page of the Settings app.
 
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Run a Command in the Run App
 
  You can also use the Run app to open Settings. Open the Run app by using the Windows+R keyboard shortcut. Once open, enter **ms-settings:** in the text box and then click "OK."
@@ -186,8 +190,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  This will start the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Run a Command in Command Prompt
 
  You can run a simple command in Command Prompt to open the Settings app. First, [open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing "Command Prompt" in the Windows Search bar and then clicking the "Command Prompt" app from the search results.
@@ -201,8 +209,18 @@ start ms-settings:
 ![Running 'start ms-settings:' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Settings app will open.
 
 ##  Run a Command in Windows PowerShell
@@ -210,6 +228,13 @@ start ms-settings:
  If you prefer using Windows PowerShell over Command Prompt, then you can still open the Settings app by running the same command. First, [open Windows PowerShell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) by right-clicking the Windows icon in the bottom-left corner of the desktop. This opens the Power User menu. Here, click "Windows PowerShell." You can also select "Windows PowerShell (Admin)," it change anything in this situation. 
 
 ![Right-click the Start button, then select 'Windows PowerShell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-from-power-user-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows PowerShell will open. Run this command:
 
@@ -227,8 +252,6 @@ start ms-settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +259,26 @@ start ms-settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-compelling-content-strategies-for-snapbiz/"><u>[New] Crafting Compelling Content Strategies for SnapBiz</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>[Updated] 2024 Approved The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-discover-the-top-12-tycoon-games-for-captivating-players/"><u>[Updated] Discover the Top 12 Tycoon Games for Captivating Players</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-finding-icons-a-targeted-approach-to-instas-powerful-voices/"><u>[Updated] Finding Icons A Targeted Approach to Insta's Powerful Voices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-perfect-your-hd-vids-on-android-with-these-10-players-for-2024/"><u>[Updated] Perfect Your HD Vids on Android With These 10 Players for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-game-on-securing-your-playthroughs-in-win10/"><u>2024 Approved Game On Securing Your Playthroughs in Win10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>2024 Approved Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-steams-dark-screensore-error-with-our-proven-step-by-step-solutions/"><u>Beat Steam's Dark Screensore Error With Our Proven, Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-digital-defenses-foreseeing-7-security-trajectories/"><u>Decoding Digital Defenses: Foreseeing 7 Security Trajectories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996333851-discover-improved-performance-with-the-latest-patch-for-new-world-unfreeze-your-adventure-today/"><u>Discover Improved Performance with the Latest Patch for New World: Unfreeze Your Adventure Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-blackout-blues-heres-how-to-fix-it-once-and-for-all/"><u>Halo Infinite Blackout Blues? Here's How to Fix It Once and For All</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-nubia-flip-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From ZTE Nubia Flip 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-instructions-on-changing-fb-page-backdrop/"><u>In 2024, Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-guide-overcoming-unwanted-application-terminations-and-freezing/"><u>Master Guide: Overcoming Unwanted Application Terminations and Freezing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paladins-game-crashes-ultimate-troubleshooting-guide/"><u>Paladins Game Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722993878057-stop-game-crashes-solve-your-battlefront-ii-pc-issues-today/"><u>Stop Game Crashes – Solve Your Battlefront II PC Issues Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-gamers-handbook-overcome-low-fps-challenges-in-valorant-with-these-latest-202e-tips-and-tricks/"><u>The Gamer's Handbook: Overcome Low FPS Challenges in VALORANT with These Latest 202E Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-halting-halo-infinites-frequent-crashes-on-your-windows-computer/"><u>Troubleshooting Steps for Halting Halo Infinite's Frequent Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-smoother-gameplay-in-house-flipper-2/"><u>Troubleshooting Tips for Smoother Gameplay in House Flipper 2</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Wireless PS5 DualSense Integration with Windows 11: A Step-by-Step Guide"
-date: 2024-08-28T05:00:30.171Z
-updated: 2024-08-29T05:00:30.171Z
+date: 2024-11-03T22:51:48.402Z
+updated: 2024-11-04T18:33:47.507Z
 tags:
   - windows
 categories:
@@ -17,6 +17,19 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use a USB to connect your PS5 controller to a Windows 10 PC. It's possible to use Bluetooth, but the connection isn't as reliable.
@@ -25,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -42,16 +52,10 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
@@ -62,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
@@ -69,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Pairing and Configuring a PS5 Controller for Steam
 
  Steam will often automatically recognize the DualSense controller and swap action and game control accordingly, but if something is not working correctly, there are a few easy ways to troubleshoot the issue.
@@ -78,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
  To begin, open the Steam app, click the icon in the upper-left corner, and choose "Settings."
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
@@ -88,15 +110,16 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
@@ -106,8 +129,12 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using a PS5 Controller for Non-Steam PC Games
 
  Outside of Steam, your DualSense controller might work natively with other PC gaming clients in Windows 10\. However, more likely than not, you'll need to jump through some additional hoops to get your PS5 controller working with other PC games. While the Xbox controller natively works with many PC games, you'll need to take a few extra steps to ensure the DualSense works with most PC games outside of Steam.
@@ -126,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +160,21 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-fixes-for-your-troublesome-instagram-video/"><u>[New] Dive Into Fixes for Your Troublesome Instagram Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-harnessing-iphone-downloads-top-podcast-strategies/"><u>[New] In 2024, Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[Updated] In 2024, Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-titles-essentials-for-digital-marketing-success/"><u>2024 Approved Ace Titles Essentials for Digital Marketing Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/assemble-visual-media-for-queue-upgrade-for-2024/"><u>Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-code-327-effective-solutions-for-star-wars-battlefront-ii-players/"><u>Error Code 지327: Effective Solutions for Star Wars Battlefront II Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006216914-pc-players-frustrated-by-recurring-glitches-in-petrol-pump-operation-game-expert-solutions-inside/"><u>PC Players Frustrated by Recurring Glitches in Petrol Pump Operation Game - Expert Solutions Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revamped-and-stabilized-dive-into-the-depths-of-bioshock-2-remastered/"><u>Revamped and Stabilized - Dive Into the Depths of Bioshock 2 Remastered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-zoom-microphone-failures-on-windows-operating-systems-111n/"><u>Solution Steps for Resolving Zoom Microphone Failures on Windows Operating Systems (11/1N)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-crash-problem-for-dragon-age-origins-on-windows-11-a-step-by-step-guide/"><u>Solving the Crash Problem for Dragon Age: Origins on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tower-of-fantasy-pc-game-persistently-fails-find-out-why/"><u>Tower of Fantasy PC Game Persistently Fails – Find Out Why!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-pc-gaming-file-corruption-issues/"><u>Ultimate Guide: Resolving PC Gaming File Corruption Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-6-essential-video-dubbing-tools-for-pc-users-free-and-paid/"><u>Updated In 2024, 6 Essential Video Dubbing Tools for PC Users - Free and Paid</u></a></li>
+</ul></div>
 

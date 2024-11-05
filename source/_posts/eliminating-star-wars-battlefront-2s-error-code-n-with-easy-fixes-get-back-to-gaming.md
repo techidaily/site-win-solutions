@@ -1,7 +1,7 @@
 ---
 title: Eliminating Star Wars Battlefront 2'S Error Code N with Easy Fixes – Get Back to Gaming!
-date: 2024-08-28T05:05:05.409Z
-updated: 2024-08-29T05:05:05.409Z
+date: 2024-11-03T20:29:48.607Z
+updated: 2024-11-05T06:40:06.874Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
@@ -47,13 +54,30 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your network adapter driver
 
  This problem might occur when you’re using the wrong or outdated network adapter driver. It’s essential that you have the latest network adapter driver at all times.
@@ -86,13 +110,24 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -105,27 +140,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -150,9 +183,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **12)**  Relaunch your Steam to test your issue.
 
  Hopefully, this article helped in resolving your problem. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -170,8 +200,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +207,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-precision-problem-solving-for-youtube-short-success/"><u>[New] In 2024, Precision Problem-Solving for YouTube Short Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-captivating-collage-creations-ig/"><u>[Updated] 2024 Approved Captivating Collage Creations IG</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturecrafted-expert-reviews-on-the-best-screen-recorders/"><u>[Updated] 2024 Approved CaptureCrafted Expert Reviews on the Best Screen Recorders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/4-effective-ways-to-captivate-ig-audiences-with-loop-videos-for-2024/"><u>4 Effective Ways to Captivate IG Audiences with Loop Videos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerate-origin-file-transfer-speeds-expert-advice-and-hacks-for-quick-downloading/"><u>Accelerate Origin File Transfer Speeds: Expert Advice and Hacks for Quick Downloading</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crusader-kings-3-stability-solutions-for-pc-users-experiencing-crashes/"><u>Crusader Kings 3 Stability Solutions for PC Users Experiencing Crashes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-sound-interruptions-and-crackles-on-windows-computers/"><u>Dealing with Sound Interruptions and Crackles on Windows Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-palworld-issues-instant-solutions-for-app-crash-on-startup/"><u>Fix PalWorld Issues: Instant Solutions for App Crash on Startup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-silent-wasteland-to-soundscapes-how-to-restore-audio-on-fallout-4-pc-edition/"><u>From Silent Wasteland to Soundscapes: How to Restore Audio on Fallout 4 PC Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-mount-and-blade-2-bannerlord-from-crashing-complete-guide/"><u>How To Stop Mount & Blade 2: Bannerlord From Crashing [Complete Guide]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-high-quality-streaming-showdown-whos-your-favorite-vmixwirecast/"><u>In 2024, High-Quality Streaming Showdown Who's Your Favorite, VMix/Wirecast?</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-failed-transactions-on-steam/"><u>Managing Failed Transactions on Steam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3dvd/"><u>MP3形式へのリアルタイムDVD変換手順</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-windows-11-spotlight-malfunction-a-step-by-step-guide/"><u>Overcoming Windows 11 Spotlight Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-instructions-fixing-the-phoenix-point-sudden-shutdown-problem/"><u>Step-by-Step Instructions: Fixing the Phoenix Point Sudden Shutdown Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-10-solutions-to-get-your-stray-game-running/"><u>Top 10 Solutions to Get Your Stray Game Running</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-art-of-easing-audio-levels-keyframe-control-in-filmora-for-mac-users/"><u>Updated 2024 Approved The Art of Easing Audio Levels Keyframe Control in Filmora for Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-10-users-guide-unfreeze-chrome-and-enhance-browsing-stability-effortlessly/"><u>Windows 10 Users' Guide: Unfreeze Chrome and Enhance Browsing Stability Effortlessly</u></a></li>
+</ul></div>
 

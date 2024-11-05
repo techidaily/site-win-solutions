@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies for Enhancing Search Performance in Windows 11
-date: 2024-08-28T04:59:31.001Z
-updated: 2024-08-29T04:59:31.001Z
+date: 2024-10-31T01:31:15.027Z
+updated: 2024-11-05T04:34:15.895Z
 tags:
   - windows
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sometimes, it can be hard to quickly find the information you need using Search on Windows 11\. But with a few tips and tricks, you can make it a breeze. Here's how to enhance the way you use Windows Search.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Search By Category
 
  If you want more organized and precise results when using Windows Search, you can use categories to filter out irrelevant results. These categories include "Apps," "Documents," "Web," "Settings," "Folder," and "Photos." By default, when you type your search query, Windows Search will display results from all categories.
@@ -39,9 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The categories of Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/selecting-search-category-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can type the category, followed by a colon, and then the search query. If you were going to search for a particular setting, here's an example of what you could type:
 
 settings:Bluetooth
@@ -56,18 +50,26 @@ settings:Bluetooth
 
 ![Checking the weather in California on using Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/weather-search-windows-11-search.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you wanted to find the definition of ubiquitous, you'd type **ubiquitous definition** and get a preview of what the word means.
 
 ![Checking the definition of a word in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/definition-search-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more expansive results, you can click "Open Results in Browser" at the bottom.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  3\. Enable Cloud Search for Your Microsoft Account
 
  To get more comprehensive results on your searches, you can turn on cloud search. This will allow Search to include results from services like Bing, OneDrive, Outlook, and SharePoint. You'll need to use Windows with your Microsoft account for this to work.
@@ -80,10 +82,6 @@ settings:Bluetooth
 
 ![Turning on cloud search for Microsoft account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-microsoft-account-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  If you have a work or school account, you can turn on the "Work or School Account" toggle as well.
 
 ##  4\. Enable Enhanced Search
@@ -98,24 +96,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Turning on enhanced search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enable-enhanced-search-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Below, you'll see a section called Exclude Folders From Enhanced Search. That means Search will look in every folder on your PC except for the excluded ones.
 
  To add a folder, click "Add an Excluded Folder." Then, select the folder you want to exclude from the enhanced search.
 
 ![Adding an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enhanced-search-exclude-folder-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  To remove a folder from the excluded list, click the three-dot icon next to it and select "Remove" from the menu.
 
 ![Removing an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-excluded-folder-enhanced-search-windows-11.jpg) 
 
  Remember, the more folders you add, the slower your search will be, and vice versa.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Modify the Indexing Options
 
@@ -129,13 +133,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The "Advanced" button in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/indexing-options-advanced-button-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the "File Types" tab. Then, at the bottom where it says "Add New Extension to the List," enter the file extension in the text box, and click "Add."
 
 ![Adding a file type in Advanced Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-file-type-indexing-options-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Then, click "OK" to apply and save the changes
 
  In the Advanced Indexing Options window, you can also [tell Windows Search to exclude certain file types](https://some-knowledge.techidaily.com/expert-recommended-apps-and-sites-for-photo-frames-for-2024/) from the search results.
@@ -144,7 +152,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Ticking folders in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ticking-folders-indexing-options-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "OK" and wait for your computer to finish indexing the folders you've ticked.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Rebuild Your Search Index
 
@@ -155,8 +177,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Rebuidling the index on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rebuild-index-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click "OK" on the prompt telling you that indexing might take a long time. Now, wait for the process to finish.
 
 ---
@@ -169,8 +195,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +202,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>[New] 2024 Approved Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[New] In 2024, Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigate-youtubes-studio-editor-to-master-videography/"><u>[New] Navigate YouTube's Studio Editor to Master Videography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012828468-black-ops-cold-war-stuck-on-compilers-solving-the-shader-problem-easily/"><u>Black Ops Cold War Stuck on Compilers? Solving the Shader Problem Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-0x0000004e-on-windows-xp7/"><u>Decoding and Fixing 0X0000004E on Windows XP/7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exploring-the-functionality-of-vlc-screencaster/"><u>Exploring the Functionality of VLC Screencaster</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-steam-yakuza-3-remaster-glitches-ensuring-smooth-pc-gaming-experience/"><u>Fixes for Steam Yakuza 3 Remaster Glitches Ensuring Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>Floating Frames The Ultimate Guide to PIP with Netflix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-repair-fatal-error-in-ark-game/"><u>How to Address and Repair Fatal Error in Ark Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-frame-drops-and-gameplay-interruptions-in-sifu-pc-version/"><u>How to Stop Frame Drops and Gameplay Interruptions in Sifu PC Version</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-voicing-it-up-how-to-save-on-iphone/"><u>In 2024, Voicing It Up How to Save on iPhone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/launching-success-unveiling-the-it-takes-two-strategy/"><u>Launching Success: Unveiling the 'It Takes Two' Strategy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-issues-with-launching-call-of-duty-black-ops-4-explained/"><u>Solved! Issues with Launching Call of Duty Black Ops 4 Explained</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-instructional-guide-retrieving-lost-information-from-your-excel-spreadsheet/"><u>Step-by-Step Instructional Guide: Retrieving Lost Information From Your Excel Spreadsheet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-to-stop-pacificdrive-from-malfunctioning-in-windowsmacos/"><u>Troubleshooting Steps to Stop PacificDrive From Malfunctioning in Windows/MacOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-zoom-freezing-on-win-1110-latest-solutions-guide/"><u>Troubleshooting Zoom Freezing on Win 11/10 – Latest Solutions Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-roblox-launch-issues/"><u>Ultimate Guide: Resolving Roblox Launch Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-using-gpt-4-and-dall-e-together/"><u>Unleashing Creativity: Using GPT-4 & DALL-E Together</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-toolbox-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>Updated Best Toolbox to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
+</ul></div>
 

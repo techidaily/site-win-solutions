@@ -1,7 +1,7 @@
 ---
 title: "How to Build and Host a Personalized GPT-Based Chat Interface on Windows PCs: Key Reasons and Detailed Instructions"
-date: 2024-08-28T04:59:05.528Z
-updated: 2024-08-29T04:59:05.528Z
+date: 2024-11-03T00:27:36.447Z
+updated: 2024-11-04T19:56:14.113Z
 tags:
   - windows
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
  There are a number of advantages to running a GPT/AI chatbot on your own computer rather than accessing one on the Internet. We'll show why you might want to, and the easiest way to get it set up on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Would You Want Your Own Local AI Chatbot?
 
  While online AI chatbots like ChatGPT are dominant, with access to huge amounts of training data and up-to-date information, there are a few reasons you might want to run your own local chatbot on your Windows computer.
@@ -43,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
  text-generation-web-ui-docker bundles the text-generation-web-ui project using [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/), which removes the need for installing and managing all the complex dependencies that local AI tools usually require by storing everything in a container separate to your system. The only thing you need to run your local chatbot is a Windows PC that [supports Docker running using the Windows Subsystem for Linux (WSL)](https://docs.docker.com/desktop/install/windows-install/ "https://docs.docker.com/desktop/install/windows-install/"). You'll also need a fairly recent GPU, ideally one from NVIDIA, for maximum compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Step 1: Install Docker and the Windows Terminal App
 
  Docker containers are similar to [virtual machines](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) in that they contain a whole running system, but they are much more lightweight, and perfect for distributing applications and all of their requirements in a single, easy-to-install bundle. To run text-generation-web-ui-docker in Docker, [download and install Docker on your Windows system](https://www.docker.com/products/docker-desktop/ "https://www.docker.com/products/docker-desktop/").
@@ -54,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
  It's also recommended to [install the Windows Terminal app](https://youtube-tips.techidaily.com/ed-mastering-youtube-streaming-a-guide-for-gamers-for-2024/), as it provides a convenient interface for WSL, PowerShell, and the Windows command line.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2: Download the Text Generation Web UI GitHub Repository
 
  To download text-generation-web-ui-docker, [visit its GitHub page](https://github.com/Atinoda/text-generation-webui-docker "https://github.com/oobabooga/text-generation-webui"). You can download a ".zip" file containing all the files you need by clicking on the green "Code" button and then clicking on "Download Zip" from the drop-down menu.
@@ -69,14 +70,18 @@ Brad Morton / How-To Geek
 
 [Extract the downloaded ZIP file](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/) into its own folder, and then open the folder containing the unzipped files. Don't worry too much about the contents of this folder: it's all the moving parts for your AI chatbot, but Docker will take care of setting everything up for you.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 3: Launch the Text Generation Web UI
 
  Before you launch text-generation-web-ui-docker, you need to make sure it's configured for your PC hardware. Edit the file **docker-compose.yml** to specify the variant that matches your hardware: **default-nvidia** or **default-cpu** (if you don't have a compatible GPU).
 
 ![Configuring the docker image variant in docker-compose.yml.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/variant.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -84,9 +89,6 @@ Brad Morton / How-To Geek
 
 ![The location of the 'Open in Terminal' in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-in-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  Make sure Docker Desktop is running before typing in the following Docker command into the Terminal window:
@@ -108,8 +110,12 @@ Brad Morton / How-To Geek
 ![Windows terminal showing the status of a newly created container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/created.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
  The running container will also appear in Docker Desktop, where you can stop, start, and manage it.
@@ -117,9 +123,20 @@ Brad Morton / How-To Geek
 ![Docker Desktop showing a running container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/docker.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Install the GPT-2 Model From OpenAI
 
@@ -131,19 +148,12 @@ Brad Morton / How-To Geek
 
 ![Downloading a model for use in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  Click the Refresh icon in the top-left, then select the newly downloaded openai-community/gpt2 from the adjacent Model drop-down menu. Finally, click the "Load" button, and wait a few minutes until you see a success message.
 
 ![Loading a model in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  This model works out of the box, and doesn't require any signup. As you get into AI and want to experiment with different models and AI tools, you can find more on [HuggingFace](https://huggingface.co/ "https://huggingface.co/").
@@ -153,6 +163,13 @@ Brad Morton / How-To Geek
  This isn't quite like the AI chatbots you're used to using online, which are already set up for general use that cover a lot of situations. You'll need to tell the model how to behave before interacting with it, otherwise its output will be a bit... unhinged.
 
 ![A slightly unhinged response from an AI model that needs configuration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -168,8 +185,6 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +192,23 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-the-best-video-aspect-ratio-experience/"><u>[New] Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-start-participating-in-google-webinars/"><u>[Updated] 2024 Approved How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-peekintobettercams-beyond-mycam-in-2024/"><u>[Updated] PeekIntoBetterCams Beyond MyCam, In 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-overcoming-stability-issues-in-ark-survival-evolved/"><u>Comprehensive Guide to Overcoming Stability Issues in ARK Survival Evolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfare-stability-issues-now-running-without-interruptions/"><u>Cracking the Code on Modern Warfare Stability Issues – Now Running Without Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-launch-problems-fixing-the-non-startup-issue-of-saints-row-on-desktops/"><u>Diagnosing Launch Problems: Fixing the Non-Startup Issue of Saints Row on Desktops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-factors-to-evaluate-when-purchasing-your-next-video-recorder/"><u>Essential Factors to Evaluate When Purchasing Your Next Video Recorder</u></a></li>
+<li><a href="https://common-error.techidaily.com/hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-and-play-lego-star-wars-the-skywalker-saga-without-any-pc-problems-in-the-202eby/"><u>How to Fix and Play LEGO Star Wars: The Skywalker Saga Without Any PC Problems in the 202Eby</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-dark-screen-error-in-far-cry-6-gameplay/"><u>How to Resolve the Dark Screen Error in Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-share-multiple-photos-on-facebook-at-once-without-hassle/"><u>How To Share Multiple Photos On Facebook At Once Without Hassle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-digital-music-management-win-media-and-cds/"><u>In 2024, Pioneering Digital Music Management Win, Media and Cds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-cyberpunk-2077-performance-by-fixing-gpu-handling-in-windows-11/"><u>Maximizing Cyberpunk 2077 Performance by Fixing GPU Handling in Windows 11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/probleme-losen-die-fehlgeschlagene-zurucksetzungsfunktion-von-windows-11-erklart-und-behebt/"><u>Probleme Lösen: Die Fehlgeschlagene Zurücksetzungsfunktion Von Windows 11 Erklärt Und Behebt</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/proven-techniques-to-optimize-graphics-settings-and-increase-fps-in-video-games-for-pc-users/"><u>Proven Techniques to Optimize Graphics Settings and Increase FPS in Video Games for PC Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-top-strategies-for-gamers-recording-with-windows-10-for-2024/"><u>The Top Strategies for Gamers Recording with Windows 10 for 2024</u></a></li>
+</ul></div>
 

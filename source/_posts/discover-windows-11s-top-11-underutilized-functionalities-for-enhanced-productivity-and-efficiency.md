@@ -1,7 +1,7 @@
 ---
 title: Discover Windows 11'S Top 11 Underutilized Functionalities for Enhanced Productivity and Efficiency.
-date: 2024-08-28T04:58:54.554Z
-updated: 2024-08-29T04:58:54.554Z
+date: 2024-11-02T16:40:39.361Z
+updated: 2024-11-05T00:11:57.920Z
 tags:
   - windows
 categories:
@@ -34,9 +34,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
@@ -50,6 +70,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
 ![Diagnostics data collection settigns on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-diagnostics-data-collection-on-windows.png) 
@@ -62,12 +89,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Accessibility settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-accessibility-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Turn on "Live Captions." You should see a prompt about permitting Microsoft to process your voice data locally. Press "Download" to agree.
 
 ![Windows Live Captions settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now attend a meeting or play a video on a media player or on a browser to see live captions being generated for that.
 
@@ -81,9 +112,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
@@ -96,16 +124,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Different system settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/different-system-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Set a duration for your session and select or deselect any of the options depending on your preferences. Then press the "Start Focus Session" button.
 
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
 
 ##  End Tasks From the Task Bar
@@ -115,29 +137,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Various Windows system settigns being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-for-developers-settigns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Turn on "End Task."
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Minimize Windows by Shaking
 
  This is a fun little feature when you have a lot of windows open together, and you need to minimize all of them quickly. You can drag a single window's title bar and shake it to minimize all other windows. To turn this feature on, go to Settings > System > Multitasking.
 
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Turn on the "Title Bar Windows Shake" option.
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
@@ -150,12 +183,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Instant Photo Transfer From Android
 
  A new Windows update now allows you to transfer photos and screenshots the moment you take them on your Android phone. But it's turned off by default. You first need to [connect your Android phone to your Windows PC](https://desktop-recording.techidaily.com/in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/) via the Link to Windows app from Play Store. You may also need to log in using your Microsoft account on both.
@@ -168,14 +195,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Start Button Shortcuts
 
  I'm a big fan of using shortcuts on my computer. Keyboard shortcuts, desktop shortcuts, you name it. The Start button on Windows 11 has a lot of useful shortcuts hidden from us. Right-clicking the Start button reveals these shortcuts. You can also hit Windows+X to open it (using a shortcut to open a shortcut menu.)
@@ -183,8 +204,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
 ##  OCR in the Snipping Tool
@@ -195,9 +220,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Built-in Image Editing in the Photos App
 
  This is a big one for me personally. For small edits, I either had to rely on a large program like [Photoshop,](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) which would be overkill, or apps on the web, which would sometimes force watermarks and limit the resolution. Now, with some useful editing features integrated into the Windows Photos app, it's easier than ever to make small tweaks to give a perfect shape to your photos.
@@ -206,9 +228,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  No More Hiding Behind the Windows
 
  With every new update coming to Windows, we're also getting many new cool features or upgrades to previous features. There are still so many [features we wish Windows brings](https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c65-activity-drfone-by-drfone-virtual-android/) in the future. On that note, it's worth keeping an eye deep inside the Windows environment to find many of these hidden features to bring the true potential out of the operating system.
@@ -219,8 +238,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +245,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instaboomers-hook-your-audience-with-circular-content-for-2024/"><u>[New] InstaBoomers Hook Your Audience with Circular Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-magix-composition-wizard-an-audio-editing-experience-for-2024/"><u>[New] Magix Composition Wizard An Audio Editing Experience for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pclaptop-editors-without-relying-on-inshot/"><u>[Updated] 2024 Approved PC/Laptop Editors without Relying on Inshot</u></a></li>
+<li><a href="https://network-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c300-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C300 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-mow2-experience-by-resolving-stuttering-and-freezing-issues-on-window-machines/"><u>Boost Your MOW2 Experience by Resolving Stuttering & Freezing Issues on Window Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cities-skylines-stability-solutions-overcome-city-simulation-crashes-with-our-latest-strategies/"><u>Cities: Skylines Stability Solutions – Overcome City Simulation Crashes with Our Latest Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-honor-magic5-ultimate-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-from-the-ashes-solutions-for-persistent-game-crashes/"><u>Fixing 'From The Ashes' - Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A54 5G FRP?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-the-field-in-remotely-recorded-content-creation/"><u>Leading the Field in Remotely Recorded Content Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-biomutant-pc-performance-eliminate-crashes-with-these-2024-pro-tips/"><u>Mastering Biomutant PC Performance - Eliminate Crashes with These 2024 Pro Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986670555-pc-troubles-discover-how-to-stop-tower-of-fantasy-from-crashing-now/"><u>PC Troubles? Discover How to Stop Tower of Fantasy From Crashing Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-preventing-the-ascent-from-releasing/"><u>Resolved: Issues Preventing 'The Ascent' From Releasing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-for-helldivers-iis-initial-black-screen-problem/"><u>Solution Guide for Helldivers II's Initial Black Screen Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-gta-v-resolving-game-crashes/"><u>Troubleshooting GTA V: Resolving Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-recurring-thunder-tier-one-game-collapses-on-windows-machines/"><u>Troubleshooting Steps for Recurring Thunder Tier One Game Collapses on Windows Machines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ubuntu-meets-ai-automating-with-auto-gpt/"><u>Ubuntu Meets AI: Automating with Auto-GPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zooming-in-an-intensive-guide-to-youtube-live-stream-success/"><u>Zooming In An Intensive Guide to YouTube Live Stream Success</u></a></li>
+</ul></div>
 

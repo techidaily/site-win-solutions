@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Windows 11 Efficiency with Microsoft Copilot: A Step-by-Step Guide"
-date: 2024-08-28T04:59:10.291Z
-updated: 2024-08-29T04:59:10.291Z
+date: 2024-11-03T19:01:26.150Z
+updated: 2024-11-05T04:57:13.142Z
 tags:
   - windows
 categories:
@@ -37,32 +37,39 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
  However, it’s not perfect. I hit a snag when I asked it to “reduce the volume on my PC by 45%,” and somehow, it ended up boosting it by 55% instead. There are still a few bugs that need sorting out. Despite Copilot's hiccups, I am very excited to see what it becomes as it continues to evolve and improve over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Putting Copilot to the Test
 
  After getting an initial impression of how I could integrate Microsoft Copilot into my daily computing tasks, I decided to put Copilot through more deliberate testing.
 
  Note that these four tests are important to how I use Copilot. However, everyone uses AI tools differently. You may have different criteria for Copilot, and that's OK!
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Task 1: Multitasking Efficiency
 
 ![cop-snap-my-windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-snap-my-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 Co-pilot snapping my windows in my project.
 
  In the first test, I explored Copilot's multitasking efficiency and asked it to organize a virtual workspace for a project I've been working on: launching specific apps, arranging my windows in a particular way on the desktop, and setting up reminder notifications. This test is designed to assess how Copilot handles multitasking, which requires several steps. During my testing, Copilot easily executed basic commands. However, it struggled with following complex instructions and often got them wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Task 2: Creative Assistance in Paint
 
 ![cop-paint-text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-text.png) 
@@ -73,20 +80,38 @@ Co-pilot failing at generating readable text in Paint.
 
 ![cop-paint-with-layers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-with-layers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Co-pilot helping me replace my background with a generated landscape in Paint.
 
  However, it struggled with generating text, like nearly all AI artwork tools.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Task 3: Code Debugging in Notepad
 
 ![cop-correct-my-code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-correct-my-code.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Co-pilot analyzing my Go code.
 
  Given how useful I find Copilot's integration with Notepad, I decided to test how well it can help me with debugging code. I presented Copilot with some intentionally broken Go code and asked it to fix it for me. In no time, it could find the errors, explain them to me, and generate some working code that I could deploy.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Task 4: Usability
 
@@ -100,9 +125,6 @@ Co-pilot analyzing my Go code.
 
  Lastly, I enjoy the Copilot integration with Paint. For years, Paint has been a sub-par photo editing tool on Windows, lacking features that paid tools like Photoshop offer. However, with the new Copilot integration, Paint can do everything from removing backgrounds in images to generating content like ChatGPT can.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  See What Copilot Can Do for You
 
  From my experience with Copilot, it is evident that this new feature isn't a silly toy to play with but a useful tool that re-imagines the way you interact with your Windows 11 PC. If you've never tried out Copilot before, I encourage you to integrate it into your PC workflow so that you can experience the multitude of ways that [it can personalize and enrich your computing experience](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/).
@@ -113,8 +135,6 @@ Co-pilot analyzing my Go code.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +142,22 @@ Co-pilot analyzing my Go code.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/isual-snips-tool-for-2024/"><u>[New] Visual Snips Tool for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] In 2024, Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-easy-guide-to-documenting-gameplay-sessions/"><u>[Updated] In 2024, Easy Guide to Documenting Gameplay Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-textgrabber-on-android-now-features-live-translation-available-at-no-cost/"><u>ABBYY TextGrabber on Android Now Features Live Translation, Available at No Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-endorsements-strategically/"><u>Building Endorsements Strategically</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-resolution-overcoming-league-of-legends-game-crashes/"><u>Effortless Resolution: Overcoming League of Legends Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-stardew-valley-pc-freezing-problems-with-these-simple-steps/"><u>Eliminate Stardew Valley PC Freezing Problems with These Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-update-2024-discover-the-latest-features-in-rainbow-six-siege/"><u>Free Update 2024: Discover the Latest Features in Rainbow Six Siege</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-updated-magicard-rio-pro-driver-for-pcs/"><u>Get Your Hands on the Updated Magicard Rio Pro Driver for PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-successfully-launching-pathfinder-wrath-of-the-righteus-expert-tips-and-solutions/"><u>Guide to Successfully Launching Pathfinder: Wrath of the Righteus - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-playbook-to-securing-unending-wealth-with-like-a-dragon-on-pc/"><u>The Ultimate Playbook to Securing Unending Wealth with Like a Dragon on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-completed-how-to-connect-to-steam-successfully/"><u>Troubleshooting Completed: How to Connect to Steam Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-slow-downloads-on-ubisoft-connect-a-comprehensive-guide/"><u>Troubleshooting Slow Downloads on Ubisoft Connect - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unboxing-the-secrets-to-stunning-shorts-thumbnails-for-2024/"><u>Unboxing the Secrets to Stunning Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme GT 3? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Terminate Hanging Applications on Windows 11 Systems"
-date: 2024-08-28T04:59:21.360Z
-updated: 2024-08-29T04:59:21.360Z
+date: 2024-11-03T07:44:58.097Z
+updated: 2024-11-05T09:03:43.605Z
 tags:
   - windows
 categories:
@@ -30,8 +30,18 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
  Unresponsive apps are frustrating, but what’s even worse is those apps refusing to close. If you’ve found yourself in this situation, we have a few methods to help you force close those applications on your Windows 11 PC. Let’s find out the available solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  End a Program Using a Keyboard Shortcut
 
  The easiest way to close an unresponsive app is by using a [Windows keyboard shortcut](https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-basic-to-brilliant-elevating-your-tiktok-profile/). This hotkey closes any app in the focus—whether responsive or unresponsive.
@@ -40,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ![Alt+F4 highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-alt-f4-keyboard-shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  If the app remains open, wait a few seconds and press the same hotkey again. Make sure not to keep pressing this key combo, or you’ll end up closing other apps as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Close a Program From the Windows Taskbar
 
 [Windows 11 offers the option to force-close apps right from the taskbar](https://screen-recording.techidaily.com/2024-approved-expert-tips-for-efficiently-logging-google-online-gatherings/). This option comes disabled by default, but you’re only a few clicks away from turning it on and using it.
@@ -65,17 +69,32 @@ Hannah Stryker / How-To Geek
 ![The 'End Task' toggle highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-enable-end-task-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the Windows taskbar, find the unresponsive app, then right-click the app’s icon and choose "End Task."
 
 !['End Task' highlighted for an app on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-close-app-with-end-task-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will force-close the selected app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  End a Task with the Task Manager
 
 [Task Manager has long offered options to manage app processes on Windows PCs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). You can use this utility to kill an unresponsive app’s process, quitting the app.
@@ -87,6 +106,13 @@ Hannah Stryker / How-To Geek
  On the Task Manager window, from the left sidebar, select the "Processes" tab.
 
 !['Processes' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-task-manager-processes-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the right pane, find the unresponsive app. Right-click the app and choose "End Task."
 
@@ -108,13 +134,23 @@ Hannah Stryker / How-To Geek
 
 !['Advanced Options' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-advanced-app-options-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following page, scroll down to the Terminate section. Here, click the "Terminate" button.
 
 !['Terminate' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-terminate-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Settings will close the chosen app.
 
 ##  From Command Prompt
@@ -125,9 +161,6 @@ Hannah Stryker / How-To Geek
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  In Command Prompt, type the following command and press Enter. You’ll see the list of apps running on your PC.
@@ -136,9 +169,6 @@ Hannah Stryker / How-To Geek
     
 ![The 'tasklist' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-tasklist-command-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From the app list, find the unresponsive app. Then, run the following command, replacing _AppName_ with the name you noted.
 
         `taskkill /im AppName /t /f`
@@ -163,9 +193,6 @@ Hannah Stryker / How-To Geek
 
 !['Run as Administrator' highlighted for PowerShell in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-open-powershell-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  On the PowerShell window, type the following cmdlet and press Enter. This cmdlet retrieves a list of the running apps.
@@ -174,14 +201,18 @@ Hannah Stryker / How-To Geek
     
 ![The 'Get-Process' command typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/15-get-process-command-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Find the frozen app on the list. Then, run the following cmdlet replacing **App** with the frozen app name.
 
         `Stop-Process -Name App`
     
 ![The 'Stop-Process' command typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-stop-process-command-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here’s what each parameter does in this cmdlet:
 
@@ -191,9 +222,6 @@ Hannah Stryker / How-To Geek
 
  PowerShell will close the specified app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  If Nothing Works, Restart Your PC
 
  If the frozen app remains frozen even after using the above methods, give your Windows 11 PC a restart to close all the running apps on your system.
@@ -202,13 +230,17 @@ Hannah Stryker / How-To Geek
 
 !['Startup Apps,' an app, and 'Disable' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/17-disable-startup-app-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once all of that is done, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) by opening the Start Menu, selecting the Power icon, and choosing "Restart."
 
 !['Restart' highlighted in the Power menu of the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/18-restart-windows-11-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You won't have the unresponsive app running when your computer turns on.
 
  If you launch the app, and it continues to freeze up, either the app installation is faulty or there's a compatibility issue. In this case, [uninstall and reinstall the app](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/) and see if that fixes the issue. Alternatively, download another version of the app and see if it works.
@@ -223,8 +255,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +262,22 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-focusflexpro-x7-smart-resizing-superior-quality/"><u>[Updated] 2024 Approved FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[Updated] 2024 Approved Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/st-see-vr-videos-on-youtube-for-deep-immersion/"><u>10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-8-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 8 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridge-the-gap-effortless-casting-from-android-phones-to-amazons-firestick/"><u>Bridge the Gap: Effortless Casting From Android Phones to Amazon's Firestick</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chorus-to-creation-finding-10-prime-tunes-for-podcast-intros-for-2024/"><u>Chorus to Creation Finding 10 Prime Tunes for Podcast Intros for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-overcoming-steams-responsiveness-issues-and-enhancing-performance-in-2aturday/"><u>Comprehensive Guide: Overcoming Steam's Responsiveness Issues and Enhancing Performance in 2Aturday</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-overcome-error-0xc19001e1-in-windows-11-computers/"><u>Effective Solutions to Overcome Error 0xC19001E1 in Windows 11 Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/engaging-visuals-for-maximum-impact-with-these-ideas-for-2024/"><u>Engaging Visuals for Maximum Impact with These Ideas for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-invisible-connection-between-your-astros-a50-headset-and-command-centre/"><u>Fixing the Invisible Connection Between Your Astro's A50 Headset and Command Centre</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-your-itunes-and-iphone-connection-issues-on-windows-10/"><u>How to Resolve Your iTunes and iPhone Connection Issues on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-ark-battle-out-of-hell-from-freezing-and-crashing-top-9-troubleshooting-steps/"><u>How to Stop ARK: Battle Out of Hell From Freezing and Crashing – Top 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-quiet-dragons-troubleshooting-skyrims-sound-problems/"><u>No More Quiet Dragons: Troubleshooting Skyrim's Sound Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-keyboard-issues-in-pathfinder-wrath-of-the-righteous/"><u>Troubleshooting Guide: Resolving Keyboard Issues in Pathfinder - Wrath of the Righteous</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-how-to-turn-on-and-use-hyper-v-in-windows-11-easily/"><u>Unveiling How to Turn On & Use Hyper-V in Windows 11 Easily</u></a></li>
+</ul></div>
 

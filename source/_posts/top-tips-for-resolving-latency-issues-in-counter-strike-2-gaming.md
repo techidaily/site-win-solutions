@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Resolving Latency Issues in Counter-Strike 2 Gaming
-date: 2024-08-28T05:04:20.341Z
-updated: 2024-08-29T05:04:20.341Z
+date: 2024-10-28T16:59:27.849Z
+updated: 2024-11-05T10:05:39.178Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
@@ -60,26 +67,41 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -94,42 +116,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 5\. Enable hardware-accelerated GPU scheduling
 
  Hardware-accelerated GPU scheduling is a feature that comes with a recent Windows update designed to boost in-game FPS. For some gamers, they do get an FPS boost after enabling this feature. So you can give it a shot.  
@@ -145,16 +139,17 @@ Key features:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -164,8 +159,12 @@ Key features:
 
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
@@ -173,6 +172,13 @@ Key features:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -186,8 +192,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +199,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-smooth-gaming-addressing-horizon-forbidden-west-1080p-complete-edition-pc-crashes/"><u>Comprehensive Guide to Smooth Gaming - Addressing Horizon Forbidden West 1080P Complete Edition PC Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-your-game-woes-the-ultimate-fix-for-double-trouble-crashing-episodes-on-personal-computers/"><u>Conquer Your Game Woes: The Ultimate Fix for Double Trouble Crashing Episodes on Personal Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dynamic-duels-ranking-the-top-street-fighter-titles-for-2024/"><u>Dynamic Duels Ranking the Top Street Fighter Titles for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hack-slash-and-fight-your-way-through-in-god-of-war-fps-pc-version/"><u>Hack, Slash, and Fight Your Way Through in God of War FPS (PC Version)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-gray-zone-warfare-gzw-crashing-on-pc/"><u>How to Fix Gray Zone Warfare (GZW) Crashing on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-efficiently-establish-your-zoom-space/"><u>In 2024, Efficiently Establish Your Zoom Space</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-proven-tactics-for-saving-lol-events/"><u>In 2024, Proven Tactics for Saving LOL Events</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-fcpx-fix-it-guide-solving-common-problems-and-optimizing-workflow-for-2024/"><u>New The FCPX Fix-It Guide Solving Common Problems and Optimizing Workflow for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/on-the-hunt-for-the-perfect-tablet-exploring-why-ipad-mini-stands-out-in-the-crowd/"><u>On the Hunt for the Perfect Tablet? Exploring Why iPad Mini Stands Out in the Crowd</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-picks-the-ultimate-guide-to-the-best-17-inch-laptops/"><u>Top Picks: The Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-dealing-with-premiere-pros-crashing-woes-in-windows-11-and-10/"><u>Ultimate Troubleshooting Guide: Dealing with Premiere Pro's Crashing Woes in Windows 11 & 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-the-power-of-structured-chapters-in-online-video-creation/"><u>Unleashing the Power of Structured Chapters in Online Video Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio-for-2024/"><u>Unlocking Your Youtube Success Story A Comprehensive Guide to Creative Studio for 2024</u></a></li>
+</ul></div>
 

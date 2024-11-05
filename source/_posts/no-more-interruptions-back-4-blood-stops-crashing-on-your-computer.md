@@ -1,7 +1,7 @@
 ---
 title: "No More Interruptions: Back 4 Blood Stops Crashing on Your Computer!"
-date: 2024-08-28T05:04:03.483Z
-updated: 2024-08-29T05:04:03.483Z
+date: 2024-11-03T04:55:16.567Z
+updated: 2024-11-04T23:20:38.728Z
 tags:
   - win11
   - win10
@@ -43,16 +43,25 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -76,16 +85,31 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair game files
 
  Verifying the game files is a common workaround for you to resolve random crashes or failed installations. If there’s something wrong with the game files, you can have them repaired following the instruction below.
@@ -96,28 +120,21 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 3. Click**Begin Scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6 – Disable Discord overlay
 
  The Discord overlay may also cause a game to malfunction. You could just turn it off and see if Diablo Immortal stops crashing.
@@ -126,9 +143,6 @@ Key features:
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -146,8 +160,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +167,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options/"><u>[New] 2024 Approved How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-insights-into-simplified-ipad-and-iphone-recording-for-2024/"><u>[Updated] Quick Insights Into Simplified iPad & iPhone Recording for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-impassioned-orator-review-revision-hexadecimal-eight/"><u>2024 Approved Impassioned Orator Review - Revision Hexadecimal Eight</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/p-by-step-guide-to-embedding-timestamp-metadata-for-2024/"><u>A Step-by-Step Guide to Embedding Timestamp Metadata for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-bypassing-the-unyielding-load-screen-in-fortnite-gaming/"><u>Expert Advice: Bypassing the Unyielding Load Screen in Fortnite Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-back-to-gaming-resolving-steam-remote-play-problems-today/"><u>Get Back to Gaming: Resolving Steam Remote Play Problems Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo V30 Lite 5G FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-moto-g04-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Moto G04 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-boot-up-modern-warfare-3-mw3-without-any-hitches-or-failures/"><u>How to Successfully Boot Up Modern Warfare 3 (MW3) Without Any Hitches or Failures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>In 2024, Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-pova-5-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Pova 5 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stay-in-game-expert-advice-on-avoiding-crashes-in-tales-of-arise/"><u>Stay In-Game: Expert Advice on Avoiding Crashes in 'Tales of Arise'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-razer-synapse-not-opening-correctly/"><u>Step-by-Step Fix for Razer Synapse Not Opening Correctly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-ark-survival-evolved-from-crashing-on-your-pc-apply-these-9-remedies/"><u>Stop ARK: Survival Evolved From Crashing on Your PC – Apply These 9 Remedies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-interruptions-ultimate-solution-to-world-of-tanks-blitz-stability-problems/"><u>Stop Interruptions: Ultimate Solution to World of Tanks Blitz Stability Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-preventing-discord-from-crashing-while-streaming-videos/"><u>Troubleshooting Guide: Preventing Discord From Crashing While Streaming Videos</u></a></li>
+</ul></div>
 

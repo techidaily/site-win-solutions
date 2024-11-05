@@ -1,7 +1,7 @@
 ---
 title: Tackling High Ping & Lag in Street Fighter 6 on Your Computer - Steps to Success
-date: 2024-08-28T05:03:15.579Z
-updated: 2024-08-29T05:03:15.579Z
+date: 2024-11-03T02:27:42.476Z
+updated: 2024-11-04T17:16:45.587Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After updating drivers, restart your PC and check if your problem has been resolved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,10 +76,6 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 If updating drivers doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  Temp files are referred to temporary files, which are files that your operating system only needed to exist temporarily while in use. But they are now just wasting space. This can slow down your PC and significantly affects the performance. To fix it, you can delete the files and it won’t cause any problems. Below are the steps you can follow.
@@ -82,9 +85,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
@@ -95,13 +95,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable background applications
 
  Games require a considerable amount of memory to function properly. If too many unwanted or unnecessary programs keep running in the background, there will be insufficient memory, which causes the freezing issue. To solve the problem, you can disable some background applications.
@@ -114,13 +115,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -136,22 +141,21 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Uninstall Multiplayer High-Res Textures
 
  Another great way to improve Halo Infinite’s performance is to uninstall Multiplayer High-Res Textures. This may also give you a noticeable FPS boost. To do this, follow the steps below.
@@ -161,17 +165,24 @@ To verify the integrity of your game files, follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 If this doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 7\. Disable in-game overlay
 
  Halo Infinite’s in-game overlay is a feature that aims to improve your gaming experience. But sometimes they just do the opposite of that, eating up bandwidth or introducing compatibility problems. In this case, you’ll need to disable it. Follow the instructions below to do so.
@@ -181,11 +192,15 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now relaunch your game and you should be able to play in rows without having the annoying freezing issue.
 
@@ -198,6 +213,13 @@ If this doesn’t help, try the next fix below.
 3. Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it’s completed, launch Halo Infinite and test the gameplay.
 
@@ -213,8 +235,6 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +242,22 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>[New] 2024 Approved SnapTweet Transporter Swift Transfer of Tweets' Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-8-tools-linux-based-edits-software/"><u>[Updated] In 2024, Essential 8 Tools Linux-Based Edits Software</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/breaking-down-barriers-successful-approaches-to-correct-connectivity-glitches-in-new-world-gaming/"><u>Breaking Down Barriers: Successful Approaches to Correct Connectivity Glitches in New World Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/changing-screen-aspects-digitally-for-2024/"><u>Changing Screen Aspects Digitally for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-answers-to-dealing-with-steam-local-connection-failed-problems/"><u>Clear Answers to Dealing With 'Steam Local Connection Failed' Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-up-full-black-screens-in-rainbow-six-siege-with-these-simple-steps-pc/"><u>Clear Up Full Black Screens in Rainbow Six Siege with These Simple Steps (PC)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-amazon-primes-merit-join-now/"><u>Decoding Amazon Prime's Merit – Join Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-performance-optimization-shorten-those-painful-load-times/"><u>Fallout 4 Performance Optimization: Shorten Those Painful Load Times</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigate-through-the-5-best-mac-sniping-apps-easily/"><u>Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-pc-performance-solving-cult-of-the-lamb-software-bugs-and-glitches/"><u>Optimizing PC Performance: Solving 'Cult of the Lamb' Software Bugs and Glitches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/optimizing-your-gaming-experience-on-windows-11-strategies-to-overcome-fps-dips-and-boost-performance/"><u>Optimizing Your Gaming Experience on Windows 11: Strategies to Overcome FPS Dips and Boost Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-division-2-crash-issues-instantly-and-effortlessly/"><u>Resolve Your Division 2 Crash Issues Instantly & Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-to-reduce-warzone-20-latency/"><u>Top Strategies to Reduce Warzone 2.0 Latency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-compatible-chip-type/"><u>Update for Compatible Chip Type</u></a></li>
+</ul></div>
 

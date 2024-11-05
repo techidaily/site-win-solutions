@@ -1,7 +1,7 @@
 ---
 title: "Calculating Date Intervals in MS Excel: A Step-by-Step Guide"
-date: 2024-08-28T05:01:08.521Z
-updated: 2024-08-29T05:01:08.521Z
+date: 2024-11-03T21:21:04.009Z
+updated: 2024-11-04T23:27:59.067Z
 tags:
   - excel
 categories:
@@ -28,6 +28,13 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![An Excel spreadsheet with a start and an end date.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-find-days-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It should happen automatically, but make sure the [text for your dates is formatted as date values](https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-xcover-7-drfone-by-drfone-android/).
 
  In your spreadsheet, click the cell in which you want to display the answer. This cell will show the number of days between your specified dates.
@@ -40,15 +47,26 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![Enter the formula to find the number of days between two dates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-enter-days-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And instantly, you will see the answer in the cell where you typed the formula.
 
 ![The number of days between the specified dates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-days-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You're all set. Did you know that in addition to subtracting dates, you can also [add dates together in Excel](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/)?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Calculate the Days Between Two Dates With the DAYS Function
 
  Excel's `DAYS` function is dedicated to finding the number of days between two dates. It effectively performs the same calculation that the subtraction method does, so it's up to you which method you use.
@@ -57,9 +75,6 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![Click the cell in which to display the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In your selected cell, type the following function and press Enter. In this function, replace `C2` with the cell where you have your end date, and replace `B2` with the cell where your start date is.
 
 =DAYS(C2,B2)
@@ -67,8 +82,12 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 ![Enter the DAYS function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-enter-days-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you'd like to use the dates directly in the function, you can do so. In this case, in the above function, replace `C2` with the end date and `B2` with the start date. Make sure to add double quotes around each date.
 
  Like this:
@@ -77,16 +96,10 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![Enter the DAYS function with direct values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-enter-days-function-with-direct-values.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And immediately, Excel will tell you the number of full days between your specified dates.
 
 ![Days between the two specified dates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-days-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you know this, you might also want to learn how to [calculate someone's age](https://youtube-data.techidaily.com/n-2024-explore-the-best-historian-content-top-10-youtube-recommendations/) in Excel. It's equally easy to do that.
 
 Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidaily.com/n-2024-explore-the-best-historian-content-top-10-youtube-recommendations/)
@@ -97,8 +110,6 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +117,22 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-voice-changers-for-vtubers-two-best-app-recommended/"><u>[New] 2024 Approved Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-revenue-boost-new-500-subs-milestone/"><u>[New] 2024 Approved YouTube's Revenue Boost New 500 Subs Milestone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition/"><u>[New] In 2024, Step-by-Step Guide to Facebook Mastery Pro & Novice Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-film-fans-choice-cutting-edge-youtube-channels/"><u>[Updated] 2024 Approved Film Fan's Choice Cutting-Edge YouTube Channels</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/best-platforms-for-acquiring-lofi-tunes-downloads-for-2024/"><u>Best Platforms for Acquiring Lofi Tunes Downloads for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-z-flip-5-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy Z Flip 5 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-silence-to-sounds-windows-10-recorder-use/"><u>In 2024, From Silence to Sounds Windows 10 Recorder Use</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Bootloader Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-running-the-apple-maps-app-on-a-windows-system/"><u>Step-by-Step Tutorial: Running the Apple Maps App on a Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-4-unbeatable-gaming-browsers-on-windows-platform-your-ultimate-guide/"><u>Top 4 Unbeatable Gaming Browsers on Windows Platform: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-persuasive-arguments-for-staying-with-windows-11-as-your-primary-os/"><u>Top 5 Persuasive Arguments for Staying with Windows 11 as Your Primary OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ugreens-ascension-to-dominance-with-its-revodok-max-groovy-213-thunderbolt-dock-an-in-depth-review-of-the-premier-tech-marvel/"><u>Ugreen's Ascension to Dominance with Its Revodok Max Groovy 213 Thunderbolt Dock: An In-Depth Review of the Premier Tech Marvel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-installing-universal-color-pickers-on-your-windows-11-pc/"><u>Ultimate Guide: Installing Universal Color Pickers on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-no-internet-connection-secured-issues-in-windows/"><u>Ultimate Guide: Resolving 'No Internet Connection (Secured)' Issues in Windows</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+</ul></div>
 

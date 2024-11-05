@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell Dimensions: A Guide to Fixing Column & Row Sizes in Excel"
-date: 2024-08-28T05:01:23.779Z
-updated: 2024-08-29T05:01:23.779Z
+date: 2024-11-03T23:40:50.495Z
+updated: 2024-11-05T03:45:05.463Z
 tags:
   - excel
 categories:
@@ -37,13 +37,17 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 
 ![Format Cells launcher in the Number section of the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FormatCellsLauncher-ExcelLockColumnRowSizes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Go to the Protection tab and uncheck the box for Locked. Then, click "OK" to apply the change.
 
 ![Locked unchecked on the Protection tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FormatCellsUnlock-ExcelLockColumnRowSizes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Protect the Sheet
 
  Now that all cells in your sheet are unlocked, you'll [protect the sheet](https://screen-recording.techidaily.com/updated-essential-tips-for-gameplay-screen-captures-on-xbox-one-for-2024/) but only for the columns and row sizes (formatting.)
@@ -53,6 +57,13 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
  Head to the Review tab and click "Protect Sheet" in the Protect section of the ribbon.
 
 ![Protect Sheet on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ReviewProtectSheet-ExcelLockColumnRowSizes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enter a password to secure the protection and check the box at the top for Protect Worksheet and Contents of Locked Cells. Then, check every box in the list beneath _except for_ Format Columns and Format Rows depending on which you want to protect, or both.
 
@@ -71,41 +82,53 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 ![No double-sided arrow between columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NoArrow-ExcelLockColumnRowSizes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Additionally, the resizing options in the shortcut menu are grayed out and unavailable.
 
 ![Column Width grayed out in the menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NoColumnWidth-ExcelLockColumnRowSizes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Allow Column and Row Resizing Again
 
  To [remove the protection](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-find-x6-drfone-by-drfone-virtual-android/) from the sheet and allow resizing again, go to the Review tab and pick "Unprotect Sheet."
 
 ![Unprotect Sheet on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ReviewUnprotectSheet-ExcelLockColumnRowSizes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter the password and click "OK."
 
 ![Enter Password box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EnterPassword-ExcelLockColumnRowSizes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see the double-sided arrow between columns and rows.
 
 ![Double-sided arrow between columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Arrow-ExcelLockColumnRowSizes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  You also have the option to resize them in the shortcut menu.
 
 ![Column Width in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ColumnWidth-ExcelLockColumnRowSizes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Locking the sizes for your columns and rows in Excel takes only a few steps that are worth your time to prevent unwanted changes.
 
@@ -117,8 +140,6 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +147,26 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-the-best-youtube-thumbnail-size/"><u>[Updated] What's the Best YouTube Thumbnail Size?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/2012s-return-to-lead-generating-fundamentals-unveiling-the-best-15-techniques-with-massmail-software/"><u>2012'S Return to Lead-Generating Fundamentals - Unveiling the Best 15 Techniques with Massmail Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>2024 Approved Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-peek-at-sonys-high-end-smartphone-the-xperia-xz-4k-reveal/"><u>2024 Approved Peek at Sony's High-End Smartphone - The Xperia XZ 4K Reveal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003537606-anthem-loading-issue-resolution-no-more-hanging-screens/"><u>Anthem Loading Issue Resolution: No More Hanging Screens!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210198945-9781610586269-crystals-and-sacred-sites/"><u>Crystals and Sacred Sites | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-when-the-mass-effect-legendary-edition-doesnt-open-correctly/"><u>Fixes for When the Mass Effect Legendary Edition Doesn't Open Correctly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-why-the-future-of-videography-is-in-hdrs-arms/"><u>In 2024, Why the Future of Videography Is in HDR's Arms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/noise-restoration-for-skyrim-gamers-facing-sound-glitches/"><u>Noise Restoration for Skyrim Gamers Facing Sound Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-fixed-eliminating-robocop-rogue-citys-pc-instability-and-crashing-problems/"><u>PC Gaming Fixed: Eliminating RoboCop: Rogue City's PC Instability and Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-launch-glitches-tips-for-unsticking-your-game/"><u>Sea of Thieves Launch Glitches? Tips for Unsticking Your Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-now-in-fixed-destiny-2-pc-version/"><u>Smooth Gaming Experience Now in Fixed Destiny 2 PC Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-overcome-sea-of-thieves-crash-errors/"><u>Step-by-Step Guide to Overcome Sea of Thieves Crash Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-cod-vanguard-from-locking-up-on-your-computer-expert-advice/"><u>Stop COD Vanguard From Locking Up on Your Computer - Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-high-ping-and-lag-in-street-fighter-6-on-your-computer-steps-to-success/"><u>Tackling High Ping & Lag in Street Fighter 6 on Your Computer - Steps to Success</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/understanding-virtual-reality-vr-essential-insights-on-the-world-of-3d-vr/"><u>Understanding Virtual Reality (VR): Essential Insights on the World of 3D VR</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unveiling-the-macro-snippet-bug-a-closer-look-at-text-editing-flaws-in-emeditor/"><u>Unveiling the Macro Snippet Bug - A Closer Look at Text Editing Flaws in EmEditor</u></a></li>
+</ul></div>
 

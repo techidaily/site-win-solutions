@@ -1,7 +1,7 @@
 ---
 title: Guide on Consolidating, Refining Shape, and Modifying Size of Worksheets Within Excel Spreadsheets
-date: 2024-08-28T05:00:46.788Z
-updated: 2024-08-29T05:00:46.788Z
+date: 2024-10-30T09:48:44.052Z
+updated: 2024-11-05T09:04:36.511Z
 tags:
   - excel
 categories:
@@ -43,6 +43,13 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
 
 ![VSTACK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/VSTACK-ExcelArrayFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To combine those same arrays horizontally instead, use this formula for the HSTACK function:
 
 =HSTACK(B2:F3,H2:L3)
@@ -50,14 +57,24 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
 ![HSTACK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/HSTACK-ExcelArrayFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Reshape Arrays
 
  If it's not combining arrays that you want to do but reshaping them instead, there are four [functions you can use](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/).
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Convert an Array to a Row or Column
 
@@ -73,20 +90,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![TOROW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TOROW-ExcelArrayFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To convert that same array to a column instead, use the TOCOL function with this formula:
 
 =TOCOL(B2:F3)
 
 ![TOCOL function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TOCOL-ExcelArrayFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Convert a Row or Column to an Array
 
  To do the opposite of the above and convert a row or column to an array, you can use WRAPROWS and WRAPCOLS. The syntax for each is `WRAPROWS(reference, wrap_count, pad)` and `WRAPCOLS(reference, wrap_count, pad)` with the `reference` being a group of cells.
@@ -100,9 +115,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![WRAPROWS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/WRAPROWS-ExcelArrayFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To convert the same cells into a two-dimensional array by wrapping columns, use the WRAPCOLS function. With this formula, the cells are wrapped using three values per column with "empty" as the `pad`.
 
 =WRAPCOLS(B2:K2,3,"empty")
@@ -114,6 +126,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
  Maybe you want to adjust the size of an array by adding some data or dropping unnecessary cells. There are five [functions to help](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) you do this depending on the result you want.
 
 Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Take or Drop Rows or Columns
 
@@ -133,9 +152,6 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![TAKE function for columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TAKEcolumns-ExcelArrayFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove the first two rows in the array B2 through F5, use DROP with the `rows` argument and this formula:
 
 =DROP(B2:F5,2)
@@ -143,8 +159,12 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![DROP function for rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DROProws-ExcelArrayFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To remove the first two columns in that same array, use the `columns` argument instead and this formula:
 
 =DROP(B2:F5,,2)
@@ -163,16 +183,33 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![CHOOSEROWS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/CHOOSEROWS-ExcelArrayFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To return columns 3 and 5 from the same array, you'd use the CHOOSECOLS function with this formula:
 
 =CHOOSECOLS(B2:F5,3,5)
 
 ![CHOOSECOLS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/CHOOSECOLS-ExcelArrayFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Remember to use the row or column numbers for the array, _not_ for the sheet.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Expand an Array to Specific Dimensions
 
@@ -194,9 +231,6 @@ Related: [How To Add and Change Cell Borders In Excel](https://activate-lock.tec
 
 ![EXPAND function with a pad value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EXPANDpad-ExcelArrayFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Although the `pad` argument is optional, you may prefer it over [seeing an error](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) as shown above.
 
  These 11 functions give you more control than ever over your arrays in Microsoft Excel. Give them a try and see if they accomplish what you need.
@@ -209,8 +243,6 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +250,19 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-webcam-selection-for-podcasting/"><u>[New] 2024 Approved Ultimate Webcam Selection for Podcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-evaluation-what-makes-theta-s-special/"><u>2024 Approved Full Evaluation What Makes Theta S Special</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/refurbished-microsoft-surface-laptop-128gb-buy-now-at-just-320-on-zdnet/"><u>Refurbished Microsoft Surface Laptop (128GB) - Buy Now at Just $320 on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-adding-textual-descriptions-to-your-excel-charts/"><u>Step-by-Step Guide: Adding Textual Descriptions to Your Excel Charts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-counting-actively-used-sheets-in-microsoft-excel/"><u>Step-by-Step Guide: Counting Actively Used Sheets in Microsoft Excel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tech-savvy-pilots-guide-to-attentive-drones-for-2024/"><u>Tech-Savvy Pilots' Guide to Attentive Drones for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-microsoft-windows-settings-dollar-to-euro-conversion-tutorial/"><u>Transform Microsoft Windows Settings - Dollar to Euro Conversion Tutorial</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209915081-9781734302295-vipassana/"><u>Vipassana | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/virtual-office-tour-explore-latest-innovations-in-our-web-based-office-solutions/"><u>Virtual Office Tour: Explore Latest Innovations in Our Web-Based Office Solutions</u></a></li>
+</ul></div>
 

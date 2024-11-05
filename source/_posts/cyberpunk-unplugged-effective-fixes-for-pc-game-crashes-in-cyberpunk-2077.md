@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk Unplugged: Effective Fixes for PC Game Crashes in Cyberpunk 2077"
-date: 2024-08-28T05:05:50.377Z
-updated: 2024-08-29T05:05:50.377Z
+date: 2024-11-01T00:09:59.868Z
+updated: 2024-11-05T08:43:51.659Z
 tags:
   - win11
   - win10
@@ -56,23 +56,29 @@ thumbnail: https://thmb.techidaily.com/f5d018e237ca35df7bb16fca986876f6ddcdb7436
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -83,14 +89,23 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Once finish, restart your game and see if it works properly.
 
 ### Fix 4: Disable DVR app in Xbox
@@ -104,6 +119,14 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
@@ -118,9 +141,6 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
@@ -137,8 +157,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +164,16 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlining-twitters-video-transfer-to-fb-network/"><u>[New] 2024 Approved Streamlining Twitters Video Transfer to FB Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam-in-2024/"><u>[New] In the Ring with Video Recording Who Will Triumph, OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-the-sea-of-thieves-start-up-glitches-effectively/"><u>Expert Advice on Fixing the Sea of Thieves Start-Up Glitches Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-games-on-a-ps4-console/"><u>Exploring PS5 Games on a PS4 Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-davinci-resolve-up-and-running-again-on-your-windows-computer/"><u>How to Get DaVinci Resolve Up and Running Again on Your Windows Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-master-audio-recording-the-micless-methodology/"><u>In 2024, Master Audio Recording The Micless Methodology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-solutions-resolving-issues-with-utorrents-connection-and-download-problems/"><u>Troubleshooting Solutions: Resolving Issues with uTorrent's Connection and Download Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-fixing-crashes-in-madden-nfl-19-on-your-windows-computer/"><u>Ultimate Guide to Fixing Crashes in Madden NFL 19 on Your Windows Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-14-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi 14 Phones</u></a></li>
+</ul></div>
 

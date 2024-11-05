@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Efficiently Finding Variance with Excel Spreadsheets
-date: 2024-08-28T05:00:42.012Z
-updated: 2024-08-29T05:00:42.012Z
+date: 2024-10-31T22:13:34.161Z
+updated: 2024-11-04T17:18:55.082Z
 tags:
   - excel
 categories:
@@ -25,8 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Variance is used to measure the spread of data values against the mean in a data set. Microsoft Excel can be used to calculate this variance to help you [analyse your data](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/), determine its quality, and make important decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What is Variance?
 
  Variance measures how far the values in a data set are against the mean (average) value. The higher the variance, the more spread out your data is. In contrast, if the variance is low, it means there isn't much of a spread in your data.
@@ -54,8 +58,12 @@ Related: [Excel for Beginners: The 6 Most Important Tasks to Know](https://vp-ti
  If your data set contains text strings or a logical test, you'll need to use VARA (for sample variation) or VARP (for population variance) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Calculate Sample Variance in Excel Using VAR, VAR.S, or VARA
 
  To help you calculate sample variance in Excel, we'll use an example data set below. You'll need to replace any data we're using here with your own.
@@ -68,9 +76,6 @@ Related: [Excel for Beginners: The 6 Most Important Tasks to Know](https://vp-ti
 
 ![To calculate sample variation in Excel, select the formula bar and type your VAR.S formula (eg. =VAR.S(B2:B10).](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/excel-vars-formula-example.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the opening parenthesis, type the [cell range](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) containing your sample subset (eg. B2:B10 for cells between B2 and B10) or select it manually using your mouse. For example:
 
 =VAR(B2:B10)=VAR.S(B2:B10)=VARA(B2:B10)
@@ -81,9 +86,6 @@ Related: [Excel for Beginners: The 6 Most Important Tasks to Know](https://vp-ti
 
  The value returned (in this example, 11.11) is the sample variance. You can increase the range of values used, which may improve the accuracy of the result, depending on how large your sample is compared to your full data set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  How to Calculate Population Variance in Excel using VARP, VAR.P, or VARPA
 
  Excel calculates sample and population variance differently. For the user, however, there isn't much difference between the functions you use to calculate sample and population variance in your spreadsheet. The only difference (for you) is the size of the data set you're referring to and the functions you'll use.
@@ -97,8 +99,12 @@ Related: [Excel for Beginners: The 6 Most Important Tasks to Know](https://vp-ti
 ![To calculate population variation in Excel, select the formula bar and type your VAR.P formula (eg. =VAR.P(B2:B21) for the full range of cells between B2 and B21).](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/excel-varp-formula-example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After the opening parenthesis, enter the cell range that contains your full data set (eg. B2:B21 for cells between B2 and B21). Alternatively, use your mouse to select the data manually. For example:
 
 =VAR(B2:B21)=VAR.P(B2:B21)=VARPA(B2:B21)
@@ -108,8 +114,12 @@ Related: [Excel for Beginners: The 6 Most Important Tasks to Know](https://vp-ti
 ![An example of functions used to calculation population variance (VARP, VAR.P, and VARPA) in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/excel-varp-formula-complete.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The value returned is the population variance for the full data set.
 
 Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/)
@@ -120,8 +130,6 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +137,24 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-aspect-ratios-unveiled-your-guide-to-stellar-yt-images/"><u>[New] 2024 Approved Aspect Ratios Unveiled Your Guide to Stellar YT Images</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-developing-intriguing-video-segments-for-channels/"><u>[New] Developing Intriguing Video Segments for Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-why-youtube-premium-should-be-on-everyones-radar/"><u>[New] In 2024, Why YouTube Premium Should Be on Everyone's Radar</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-recorder-at-zero-free-capture-of-your-android-content/"><u>[New] Recorder at Zero Free Capture of Your Android Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-2013-guide-customizing-key-combinations-for-symbol-input/"><u>Excel 2013 Guide: Customizing Key Combinations for Symbol Input</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-trick-duplicating-selected-rowscolumns-across-all-pages-of-a-printout/"><u>Excel Trick: Duplicating Selected Rows/Columns Across All Pages of a Printout</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excelling-in-non-accounting-tasks-how-excel-enhances-daily-productivity-for-all-professionals/"><u>Excelling in Non-Accounting Tasks: How Excel Enhances Daily Productivity for All Professionals</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-import-and-utilize-web-data-into-excel-2010-worksheets/"><u>How to Import and Utilize Web Data Into Excel 2010 Worksheets</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-elevate-views-and-subscribers-a-list-of-proven-youtube-techniques/"><u>In 2024, Elevate Views and Subscribers A List of Proven YouTube Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokecrafters-generate-smiles-app/"><u>In 2024, JokeCrafters Generate Smiles (App)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-zte-axon-40-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your ZTE Axon 40 Lite Phone Hassle-Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-microsoft-excel-feature-added-support-for-checkboxes/"><u>New Microsoft Excel Feature: Added Support for Checkboxes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-organizing-information-by-alphabetical-order-in-ms-excel/"><u>Step-by-Step Guide: Organizing Information by Alphabetical Order in MS Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-on-converting-your-apple-numbers-file-for-use-in-microsoft-excel/"><u>Step-by-Step Tutorial on Converting Your Apple Numbers File for Use in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/switching-your-pcs-primary-money-symbol-a-guide-from-usd-to-eur/"><u>Switching Your PC's Primary Money Symbol: A Guide From USD to EUR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-upgrade-path-for-enhanced-hp-graphical-output/"><u>Windows 7: Upgrade Path for Enhanced HP Graphical Output</u></a></li>
+</ul></div>
 

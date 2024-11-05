@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Playability: Overcoming FPS Drops and Stutters in Dying Light 2 on PC"
-date: 2024-08-28T05:04:01.331Z
-updated: 2024-08-29T05:04:01.331Z
+date: 2024-10-31T21:42:04.549Z
+updated: 2024-11-05T03:20:18.749Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -40,9 +47,6 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -63,19 +67,27 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
 
@@ -88,9 +100,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
@@ -120,10 +129,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -140,6 +153,13 @@ There are mainly two methods for you to update the graphics driver:
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -149,16 +169,18 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
-3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
+3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
 Launch GTFO to see you can play it smoothly.
 
 ---
@@ -175,8 +197,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +204,24 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-achieving-professional-streams-with-obs-android-style/"><u>[New] In 2024, Achieving Professional Streams with OBS, Android Style</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-bare-essentials-for-relaxation-for-2024/"><u>[Updated] Bare Essentials for Relaxation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku-for-2024/"><u>[Updated] Discover the Joy of Real-Time Broadcasting with FB & Roku for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004637708-bypassing-technical-hurdles-in-apex-legends-engine-issues-solved/"><u>Bypassing Technical Hurdles in Apex Legends - Engine Issues Solved!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro-for-2024/"><u>Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnose-and-fix-re7s-black-display-anomaly-for-a-smooth-gaming-experience-on-pc/"><u>Diagnose and Fix RE7's Black Display Anomaly for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-fallout-3-from-crashing-on-your-windows-10-pc/"><u>Fixes & Solutions: How To Stop Fallout 3 From Crashing On Your Windows 10 PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-naraka-bladepoint-lag-issues/"><u>How To Fix Naraka Bladepoint Lag Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-characters-and-settings/"><u>In 2024, Crafting Characters and Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-initialization-hurdles-in-agrarian-adventure-fs22-edition/"><u>Overcoming Initialization Hurdles in Agrarian Adventure - FS22 Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-madden-21-from-freezing-on-your-computer-with-these-tips/"><u>Stop Madden 21 From Freezing on Your Computer with These Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-solution-to-the-black-screen-glitch-in-nba-anguage-2k21/"><u>The Ultimate Solution to the Black Screen Glitch in NBA Anguage 2K21</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-streamers-choice-is-obs-better-than-twitch-studio/"><u>The Ultimate Streamer's Choice Is OBS Better Than Twitch Studio?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-modern-warfare-3s-code-1eba6c98-memory-problem/"><u>Troubleshooting and Fixing Modern Warfare 3'S Code 1Eba6c98 Memory Problem</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visual-spectacle-an-in-depth-comparison-of-8k-tvs-for-2024/"><u>Visual Spectacle An In-Depth Comparison of 8K TVs for 2024</u></a></li>
+</ul></div>
 

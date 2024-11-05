@@ -1,7 +1,7 @@
 ---
 title: "最適化されたInshotデスクトップアプリ: PCで優れた写真編集を"
-date: 2024-10-24T16:01:18.608Z
-updated: 2024-10-30T16:13:17.608Z
+date: 2024-11-03T01:55:59.394Z
+updated: 2024-11-05T06:30:58.464Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
@@ -152,6 +152,13 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -184,13 +191,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -217,19 +217,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -241,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -259,6 +253,19 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -285,6 +292,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -327,22 +341,15 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -387,10 +394,10 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
@@ -452,13 +459,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -504,10 +504,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -544,16 +544,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -613,17 +607,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/1-creating-engaging-ai-animations-a-guide-to-crafting-gifs-and-videos-with-stable-diffusion/"><u>1. Creating Engaging AI Animations: A Guide to Crafting GIFs & Videos with Stable Diffusion</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dj-delight-choosing-ultimate-event-videos/"><u>2024 Approved DJ Delight Choosing Ultimate Event Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/bridging-social-media-posting-tweets-on-fb-for-2024/"><u>Bridging Social Media Posting Tweets on FB for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/conversion-video-gratuite-fichiers-mov-vers-wma-avec-movexpert/"><u>Conversion Vidéo Gratuite: Fichiers MOV Vers WMA Avec MOVEXPERT</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 Pro when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-ghostwire-tokyo-a-guide-to-prevent-pc-game-crashes/"><u>Mastering Ghostwire: Tokyo - A Guide to Prevent PC Game Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-world-pc-issues-no-more-learn-how-to-avoid-in-game-disruptions/"><u>New World PC Issues No More - Learn How to Avoid In-Game Disruptions</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154597437-secure-digital-dialogues-facebook-implements-comprehensively-end-to-end-encryption-for-direct-messaging-and-calls/"><u>Secure Digital Dialogues: Facebook Implements Comprehensively End-to-End Encryption for Direct Messaging and Calls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-continues-surpassing-the-original-turing-test/"><u>The Evolution Continues: Surpassing the Original Turing Test</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-wedding-timers-on-google-play-and-apple-store-for-2024/"><u>The Ultimate Guide to Choosing Wedding Timers on Google Play and Apple Store for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-how-to-stop-firefox-from-freezing/"><u>Ultimate Fixes: How to Stop Firefox From Freezing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-stutters-and-improve-frame-rate-on-naraka-bladepoint/"><u>Ultimate Guide to Resolving Stutters & Improve Frame Rate on Naraka: Bladepoint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hp-dreamcolor-z32x-4k-monitor-review/"><u>[New] HP-DREAMCOLOR Z32X 4K Monitor Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-engaging-audiences-via-vo-enhanced-slideshows/"><u>[New] In 2024, Engaging Audiences via VO-Enhanced Slideshows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/confirmation-received-mafia-definitive-edition-is-overcome-challenges-preparing-for-market-debut/"><u>Confirmation Received: Mafia: Definitive Edition Is Overcome Challenges, Preparing for Market Debut</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/efficient-writing-techniques-for-impactful-ad-creation-for-2024/"><u>Efficient Writing Techniques for Impactful Ad Creation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-decks-cloud-integration-failures/"><u>Eliminating Steam Deck's Cloud Integration Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-fading-sounds-in-dying-light-a-comprehensive-guide/"><u>Fixing the Fading Sounds in Dying Light: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hands-on-review-apples-new-27-inch-5k-retina-studio-display-a-stunning-choice-or-a-costly-investment-for-creative-professionals/"><u>Hands-On Review: Apple's New 27-Inch 5K Retina Studio Display - A Stunning Choice or a Costly Investment for Creative Professionals?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-fix-unreal-engine-4-crashing-on-pc/"><u>How to Fix 'Unreal Engine 4 Crashing' On PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-the-battlenet-launcher-up-and-running-again-on-windows-computers/"><u>How to Get the Battle.net Launcher Up and Running Again on Windows Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-elden-ring-cooperative-gaming-features/"><u>How to Restore Elden Ring Cooperative Gaming Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-storytellers-sanctum-summit-selections/"><u>In 2024, Storytellers Sanctum – Summit Selections</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polish-study-strategy-for-rapid-progress/"><u>Polish Study Strategy for Rapid Progress</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rocket-league-bug-fixed-no-more-game-freezing/"><u>Rocket League Bug Fixed: No More Game Freezing</u></a></li>
 </ul></div>
 

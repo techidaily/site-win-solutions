@@ -1,7 +1,7 @@
 ---
 title: "Fixing Dragon's Dogma 2 PC Crashes: A Comprehensive Troubleshooting Guide"
-date: 2024-08-28T05:03:49.610Z
-updated: 2024-08-29T05:03:49.610Z
+date: 2024-10-31T21:13:24.599Z
+updated: 2024-11-05T00:45:17.989Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -82,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -92,15 +96,16 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -112,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -133,18 +145,19 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -157,13 +170,17 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +201,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>[Updated] 2024 Approved Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>[Updated] The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-graphics-card-update-made-easy-secure-and-upgrade-your-drivers-today/"><u>AMD RX 580 Graphics Card Update Made Easy: Secure and Upgrade Your Drivers Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-solution-for-dealing-with-steam-error-message-code-130-heres-what-you-need-to-do/"><u>Complete Solution for Dealing with Steam Error Message Code 130 – Here's What You Need To Do!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-overcoming-adobe-after-effects-instability-in-windows-11-and-10-environments/"><u>Expert Tips: Overcoming Adobe After Effects Instability in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-drops-and-hitches-optimizing-your-gameplay-in-battlefield-2042-for-pc-users/"><u>How to Eliminate Drops and Hitches: Optimizing Your Gameplay in Battlefield 2042 for PC Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-full-verdict-hero4-black-excellence/"><u>In 2024, Full Verdict Hero4 Black Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-with-toms-hardware-your-ultimate-guide-to-gear-and-performance/"><u>Mastering Electronics with Tom's Hardware - Your Ultimate Guide to Gear and Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-accessibility-adding-subtitles-and-captions-in-final-cut-pro-x/"><u>New 2024 Approved Unlock Accessibility Adding Subtitles and Captions in Final Cut Pro X</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-splitgates-play-experience-tips-for-resolving-low-fps-and-smoother-action/"><u>Optimize Splitgate's Play Experience: Tips for Resolving Low FPS and Smoother Action</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-ghost-runner-crashes-effective-fixes-for-windows-11-users/"><u>Overcoming 'Ghost Runner' Crashes: Effective Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-launching-problems-in-warframe-game/"><u>Quick Fixes for Launching Problems in Warframe Game</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snag-your-favorite-gadget-of-the-year-at-discount-apple-watch-se-now-60-off-this-memorial-day/"><u>Snag Your Favorite Gadget of the Year at Discount: Apple Watch SE Now $60 Off This Memorial Day</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-of-disconnected-blizzard-gaming-servers-a-step-by-step-solution/"><u>Solving the Mystery of Disconnected Blizzard Gaming Servers - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/thunder-tiers-how-to-fix-continuous-pc-crashes/"><u>Thunder Tiers: How to Fix Continuous PC Crashes</u></a></li>
+</ul></div>
 

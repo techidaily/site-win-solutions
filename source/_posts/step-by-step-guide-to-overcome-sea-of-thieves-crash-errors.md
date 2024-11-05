@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Overcome Sea of Thieves Crash Errors
-date: 2024-08-28T05:03:22.796Z
-updated: 2024-08-29T05:03:22.796Z
+date: 2024-10-29T21:47:00.967Z
+updated: 2024-11-05T09:43:13.120Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -38,8 +45,12 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -48,7 +59,22 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
@@ -68,14 +94,8 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Verify the integrity of game files
 
  If Immortals Fenyx Rising wasn’t installed properly with certain game files missing or damaged, it won’t launch correctly. To see if that’s the case, follow the steps below.
@@ -84,18 +104,8 @@ There are mainly two ways you can do this:
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
 ### Fix 5 – Use dedicated graphics card
@@ -107,25 +117,31 @@ No advertising on the website.
 2. Select**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
@@ -142,8 +158,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +165,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[Updated] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-avoid-pc-lag-in-wwe-2k20-with-easy-tweaks/"><u>Mastering the Fix: Avoid PC Lag in WWE 2K20 with Easy Tweaks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-solving-call-of-duty-warzone-disc-reading-issues-for-version-50-and-31/"><u>Step-by-Step Guide: Solving Call of Duty Warzone Disc Reading Issues for Version 5.0 and 3.1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-employing-chatgpt-as-a-workplace-companion/"><u>The Ultimate Guide to Employing ChatGPT as a Workplace Companion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-the-issue-of-humanitys-delayed-takeoff/"><u>Troubleshooting Tips: Resolving the Issue of Humanity's Delayed Takeoff</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-eliminating-lag-issues-in-resident-evil-village-on-your-gaming-pc/"><u>Ultimate Guide to Eliminating Lag Issues in Resident Evil Village on Your Gaming PC</u></a></li>
+</ul></div>
 

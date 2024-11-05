@@ -1,7 +1,7 @@
 ---
 title: "Anthem Loading Issue Resolution: No More Hanging Screens!"
-date: 2024-08-28T05:03:20.381Z
-updated: 2024-08-29T05:03:20.381Z
+date: 2024-10-30T19:39:08.314Z
+updated: 2024-11-04T20:50:41.611Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Move your game to another drive
 
  Origin enables players to move games to another drive easily. Coping and pasting your game files and folders doesn’t move your games completely, so you’ll need to do it via Origin.
@@ -48,9 +55,23 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
@@ -77,9 +98,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -95,24 +113,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
  6) Once finished, restart your computer and launch Anthem.
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -139,9 +155,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
@@ -159,15 +172,22 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
@@ -175,6 +195,13 @@ Now launch Anthem on your computer, and your game should be loading.
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -188,13 +215,17 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
@@ -230,8 +261,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +268,26 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-consolechronicle-critique-for-2024/"><u>[New] ConsoleChronicle Critique for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-excellence-in-screensnapting-fast-reliable-recorder-for-2024/"><u>[New] Excellence in Screensnapting Fast, Reliable Recorder for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-voice-makeover-masters-the-7-leading-recording-changer-apps/"><u>[Updated] 2024 Approved Voice Makeover Masters The 7 Leading Recording Changer Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-sketches-to-screens-animation-via-windows-movie-maker-for-2024/"><u>[Updated] From Sketches to Screens Animation via Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>2024 Approved Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-to-tackle-high-ping-and-lag-in-street-fighter-ebtween-pc-get-the-edge/"><u>Comprehensive Solutions to Tackle High Ping & Lag in Street Fighter Ebtween (PC) – Get the Edge!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-eliminating-game-crashes-in-star-wars-squadrons-step-by-step-solution/"><u>Expert Advice on Eliminating Game Crashes in Star Wars: Squadrons | Step-by-Step Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-no-more-restarting-elite-dangerous-woes-and-how-to-get-back-on-track/"><u>Game No More? Restarting 'Elite Dangerous' Woes and How to Get Back on Track</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-remedies-to-resolve-the-disappearing-iphone-camera-icons-issue/"><u>Guaranteed Remedies to Resolve the Disappearing iPhone Camera Icons Issue</u></a></li>
+<li><a href="https://facebook.techidaily.com/harnessing-protection-system-features-on-facebook-platform/"><u>Harnessing Protection System Features on Facebook Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-got-origin-up-and-running-again-troubleshooting-guide/"><u>How I Got Origin Up and Running Again – Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-download-and-update-logiteche-g403-gamepad-drivers-for-windows-10817-no-cost/"><u>How to Download and Update Logiteche G403 Gamepad Drivers for Windows 10/8.1/7 - No Cost</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-bug-fixed-swift-and-simple-solutions/"><u>League of Legends Bug Fixed: Swift and Simple Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fixes-of-your-clownfish-voice-modifier-a-comprehensive-guide/"><u>Mastering the Fixes of Your Clownfish Voice Modifier: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-easy-guide-turn-your-webm-files-into-mov-without-hassle-top-2-techniques/"><u>Quick & Easy Guide: Turn Your WebM Files Into MOV without Hassle - Top 2 Techniques!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-stop-infinite-loads-in-anthem-game/"><u>Step-by-Step Solution to Stop Infinite Loads in Anthem Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-performance-issues-smooth-gameplay-with-serious-sam-4-on-pcs/"><u>Troubleshooting Performance Issues: Smooth Gameplay with Serious Sam 4 on PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-foldable-iphone-latest-leaks-on-pricing-launch-date-and-features/"><u>Upcoming Foldable iPhone - Latest Leaks on Pricing, Launch Date & Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Magic: Optimize Your Hogwarts Legacy Experience with These 6 Fixes"
-date: 2024-08-28T05:04:49.685Z
-updated: 2024-08-29T05:04:49.685Z
+date: 2024-10-30T06:45:32.042Z
+updated: 2024-11-05T04:43:56.428Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -91,14 +98,18 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -121,20 +132,18 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
@@ -161,9 +170,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -173,12 +179,22 @@ If this didn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click on the **Browse**  button.  
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Locate your game’s exe file on your system.
 
@@ -186,9 +202,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -199,14 +212,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Still can’t fix your issues? No worries! There are other effective methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Turn off hardware acceleration
 
  By default, hardware acceleration is enabled in Chrome and Discord. This feature utilizes your computer’s GPU to tackle graphics-intensive tasks. But it can cause your computer’s battery to drain a lot faster. In order to get the best possible gaming experience, you should disable hardware acceleration, which may also give you a noticeable FPS boost.
 
  Here’s how to turn off hardware acceleration in Chrome and Discord:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### In Chrome
 
@@ -214,25 +231,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
@@ -257,9 +277,6 @@ Here’s how to do this:
   
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
@@ -268,16 +285,10 @@ Here’s how to do this:
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
 ---
@@ -290,8 +301,6 @@ Here’s how to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,4 +308,22 @@ Here’s how to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-6-fixes-for-dreamlight-valley-crashing-on-pc/"><u>[Fixed] 6 Fixes for Dreamlight Valley Crashing on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nderstanding-how-youtube-manages-post-upload-content/"><u>[New] Understanding How YouTube Manages Post-Upload Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-disconnect-on-snapchat-are-they-blocked-in-2024/"><u>[Updated] The Disconnect on Snapchat Are They Blocked, In 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728499333349-aomei/"><u>「AOMEI 微信恢復工具：真的能靠得住嗎？」</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-gameplay-smoothness-solutions-for-frame-rate-problems-in-naraka-bladepoint/"><u>Enhancing Gameplay Smoothness: Solutions for Frame Rate Problems in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-boost-chrome-performance-fast-and-easy/"><u>Expert Tips to Boost Chrome Performance Fast and Easy!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cloud-haven-discovering-the-quintessential-savers-for-your-files/"><u>In 2024, Cloud Haven Discovering the Quintessential Savers for Your Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-reviving-old-photos-through-snapchats-memories-feature/"><u>In 2024, Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-fixes-for-ps4-microphone-problems-a-comprehensive-guide/"><u>Master Fixes for PS4 Microphone Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-tips-ensuring-smooth-performance-of-bloodhunt-on-your-pc-setup/"><u>Master the Tips: Ensuring Smooth Performance of Bloodhunt on Your PC Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-addressing-and-correcting-the-jittery-playback-in-halo-infinite/"><u>Step-by-Step: Addressing and Correcting the Jittery Playback in Halo Infinite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-fearful-video-blogs-overcoming-each-challenge/"><u>Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997063341-why-cant-i-get-payday-2-running-on-my-computer-try-these-tips/"><u>Why Can't I Get Payday 2 Running on My Computer? Try These Tips!</u></a></li>
+</ul></div>
 

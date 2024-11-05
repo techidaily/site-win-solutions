@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Frame Drops & Stuttering in Forza Horizon 5 (Issues Addressed)
-date: 2024-08-28T05:05:07.514Z
-updated: 2024-08-29T05:05:07.514Z
+date: 2024-10-30T21:36:05.984Z
+updated: 2024-11-05T01:57:39.537Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 5. **[Disable all mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Fine tune in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install all Windows updates
 
 **The latest Windows updates** give you bug fixes and some boost of overall performance. Usually Windows updates automatically, but it’s best for you to make sure your system is up to date.
@@ -39,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -47,6 +62,13 @@ After installing all the updates, restart your PC and check the gameplay.
 
  If RDR2 still stutters on your latest system, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power plan to Ultimate performance
 
 **Power plan** is a setting that allows you to manage how your system consumes energy. In addition to the existing High performance power plan, Microsoft rolled out a hidden one named**Ultimate performance** a while ago. You can try this plan and see if things work out for you.
@@ -54,16 +76,10 @@ After installing all the updates, restart your PC and check the gameplay.
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
@@ -71,6 +87,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -88,18 +111,18 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and test the gameplay in RDR2 again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Enable HAGs
 
  HAGs is short for**hardware-accelerated GPU scheduling** . It’s a feature that comes with a recent Windows update designed to boost in-game FPS. There’re reports showing that HAGs might help with the FPS in RDR2, so you can try it and test the results.
@@ -109,13 +132,26 @@ Now you can start RDR2 and check if it stutters again.
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
@@ -129,12 +165,6 @@ If HAGs doesn’t work for you, you can try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 6: Fine tune in-game settings
 
  There’re reports showing frame-drops at certain scenes can be fixed by**changing game settings** . So after trying the fixes above to make the most of your hardware, you can also play with the in-game graphics settings to get the most FPS.
@@ -143,16 +173,18 @@ If HAGs doesn’t work for you, you can try the next method.
 2. Set**TAA** to**medium** . Turn off**FXAA** and**MSAA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-1.jpg)
 3. Set**Water Refraction Quality** and**Water Reflection Quality** to**High** or lower. (You can also try disabling TAA sharpening and open image sharpening in the NVIDIA control panel instead.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
-4. Also set**Reflection MSAA** to**X4** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
+4. Also set**Reflection MSAA** to**X4** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
+
 You can now test your gameplay and see if the game lags again.
 
  You can check out[this Reddit post](https://www.reddit.com/r/RDR2/comments/dsfy3g/settings%5Fthat%5Fdo%5Fand%5Fdont%5Faffect%5Ffps%5Fperformance/) for more advanced graphics tuning in RDR2.
@@ -169,8 +201,6 @@ You can now test your gameplay and see if the game lags again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +208,20 @@ You can now test your gameplay and see if the game lags again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tips-for-flv-file-fusion-on-youtube-for-2024/"><u>[Updated] Essential Tips for FLV File Fusion on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporate-soundtrack-elements-into-premiere-pro/"><u>[Updated] Incorporate Soundtrack Elements Into Premiere Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-thrifty-shoppers-best-bargains-in-cams-for-2024/"><u>[Updated] Thrifty Shopper's Best Bargains in Cams for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cs-go-troubleshooting-guide-fixing-user-cannot-login/"><u>CS: GO Troubleshooting Guide: Fixing 'User Cannot Login'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005707742-destiny-2-disconnect-woes-heres-how-to-re-establish-your-server-link-successfully/"><u>Destiny ^2 Disconnect Woes? Here's How to Re-Establish Your Server Link Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-overcoming-stuttering-issues-with-borderlands-ngameplay/"><u>Expert Advice on Overcoming Stuttering Issues with Borderlands nGameplay</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-15-pro-max-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 15 Pro Max Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/launching-troubleshooting-techniques-for-businesses-at-risk/"><u>Launching Troubleshooting Techniques for Businesses at Risk</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-2-optimization-guide-for-smooth-gameplay-and-stable-fps-on-windows-pcs/"><u>Modern Warfare 2 Optimization Guide for Smooth Gameplay and Stable FPS on Windows PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/redefining-collaboration-the-power-of-immersive-vr/"><u>Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-and-gpu-issues-on-windows-11-troubleshooting-steps-to-solve-them/"><u>Warzone and GPU Issues on Windows 11: Troubleshooting Steps to Solve Them</u></a></li>
+</ul></div>
 

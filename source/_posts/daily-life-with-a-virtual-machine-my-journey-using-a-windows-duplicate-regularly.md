@@ -1,7 +1,7 @@
 ---
 title: "Daily Life with a Virtual Machine: My Journey Using a Windows Duplicate Regularly"
-date: 2024-08-28T04:59:36.259Z
-updated: 2024-08-29T04:59:36.259Z
+date: 2024-11-04T08:03:16.180Z
+updated: 2024-11-05T06:00:14.185Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
  Linux can sort of run Windows apps but not without jumping through multiple hoops. Imagine an operating system that is designed from the ground up to run Windows apps natively. That’s the promise of ReactOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is ReactOS, and Why Should You Care
 
  Meet ReactOS. It’s a free and [open source](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) operating system developed from scratch to run Windows drivers and software. It’s not Linux. It’s not Unix. It’s actually a reverse-engineered Windows clone.
@@ -32,8 +39,12 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  ReactOS warns that the project isn’t ready to be a daily driver yet, and that I should only use it for testing and evaluation. _But_ I love retro computers, and I was determined not to let a few blue screens stand in the way (unfortunately, they did). Here’s the whole story.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Installing ReactOS
 
  I don’t recommend installing ReactOS on your main computer for two reasons: ReactOS needs very few resources and modern hardware is overkill for it. Second, it can be unstable and buggy. If you have an old laptop or PC lying around, it’s the best hardware to install ReactOS on. You can also run it inside a virtual machine.
@@ -42,9 +53,6 @@ Close
 
  Surprisingly, it took five minutes to install ReactOS (it was faster than some apps). I ran through an old-school installation screen, then an OS setup, and a failed driver installation. Two reboots later, I was on the ReactOS desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  First Impressions
 
  Windows 2000 and 98 were before my time, but I have used [Windows XP](https://remote-screen-capture.techidaily.com/updated-2024-approved-live-stream-audio-effective-recording-methods-for-the-digital-age/). ReactOS captures the look and feel. There’s a start menu, a taskbar, a notification tray, and default desktop icons that remind me of Windows XP (notice the “My Computer” shortcut in the corner). The context menu is a pixel-for-pixel recreation, complete with a “Refresh” button.
@@ -59,14 +67,15 @@ Close
 
 ![ReactOS task manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_13_40.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even though it doesn’t look much like the recent versions, Windows users will feel right at home with the ReactOS UI.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Can You Do On ReactOS
 
  Now let’s test how well it runs. This is where the rubber meets the road.
@@ -75,14 +84,18 @@ Close
 
 ![ReactOS application manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_09_11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I started by testing the app we all use the most: the web browser. ReactOS has a built-in version of [Internet Explorer](https://screen-video-capture.techidaily.com/2024-approved-free-video-capture-test-apowersoft-and-more/) called the WineInternetExplorer. It couldn’t load most websites because of security certificate errors.
 
  So I installed Mozilla Firefox and the installation went smoothly. Sadly, Mozilla has dropped support for old versions of Windows. So I could only get version 52.0 working. Google Chrome and Chromium (the open-source project powering Google Chrome and many other browsers) kept crashing the OS. I also found a bunch of obscure browsers in the ReactOS store. K-meleon browser, MyPal, NewMoon, and a few others.
 
 ![K-meleon running on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_50_18.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even though the older version of Firefox almost worked, it didn’t work with Google Docs (my primary document editor) or load YouTube (where I listen to music while editing said documents). Google Docs loaded but it was lagging horribly. I wouldn’t recommend using any of these outdated browsers because they’re riddled with security and privacy vulnerabilities.
 
@@ -98,9 +111,6 @@ Close
 
 ![Running Chicken Invaders on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_11_25.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  As much as I’d like it to be, ReactOS is not a real alternative to Windows (yet). The OS is still in the first stages of development, and it’ll be a long time before it can be a daily driver. I managed to get some work done on it and played a game or two, but the OS kept crashing on me. On top of that, I had to reinstall it a couple of times because it couldn’t recover from the crashes. That said, it’s a delight to test a project like this, especially if you love retro computing.
@@ -111,8 +121,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +128,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-advanced-mac-screen-plus-sound-capturer-extraordinaire/"><u>[New] 2024 Approved Advanced Mac Screen + Sound Capturer Extraordinaire</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-the-top-8-truly-efficient-advancement-services/"><u>[New] 2024 Approved Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>[New] 2024 Approved Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-dive-into-asmr-its-positive-effects-explored/"><u>[New] Dive Into ASMR Its Positive Effects Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-spectacular-10-royale-skirmishes/"><u>[Updated] 2024 Approved Spectacular 10 Royale Skirmishes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-strategies-to-shoot-a-flawless-green-screen-scene-for-2024/"><u>[Updated] Top Strategies to Shoot a Flawless Green Screen Scene for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[Updated] Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-cs-go-login-problems-with-these-5-effective-tips/"><u>Beat CS: GO Login Problems with These 5 Effective Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-fixing-persistent-minecraft-dungeon-pc-glitches/"><u>No More Interruptions: Fixing Persistent Minecraft Dungeon PC Glitches</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-navigation-fixing-logitech-f710-connectivity-issues-across-different-versions-of-windows/"><u>Seamless Navigation: Fixing Logitech F710 Connectivity Issues Across Different Versions of Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-to-prevent-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>Solutions to Prevent Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-house-flipper-2-stability-issues-ultimate-guide-for-windows-users/"><u>Solving House Flipper 2 Stability Issues: Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackle-discords-overwhelming-cpu-demand-with-this-2024-step-by-step-fix/"><u>Tackle Discord's Overwhelming CPU Demand with This 2024 Step-by-Step Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005668032-troubleshooting-tips-for-heart-of-iron-iv-crashes-now-solved/"><u>Troubleshooting Tips for Heart of Iron IV Crashes - Now Solved!</u></a></li>
+</ul></div>
 

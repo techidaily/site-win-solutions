@@ -1,7 +1,7 @@
 ---
 title: Discovering the Type and Architecture of Your Installed Microsoft Office Suite
-date: 2024-08-28T05:01:09.713Z
-updated: 2024-08-29T05:01:09.713Z
+date: 2024-11-01T22:35:31.527Z
+updated: 2024-11-05T06:18:55.521Z
 tags:
   - excel
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![01_clicking_file_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/01_clicking_file_tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the backstage screen, click “Account” in the list of items on the left.
 
 ![02_clicking_account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/02_clicking_account.png) 
@@ -41,9 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![04_about_word_window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/04_about_word_window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Windows: Office 2010
 
  If the ribbon in your version of Office has tabs with corners that are not quite so sharp, you are likely using Office 2010\. To find out more information about which version of Office 2010 you’re using, click the “File” tab.
@@ -51,38 +55,51 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![05_clicking_file_tab_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/05_clicking_file_tab_2010.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the File screen, click “Help” in the list of items on the left.
 
 ![06_clicking_help_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/06_clicking_help_2010.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the right side of the File screen, you’ll see which edition of Office you’re running. Under About Microsoft Word (or other Office program), the exact version and build number is listed, along with whether the program is 32-bit or 64-bit. For even more information, click “Additional Version and Copyright Information”.
 
 ![07_version_info_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/07_version_info_2010.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You’ll see a dialog box with additional information about the current version of the program and your Product ID towards the bottom. Click “OK” to close the dialog box.
 
 ![08_about_microsoft_word_dialog_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/08_about_microsoft_word_dialog_2010-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Mac: Office 2016 or 2011
 
  If you’re using Office for Mac, open one of the Office programs, such as Word, and click on the Word (or Excel, PowerPoint, etc.) menu. Select “About Word”.
 
 ![09_selecting_about_word_mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/09_selecting_about_word_mac.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  The About Word (or Excel, PowerPoint, etc.) dialog box displays, listing the current version number and the build number. If you see Version 15.x, you’re using Office for Mac 2016\. If you see Version 14.x, Office for Mac 2011 is what you’re using.
 
 ![10_about_word_dialog_mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/10_about_word_dialog_mac.png) 
@@ -95,8 +112,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +119,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] 2024 Approved Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-guide-to-uploading-immersive-photos-via-iosandroid-for-2024/"><u>[New] Step-by-Step Guide to Uploading Immersive Photos via iOS/Android for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-decoding-authenticity-in-your-digital-instagram-family-for-2024/"><u>[Updated] Decoding Authenticity in Your Digital Instagram Family for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-youtube-metrics-with-ease/"><u>2024 Approved Navigating YouTube Metrics with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-watch-showdown-ultra-or-series-n-finding-your-perfect-match-with-expert-insights/"><u>Apple Watch Showdown: Ultra or Series N - Finding Your Perfect Match with Expert Insights.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-details-expert-review-of-the-durable-kobo-libra-h2o/"><u>Dive Into the Details: Expert Review of the Durable Kobo Libra H2O</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-the-system-restore-feature-work-in-windows-11/"><u>How Does the System Restore Feature Work in Windows 11?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G24</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-windows-11s-system-level-driver-inspector/"><u>Starting Windows 11'S System-Level Driver Inspector</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-full-potential-of-evernote-with-these-secret-tools/"><u>Unlock the Full Potential of Evernote with These Secret Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-power-of-multiple-ai-conversational-agents-the-ultimate-application-for-your-computer/"><u>Unlock the Power of Multiple AI Conversational Agents: The Ultimate Application for Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-performance-a-step-by-step-guide-to-activating-gpu-acceleration-on-windows-11/"><u>Unlocking Performance: A Step-by-Step Guide to Activating GPU Acceleration on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-13-techniques-for-launching-the-windows-10-settings-panel-efficiently/"><u>Unveiling 13 Techniques for Launching the Windows 10 Settings Panel Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-the-lenovo-legion-pro-7i-a-comprehensive-unboxing-and-initial-review/"><u>Unveiling the Lenovo Legion Pro 7I: A Comprehensive Unboxing and Initial Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Among Us Load Errors? Here's What You Need to Know and Fix That Persistent Screenshot
-date: 2024-08-28T05:05:25.579Z
-updated: 2024-08-29T05:05:25.579Z
+date: 2024-11-03T07:42:44.385Z
+updated: 2024-11-05T05:06:21.618Z
 tags:
   - win11
   - win10
@@ -48,9 +48,23 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
@@ -91,9 +105,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
@@ -124,24 +135,31 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Turn off Origin In-Game Overlay
 
  Sometimes the in-game overlays can result in game crashing as it may cause software conflicts. To rule it out as the cause, you can turn off Origin In-Game Overlay and see it you can fix your issue.
@@ -152,9 +170,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -164,15 +179,16 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -185,16 +201,27 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -213,8 +240,12 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Save your changes.
 
 Re-launch Anthem and see how it works.
@@ -230,8 +261,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +268,22 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>[Updated] 2024 Approved Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-learn-to-purge-your-devices-youtube-content-easily/"><u>[Updated] In 2024, Learn to Purge Your Device's YouTube Content Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-black-ops-cold-war-fixing-pc-game-crashes/"><u>Call of Duty: Black Ops Cold War - Fixing PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cloud-file-hunting-with-copernic-a-comprehensive-guide/"><u>Cloud File Hunting with Copernic: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/coding-a-deity-command-into-system-menu/"><u>Coding a Deity Command Into System Menu</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-effortless-file-searches-on-windows-and-mac-unleash-copernics-power/"><u>Expert Guide to Effortless File Searches on Windows & Mac - Unleash Copernic's Power</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-invalid-inf-for-service-installation/"><u>Fixed Invalid INF for Service Installation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-persistent-dread-hunger-crash-issues-on-your-computer/"><u>Fixes for Persistent Dread Hunger Crash Issues on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplifying-your-snapchat-experience-3-essential-steps/"><u>In 2024, Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-geforce-rtx-2070-drivers-optimized-for-windows-10-8-and-7/"><u>Latest Version of Geforce RTX 2070 Drivers: Optimized for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-smoother-graphics-in-dying-light-by-fixing-low-fps/"><u>Mastering the Art of Smoother Graphics in Dying Light by Fixing Low FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/"><u>Mastering the Battle: Solutions to Tackle Xbox and PC's Error 0-1^66 in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-your-queries-with-brilliance-how-copernics-advanced-search-engine-elevates-information-access/"><u>Optimizing Your Queries with Brilliance: How Copernic's Advanced Search Engine Elevates Information Access</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transform-your-livestreams-explore-manycam-top-virtual-webcam-and-software-solutions-for-seamless-online-presentations/"><u>Transform Your Livestreams: Explore ManyCam - Top Virtual Webcam and Software Solutions for Seamless Online Presentations</u></a></li>
+</ul></div>
 

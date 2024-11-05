@@ -1,7 +1,7 @@
 ---
 title: Why Does Cyberpunk 2077 Ignore My Graphics Card in Windows
-date: 2024-08-28T05:03:57.812Z
-updated: 2024-08-29T05:03:57.812Z
+date: 2024-11-01T06:42:37.808Z
+updated: 2024-11-04T23:22:56.589Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
@@ -52,9 +60,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 
 If your issue continues to occur, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: End unnecessary programs
 
  If you’re running multiple programs at the same time while gaming, that could cause your PC to overload and make your game freeze.
@@ -64,17 +69,18 @@ If your issue continues to occur, you can move to the next fix.
 1. Right-click **your taskbar** and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45.jpg)
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix doesn’t help your case, simply take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify your game files
 
  This issue might happen when Cyberpunk 2077 files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -83,14 +89,18 @@ If your issue continues to occur, you can move to the next fix.
 2. Click **LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 3. Right-click **Cyberpunk 2077**  and select **Properties** .
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 4. Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** . This could take several minutes. Wait for the process to be complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Adjust your virtual memory
 
@@ -103,33 +113,45 @@ If your issue continues to occur, you can move to the next fix.
 1. On your keyboard, press the **Windows logo** key and type **advanced system settings.** Then click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 2. Click **Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  The problem may cause by the incorrect or not inproperly installed on the PC. Therefore, reinstalling the game is an option to fix the issue.  
@@ -152,18 +174,28 @@ You can follow these simple steps to do a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  (the r key) at the same time to invoke the Run box. Type or paste **msconfig**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
 
@@ -179,8 +211,6 @@ You can follow these simple steps to do a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +218,24 @@ You can follow these simple steps to do a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-content-takedown-what-are-your-rights-and-recourse/"><u>[New] 2024 Approved FB Content Takedown What Are Your Rights and Recourse?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prestigious-directory-free-visuals-hubs-galore-online/"><u>[Updated] 2024 Approved Prestigious Directory FREE Visuals Hubs Galore Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-13-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 13 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-updates-to-sonys-s6500-model/"><u>Exploring Updates to Sony's S6500 Model</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-blackwood-delay-problems-in-the-elder-scrolls-online-adventure/"><u>How to Eliminate Blackwood Delay Problems in The Elder Scrolls Online Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-darkened-interface-challenge-in-fortnite-on-windows-platform/"><u>How to Overcome the Darkened Interface Challenge in Fortnite on Windows Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/identifying-ideal-frame-rates-in-slow-mo-vids/"><u>Identifying Ideal Frame Rates in Slow-Mo Vids</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-guide-to-restore-your-keyboard-functionality-on-pathfinder-wrath-of-the-righteous-game/"><u>In-Depth Guide to Restore Your Keyboard Functionality on Pathfinder: Wrath of the Righteous Game</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-mac-screenshots-five-efficient-ways-for-2024/"><u>Mastering Mac Screenshots Five Efficient Ways for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-fixes-implemented-for-mlb-the-show-2021-network-glitch/"><u>Resolved: Fixes Implemented for MLB The Show 2021 Network Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010027491-smooth-as-silk-eliminating-lag-in-your-guilty-gear-strive-matches/"><u>Smooth as Silk: Eliminating Lag in Your Guilty Gear -Strive- Matches!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-annoying-screen-fluttering-expert-fixes-for-warzone-players/"><u>Stop the Annoying Screen Fluttering - Expert Fixes for Warzone Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-with-non-functional-msi-radeon-software-suite/"><u>Troubleshooting Steps: Resolving Issues with Non-Functional MSI Radeon Software Suite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-guide-for-overcoming-rainbow-six-siege-error-3-0x0001000b/"><u>Ultimate Fix Guide for Overcoming Rainbow Six Siege Error 3-0X0001000B</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminating-pc-game-lags-top-strategies/"><u>Ultimate Guide: Eliminating PC Game Lags – Top Strategies</u></a></li>
+</ul></div>
 

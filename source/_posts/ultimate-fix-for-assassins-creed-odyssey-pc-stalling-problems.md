@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Assassin's Creed Odyssey PC Stalling Problems
-date: 2024-08-28T05:02:30.418Z
-updated: 2024-08-29T05:02:30.418Z
+date: 2024-11-02T06:53:26.347Z
+updated: 2024-11-04T19:06:09.509Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
@@ -62,20 +69,31 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -86,15 +104,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -103,16 +122,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -123,10 +142,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -146,9 +169,6 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
@@ -157,9 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is Assassin’s Creed Odyssey crashing?
 
  Usually, your game crashes on your computer due to a hardware issue, for example, your PC hardware doesn’t meet the minimum system requirements. So be sure your computer meets the system requirements to play Assassin’s Creed Odyssey.
@@ -178,8 +195,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +202,16 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>[New] From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-resolve-swtor-game-launch-failures/"><u>Fixes & Solutions: How to Resolve SWTOR Game Launch Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-freezing-and-hitches-enhancing-your-age-of-empires-4-experience/"><u>Fixing Freezing and Hitches: Enhancing Your Age of Empires 4 Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-meizu-21-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Meizu 21 Pro Unlock Without Password</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenmaster-review-the-latest-in-tech-capture/"><u>In 2024, ScreenMaster Review The Latest in Tech Capture</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solution-prevent-diablo-immortal-from-freezing-and-crashing-on-your-computer/"><u>Master the Solution: Prevent Diablo Immortal From Freezing & Crashing on Your Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-airplay-technology-a-beginners-guide/"><u>Understanding AirPlay Technology: A Beginner's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-troubleshoot-steams-corrupt-disk-error-smoothly-naturally/"><u>Unlock the Secrets: Troubleshoot Steam's Corrupt Disk Error Smoothly, Naturally</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/wirecast-techniques-for-captivating-facebook-viewers/"><u>Wirecast Techniques for Captivating Facebook Viewers</u></a></li>
+</ul></div>
 

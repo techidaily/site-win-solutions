@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Evernote with These Secret Tools
-date: 2024-08-28T05:00:21.249Z
-updated: 2024-08-29T05:00:21.249Z
+date: 2024-10-30T00:25:05.062Z
+updated: 2024-11-05T05:53:08.887Z
 tags:
   - windows
 categories:
@@ -37,16 +37,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Using the AI Edits Assistant in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-using-the-ai-edits-assistant-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The feature works differently on Evernote's smartphone app. Unlike the desktop app and the web client that allows refining individual sections and paragraphs, it refines your entire document at once. Additionally, it doesn't work on documents with fewer than 100 words or more than 6,000 words.
 
 ![Using AI assistance in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1-using-ai-assistance-in-the-evernote-smartphone-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Record and Store Your Notes as Voice Memos
 
  Evernote's voice memos feature lets you [record audio notes](https://screen-sharing-recording.techidaily.com/new-tranquility-trove-pcs-best-bets/) directly within the app, making it convenient to quickly capture conversations or ideas without typing. You can later transcribe these recordings into text, making them editable and searchable. Additionally, you can tag and sync them across devices for easy access.
@@ -55,20 +56,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recording an audio and transcribing it in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3-recording-an-audio-and-transcribing-it-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the desktop app, click the “Insert” menu at the top, then choose "Audio Recording." Allow the app to use your microphone, record your voice memo, and click the red stop icon when done.
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Set Reminders to Keep Track of Deadlines
 
  If you often struggle to submit assignments on time or keep track of deadlines, use Evernote's reminder feature.
@@ -79,13 +88,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a reminder for a task in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-adding-a-reminder-for-a-task-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On a smartphone, tap the three horizontal dots in the top-right corner, select "Add Reminder," set the time and date, and tap "Save."
 
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Tags to Find Your Content Quickly
 
  If you struggle to find files in a cluttered library of notes, you should start tagging them for easier retrieval. For example, tag all notes for chapters of a subject, like "Physics Chapter 3." This way, you'll be able to quickly find your related notes. Tags also help organize files more effectively, eliminating the need for numerous folders.
@@ -94,9 +114,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating a tag in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-tag-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Save Frequently Used Notes as Shortcuts
 
  Another often overlooked—yet useful—Evernote feature is adding notes to Shortcuts. This lets you add frequently used notes in the quick-access panel on the right, keeping essential notes within easy reach. By eliminating the need to search for files constantly, this feature can boost your productivity.
@@ -106,13 +123,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding a task to Shortcuts in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-adding-a-task-to-shortcuts-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Manage Tasks Efficiently With To-Do Lists
 
  While Evernote's task management feature is primarily designed for managing project tasks by setting deadlines, reminders, and assigning tasks to team members, you can also use it to create effective to-do lists. You can set deadlines to allocate time for each task and use reminders to ensure timely completion, replacing the need for separate [to-do list apps](https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-go-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/).
@@ -122,8 +140,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a to-do list in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-creating-a-to-do-list-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Remember to delete your daily to-do list at the end of the day to keep your task management organized within the app.
 
 ##  Review Changes Over Time With Note History
@@ -144,8 +166,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +173,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unbelievable-examination-and-replacement-ideas/"><u>[New] Unbelievable Examination & Replacement Ideas</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-look-at-lg-bp350-display-specifications/"><u>[Updated] Comprehensive Look at LG BP350 Display Specifications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-income-a-complete-guide-to-youtube-ad-profits/"><u>[Updated] In 2024, Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-creative-potential-with-premium-effects-extensions/"><u>[Updated] In 2024, Unlock Creative Potential with Premium Effects Extensions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-experience-overcoming-loops-errors-in-games-on-modern-pc-operating-systems/"><u>Crash-Free Gaming Experience: Overcoming Loops Errors in Games on Modern PC Operating Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/critical-considerations-before-investing-in-a-wearable-exerceband-device/"><u>Critical Considerations Before Investing in a Wearable Exerceband Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-steps-to-eliminate-directx-glitches-for-an-uninterrupted-fifa-19-gaming-experience/"><u>Easy Steps to Eliminate DirectX Glitches for an Uninterrupted FIFA 19 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-fix-crashing-episodes-while-playing-fallout-4-on-personal-computers/"><u>Effective Solutions to Fix Crashing Episodes While Playing Fallout 4 on Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-access-showdown-psplus-vs-xbox-game-pass/"><u>Exclusive Access Showdown: PS+ Vs. Xbox Game Pass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-reducing-latency-issues-for-a-smoother-cyberpunk-2077-gameplay/"><u>Expert Advice on Reducing Latency Issues for a Smoother Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-keyboard-mismatches-with-windows-10s-elan/"><u>Fixing Keyboard Mismatches with Windows 10'S Elan</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c22-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C22</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-slumber-with-these-top-5-apple-watch-sleep-tools/"><u>Master Your Slumber with These Top 5 Apple Watch Sleep Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-ps4s-video-capture-expert-advice-on-camera-placement/"><u>Mastering Your PS4's Video Capture: Expert Advice on Camera Placement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-gameplay-troubleshooting-lag-in-dragons-dogma/"><u>Optimize Your Gameplay: Troubleshooting Lag in Dragon's Dogma</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-discord-delays-comprehensive-fixes-and-tips/"><u>Overcome Discord Delays : Comprehensive Fixes and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999463495-smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/test-of-minds-can-computers-surpass-human-intuition/"><u>Test of Minds: Can Computers Surpass Human Intuition?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-black-screen-error-in-rainbow-six-siege-for-your-pc-expert-tips/"><u>Troubleshooting the Black Screen Error in Rainbow Six Siege for Your PC – Expert Tips</u></a></li>
+</ul></div>
 

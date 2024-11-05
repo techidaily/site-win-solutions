@@ -1,7 +1,7 @@
 ---
 title: "Mastering Garry's Mod Performance: Ultimate Tips for a Smooth Playback This Year"
-date: 2024-08-28T05:02:50.527Z
-updated: 2024-08-29T05:02:50.527Z
+date: 2024-11-04T07:51:03.244Z
+updated: 2024-11-05T08:31:34.092Z
 tags:
   - win11
   - win10
@@ -56,9 +56,23 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
@@ -87,15 +101,23 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4:**Disable fullscreen optimization**
 
  If you’re on Windows 10, disabling fullscreen optimizations might be able to fix_Hearts of Iron IV_ crashing issue. Here is how to do it:
@@ -106,18 +128,12 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 5: **Update your graphics driver**
 
 _Hearts of Irons IV_ crashing issues might occur if you’re using a faulty graphics driver, or it’s outdated. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -158,8 +174,12 @@ There are two ways you can get the right graphics driver:
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  If the crashing issues persist, it’s probable that_Hearts of Irons IV_  is not properly installed on your PC – say, certain game files are missing or damaged.
@@ -172,9 +192,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
@@ -193,23 +210,14 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
@@ -228,13 +236,17 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall your game and/or Steam
 
  If none of the fixes above worked for you, reinstalling your game and/or Steam is very likely the solution to your problem. Here is how to do it:
@@ -251,22 +263,20 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Relaunch Steam to download and reinstall _Hearts of Iron IV_ .
 
 Relaunch your game to test your issue.
@@ -284,8 +294,12 @@ Relaunch your game to test your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
@@ -304,9 +318,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
@@ -327,8 +338,6 @@ Relaunch your game to test your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -336,4 +345,24 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-10-cost-free-multi-os-video-player-releases/"><u>[New] In 2024, 10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>[Updated] 2024 Approved Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>2024 Approved Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crashes-tips-for-running-modern-warfare-seamlessly-on-windows-machines/"><u>Banish Lag & Crashes - Tips for Running 'Modern Warfare' Seamlessly on Windows Machines</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/dungeon-dynamics-the-leading-10-rogue-experiences/"><u>Dungeon Dynamics The Leading 10 Rogue Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/five-steps-to-wipe-ms-defender-history-on-windows-systems/"><u>Five Steps to Wipe MS Defender History on Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stabilize-dota-a-users-manual-to-address-game-malfunctions/"><u>How to Stabilize Dota 지금: A User's Manual to Address Game Malfunctions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-prevent-and-repair-your-ring-of-elysium-crashes/"><u>Mastering Stability: How to Prevent and Repair Your Ring of Elysium Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-common-palworld-eos-authentication-problem-a-guide-to-6-fixes/"><u>Overcome the Common Palworld EOS Authentication Problem – A Guide to 6 Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-audio-solutions-a-step-by-step-guide-to-restoring-your-computers-sound-capabilities/"><u>PC Audio Solutions: A Step-by-Step Guide to Restoring Your Computer’s Sound Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-steams-error-code-130-with-these-proven-solutions/"><u>Resolve Steam's Error Code 130 with These Proven Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-ultimate-guide-to-fixing-modern-warfare-amoorance-pc-game-crashes/"><u>Seamless Gaming: Ultimate Guide to Fixing 'Modern Warfare Amoorance' PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998586166-solving-rainbow-six-siege-error-code-3-0x0001000b-a-step-by-step-guide/"><u>Solving Rainbow Six Siege Error Code 3-0X0001000B: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-and-comparisons-zdnets-findings/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews & Comparisons - ZDNet's Findings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-problems-with-epic-games-launcher-that-wont-start/"><u>Troubleshooting & Resolving Problems with Epic Games Launcher That Won't Start</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-netflix-titles-dont-stream-properly/"><u>Troubleshooting Tips for When Netflix Titles Don't Stream Properly</u></a></li>
+</ul></div>
 

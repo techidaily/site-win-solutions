@@ -1,7 +1,7 @@
 ---
 title: "Unlock Cross-Platform Gaming: The Essential App for Playing Win32 Titles on macOS"
-date: 2024-08-28T04:59:25.839Z
-updated: 2024-08-29T04:59:25.839Z
+date: 2024-11-01T18:01:34.919Z
+updated: 2024-11-04T17:40:00.779Z
 tags:
   - windows
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  Whisky has a terminal-free setup, a speedy and accessible interface, and the ability to create emulation profiles and presets. We’ll show you how to install Whisky and how to best use it to emulate Windows games.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  How to Install Whisky
 
  To install Whisky, you must have an Apple Silicon chip (M1, M2, or M3) and macOS Sonoma (version 14.0 or later).
@@ -41,26 +38,48 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 ![The Whisky website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-05-at-6-00-26-am.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Downloading directly through the website didn't put Whisky on my Mac's application list, so I recommend pinning it to your Dock for easy access.
 
  Or, if you have package manager Homebrew, you can grab it directly through Terminal using this command: **brew install --cask whisky** 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Create a Bottle in Whisky
 
  Once installed, open Whisky and it will ask you to create your first bottle. Bottles are a feature that differentiate Whisky from other Windows emulators. They are contained profiles which you can attach a game or application to and then configure individually—beneficial when presets and settings work well for one game, but not for another.
 
 ![The home screen of Whisky with no bottles created.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To begin, click "Create Bottle." Give the bottle a name, select the version of Windows, and the file path where you want the bottle stored.
 
 ![Creating a new bottle in Whisky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Configure a Bottle in Whisky
 
  Once you have created your bottle, select it from the left-hand list. This lets you assign a program to it, and to manage settings specific to this bottle.
@@ -73,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 ![Pinning a program in Whisky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There's also a "Bottle Configuration" option if you wish to run the program under specific conditions, but I recommend using the default settings until you encounter issues that need addressing.
 
  Once you are ready to run your application or game, press "Run." It will likely go through the first-time setup wizard, as it normally would on a Windows machine. At this point, your game is now running through Whisky.
@@ -89,13 +105,14 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 ![The Enhanced Sync settings under the 'Bottle Configuration' menu within Whisky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For any other issues, browse [Whisky's startup guide](https://docs.getwhisky.app/guide.html).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  My Experience Playing Games With Whisky
 
  To test that my games were emulating correctly and to get some benchmarks on performance, I used three games: _Persona 3 Reload_, _Bomb Rush Cyberfunk_, and _Hi-Fi Rush_. These are mid-range games that aren’t particularly graphically intensive. I performed these tests on a 2020 M1 MacBook Air; models with M2 and M3 chips will likely see more impressive performance.
@@ -116,8 +133,6 @@ _Bomb Rush Cyberfunk_ and _Hi-Fi Rush_ ran excellently, with both hitting a cons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +140,20 @@ _Bomb Rush Cyberfunk_ and _Hi-Fi Rush_ ran excellently, with both hitting a cons
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-merging-melodies-and-memories-online/"><u>[New] Merging Melodies and Memories Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-essential-subscription-why-retro-gamers-cant-miss-playstation-plus-premium/"><u>1. Essential Subscription: Why Retro Gamers Can't Miss PlayStation Plus Premium</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-supreme-choices-for-inexpensive-film-assets/"><u>2024 Approved Supreme Choices for Inexpensive Film Assets</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-razer-naga-mouse-drivers-installed-in-your-windows-system/"><u>Get the Newest Razer Naga Mouse Drivers Installed in Your Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-endless-load-screen-in-among-us-and-enjoy-seamless-gameplay/"><u>How to Fix the Endless Load Screen in Among Us and Enjoy Seamless Gameplay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-comparing-content-formats-podcasts-versus-youtube/"><u>In 2024, Comparing Content Formats Podcasts Versus YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia Phone?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-repeated-shutdowns-master-guide-to-fix-elex-ii-stability-issues/"><u>Resolving Repeated Shutdowns: Master Guide to Fix Elex II Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-prevent-and-fix-armored-core-6-fires-of-rubicon-pc-gaming-problems/"><u>Step-by-Step Solutions: Prevent and Fix Armored Core 6 Fires of Rubicon PC Gaming Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-guide-for-when-your-outlook-cant-connect-to-the-internet/"><u>The Ultimate Fix Guide for When Your Outlook Can’t Connect to the Internet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Review: Expert Insights on Hardware & Gadgets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/train-collisions-decoded-insights-after-the-barrier-breach/"><u>Train Collisions Decoded: Insights After the Barrier Breach</u></a></li>
+</ul></div>
 

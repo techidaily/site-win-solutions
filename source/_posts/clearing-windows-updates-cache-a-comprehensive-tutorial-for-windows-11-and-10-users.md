@@ -1,7 +1,7 @@
 ---
 title: "Clearing Windows Updates Cache: A Comprehensive Tutorial for WINDOWS 11 & 10 Users"
-date: 2024-08-28T04:58:49.736Z
-updated: 2024-08-29T04:58:49.736Z
+date: 2024-10-31T02:31:30.085Z
+updated: 2024-11-04T16:19:44.279Z
 tags:
   - windows
 categories:
@@ -27,8 +27,18 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  Both Windows 11 and Windows 10 make it super easy to clear your Windows Update cache. You can use a graphical method or a command line option to delete the saved update files. We’ll show you your available options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Should You Clear Your Windows Update Cache?
 
  There are many reasons you might want to clear your Windows Update cache.
@@ -38,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Clear Windows Update Cache Using File Explorer
 
  An easy graphical way to delete the update cache is to use File Explorer. This method deletes all the update cache files.
@@ -60,20 +74,20 @@ C:\Windows\SoftwareDistribution\
 
 ![The trash can icon highlighted for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-delete-windows-update-cache-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Close File Explorer and [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/).
 
  Then, return to the "Services" window, right-click "Windows Update," and choose "Start."
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This ensures your PC can continue to look for the latest updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Disk Cleanup
 
@@ -83,9 +97,6 @@ C:\Windows\SoftwareDistribution\
 
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Select your Windows installation drive and choose "OK."
 
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
@@ -100,28 +111,15 @@ C:\Windows\SoftwareDistribution\
 
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  The tool will begin cleaning up the update cache files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Clear Windows Update Cache Using Command Prompt
 
  If you prefer command line methods over graphical ones, use a few commands in Command Prompt (or PowerShell) to remove the update cache.
@@ -140,8 +138,12 @@ net stop bits`
 ![Commands to stop certain Windows services typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-stop-services.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next up, run the following command to make the Windows Update cache folder the current working directory.
 
 cd %windir%\SoftwareDistribution
@@ -151,6 +153,13 @@ cd %windir%\SoftwareDistribution
 del /f /s /q *.*
 
 ![Commands to clear the Windows Update cache typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-clear-update-cache-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After clearing the cache, restart the services you stopped above. Do that by typing the following commands and pressing Enter after each line.
 
@@ -192,8 +201,6 @@ net start bits`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +208,20 @@ net start bits`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-polar-performances-ultimate-beijing-olympics-scoop/"><u>[New] Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clubbing-essentials-top-rated-dj-template-vids/"><u>Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-solutions-for-unfreezing-google-chrome-on-your-windows-11-pc/"><u>Easy Solutions for Unfreezing Google Chrome on Your Windows 11 PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-spark-10-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Spark 10 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-sound-blaster-z-fresh-drivers-for-windows-11/"><u>Getting Started with Sound Blaster Z: Fresh Drivers for Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-c51-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco C51 Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-with-joy-switch-keyboardmouse-integration-87-chars/"><u>Navigating with Joy: Switch Keyboard/Mouse Integration (87 Chars)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-gta-nv-performance-solutions-to-eliminate-frame-drops/"><u>Optimizing GTA nV Performance: Solutions to Eliminate Frame Drops</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969892019-quick-guide-installing-your-latest-wireless-network-card-drivers-download-now/"><u>Quick Guide: Installing Your Latest Wireless Network Card Drivers - Download Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-cult-of-the-lamb-freezing-issues-a-guide-for-pc-users/"><u>Resolving Cult of the Lamb Freezing Issues: A Guide for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-unfreeze-fallout-4-and-enjoy-seamless-gaming-experience/"><u>The Ultimate Guide to Unfreeze Fallout 4 and Enjoy Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolve-red-dead-redemption-2s-errgfxstate-for-smoother-gameplay/"><u>Troubleshooting Guide: Resolve Red Dead Redemption 2'S ERR_GFX_STATE for Smoother Gameplay</u></a></li>
+</ul></div>
 

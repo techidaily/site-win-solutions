@@ -1,7 +1,7 @@
 ---
 title: Banish Your LoL Game Crashes with These Easy and Fast Remedies
-date: 2024-08-28T05:04:04.684Z
-updated: 2024-08-29T05:04:04.684Z
+date: 2024-11-01T00:45:57.033Z
+updated: 2024-11-05T01:20:45.959Z
 tags:
   - win11
   - win10
@@ -80,12 +80,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it doesn’t work for you, move to the next fix.
@@ -101,8 +106,12 @@ If it doesn’t work for you, move to the next fix.
  Also, low-end computers crash without mods. It’s recommended to have more than 4 GB of ram for gaming on any game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4\. Verify game files
 
  It may sound like an old cliché, but most problems can be solved by verifying Steam files.
@@ -115,25 +124,36 @@ If it doesn’t work for you, move to the next fix.
 4. Wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also disable Steam overlay in Left 4 Dead 2.
 
 1. Run Steam client and head to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
+
 If it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Disable add-ons
 
@@ -151,6 +171,13 @@ To check if your add-ons are the fault, here the following things to do:
 8. Add an add-on from the new folder to your original one by one.
 9. Find the exact add-on that causes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -162,9 +189,6 @@ To check if your add-ons are the fault, here the following things to do:
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,8 +200,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +207,21 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-an-intro-to-macs-5-leading-snipping-software-choices/"><u>[New] In 2024, An Intro to Mac's 5 Leading Snipping Software Choices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-restart-your-internet-explorer-after-it-freezes-or-fails/"><u>Comprehensive Guide to Restart Your Internet Explorer After It Freezes or Fails</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-stabilizing-assassins-creed-syndicate-fixes-and-optimizations/"><u>Comprehensive Guide to Stabilizing Assassin's Creed Syndicate: Fixes & Optimizations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-a1x-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo A1x 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11 Pro Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-logiciels-libres-preferences-pour-la-conception-graphique-de-logos-les-8-incontournables/"><u>Les Logiciels Libres Preferences Pour La Conception Graphique De Logos : Les 8 Incontournables</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubled-waters-in-rainbow-six-siege-for-a-smooth-startup/"><u>Mastering Troubled Waters in Rainbow Six Siege for a Smooth Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-aspect-ratio-on-windows-monitors/"><u>Modify Aspect Ratio on Windows Monitors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/preparation/"><u>Preparation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-yakuza-6-for-pc-instability-top-solutions-discovered/"><u>Resolving Yakuza 6 for PC Instability: Top Solutions Discovered!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-steps-for-preventing-fifa-20-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting Steps for Preventing FIFA 20 From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-sound-quality-today-free-downloads-of-audigy-fx-driver-software/"><u>Upgrade Your Sound Quality Today – Free Downloads of Audigy FX Driver Software</u></a></li>
+</ul></div>
 

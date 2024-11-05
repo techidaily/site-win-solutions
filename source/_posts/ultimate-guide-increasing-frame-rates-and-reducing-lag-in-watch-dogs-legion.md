@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Increasing Frame Rates & Reducing Lag in Watch Dogs: Legion"
-date: 2024-08-28T05:03:34.127Z
-updated: 2024-08-29T05:03:34.127Z
+date: 2024-10-30T09:21:23.980Z
+updated: 2024-11-05T00:56:38.102Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this doesn’t fix the stuttering issue, take a look at the next method.
 
 ### Fix 2: Update your graphics driver
@@ -51,24 +58,28 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and start a game in The Ascent.
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3: Make sure Windows is up to date
 
  Every once in a while, Microsoft releases Windows updates that fix bugs and offer performance boosts. To ensure the best gaming experience, besides drivers you also need to**keep your system up to date** .
@@ -76,11 +87,14 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
@@ -96,11 +110,22 @@ If you don’t know how to switch, follow these steps:
 2. In the pop-up window, scroll down until you see**LAUNCH OPTIONS** . Click the input area and type**\-dx11** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Control Flow Guard
 
@@ -109,19 +134,20 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
 
@@ -135,8 +161,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +168,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>[New] 2024 Approved Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-imovie-clip-integration-into-youtubes-vast-network/"><u>[New] IMovie Clip Integration Into YouTube's Vast Network</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>[New] In 2024, The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-protect-privacy-with-fast-facial-masking-on-piscart/"><u>[Updated] 2024 Approved Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-realistic-photo-motions-in-illustrator/"><u>[Updated] Techniques for Realistic Photo Motions in Illustrator</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dive-deep-into-powerdirector-comprehensive-guide-2024/"><u>Dive Deep Into PowerDirector Comprehensive Guide - 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-keyboard-driver-for-windows-7-easily-and-quickly/"><u>Download Keyboard Driver for Windows 7 – Easily & Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-correcting-error-0xc19001e1-on-windows-11-devices/"><u>Effective Strategies for Correcting Error 0XC19001E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-googles-latest-venture-unveiling-the-mysteries-of-artific/"><u>Exploring Google's Latest Venture: Unveiling the Mysteries of Artific</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992563477-far-cry-n6-pc-launch-problems-now-fixed/"><u>Far Cry N6 PC Launch Problems - Now Fixed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990823333-overcoming-the-release-hurdles-immortals-fenyx-rising-is-finally-out/"><u>Overcoming the Release Hurdles: Immortals' Fenyx Rising Is Finally Out</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-grounded-game-crashes-on-pc-with-our-latest-2024-fixing-tips/"><u>Solve Your 'Grounded' Game Crashes on PC with Our Latest 2024 Fixing Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Performance: In-Depth Look at Lenovo's Yoga Slim 7X and the State of Windows on ARM with Qualcomm Snapdragon"
-date: 2024-08-28T04:59:42.210Z
-updated: 2024-08-29T04:59:42.210Z
+date: 2024-10-31T07:55:51.602Z
+updated: 2024-11-04T21:08:19.987Z
 tags:
   - windows
 categories:
@@ -38,6 +38,13 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 * No Thunderbolt support
 
 [$1199 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fyoga%2Fyoga-slim-series%2Fyoga-slim-7x-gen-9-%2814-inch-snapdragon%29%2Flen101y0049) [$1199.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -114,8 +121,12 @@ Expand
 ![The keyboard on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-keyboard-on-the-lenovo-yoga-slim-7x-2_53815829123_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Lenovo’s keyboards are generally high quality, and I don’t have any big complaints about the keyboard on the Yoga Slim 7x. There’s a dedicated function row with shortcuts for brightness, volume, microphone access, locking the screen, and even opening the calculator. The keys are all backlit, and you can toggle the key brightness by holding down the function key while pressing the space bar. The trackpad below the keyboard is spacious, too.
@@ -126,10 +137,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-ports-on-the-left-side-of-the-lenovo-yoga-slim-7x_53815828838_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Yoga Slim 7x has three USB Type-C ports, all of which support USB4 Gen 3, USB Power Delivery (USB-PD) 3.1, and DisplayPort 1.4\. Those are the only physical ports on this computer. You don’t get a headphone jack, an SD card reader, USB Type-A ports, or anything else. It’s great that all three ports work the same, so you can use any of them for power input or a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), but I wish there were better built-in options for connectivity. There’s also no support for Thunderbolt, so some types of external drives, monitors, and hubs won’t work.
@@ -138,9 +145,6 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -148,6 +152,13 @@ Jerome Thomas / How-To Geek
  Lenovo includes the ‘X-Rite Color Assistant’ application, accessible from the taskbar status icons, which allows you to switch between different color profiles. I’m not a graphic designer, so I just stuck to the default color settings.
 
 ![The start menu on the Lenovo Yoga Slim 7x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-start-menu-on-the-lenovo-yoga-slim-7x_53815828798_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -164,8 +175,12 @@ Jerome Thomas / How-To Geek
 ![Windows 11 screenshot with Task Manager and Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When the Prism emulator works, you don’t notice it at all, though the software might run a bit slower than it would on a comparable Intel or AMD-powered computer. This is also similar to how the [Rosetta 2 emulation layer](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/) works on Mac computers with ARM-based Apple Silicon chips.
 
  Some of the applications I use every day already have ARM-native versions, including Firefox, Slack, Outlook, and Spotify. Discord doesn’t have an ARM version yet, so it runs as an emulated x86 application, and performance randomly slowed down about two weeks into my review period. I tried a few games, with mixed results: "Civilization VI" worked well, but "Overwatch" had frequent stuttering that seemed to happen regardless of the graphical quality setting. Some games don’t open at all, and most games from the Microsoft Store or Xbox app can’t be installed. Microsoft is [working to improve game performance](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/) in x86 emulation, but the inconsistent compatibility is something to keep in mind with the Yoga Slim 7x and other ARM-based Windows computers.
@@ -178,9 +193,6 @@ Jerome Thomas / How-To Geek
 
  Finally, it’s worth noting that Windows 11 is currently the only operating system for these Snapdragon X laptops. If you want to give desktop Linux a serious try, buy a different laptop with an x86 Intel or AMD CPU (or better yet, [a laptop designed specifically for Linux](https://win-howtos.techidaily.com/ensure-file-placement-consistency-across-windows-10-boots/)).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Performance: Great, If Your Apps Work
 
  This is one of the first PC laptops with a Snapdragon X Elite chipset, and thankfully, it doesn’t disappoint. I spent most of my workday switching between Firefox, Slack, Discord, and Outlook, usually with music playing from Spotify or YouTube, and the laptop remained snappy and responsive the whole time. I tested the 16GB RAM model, but there’s also a 32GB RAM configuration—the memory is not user-upgradable.
@@ -195,6 +207,13 @@ Jerome Thomas / How-To Geek
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life: All Day on a Charge
 
  Windows laptops have historically struggled to maintain great battery life, thanks to the [broken Modern Standby in many newer laptops](https://www.spacebar.news/windows-pc-sleep-broken/), the inefficient architecture of x86-based processors, and other factors. Improved battery life was one of the promised advantages of the Snapdragon chip in the Yoga Slim 7x, and thankfully, that turns out to be true.
@@ -203,18 +222,12 @@ Jerome Thomas / How-To Geek
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Competition: It's Tough
 
  The Yoga Slim 7x’s starting price around $1,200 in the United States is pretty typical for a Windows ultrabook. It’s competing directly with the [2024 Dell XPS 13 and 14](https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/), both of which cost more than the Yoga ($1,399 and $1,699, respectively), as well as laptops like the [new Surface Laptop](https://android-unlock.techidaily.com/how-to-change-samsung-lock-screen-clock-in-seconds-by-drfone-android/) and [Samsung’s Galaxy Book lineup](https://discord-videos.techidaily.com/2024-approved-mastery-in-making-stunning-discord-pfps-with-minimal-effort/). The Yoga’s AMOLED screen might be hard to beat in this price segment, but the rest of the hardware is pretty standard, outside of the unique Snapdragon X chip.
 
  It’s also worth keeping in mind that the [13-inch M2 MacBook Air](https://www.apple.com/macbook-air/) starts at $1,099\. The hardware is a poor match on paper, with only 8GB of unified memory and 256GB storage in the base configuration, but that hardware generally goes further on macOS than Windows. Apple’s modern M2 and M3 chips have similar power efficiency and battery life as the Snapdragon chip in the Yoga 7x, but software compatibility is far less of a gamble—as long as it’s available on macOS, anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Yoga Slim 7x?
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
@@ -228,6 +241,19 @@ Jerome Thomas / How-To Geek
  If you want a Windows laptop, and you primarily work in a web browser and basic productivity software, the Yoga Slim 7x is _probably_ a good laptop. There are too many edge cases where it falls flat, though, and you shouldn't pay this much money to be beta testers for Microsoft and Qualcomm. If you know the software you need works on ARM Windows, or the situation dramatically improves with Windows updates, consider picking it up on sale.
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo Yoga Slim 7x
 
@@ -243,8 +269,6 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +276,24 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-silence-to-symphony-adding-music-and-voices-in-reels/"><u>[New] 2024 Approved From Silence to Symphony Adding Music & Voices in Reels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-time-reverse-footage-on-your-phone/"><u>[New] In 2024, Time-Reverse Footage on Your Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-playlist-creation-on-youtube-easily/"><u>[New] Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-mini-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 mini in Lost Mode</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-restoring-functionality-of-the-windows-spotlight-slide-show-in-windows-11/"><u>Expert Tips: Restoring Functionality of the Windows Spotlight Slide Show in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-gameplay-stop-age-of-empires-iv-from-freezing/"><u>Fix Your Gameplay: Stop Age of Empires IV From Freezing!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/"><u>Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012051804-how-to-solve-platinum-dust-stutter-issues-the-ultimate-fixes-guide/"><u>How To Solve 'Platinum: Dust' Stutter Issues - The Ultimate Fixes Guide!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-spark-go-2024-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Spark Go (2024) Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-turnaround-overcoming-critical-startup-hurdles-this-year/"><u>Master the Art of Turnaround: Overcoming Critical Startup Hurdles This Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996000032-overcoming-windows-10-launch-error-for-civilization-vi-solutions-inside/"><u>Overcoming Windows 10 Launch Error for Civilization VI - Solutions Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12plus-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-stop-stardew-valley-from-freezing-or-crashing-pc/"><u>Step-by-Step Fix for Stop Stardew Valley From Freezing or Crashing PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c110-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C110 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-the-d3d-initialization-error-errgfxd3dinit-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the D3D Initialization Error (ERR_GFX_D3D_INIT) in Grand Theft Auto V</u></a></li>
+</ul></div>
 

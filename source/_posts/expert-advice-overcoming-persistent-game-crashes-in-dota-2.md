@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Persistent Game Crashes in Dota 2"
-date: 2024-08-28T05:03:48.482Z
-updated: 2024-08-29T05:03:48.482Z
+date: 2024-11-03T09:37:25.233Z
+updated: 2024-11-05T04:23:59.087Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The developers of Dota 2 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -81,9 +88,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Run Dota 2 again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Turn off the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Dota 2, just try disabling Steam Overlay for Dota 2 to see FPS increases. Here is how to do it:
@@ -91,14 +95,8 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Dota 2_ . Then select **Properties** .  
 ![steam dota2 properties](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-dota2-properties.jpg)
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Disable steam overlay in Dota 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-steam-overlay-in-Dota-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Launch Dota 2 to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 ## Fix 5: Modify Steam launch options for Dota 2
@@ -122,9 +120,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Dota 2 to see if you get a better FPS. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Modify the graphics settings
 
  If the FPS in Dota2 still doesn’t improve, you may need to modify the graphics settings. If you don’t know how, just follow the steps below.
@@ -159,52 +154,35 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 #### Modify Intel graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Step 2: modify Windows OS graphics settings
 
 To modify Windows OS graphics settings, follow the steps below:
@@ -214,13 +192,31 @@ To modify Windows OS graphics settings, follow the steps below:
 1. On your keyboard, press**the Windows logo key** and type**graphics settings** . Then select**Graphics settings** from the list of search results to open it.  
 ![search graphics settings Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/04/search-graphics-settings-Windows-10.jpg)
 2. In the Graphics settings window, click**Browse** to open**File Explorer** . Then go to**the drive where you save Dota 2 game files** \>**Program Files (x86)** or**Program Files** \>**Steam** \>**steamapps** \>**common** \>**dota 2 beta** \>**game** \>**bin** \>**win64** .
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**dota2.exe** and click**Add** .  
 ![dota 2 graphics settings Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/04/dota-2-graphics-settings-Windows-10.jpg)
 4. Once added, click the Options button under dota2.exe, then select**High performance** and click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![dota 2 graphics settings Windows 10 high performance](https://images.drivereasy.com/wp-content/uploads/2021/04/dota-2-graphics-settings-Windows-10-high-performance.jpg)
 
 #### On Windows 11
@@ -229,12 +225,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select**Gaming** , and make sure that the toggle for**Game Mode** is set to**On** . Then click the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select**Dota 2** from the list of apps, and select**High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Modify in-game graphics settings
 
@@ -244,9 +242,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Navigate to the**VIDEO** tab and follow the instructions below to modify the in-game graphics settings:  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/Modify-in-game-settings-dota-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 #### Resolution
 
 * Check**Use advanced settings** .
@@ -284,9 +279,6 @@ Set the rendering API that is recommended by Steam.
 * **Game Screen Render Quality** : set to around**90%**
 * **Maximum frames per second allowed** : set to a value above the refresh rate of your monitor and below the maximum FPS you can get.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Fix 7: Set Dota 2 to High priority
 
  By setting Dota 2 to High priority, you can allocate more resources to play in the game and it should increase your performance especially if you have other programs running in the background.
@@ -301,9 +293,12 @@ To set Dota 2 to High priority:
  Run Dota 2 to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 8: Restrict applications and downloads in the background
 
  The Dota 2 FPS drops issue may occur if too many applications or programs are running at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -312,11 +307,34 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Dota 2 again to see if you can play the game smoothly. if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 9: Set the Power Plan of your PC for Best Performance
 
  A power plan is a collection of hardware and system settings that manages how your computer uses power. Windows 10 allows you to customize the power plan on your PC.
@@ -330,9 +348,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Launch Dota 2 to see if you resolve the FPS drops issue.
 
 ---
@@ -349,8 +364,6 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -358,4 +371,16 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-action-to-archive-a-guide-to-top-screen-recording-tools-for-2024/"><u>[New] Action to Archive A Guide to Top Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[Updated] Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-growth-strategy-handbook/"><u>[Updated] The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/comprehensive-huawei-p30-pro-assessment-my-continual-admiration/"><u>Comprehensive Huawei P30 Pro Assessment: My Continual Admiration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-launching-glitches-in-counter-strike-global-offensive/"><u>How To Overcome Launching Glitches in Counter Strike Global Offensive?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-in-fixing-high-ping-and-lag-in-counter-strike-2-tips-for-a-better-gaming-experience/"><u>Masterclass in Fixing High Ping and Lag in Counter-Strike 2 - Tips for a Better Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988792070-red-dead-redemption-2-upgraded-say-goodbye-to-stutter-enjoy-seamless-gameplay-with-better-fps/"><u>Red Dead Redemption 2 Upgraded: Say Goodbye to Stutter, Enjoy Seamless Gameplay with Better FPS!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-altering-your-profile-picture-on-discord/"><u>The Ultimate How-To for Altering Your Profile Picture on Discord</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-how-to-resolve-overwatch-2s-failed-start-up-issues/"><u>Top 7 Solutions: How to Resolve Overwatch 2'S Failed Start-Up Issues</u></a></li>
+</ul></div>
 

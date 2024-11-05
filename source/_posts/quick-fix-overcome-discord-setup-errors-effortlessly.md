@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Overcome Discord Setup Errors Effortlessly"
-date: 2024-08-28T05:02:38.826Z
-updated: 2024-08-29T05:02:38.826Z
+date: 2024-11-01T01:48:09.717Z
+updated: 2024-11-05T01:29:01.789Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -56,11 +63,22 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -68,24 +86,25 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 See if this issue reappears. If not, you have fixed this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -96,13 +115,17 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
@@ -115,6 +138,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -123,9 +153,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -154,21 +181,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -182,8 +198,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +205,22 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-detailed-analysis-of-youtubes-versus-dailymentions/"><u>[New] In 2024, Detailed Analysis of YouTubes Versus DailyMentions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-no-fee-android-chat-apps-rated-for-2024/"><u>[New] Top No-Fee Android Chat Apps Rated for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-evolved-methods-for-effective-game-file-logging/"><u>[Updated] Evolved Methods for Effective Game File Logging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-winning-windows-sound-engineers-for-2024/"><u>[Updated] Winning Windows Sound Engineers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-steam-slowness-proven-strategies-for-smoother-gameplay/"><u>Eliminate Steam Slowness: Proven Strategies for Smoother Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-misery-of-dragons-dogma-2-collapsing-on-windows-optimization-techniques-revealed/"><u>End the Misery of Dragon's Dogma 2 Collapsing on Windows - Optimization Techniques Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-g22-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia G22 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi 12 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-your-experience-advanced-fixes-to-overcome-low-fps-in-fallout-76-expert-tips-and-tricks/"><u>Level Up Your Experience: Advanced Fixes to Overcome Low FPS in Fallout 76 - Expert Tips & Tricks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-create-stunning-glitches-the-best-free-online-generators-for-2024/"><u>New Create Stunning Glitches The Best Free Online Generators for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools/"><u>Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-connection-woes-addressed-fixing-the-local-client-process-failure/"><u>Steam Connection Woes Addressed - Fixing the Local Client Process Failure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-successfully-launching-your-swtor-game-without-issues/"><u>Troubleshooting Guide: Successfully Launching Your SWTOR Game Without Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-doom-eternal-overcoming-launch-issues-with-easy-fixes/"><u>Unlocking DOOM Eternal: Overcoming Launch Issues with Easy Fixes</u></a></li>
+</ul></div>
 

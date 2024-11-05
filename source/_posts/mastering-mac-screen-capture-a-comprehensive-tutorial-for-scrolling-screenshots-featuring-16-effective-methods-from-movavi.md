@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Screen Capture: A Comprehensive Tutorial for Scrolling Screenshots, Featuring 16 Effective Methods From Movavi"
-date: 2024-10-24T16:18:52.530Z
-updated: 2024-10-30T16:00:13.326Z
+date: 2024-11-03T19:55:52.072Z
+updated: 2024-11-05T05:54:30.372Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/7d6e2b9a5733a0050649c4f29381b12d84c8d65f1f8c8318505f7587599ebd84.jpg
@@ -211,6 +211,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
 優點：
@@ -221,18 +228,18 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -245,10 +252,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 使用者介面過時且不符合大眾口味
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -268,10 +275,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 圖片只能在單一頁籤中開啟且無法捲動
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -281,10 +288,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
@@ -296,13 +303,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 佈局過於簡單，可能會使初學者困惑
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -334,20 +334,6 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -365,9 +351,23 @@ Movavi Photo Editor
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -412,6 +412,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -427,13 +434,6 @@ Movavi Photo Editor
 加入我們就能取得操作指南，也不會錯過特別優惠和應用程式小技巧！
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 超過 150萬位用戶已訂閱我們的電子報
 
@@ -458,24 +458,16 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-how-to-craft-engaging-macootd-tiktoks-effortlessly-for-2024/"><u>[New] How To Craft Engaging MacOOTD TikToks Effortlessly for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-green-screen-filming-essential-techniques-for-2024/"><u>[New] Mastering Green Screen Filming Essential Techniques for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>2024 Approved Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-quantifiable-quirks-yearly-graphed-tidbits-from-yt-2017/"><u>2024 Approved Quantifiable Quirks Yearly Graphed Tidbits From YT (2017)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-resources-via-the-iini-entry-interface/"><u>Accessing Resources via the Iini Entry Interface</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypassing-the-cod-warzone-error-code-0-1766-for-a-seamless-experience-on-console-and-desktop/"><u>Bypassing the COD: Warzone Error Code 0-1766 for a Seamless Experience on Console & Desktop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/decoding-project-fuchsia-exploring-googles-covert-and-revolutionary-os-endeavour/"><u>Decoding Project Fuchsia: Exploring Google's Covert and Revolutionary OS Endeavour</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-fixes-solving-the-rage-2-crashing-problems-instantly/"><u>Effortless Fixes: Solving the RAGE 2 Crashing Problems Instantly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-fixing-constant-killing-of-the-game-on-overwatch-2-for-windows-computers/"><u>Guide to Fixing Constant Killing of the Game on Overwatch ^2 for Windows Computers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-13-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-efficient-is-auto-gpt-without-the-advanced-capabilities-of-gpt-4-technology/"><u>How Efficient Is Auto-GPT Without the Advanced Capabilities of GPT-4 Technology?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone without PIN</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-how-to-resolve-discord-overlay-issues-instantly/"><u>Quick Fixes: How to Resolve Discord Overlay Issues Instantly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/revolutionize-your-gaming-experience-top-strategies-to-stop-pc-lagging/"><u>Revolutionize Your Gaming Experience: Top Strategies to Stop PC Lagging !</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-ghostrunner-errors-solutions-for-a-smooth-gaming-experience-on-windows-10/"><u>Troubleshooting Ghostrunner Errors: Solutions for a Smooth Gaming Experience on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-constant-freezing-issues-in-ghostwire-tokyo-for-desktop-players/"><u>Troubleshooting Guide: Resolving Constant Freezing Issues in Ghostwire: Tokyo for Desktop Players</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-solutions-for-a-sluggish-connection/"><u>Troubleshooting Steam: Solutions for a Sluggish Connection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unheard-echoes-of-the-commonwealth-fixing-sound-glitches-for-fallout-4-on-pc/"><u>Unheard Echoes of the Commonwealth: Fixing Sound Glitches for Fallout 4 on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-list-low-cost-high-definition-cameras/"><u>[Updated] 2024 Approved Ultimate List Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-notch-ae-extensions-selection-for-2024/"><u>[Updated] Top-Notch AE Extensions Selection for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-yesteryear-pokemon-with-mobile-devices/"><u>Bring Back Yesteryear Pokémon with Mobile Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-pc-troubleshooting-how-to-stop-the-game-from-crashing/"><u>Cyberpunk 2077 PC Troubleshooting: How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discord-screen-share-glitches-heres-the-ultimate-guide-to-restoring-your-audio/"><u>Discord Screen Share Glitches? Here's the Ultimate Guide to Restoring Your Audio!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-strategies-for-repairing-helldivers-2-and-eradicating-bsod/"><u>In-Depth Strategies for Repairing Helldivers 2 and Eradicating BSoD</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-glitches-expert-fix-for-crashing-in-jurasspressive-gameplay-experience/"><u>No More Glitches: Expert Fix for Crashing in Jurasspressive Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-smoothness-how-to-solve-stutter-problems-and-raise-fps-in-valorant/"><u>Optimizing Gameplay Smoothness: How to Solve Stutter Problems & Raise FPS in Valorant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-launch-problems-in-resident-evil-village-gaming-troubleshooting-guide/"><u>Step-by-Step Solution: Resolving Launch Problems in Resident Evil Village - Gaming Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/steps-to-acquire-fcp-for-zero-dollars-for-2024/"><u>Steps to Acquire FCP for Zero Dollars for 2024</u></a></li>
 </ul></div>
 

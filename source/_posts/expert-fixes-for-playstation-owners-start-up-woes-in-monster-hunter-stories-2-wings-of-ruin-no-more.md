@@ -1,7 +1,7 @@
 ---
 title: "Expert Fixes for PlayStation Owners: Start Up Woes in Monster Hunter Stories 2: Wings of Ruin No More"
-date: 2024-08-28T05:04:26.350Z
-updated: 2024-08-29T05:04:26.350Z
+date: 2024-11-04T08:47:50.643Z
+updated: 2024-11-05T06:33:04.002Z
 tags:
   - win11
   - win10
@@ -53,11 +53,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -65,15 +69,15 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -84,6 +88,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -91,16 +102,23 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -109,13 +127,16 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -138,8 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +166,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-watchlist-restoring-suggested-videos/"><u>[New] 2024 Approved Enhancing Watchlist Restoring Suggested Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-sound-into-your-photography/"><u>[Updated] Infusing Sound Into Your Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-multi-tasking-on-edge-with-picture-in-picture/"><u>[Updated] Master Multi-Tasking on Edge with Picture-in-Picture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigate-new-horizons-with-these-10-travel-vids/"><u>[Updated] Navigate New Horizons with These 10 Travel Vids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>2024 Approved Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984250362-beat-the-blues-with-directdraw-error-resolution-expert-techniques-revealed/"><u>Beat the Blues with DirectDraw Error Resolution - Expert Techniques Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-3-app-error-how-to-resolve-unexpected-stop-issue/"><u>COD Modern Warfare 3 App Error: How to Resolve 'Unexpected Stop' Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-starfield-experience-by-eliminating-audio-disruptions-and-jitters/"><u>Enhancing Starfield Experience by Eliminating Audio Disruptions & Jitters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/escape-from-tarkov-pc-crash-problems-solved-steps-and-fixes/"><u>Escape From Tarkov PC Crash Problems Solved - Steps & Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secure-seamless-youtube-watching-across-devices-and-browsers/"><u>In 2024, Secure Seamless YouTube Watching Across Devices and Browsers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/legacy-netflix-subscribers-affected-as-apple-removes-streaming-services-payment-option/"><u>Legacy Netflix Subscribers Affected as Apple Removes Streaming Service's Payment Option</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-trouble-shoot-fixing-the-perplexing-developer-error-6034-across-ps5-xbox-series-xs-and-computers/"><u>Modern Warfare Trouble Shoot: Fixing the Perplexing Developer Error 6034 Across PS5, Xbox Series X/S, and Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-fall-guys-play-achieve-smooth-graphics-with-better-frame-rates-and-reduced-lags/"><u>Optimizing Fall Guys Play – Achieve Smooth Graphics with Better Frame Rates & Reduced Lags</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-gaming-lag-in-first-person-shooters-fps-drop-frames-and-smoothness-enhancements/"><u>Resolved: Fixes for Gaming Lag in First-Person Shooters (FPS) – Drop Frames and Smoothness Enhancements</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211213608-9798350069341-summary-of-dean-koontzs-a-big-little-life/"><u>Summary of Dean Koontz's A Big Little Life | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-key-to-captivating-audiences-crafting-fb-slideshows-for-2024/"><u>The Key to Captivating Audiences Crafting FB Slideshows for 2024</u></a></li>
+</ul></div>
 

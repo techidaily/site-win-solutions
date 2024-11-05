@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Stripping Background Images in Windows 11"
-date: 2024-08-28T05:00:11.885Z
-updated: 2024-08-29T05:00:11.885Z
+date: 2024-10-29T23:18:21.160Z
+updated: 2024-11-04T21:51:19.918Z
 tags:
   - windows
 categories:
@@ -28,8 +28,12 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
  After removing the background, if you wish to keep transparency in your image, make sure to save your image as a PNG file. This is because other formats like JPG don’t support transparent images.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Remove the Entire Background of an Image
 
  You can use the Windows’ built-in Paint app to delete the entire background of an image and replace it with transparency. 
@@ -40,25 +44,46 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-photo-with-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When Paint opens, in the "Image" section at the top, click Remove Background (the icon of multiple lines and a person).
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-save-photo-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that’s it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Background From the Selected Area of an Image
 
@@ -72,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
@@ -80,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  Replace an Image's Background With a Solid Color
 
  If you want to replace an image’s background with a solid color, say the solid blue color, use the built-in Photos app as follows.
@@ -90,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
  Launch File Explorer, right-click your image, and select Open With > Photos. If Photos is the default image viewer, double-clicking the image will open the image with the app.
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
@@ -99,20 +135,28 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the right pane, select the "Replace" option.
 
 !['Replace' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-replace-background-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You’ll see a color palette. Here, choose the color to fill your image’s current background. If you know a color’s [HEX](https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/) or [RGB](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) code, enter those values in the given boxes. This helps you quickly get to the color you want.
 
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
 
 !['Apply' and 'Reset Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-apply-color-photos.jpg) 
@@ -123,14 +167,8 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  And Photos will perform your chosen action.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  What if You Don't Find the "Replace" Option in Photos
 
  If you don’t see the “Replace” option in Photos, the app version is outdated. Microsoft added the ability to replace backgrounds in Photos’ version 2023.11110.8002.0.
@@ -139,18 +177,12 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-microsoft-store-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the right pane, next to "Microsoft Photos," choose "Update." Wait while the Store updates the app.
 
  If you see "Open" instead of "Update," your app version is already updated.
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
  If you need more advanced image editing features you'll have to look elsewhere, however. Photoshop is the obvious first choice for that, but there are plenty of [good (and free) Photoshop alternatives](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) out there.
@@ -161,8 +193,6 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +200,20 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-utilize-siri-speech-for-enhanced-content-on-tiktok-apps/"><u>[New] 2024 Approved How to Utilize Siri Speech for Enhanced Content on TikTok Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamline-events-with-obs-crafting-a-time-based-feature/"><u>[New] 2024 Approved Streamline Events with OBS Crafting a Time-Based Feature</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-essential-srt-to-xml-ssa-and-ttml-manual/"><u>[New] In 2024, The Essential SRT to XML, SSA & TTML Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-approach-to-best-youtube-thumbnails/"><u>[Updated] In 2024, A Step-by-Step Approach to Best YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-to-control-video-pace-in-instagram/"><u>2024 Approved Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013059694-experience-the-epic-battle-god-of-wars-first-person-shooter-released-on-pc/"><u>Experience the Epic Battle - God of War's First-Person Shooter Released on PC!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-warzone-pc-login-failures-to-begin-playing-immediately/"><u>Fixing Warzone PC Login Failures to Begin Playing Immediately</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-gobi-fatal-error-a-detailed-tutorial-for-back-4-blood-ue4-players/"><u>How to Overcome Gobi Fatal Error - A Detailed Tutorial for Back 4 Blood (UE4) Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-street-fighter-6-from-freezing-on-your-pc-new-solutions/"><u>How to Stop Street Fighter 6 From Freezing on Your PC [New Solutions]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-note-13-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-lagging-expert-tips-to-maintain-high-fps-on-nioh-2/"><u>Overcome Lagging: Expert Tips to Maintain High FPS on Nioh 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-a-persistent-loading-state-in-discord-streaming/"><u>Resolved: Troubleshooting a Persistent 'Loading' State in Discord Streaming</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-tech-executive-forecasts-major-evolution-in-cloud-computing-strategies-insights-from-zdnet/"><u>Top Tech Executive Forecasts Major Evolution in Cloud Computing Strategies – Insights From ZDNet</u></a></li>
+</ul></div>
 

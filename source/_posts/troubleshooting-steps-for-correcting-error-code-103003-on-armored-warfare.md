@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Correcting Error Code 103003 on Armored Warfare
-date: 2024-08-28T05:04:02.350Z
-updated: 2024-08-29T05:04:02.350Z
+date: 2024-10-29T22:01:29.542Z
+updated: 2024-11-05T00:49:19.989Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
 1. Launch After Effects and go to**Edit** \>**Preferences** \>**Previews…** .  
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -66,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -84,6 +95,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -101,11 +119,15 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -115,6 +137,13 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Purge memory & disk cache
 
  After Effect is a demanding (resource intensive) application. It may crash if your computer is running out of memory, or if your hard disk drive is almost full. To get After Effects work again, you can try purging memory and cache. Here is how to do it:
@@ -122,9 +151,6 @@ There’re mainly two ways you can update your graphics drivers:
 1. Launch After Effects and go to**Edit** \>**Purge** \>**All Memory** &**Disk Cache…** .  
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
@@ -132,9 +158,6 @@ There’re mainly two ways you can update your graphics drivers:
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Delete the temp folder of After Effects
 
  When After Effects failed to override its temp folder, it may crash. Some users fixed the After Effects crashing by deleting its temp folder, and if you haven’t tried this fix yet, you should give it a shot. Don’t worry, after you delete its temp folder, After Effect will create a new one. To delete the temp folder of After Effects, follow the steps below:
@@ -144,8 +167,12 @@ There’re mainly two ways you can update your graphics drivers:
 3. Look for**the After Effects folder** and delete it.  
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If After Effects still crashes, try the next fix, below.
@@ -156,9 +183,6 @@ If After Effects still crashes, try the next fix, below.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
@@ -182,8 +206,6 @@ If After Effects still crashes, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +213,23 @@ If After Effects still crashes, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers-for-2024/"><u>[New] 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[New] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-science-youtube-networks-expand-your-mind-for-2024/"><u>[Updated] Essential Science YouTube Networks Expand Your Mind for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-navigating-through-tech-barriers-record-any-youtube-live-with-ease/"><u>2024 Approved Navigating Through Tech Barriers Record Any YouTube Live with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/discovering-the-stars-that-sparkle-in-your-domains-social-space/"><u>Discovering the Stars that Sparkle in Your Domain's Social Space</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-power-why-intel-gpus-demand-your-attention-now/"><u>Embrace the Power: Why Intel GPUs Demand Your Attention Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722982539164-ghostrunner-malfunction-in-windows-10-causes-and-solutions-revealed/"><u>Ghostrunner Malfunction in Windows 10: Causes and Solutions Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-the-stutter-and-lag-in-thaumaturge-on-windowsmacos/"><u>Guide: Resolving the Stutter and Lag in Thaumaturge on Windows/MacOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-5-ways-to-get-into-a-locked-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/performance-issues-fixed-clearing-gameplay-interruptions-smooth-rendering-and-improved-response-times/"><u>Performance Issues Fixed: Clearing Gameplay Interruptions, Smooth Rendering & Improved Response Times</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-a-guide-to-preventing-house-flipper-2-crashes-on-your-computer/"><u>Resolving Stability Issues: A Guide to Preventing House Flipper 2 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-repairing-pacific-drive-malfunctions-on-personal-computers/"><u>Solving the Mystery: Repairing Pacific Drive Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-manycam-features-and-using-it-as-your-virtual-camera/"><u>Ultimate Guide: Mastering ManyCam Features and Using It as Your Virtual Camera</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013897682-warframe-freezing-issues-heres-what-you-need-to-know/"><u>Warframe Freezing Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-eliminates-screen-trembling-problems-a-comprehensive-guide/"><u>Warzone Eliminates Screen Trembling Problems: A Comprehensive Guide</u></a></li>
+</ul></div>
 

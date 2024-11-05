@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Terminating Frozen Applications Quickly on Your Windows Nvme SSD Computer
-date: 2024-08-28T04:59:22.542Z
-updated: 2024-08-29T04:59:22.542Z
+date: 2024-10-31T04:04:27.533Z
+updated: 2024-11-05T01:36:24.243Z
 tags:
   - windows
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  Try a Keyboard Shortcut
 
  It's frustrating when an app you're using suddenly freezes. We’ve all done it—exasperatingly clicking the “X” button at least 20 times to close the frozen program. There’s a better way.
@@ -39,8 +36,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Force Quit Using Task Manager
 
  As the name implies, [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) is a tool that shows which apps are currently running (as well as other information like resource usage and process stats) and allows you to manage them appropriately.
@@ -49,9 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Right-click the taskbar and select 'Task Manager.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-open-task-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With Task Manager open, select the task you want to force quit and then select “End Task.”
 
  If you don't see the name of the app in the list here, click "More Details" and find it in the list on the Processes tab.
@@ -59,8 +57,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The frozen program will now close.
 
 ##  Force Quit an App Using Command Prompt
@@ -69,13 +71,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
 taskkill /im <program>.exe
@@ -86,9 +99,6 @@ taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
 ---
@@ -101,8 +111,6 @@ taskkill /im notepad.exe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +118,24 @@ taskkill /im notepad.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-pocket-playlist-portraits-actors-and-audio-art-for-2024/"><u>[Updated] Pocket Playlist Portraits Actors & Audio Art for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secret-behind-successful-youtube-thumbnails-for-2024/"><u>[Updated] Unveiling The Secret Behind Successful YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-deep-dive-into-acid-pro-functionality-and-alternatives/"><u>2024 Approved Deep Dive Into ACID Pro Functionality & Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/6-unparalleled-mac-apps-for-video-grabbing-for-2024/"><u>6 Unparalleled Mac Apps for Video Grabbing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/days-gone-not-working-a-complete-guide-to-fixing-pc-installation-woes/"><u>Days Gone Not Working: A Complete Guide to Fixing PC Installation Woes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-no-more-mastering-the-art-of-solving-tfla0002-final-exam-glitches/"><u>Error No More: Mastering the Art of Solving 'TFLA0002' Final Exam Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-and-improve-the-hazy-visual-effects-in-outriders-game/"><u>How to Fix and Improve the Hazy Visual Effects in Outriders Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-cod-black-ops-cold-war-running-smoothly-on-your-computer/"><u>How to Get Cod: Black Ops Cold War Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-conquer-stray-crashes-with-these-6-effective-remedies/"><u>PC Gamers, Conquer Stray Crashes with These 6 Effective Remedies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-constant-terraria-crashes-proven-techniques-and-tips/"><u>Resolving Constant Terraria Crashes : Proven Techniques & Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593902-9781785259883-su-horoscopo-chino-liebre/"><u>Su horóscopo chino. Liebre | Free Book</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-face-swap-apps-iphone-and-android-edition/"><u>Top Face Swap Apps IPhone and Android Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-discord-js-errors-quickly/"><u>Troubleshooting and Solving Discord JS Errors Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-new-world-connection-issues/"><u>Troubleshooting Steps for Resolving New World Connection Issues</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-harmonizing-moving-images-and-sounds-a-2023-approach/"><u>Updated The Art of Harmonizing Moving Images and Sounds (A 2023 Approach)</u></a></li>
+</ul></div>
 
