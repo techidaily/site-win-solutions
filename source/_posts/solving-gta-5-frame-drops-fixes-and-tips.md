@@ -1,7 +1,7 @@
 ---
 title: "Solving GTA 5 Frame Drops: Fixes and Tips"
-date: 2024-08-27T20:17:57.771Z
-updated: 2024-08-28T20:17:57.771Z
+date: 2024-11-11T16:33:48.305Z
+updated: 2024-11-15T16:13:21.728Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -87,8 +84,12 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -98,8 +99,18 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest game patch
 
  The developers of GTA 5 release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -117,16 +128,32 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.”  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 #### Lower the in-game graphics settings
@@ -159,6 +186,13 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Restrict applications and downloads in the background
 
  The GTA FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -167,16 +201,10 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 2. Select other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  Run GTA 5 again to see if you can play the game smoothly. It the FPS in GTA 5 still drops, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change the power plan of your PC
 
  If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue. Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. To fix the game lag issue, try changing the power plan of your PC to **High performance** . Here is how to do it:
@@ -184,11 +212,26 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch GTA 5 to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your Windows system for the best performance
 
@@ -199,14 +242,8 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch GTA 5 to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
 ---
@@ -222,8 +259,6 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +266,24 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-record-audio-with-audacity-on-mac-in-2024/"><u>[New] How to Record Audio with Audacity on Mac, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>[Updated] Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-securing-your-scene-camera-shake-solutions/"><u>2024 Approved Securing Your Scene Camera Shake Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-astro-a10-mic-issues-and-proven-fixes-overcoming-audio-troubles/"><u>Common Astro A10 Mic Issues and Proven Fixes: Overcoming Audio Troubles</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/contrato-de-licencia-para-el-software-digiexcelencia-en-su-version-winxdvd/"><u>Contrato De Licencia Para El Software Digiexcelencia en Su Versión WinXDVD</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deciphering-the-fixes-to-continuous-outlook-crashing-problem/"><u>Deciphering the Fixes to Continuous Outlook Crashing Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-madden-nfl-21-pc-game-crashes-ultimate-solutions/"><u>Fixing the Madden NFL 21 PC Game Crashes: Ultimate Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-magic-of-photography-and-video-with-pixiz-for-2024/"><u>Harness the Magic of Photography and Video with Pixiz for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-wisdom-bank/"><u>In 2024, Cinematic Wisdom Bank</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lost-in-terraria-reconnect-with-these-proven-techniques-inside-the-blocky-world/"><u>Lost in Terraria? Reconnect with These Proven Techniques Inside the Blocky World</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-connection-issues-making-your-astro-a50-compatible-with-astro-command-center/"><u>Solving Connection Issues: Making Your Astro A50 Compatible with Astro Command Center</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-how-to-fix-your-drop-in-csgo-frame-rates/"><u>Solving the Mystery: How to Fix Your Drop in CS:GO Frame Rates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-boosting-utorrent-download-speed-successfully/"><u>Troubleshooting Guide: Boosting uTorrent Download Speed Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-outriders-frequent-crashes-easily/"><u>Troubleshooting Guide: Resolving Outriders' Frequent Crashes Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-eliminating-yakuza-6-pc-freezing-problems/"><u>Troubleshooting Steps: Eliminating Yakuza 6 PC Freezing Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/walmarts-budget-friendly-offering-high-performance-15-inch-asus-notebook-for-250-featuring-all-the-key-connectivity-options-revealed/"><u>Walmart's Budget-Friendly Offering: High-Performance 15-Inch ASUS Notebook for $250 Featuring All the Key Connectivity Options, Revealed</u></a></li>
+</ul></div>
 

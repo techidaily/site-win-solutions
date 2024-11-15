@@ -1,7 +1,7 @@
 ---
 title: "Get Your Division 2 Up and Running: Proven Techniques to Resolve Not Loading"
-date: 2024-08-27T20:14:24.626Z
-updated: 2024-08-28T20:14:24.626Z
+date: 2024-11-10T16:35:39.763Z
+updated: 2024-11-15T16:34:27.903Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/evil-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tips: You can disable the alert in the launcher settings.
 
  **The solution is easy: update your driver – but not through Windows Update & Device Manager.**
@@ -55,6 +68,19 @@ Tips: You can disable the alert in the launcher settings.
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -63,11 +89,6 @@ Tips: You can disable the alert in the launcher settings.
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -78,8 +99,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 If you’re launching from Steam, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Verify game file
 
  If you launch the game from Steam, then you try to verify game files. This fix will let Steam check your local files. If there’re corrupted files, Steam will redownload them and replace them on your local install.
@@ -88,21 +113,24 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this fix is not working, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
@@ -111,9 +139,6 @@ The ultimate burning program for all your needs!</a>
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.
 5. Relaunch the game to check.
 
@@ -127,8 +152,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +159,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-engagement-tweeting-for-fb-exposure/"><u>[New] Enhancing Engagement Tweeting for FB Exposure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>[Updated] 2024 Approved The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-moments-logitech-webcam-filming-tutorials/"><u>[Updated] Capturing Moments Logitech Webcam Filming Tutorials</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-15-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 15</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-smooth-out-motion-issues-and-reducing-lag-for-an-enhanced-play-experience-in-forza-horizon-5/"><u>Fixing Smooth-Out Motion Issues & Reducing Lag for an Enhanced Play Experience in Forza Horizon 5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-a-smooth-experience-troubleshooting-fallout-4-pc-lag/"><u>Get a Smooth Experience: Troubleshooting Fallout 4 PC Lag</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y100t-by-drfone-android/"><u>How to Bypass FRP on Vivo Y100t?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-minecraft-stuttering-on-pc-2023-tips/"><u>How to Fix Minecraft Stuttering on PC – 2023 Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-insights-tracking-your-insta-posts-viewers/"><u>Mastering Insights Tracking Your Insta Posts' Viewers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004492664-overcoming-network-delays-a-comprehensive-guide-to-improving-your-gameplay-experience-in-back-4-blood/"><u>Overcoming Network Delays: A Comprehensive Guide to Improving Your Gameplay Experience in 'Back 4 Blood'.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-issues-with-pathfinders-wrath-of-the-righteous-frequent-crashes-resolved/"><u>Persistent Issues with Pathfinder's 'Wrath of the Righteous': Frequent Crashes Resolved?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-helldivers-2-issue-eliminate-black-screen-when-beginning-play/"><u>Solving Helldivers 2 Issue - Eliminate Black Screen When Beginning Play</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-fixing-common-rendering-glitches-in-rust-applications/"><u>Step-by-Step Tutorial: Fixing Common Rendering Glitches in Rust Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-stop-minecraft-from-crashing-in-just-6-steps/"><u>Troubleshooting Guide: Stop Minecraft From Crashing in Just 6 Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-why-does-warno-keep-stalling-on-pc-and-how-to-fix-it/"><u>Ultimate Guide: Why Does Warno Keep Stalling on PC and How to Fix It?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-xr-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone XR</u></a></li>
+</ul></div>
 

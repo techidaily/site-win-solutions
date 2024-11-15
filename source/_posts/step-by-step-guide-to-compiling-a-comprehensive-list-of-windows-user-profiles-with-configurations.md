@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Compiling a Comprehensive List of Windows User Profiles with Configurations
-date: 2024-08-28T05:01:39.849Z
-updated: 2024-08-29T05:01:39.849Z
+date: 2024-11-11T16:04:36.063Z
+updated: 2024-11-15T16:18:16.911Z
 tags:
   - excel
 categories:
@@ -43,6 +43,13 @@ Related: [How to Check Your Motherboard Model Number on Your Windows PC](https:/
 
 Related: [How PowerShell Differs From the Windows Command Prompt](https://instagram-videos.techidaily.com/new-2024-approved-adapting-to-instagrams-evolved-content-curation/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Get a Quick List of Just User Account Names
 
  If all you need is a list of account names without any other details, type the following command at the prompt and then press Enter:
@@ -59,11 +66,22 @@ wmic useraccount get name,fullname
 
 ![ual_3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_3-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, you can see that the "Michelle" and "Simon" accounts do not have full names associated, but my "wjgle" account does have my full name.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Get a List of User Accounts with More Details
 
  If you'd like create a list of user accounts with a full set of account details, type the following command at the prompt and hit Enter:
@@ -72,9 +90,6 @@ wmic useraccount list full
 
 ![ual_4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That image shows just one user account from the list with all its details. You can see the user account name and full name, as well as additional details like the following:
 
 * **AccountType**. If you're on PC that is not part of a domain---which is almost certainly the case if you're on your home or small business PC---you'll always see an account type of 512\. If the PC is part of a domain, you'll see other values here that represent what type of domain account it is.
@@ -95,14 +110,8 @@ wmic useraccount get name,fullname,status
 
 ![ual_9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  So, this is all well and good if you just want to view user account information on the fly, but it becomes much more useful when you redirect the results to a text file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Redirect the Results of a Command to a File
 
  It's great being able to view a list of user account details at the Command Prompt, but the real usefulness of these commands lie in the fact that you can pipe the results straight into a file that you can then save or print. To do this with any `wmic` command, you just have to add an `/output` switch along with a path for the file directly after the `wmic` command.
@@ -115,15 +124,6 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full
 
 ![ual_6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  And if you want to get even fancier, you could also direct the output to a comma-separated value (CSV) file that could then easily be imported into a spreadsheet app or database. The trick to this is that you'll also have to add a `/format:csv` switch to the end of the command. So, for example, if you wanted to redirect the output of the same command we used above to a CSV file, you'd use something like the following command:
 
 wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
@@ -132,12 +132,16 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
 
 ![ual_7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  And if you import it into something like Microsoft Excel, you can have a nicely formatted table with little work.
 
 ![ual_8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, there's a lot more you can do with the `wmic useraccount` command, including changing some of the user account details like whether an account is locked or unlocked. You can get more information on that by typing `wmic /?` at the Command Prompt. There's also a whole lot more you can do with the `wmic` command in general. For more information on that, check out the [official WMIC page](https://msdn.microsoft.com/en-us/library/aa394531%28v=vs.85%29.aspx) from Microsoft and the list of [useful WMIC queries](https://blogs.technet.microsoft.com/askperf/2012/02/17/useful-wmic-queries/) from the Microsoft Performance Team blog.
 
@@ -147,8 +151,6 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +158,23 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>2024 Approved Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-options-ultimate-guide-to-macs-video-capturing-tools-for-2024/"><u>Best Options Ultimate Guide to Mac's Video Capturing Tools for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/breaking-the-quiet-in-fallout-4-a-comprehensive-guide-to-restoring-sounds-on-pc/"><u>Breaking the Quiet in Fallout 4: A Comprehensive Guide to Restoring Sounds on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-get-into-doom-eternal-discover-the-key-steps-for-a-smooth-start/"><u>Can't Get Into DOOM Eternal? Discover the Key Steps for a Smooth Start</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/concoct-laughter-in-image-format-giphy-style/"><u>Concoct Laughter in Image Format, Giphy Style</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dominating-viewership-tips-for-your-video-to-be-a-staff-choice-for-2024/"><u>Dominating Viewership Tips for Your Video to Be a Staff Choice for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-8-blu-ray-player-rankings-for-4k-quality/"><u>Elite 8 Blu-Ray Player Rankings for 4K Quality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-eradicate-starcraft-ii-lag-and-crashing-on-windowsmac-os/"><u>Expert Tips: Eradicate Starcraft II Lag and Crashing on Windows/Mac OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-130-music-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia 130 Music Phones with/without a PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>In 2024, Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubles-discover-how-to-prevent-minecraft-dungeon-crashes/"><u>PC Troubles? Discover How to Prevent Minecraft Dungeon Crashes</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-rated-file-recovery-tools-expert-picks-for-restoring-lost-data/"><u>Top Rated File Recovery Tools: Expert Picks for Restoring Lost Data</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-snowrunner-fails-to-load-on-pc-systems/"><u>Troubleshooting Steps for When SnowRunner Fails to Load on PC Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-stabilizing-the-frontier-game-to-avoid-in-game-pc-disruptions/"><u>Ultimate Fix: Stabilizing the Frontier Game to Avoid In-Game PC Disruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-like-a-dragon-perfectly-ported-and-powerful-gameplay-on-personal-computers/"><u>Yakuza: Like a Dragon - Perfectly Ported & Powerful Gameplay on Personal Computers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Persistent Lagging and Crashing Issues in Warframe
-date: 2024-08-27T20:16:41.276Z
-updated: 2024-08-28T20:16:41.276Z
+date: 2024-11-13T16:25:32.265Z
+updated: 2024-11-15T16:10:02.720Z
 tags:
   - win11
   - win10
@@ -42,8 +42,12 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 You can fix it by uninstalling the multiplayer HD texture packs.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -58,8 +62,12 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
@@ -87,27 +95,32 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -118,9 +131,6 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
@@ -139,8 +149,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +156,22 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-harnessing-altitude-live-streaming-with-dji-drones/"><u>[New] In 2024, Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlined-mac-imagery-unveiling-the-top-5-quick-and-effective-methods/"><u>[New] Streamlined Mac Imagery Unveiling the Top 5 Quick & Effective Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>[Updated] In 2024, Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/efficiently-managing-cpu-resources-for-a-smoother-phasmophobia-gaming-experience/"><u>Efficiently Managing CPU Resources for a Smoother Phasmophobia Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-smoothness-restored-how-to-stop-lag-and-increase-fps-in-black-ops-4/"><u>Game Smoothness Restored: How to Stop Lag & Increase FPS in Black Ops 4</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-making-your-mark-with-facebook-events/"><u>How-To: Making Your Mark with Facebook Events</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c32-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C32 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-undead-battlefield-solving-za4-issues-with-steam-and-pc-optimization/"><u>Mastering the Undead Battlefield: Solving ZA4 Issues with Steam and PC Optimization</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-crashes-in-ac-odyssey-for-pc-step-by-step-repair-guide/"><u>No More Crashes in AC Odyssey for PC - Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-premiere-pro-errors-effective-fixes-for-crashes-on-windows-1011-computers/"><u>Overcoming Premiere Pro Errors: Effective Fixes for Crashes on Windows 10/11 Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012544200-spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tips-for-optimal-frame-rate-manipulation-for-2024/"><u>Top Tips for Optimal Frame Rate Manipulation for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformar-mov-en-mp3-directamente-online-e-indemnizado-por-usuarios-mov-mp3convertidor/"><u>Transformar MOV en MP3 Directamente Online E Indemnizado Por Usuarios - MOV-MP3Convertidor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-resolving-windows-code-31-issues/"><u>Troubleshooting and Resolving Windows Code 31 Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Errors: Essential Fixes for Overwatch 2 Troubleshooting"
-date: 2024-08-27T20:19:01.050Z
-updated: 2024-08-28T20:19:01.050Z
+date: 2024-11-13T16:18:44.251Z
+updated: 2024-11-15T16:33:11.937Z
 tags:
   - win11
   - win10
@@ -36,6 +36,14 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 2. Locate the**MonsterHunterRise.exe file** and select**Properties** .  
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
@@ -43,8 +51,12 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 Still no luck? Move on to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
  It’s also possible that Windows Security and other antivirus have prevented Monter Hunter Rise from running, and therefore the game fails to launch. To tweak the settings, follow the steps below:
@@ -52,16 +64,18 @@ Still no luck? Move on to the next method below.
 1. On the Windows search box, type**windows security** and select**Windows Security** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/1.jpg)
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
@@ -81,10 +95,14 @@ Still no luck? Move on to the next method below.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable resource-hogging programs
 
@@ -93,12 +111,16 @@ Still no luck? Move on to the next method below.
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Check your current **CPU and memory usage** to see what apps are consuming your resources most. Then right-click the process you want to end and select **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 Check if the game launches as expected. If not, take a look at Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -109,28 +131,18 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Repair your system files
 
  Besides the game files, missing or corrupted system files can also lead to various kinds of PC problems including game crashes. To check if there are critical system issues that cause Monster Hunter Rise not to launch or go black, you should run a quick and thorough scan with**Fortect** .
@@ -141,12 +153,24 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Test the game to see if your system runs faster and smoother now.
 
@@ -163,8 +187,6 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +194,26 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chuckle-inducing-cover-versions/"><u>[Updated] 2024 Approved Chuckle-Inducing Cover Versions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-syncopated-stories-in-reels-merging-sound-and-vision/"><u>[Updated] 2024 Approved Syncopated Stories in Reels Merging Sound & Vision</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-techniques-for-dell-pc-screen-saving/"><u>[Updated] Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>[Updated] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-pivoting-pictures-a-how-to-on-flipping-videos-for-viral-engagement/"><u>2024 Approved Pivoting Pictures A How-To on Flipping Videos for Viral Engagement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-valheim-startup-error-solutions-how-to-ensure-smooth-launch-and-gameplay-experience/"><u>2024 Valheim Startup Error Solutions: How to Ensure Smooth Launch and Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-defeating-the-phantom-menace-fixing-deadly-bugs-for-ghost-runner-on-windows-11/"><u>Expert Guide: Defeating the Phantom Menace – Fixing Deadly Bugs for Ghost Runner on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-rainbow-six-extraction-drivers-issues-on-your-pc-top-solutions-revealed/"><u>Fixing 'Rainbow Six Extraction' Drivers Issues on Your PC - Top Solutions Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-origin-application-issues-compatibility-tweaks-for-windows-1011-users/"><u>Fixing Origin Application Issues - Compatibility Tweaks for Windows 10/11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m14-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M14 5G Is Unlocked</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-nvidia-geforce-expertise-issue-error-code-0x0003-explained/"><u>How to Resolve Nvidia GeForce Expertise Issue: Error Code 0X0003 Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-we-fixed-the-limited-ram-issue-on-god-of-war-for-smooth-gaming-experience/"><u>How We Fixed the Limited RAM Issue on God of War for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-charge-fixes-for-call-of-duty-black-ops-cold-war-beating-the-chilling-glitch/"><u>No Charge Fixes for Call of Duty: Black Ops Cold War - Beating the Chilling Glitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/one-click-wonder-livestream-your-podcast/"><u>One Click Wonder Livestream Your Podcast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-naraka-bladepoint-solutions-for-smooth-gameplay-and-improved-frame-rates/"><u>Optimizing Naraka: Bladepoint - Solutions for Smooth Gameplay & Improved Frame Rates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-warzone-crash-issue-xbox-and-pc-guide-to-overcome-memory-error-0-1766/"><u>Resolving the Warzone Crash Issue: Xbox and PC Guide to Overcome Memory Error 0-1766</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g34-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G34 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-srt-mastery-a-detailed-manual-and-tips-for-2024/"><u>Unlock SRT Mastery A Detailed Manual and Tips for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-mohu-blade-television-antenna-cutting-edge-design-and-effective-home-performance/"><u>Unveiling the Mohu Blade Television Antenna: Cutting-Edge Design & Effective Home Performance</u></a></li>
+</ul></div>
 

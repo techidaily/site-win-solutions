@@ -1,7 +1,7 @@
 ---
 title: Division 2 Launch Issues? Here Are the Top Fixes !
-date: 2024-08-27T20:19:22.367Z
-updated: 2024-08-28T20:19:22.367Z
+date: 2024-11-08T16:14:44.490Z
+updated: 2024-11-15T16:00:09.558Z
 tags:
   - win11
   - win10
@@ -58,11 +58,16 @@ There are mainly two ways to update your drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -77,6 +82,13 @@ There are mainly two ways to update your drivers:
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See if the issue persists. If yes, continue to the next solution.
 
 ### Fix 4 – Repair the game files
@@ -88,25 +100,26 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On Epic Games Launcher
@@ -117,13 +130,14 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Temporarily disable your antivirus
 
  If you’ve installed antivirus programs to protect your computer from potential threats, they can sometimes be overprotective and mistakenly block your games like Madden 22 from working.
@@ -153,8 +167,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +174,22 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>[New] 2024 Approved DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pro-action-recorder-guide-top-15-camcorder-list/"><u>[Updated] In 2024, Pro Action Recorder Guide Top 15 Camcorder List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-solve-lagging-issues-and-increase-fps-on-warzone/"><u>Boost Your Gaming Experience – Solve Lagging Issues & Increase FPS on Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-war-thunder-performance-top-strategies-to-resolve-lag-and-increase-fps-ultimate-guide-2024/"><u>Boost Your War Thunder Performance: Top Strategies to Resolve Lag & Increase FPS - Ultimate Guide 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-visual-quality-in-outriders-fixing-screen-distortion-issues/"><u>Enhancing Visual Quality in Outriders - Fixing Screen Distortion Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-refining-published-videos-on-youtube/"><u>In 2024, The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013102515-madden-nfl-20-pc-version-stability-issues-solved-here/"><u>Madden NFL 20 PC Version Stability Issues Solved Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-wireless-mouse-5000-swift-driver-downloads-for-seamless-functionality/"><u>Microsoft Wireless Mouse 5000: Swift Driver Downloads for Seamless Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-bring-back-sounds-in-my-minecraft-experience-on-my-windows-pc/"><u>Steps to Bring Back Sounds in My Minecraft Experience on My Windows PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-comparison-best-tablets-that-outshine-filmoras-capabilities-for-2024/"><u>The Ultimate Comparison Best Tablets That Outshine Filmora's Capabilities for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-to-fix-fatal-errors-in-your-ue4-implementation-of-tales-of-arise/"><u>Top Strategies to Fix Fatal Errors in Your UE4 Implementation of 'Tales of Arise'</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-youtubes-high-quality-streaming-exploring-the-enhanced-bitrate/"><u>Understanding YouTube's High-Quality Streaming: Exploring the Enhanced Bitrate</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-below-is-a-list-of-top-5-free-wmv-splitters-which-can-help-you-split-your-frames-without-damaging-the-quality-of-your-video/"><u>Updated Below Is a List of Top 5 Free WMV Splitters Which Can Help You Split Your Frames without Damaging the Quality of Your Video</u></a></li>
+</ul></div>
 

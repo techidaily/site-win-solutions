@@ -1,7 +1,7 @@
 ---
 title: How To Stop Fortnite From Continuously Crashing On Your Computer
-date: 2024-08-27T20:17:51.668Z
-updated: 2024-08-28T20:17:51.668Z
+date: 2024-11-13T16:25:16.640Z
+updated: 2024-11-15T16:07:29.436Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  In some cases, the not launching or crashing during game issue indicates that some game files are missing or corrupted. Before furthering your efforts into fixes that are more complicated, run a scan and check if there’re any integrity issues.
@@ -35,16 +42,19 @@ Follow these steps:
 1. Open your**Epic Games** launcher. From the left pane, select**Library** . At the bottom right corner of the Rogue Company box, click the**ellipse** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/rogue-company-verify-0.jpg)
 2. Select**Verify** . Then wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/rogue-company-verify-1.jpg)
 3. Once done, launch your game and check if the problem persists.
 
  If this fix doesn’t give you luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  More often than not, especially in new titles, the constant crashes are graphics-related. Aside from misconfigurations, one of the common causes is that you’re using**a broken or outdated graphics driver** . You should always keep your driver up to date and don’t wait until an issue occurs. New drivers can, sometimes, bring your game performance to a whole new level.
@@ -69,14 +79,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC for the changes to apply. Then check the gameplay in Rogue Company.
@@ -84,8 +96,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If the latest GPU driver doesn’t stop the game crash, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Windows 10 receives continuous support in the form of updates. These patches and feature updates address major compatibility issues and could be a potential fix to your crashing issue. Usually Windows will schedule updates for you, but you can make it happen manually:
@@ -95,18 +111,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 Once completed, restart your PC and check if Rogue Company crashes again.
 
  If updating your system doesn’t help, you can check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable in-game overlays
 
  Overlay allows you to chat, place orders and interact with friends on another platform during game. This feature is included in apps like**Steam, Discord and NVIDIA GeForce Experience** and is usually turned on by default.
@@ -123,8 +133,6 @@ Once completed, restart your PC and check if Rogue Company crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +140,23 @@ Once completed, restart your PC and check if Rogue Company crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfect-screen-recording-made-simple-and-orderly/"><u>[New] 2024 Approved Perfect Screen Recording Made Simple & Orderly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>[New] How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pro-tips-for-stunning-gopro-timelapse-projects/"><u>[Updated] 2024 Approved Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-youtube-visibility-two-steps-for-2024/"><u>[Updated] Master the Art of YouTube Visibility (Two Steps) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solutions-for-fast-tracking-league-of-legends-stability-issues/"><u>Effortless Solutions for Fast-Tracking League of Legends Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-frustration-no-more-crashing-in-sea-of-thieves-learn-how-today/"><u>End the Frustration - No More Crashing in Sea of Thieves! Learn How Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-stability-solutions-for-continuous-play-of-fall-guys-on-personal-computers/"><u>Enhancing Stability: Solutions for Continuous Play of Fall Guys on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-stop-r-type-final-2-game-crashes-on-windows-computers-a-step-by-step-fixer/"><u>Expert Tips to Stop R-Type Final 2 Game Crashes on Windows Computers: A Step-by-Step Fixer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-storm-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Storm 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-beyond-gaming-vr-uses/"><u>In 2024, Beyond Gaming VR Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-effortlessly-transforming-flv-videos-into-mov-format/"><u>Step-by-Step Tutorial on Effortlessly Transforming FLV Videos Into MOV Format</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-gadgets-for-relaxing-on-sands-and-waves/"><u>Top Gadgets for Relaxing on Sands & Waves</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-made-easy-putting-an-end-to-mir4s-pc-downfalls/"><u>Troubleshooting Made Easy: Putting an End to MIR4's PC Downfalls</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-when-deathloop-continuously-crashes-on-pc-and-ps5/"><u>Troubleshooting Steps: Resolving Issues When Deathloop Continuously Crashes on PC and PS5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-techniques-for-repairing-severe-malfunctions-in-ark-survival-game-servers/"><u>Unveiling Techniques for Repairing Severe Malfunctions in Ark Survival Game Servers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/zoom-into-your-workspace-learn-screen-casting-via-ezvide/"><u>Zoom Into Your Workspace Learn Screen Casting via EZvide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Lag and Latency: Strategies to Prevent FPS Drops in Computer Games"
-date: 2024-08-27T20:21:31.668Z
-updated: 2024-08-28T20:21:31.668Z
+date: 2024-11-13T16:20:24.744Z
+updated: 2024-11-15T16:21:42.774Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Metro Exodus is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -39,14 +46,18 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -80,12 +91,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -115,9 +136,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -128,9 +146,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
@@ -139,9 +154,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
@@ -153,8 +165,12 @@ Launch Metro Exodus and see if it works now.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Lower the in-game video settings
 
  If the graphics options are too much for your PC, your game will no doubt keep crashing because your PC hardware couldn’t support the graphics requirements configured in the game. So you should set the graphic settings in your game to Low in order to fix the crashing issue.
@@ -177,8 +193,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +200,23 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-beginners-guide-to-convenient-game-edit-software/"><u>[New] 2024 Approved Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-7-inexpensive-pc-screen-recorders-ranked/"><u>[New] In 2024, Top 7 Inexpensive PC Screen Recorders Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tunemaster-pro-how-to-download-and-assess/"><u>[New] In 2024, TuneMaster Pro How to Download & Assess</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-price-friendly-nimbus-space-wide-file-vault-for-2024/"><u>[New] Price-Friendly Nimbus Space Wide File Vault for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[New] Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-windows-11s-best-pc-webcam-recorders-reviewed/"><u>2024 Approved Windows 11'S Best PC Webcam Recorders Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-expert-advice-overcoming-launch-errors-and-getting-the-most-out-of-hogwarts-legacy/"><u>2024 Expert Advice: Overcoming Launch Errors and Getting the Most Out of Hogwarts Legacy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dark-souls-iii-stability-issues-heres-how-to-fix-them-permanently/"><u>Dark Souls III Stability Issues? Here's How to Fix Them Permanently</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dive-into-action-4-easy-steps-for-audience-captivating-instagram-loops/"><u>Dive Into Action 4 Easy Steps for Audience-Captivating Instagram Loops</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 15 Plus Safe and Legal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frequent-freezes-a-guide-to-stable-outriders-gaming/"><u>Fixing Frequent Freezes: A Guide to Stable Outriders Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-players-hit-continuous-roadblocks-with-necromunda-hired-gun-learn-how-to-resolve-crashes/"><u>PC Players Hit Continuous Roadblocks with Necromunda: Hired Gun – Learn How to Resolve Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-game-lags-a-comprehensive-guide-to-overcoming-new-world-connectivity-problems/"><u>Resolving Game Lags: A Comprehensive Guide to Overcoming 'New World' Connectivity Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-your-gaming-experience-fixes-for-persistent-freezing-issues-in-halo-infinite-guide/"><u>Revive Your Gaming Experience: Fixes for Persistent Freezing Issues in Halo Infinite (Guide)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-fixing-live-server-connection-failure-mistake-efficiently/"><u>Step-by-Step Guide: Fixing Live Server Connection Failure Mistake Efficiently</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/virtualdub-substitutes-explore-these-video-editing-options/"><u>VirtualDub Substitutes Explore These Video Editing Options</u></a></li>
+</ul></div>
 

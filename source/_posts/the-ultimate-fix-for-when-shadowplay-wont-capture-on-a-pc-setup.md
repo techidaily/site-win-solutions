@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for When ShadowPlay Won’t Capture on a PC Setup
-date: 2024-08-27T20:15:50.696Z
-updated: 2024-08-28T20:15:50.696Z
+date: 2024-11-13T16:36:01.043Z
+updated: 2024-11-15T16:07:56.111Z
 tags:
   - win11
   - win10
@@ -56,24 +56,28 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -92,8 +96,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -120,14 +128,16 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -138,8 +148,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +155,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/approved-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>2024 Approved Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bugs-ensuring-a-smooth-start-up-of-football-manager-2023-gameplay/"><u>Beat the Bugs: Ensuring a Smooth Start-Up of Football Manager 2023 Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/final-fix-overcoming-continuous-failures-in-pathfinder-wrath-of-the-righteous/"><u>Final Fix: Overcoming Continuous Failures in 'Pathfinder: Wrath of the Righteous'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998379238-immortals-fenyx-rising-launch-issues-resolved-and-officially-dropped/"><u>Immortals Fenyx Rising Launch Issues Resolved and Officially Dropped!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-modern-combat-fixing-error-6-challenges-in-warzone-and-codmw-pc-version/"><u>Mastering Modern Combat: Fixing Error 6 Challenges in Warzone and CoD:MW, PC Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-unveils-revolutionary-z79n-zero-project-motherboards-supporting-the-groundbreaking-camm2-ram-a-new-era-for-desktop-computers/"><u>MSI Unveils Revolutionary Z79n Zero Project Motherboards Supporting the Groundbreaking CAMM2 RAM – A New Era for Desktop Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-stutter-expert-solutions-to-state-of-decay-2-freezing-problems-gaming-pcs/"><u>Overcome the Stutter: Expert Solutions to State of Decay 2 Freezing Problems Gaming PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-non-ringing-issues-on-your-iphone-quick-fixes-and-solutions/"><u>Troubleshooting Non-Ringing Issues on Your iPhone - Quick Fixes and Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-of-7-exceptional-vids-on-mac-for-2024/"><u>Ultimate List of 7 Exceptional Vids on Mac for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-fixing-atomic-core-issues-when-powering-on-your-system/"><u>Understanding and Fixing Atomic Core Issues When Powering On Your System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-art-of-merging-sound-and-visuals-audio-addition-in-gifs-on-a-mac-system/"><u>Updated 2024 Approved The Art of Merging Sound and Visuals Audio Addition in GIFs on a Mac System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vibrant-visuals-5-advanced-color-correction-methods/"><u>Vibrant Visuals 5 Advanced Color Correction Methods</u></a></li>
+</ul></div>
 

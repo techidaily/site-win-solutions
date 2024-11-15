@@ -1,7 +1,7 @@
 ---
 title: "Transforming Decimal Symbols in Excel: Switch From Comma to Point"
-date: 2024-08-28T05:01:44.048Z
-updated: 2024-08-29T05:01:44.048Z
+date: 2024-11-11T16:19:09.012Z
+updated: 2024-11-15T16:02:35.461Z
 tags:
   - excel
 categories:
@@ -53,8 +53,6 @@ Related: [How to Change Windows' Default Currency from Dollars to Euros](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +60,31 @@ Related: [How to Change Windows' Default Currency from Dollars to Euros](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-best-freefire-tips-online/"><u>[Updated] Navigating the Best FreeFire Tips Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[Updated] The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-to-exceptional-instagram-stories/"><u>2024 Approved Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-ms-teams-error-80080300-fixes-for-w11-users/"><u>Breaking Down MS Teams Error 80080300: Fixes for W11 Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-start-days-gone-on-your-computer-here-are-proven-solutions/"><u>Can't Start 'Days Gone' On Your Computer? Here Are Proven Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-an-impactful-waterway-teaser/"><u>Crafting an Impactful Waterway Teaser</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-microsoft-edge-from-crashing-on-windows-11-proven-fixes/"><u>How to Stop Microsoft Edge From Crashing on Windows 11 - Proven Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-remedies-to-combat-crashes-in-city-skylines-2-on-windows-pcs/"><u>Masterful Remedies to Combat Crashes in City Skylines 2 on Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-how-to-successfully-overcome-discord-installation-errors/"><u>Quick Fix: How to Successfully Overcome Discord Installation Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-the-fallout-4-dark-display-error/"><u>Resolve the Fallout 4 Dark Display Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-windows-11-taskbar-issues-expert-tips-and-solutions/"><u>Resolving Windows 11 Taskbar Issues: Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-game-crashes-making-praey-for-the-gods-stable-on-pc/"><u>Troubleshooting and Fixing Game Crashes: Making Praey for the Gods Stable on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-ds4-controller-issues-on-windows-and-resolving-driver-installation-failures/"><u>Troubleshooting Guide: Fixing DS4 Controller Issues on Windows & Resolving Driver Installation Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-palworld-step-by-step-guide-to-solve-your-eos-account-login-issues/"><u>Troubleshooting Palworld: Step-by-Step Guide to Solve Your EOS Account Login Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-innovations-with-toms-technology-guides/"><u>Unveiling New Innovations with Tom's Technology Guides</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

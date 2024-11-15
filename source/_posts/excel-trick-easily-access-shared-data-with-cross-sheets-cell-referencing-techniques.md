@@ -1,7 +1,7 @@
 ---
 title: "Excel Trick: Easily Access Shared Data with Cross-Sheets Cell Referencing Techniques"
-date: 2024-08-28T05:02:23.205Z
-updated: 2024-08-29T05:02:23.205Z
+date: 2024-11-10T16:27:03.389Z
+updated: 2024-11-15T16:09:56.385Z
 tags:
   - excel
 categories:
@@ -34,13 +34,17 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
  While 3D referencing isn't flawless, which we'll touch upon later, it is a way to navigate these potential issues and ensure both accuracy and efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use 3D Referencing in Excel
 
  Here are the steps to follow to use 3D referencing in any version of Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 1: Lay Out Every Worksheet the Same Way
 
  For 3D referencing to work, you need to make sure each worksheet you are referencing is laid out the same way—or, at least, the cell you need to capture in your formula is the same cell in each worksheet.
@@ -50,8 +54,12 @@ Close
  As you can see here, across the two worksheets "January" and "February", each person's totals are in the same cell (Sarah's are in B2, John's are in B3, and so on).
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Step 2: Add a Start Sheet and an End Sheet
 
  The next step is to add a start sheet and an end sheet to your workbook. These act as bookends, and we're going to create a formula to capture anything between them. This means that if you add new worksheets and want them included in your referencing, you should place them between these bookends.
@@ -60,14 +68,25 @@ Close
 
 ![An Excel workbook with a worksheet called 'End' in the last position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tabsend-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, you need to add a start sheet to your workbook. Again, select "+" to add a new worksheet, and rename this to "Start". Then, click and drag your "Start" sheet to the left of all existing tabs.
 
 ![An Excel workbook with a worksheet called 'Start' in the first position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tabsstart-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This step is only necessary for a workbook you intend to amend with new worksheets. But even if you believe you have completed your workbook, it's still a good idea to do this for future-proofing and to avoid issues down the line.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Step 3: Add a Totals Sheet
 
@@ -76,11 +95,12 @@ Close
 ![An Excel workbook with a worksheet called 'Totals' in the first position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tabstotals-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
+
 ###  Step 4: Create the Formula in the Totals Worksheet
 
  We are now ready to begin the 3D referencing. Using the example above, let's say we want to find out Sarah's total earnings for January and February combined. Sarah's monthly totals are in cell B2, so we want to add together the value in cell B2 from each worksheet.
@@ -115,18 +135,6 @@ Close
 
 =SUM(Start:End!E7,Start:End!R16,Start:End!M24)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Potential Issues With 3D Referencing
 
  As with all Excel functions, there are some potential pitfalls you need to watch out for when using 3D referencing:
@@ -146,8 +154,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +161,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals/"><u>[New] Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-youtube-hashtag-strategies-for-boosting-your-contents-visibility/"><u>[Updated] Top Youtube Hashtag Strategies for Boosting Your Content's Visibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-titans-comparing-the-strengths-of-forefront-ai-and-chatgpt/"><u>AI Titans: Comparing the Strengths of Forefront AI and ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003518466-effortless-steps-to-repair-fifa-19-directx-glitches-no-tech-expertise-needed/"><u>Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eight-reliable-ways-to-prevent-vrchat-pc-applications-from-crashing/"><u>Eight Reliable Ways to Prevent VRChat PC Applications From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-bug-encounters-in-mount-and-blade-ii-bannerlord/"><u>Fixing Persistent Bug Encounters in Mount & Blade II: Bannerlord</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/launch-quest-conquering-the-hogwarts-legacy-troubleshooting-challenges-of-2024/"><u>Launch Quest: Conquering the Hogwarts Legacy Troubleshooting Challenges of 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-french-solo-top-techniques-and-tools/"><u>Mastering French Solo: Top Techniques & Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/securing-access-understanding-authentication-techniques/"><u>Securing Access: Understanding Authentication Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/taming-fear-and-frustration-steps-to-correct-excessive-cpu-consumption-by-phasmophobia/"><u>Taming Fear and Frustration: Steps to Correct Excessive CPU Consumption by Phasmophobia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-aiot-videocoder-updated-recommendations-and-tips/"><u>Ultimate Guide to Choosing the Perfect AIOT Videocoder - Updated Recommendations & Tips!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-network-diagnostics-arp-cache-elimination/"><u>Windows Network Diagnostics: ARP Cache Elimination</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-go-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark Go (2023)? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

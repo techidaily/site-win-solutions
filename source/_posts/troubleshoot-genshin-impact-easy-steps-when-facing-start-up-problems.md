@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Genshin Impact: Easy Steps When Facing Start-Up Problems"
-date: 2024-08-27T20:21:52.386Z
-updated: 2024-08-28T20:21:52.386Z
+date: 2024-11-09T16:07:05.892Z
+updated: 2024-11-15T16:17:09.581Z
 tags:
   - win11
   - win10
@@ -34,8 +34,24 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **CPU** : 4 Cores  
    * **RAM** : 4 GB (this will require a restart, so you can leave it to the last step)  
    * **Graphics Engine** : Performance  
@@ -47,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  Your Bluestacks will be restarted, and your game won’t be crashing again now. But if it does, please try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  As BlueStacks Support suggests, you should always keep your driver updated. This is especially important if you haven’t done so for a long time. Graphics driver matters a lot to your gaming performance, so we recommend you keep your drivers up-to-date (at least your graphics driver).
@@ -74,9 +87,6 @@ There are mainly two ways for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -86,9 +96,6 @@ There are mainly two ways for you to update the graphics driver:
 
  Once the graphics driver is updated, you can restart your PC and launch your BlueStacks to check if the crashing issue has been resolved successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Close other unnecessary programs
 
  Running a lot of programs can make your BlueStacks slow, lag, or even crash a lot, especially when you have allocated more RAM and CPU cores to BlueStacks. Therefore, you can close unwanted programs from Task Manager:
@@ -98,8 +105,18 @@ There are mainly two ways for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/end-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
 ### Fix 4: Turn off antivirus
@@ -110,23 +127,16 @@ There are mainly two ways for you to update the graphics driver:
 2. Type**appwiz.cpl** and hit**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Reboot your computer and launch BlueStacks to check if the issue persists.
+
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.
@@ -135,6 +145,19 @@ There are mainly two ways for you to update the graphics driver:
 2. Go to the**Performance** tab.
 3. You can view the**Virtualization** status under the CPU tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/on.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this feature is disabled, you should follow[this guide](https://support.bluestacks.com/hc/en-us/articles/115003174386) to turn it on in the BIOS settings. However, if everything seems alright but you still get the crashing issues, you can reinstall BlueStacks (be sure to remove all its files and then reinstall it again).
 
@@ -148,8 +171,6 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +178,22 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[New] Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722994666370-solved-cold-war-stuck-on-loading-screen-pc-and-console/"><u>[Solved] Cold War Stuck on Loading Screen - PC & Console</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-easy-steps-to-starting-an-instagram-live/"><u>[Updated] 2024 Approved Easy Steps to Starting an Instagram Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/economical-audience-expansion-buy-subscribers-not-time-for-2024/"><u>Economical Audience Expansion Buy Subscribers, Not Time for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-quest-with-uninterrupted-play-solving-dying-lights-graphics-and-fps-hiccups/"><u>Enhance Your Quest with Uninterrupted Play: Solving Dying Light's Graphics and FPS Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-halo-infinites-noisy-mess-ups-quietly-and-quickly/"><u>Expert Advice on Fixing Halo Infinite's Noisy Mess-Ups Quietly and Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-resolving-phoenix-points-crashing-problems-now-solved/"><u>Expert Advice on Resolving Phoenix Point's Crashing Problems – Now Solved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-dragon-age-origins-game-crashing-issues-on-windows-11-solutions-inside/"><u>Fixes for Dragon Age: Origins Game Crashing Issues on Windows 11 - Solutions Inside!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-uncovers-new-trends-in-stealthy-credit-card-theft-techniques-by-cybercriminals-on-the-rise/"><u>Microsoft Uncovers New Trends in Stealthy Credit Card Theft Techniques by Cybercriminals on the Rise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-multiversus-game-crashes-a-comprehensive-list-of-8-methods-that-work/"><u>Overcoming MultiVersus Game Crashes: A Comprehensive List of 8 Methods That Work</u></a></li>
+<li><a href="https://win-premium.techidaily.com/synology-2/"><u>Synologyストレージサーバーへの安全なクラウドバックアップ手順: 選ばれた2つのソリューション</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-modern-warfare-dev-error-6034-on-pc-and-xbox/"><u>Troubleshooting Steps for Resolving Modern Warfare Dev Error 6034 on PC and Xbox</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows 11 Glitches: Getting Your Windows Spotlight Pictures Working Again"
-date: 2024-08-27T20:15:16.338Z
-updated: 2024-08-28T20:15:16.338Z
+date: 2024-11-09T16:16:09.692Z
+updated: 2024-11-15T16:18:32.347Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ Windows 11 has been launched for months and many users have upgraded to Windows 
 3. [Microsoft fix](https://tools.techidaily.com/drivereasy/download/)
 4. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -57,9 +70,6 @@ If this simple reboot doesn’t work, the next fix might help.
  reg delete HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\IrisService /f && shutdown -r -t 0
 5. Your PC will reboot and everything should be back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair system files
 
  Windows taskbar issues could be related to the Windows system files. When Windows system files are missing or outdated, it may trigger bugs like the taskbar not working or disappearing from the desktop.
@@ -75,23 +85,41 @@ If this simple reboot doesn’t work, the next fix might help.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your graphics driver
 
  When your graphics driver is outdated or corrupted, it may hinder user interface suche as taskbar to work properly. There are two ways to check if your graphics driver is up-to-date and functioning properly.
@@ -104,21 +132,10 @@ If this simple reboot doesn’t work, the next fix might help.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -132,8 +149,6 @@ If this simple reboot doesn’t work, the next fix might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +156,21 @@ If this simple reboot doesn’t work, the next fix might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simple-screen-recorder-for-windows-10-download/"><u>[New] 2024 Approved Simple Screen Recorder for Windows 10 Download</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-no-budget-no-problem-the-finest-free-voice-alterer-for-valorant-players/"><u>[Updated] 2024 Approved No Budget? No Problem! The Finest Free Voice Alterer for Valorant Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-frequencies-fused-mac-studios-soundscapes-for-2024/"><u>[Updated] Frequencies Fused Mac Studios Soundscapes for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-fix-guide-how-to-stop-fall-guys-from-hanging-on-windows/"><u>Bug Fix Guide: How to Stop Fall Guys From Hanging on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-conscious-choices-for-the-apple-watch-series-10-the-path-to-carbon-neutrality-through-smart-band-selection-zdnet/"><u>Eco-Conscious Choices for the Apple Watch Series 10: The Path to Carbon Neutrality Through Smart Band Selection | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/four-effective-fixes-for-your-warzone-directx-error/"><u>Four Effective Fixes for Your 'Warzone DirectX Error'</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/freedom-in-sound-extracting-audio-magic-with-pazera/"><u>Freedom in Sound Extracting Audio Magic with Pazera</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-gta-v-online-running-a-step-by-step-guide-to-fixes/"><u>Getting GTA V Online Running: A Step-by-Step Guide to Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-webm-to-mp3-top-10-converter-options/"><u>How to Convert WebM to MP3 Top 10 Converter Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-missing-textures-in-call-of-duty-warzone-complete-solution/"><u>How to Fix Missing Textures in Call of Duty: Warzone – Complete Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-realtime-idevice-screen-record-latest-methods/"><u>In 2024, Realtime iDevice Screen Record - Latest Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/prevent-your-manor-lords-experience-from-interruptions-fix-pc-crashes-effectively/"><u>Prevent Your Manor Lords Experience From Interruptions: Fix PC Crashes Effectively</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transform-documents-into-professional-pdf-format-easily-with-top-rated-pdf-converter/"><u>Transform Documents Into Professional PDF Format Easily with Top-Rated PDF Converter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-correcting-oculus-visual-glitches-due-to-gpu-drivers/"><u>Troubleshooting Steps for Correcting Oculus Visual Glitches Due to GPU Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "War Thunder Continues to Crash : Essential Troubleshooting Steps"
-date: 2024-08-27T20:17:11.902Z
-updated: 2024-08-28T20:17:11.902Z
+date: 2024-11-12T16:30:33.322Z
+updated: 2024-11-15T16:11:35.439Z
 tags:
   - win11
   - win10
@@ -49,11 +49,32 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -64,14 +85,8 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -80,9 +95,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -90,15 +102,16 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -108,14 +121,16 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -138,8 +153,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +160,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-decreasing-jello-artifacts-in-aerial-filmmaking/"><u>[Updated] In 2024, Decreasing Jello Artifacts in Aerial Filmmaking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ascending-altitudes-in-depth-analysis-of-the-gopro-karma-drone/"><u>Ascending Altitudes In-Depth Analysis of the GoPro Karma Drone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battling-bugs-in-the-system-how-to-fix-persona-5-strikers-crashing-on-your-computer/"><u>Battling Bugs in the System: How to Fix Persona 5 Strikers Crashing on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/black-desert-pc-issues-resolved-no-more-crashes-here/"><u>Black Desert PC Issues Resolved - No More Crashes Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-heat-levels-on-your-windows-11-pc/"><u>Controlling Heat Levels on Your Windows 11 PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discovering-the-artistry-of-satoko-smith-an-in-depth-analysis-with-movavi-gallery/"><u>Discovering the Artistry of Satoko Smith: An In-Depth Analysis with Movavi Gallery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010375251-easy-steps-to-get-your-apex-legends-game-up-and-running-again/"><u>Easy Steps to Get Your Apex Legends Game Up and Running Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-nier-automatareplicant-errors-effective-techniques-to-stop-game-crashes/"><u>Eliminating [NieR: Automata/Replicant] Errors: Effective Techniques to Stop Game Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insider-tips-for-spiderman-2-ordering/"><u>Exclusive Insider Tips for SPIDERMAN 2 Ordering</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-persistent-steam-issues-freezing-and-unresponsiveness/"><u>Fixes for Persistent Steam Issues: Freezing and Unresponsiveness</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-implemented-for-stuttering-frame-drops-during-sifu-pc-playthroughs/"><u>Fixes Implemented for Stuttering Frame Drops During 'Sifu' PC Playthroughs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-low-fps-performance-in-resident-evil-village-for-a-smoother-pc-experience/"><u>Fixing Low FPS Performance in Resident Evil Village for a Smoother PC Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-konvertisseer-audiobooks-m4b-naar-wma-instant-online-met-movavi/"><u>Gratuit Konvertisseer Audiobooks M4B Naar WMA - Instant Online Met Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrating-google-chromecast-into-your-firestick-smart-streaming-setup/"><u>Integrating Google Chromecast Into Your Firestick Smart Streaming Setup</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creative-potential-top-audio-editing-software-for-pros/"><u>New Unleash Your Creative Potential Top Audio Editing Software for Pros</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-game-freeze-glitches-in-code-vein-expert-guidance-for-smooth-play/"><u>Overcome Game Freeze Glitches in Code Vein: Expert Guidance for Smooth Play</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-sifu-for-pc-glitches-and-smooth-frame-rates-without-compromise/"><u>Resolve 'Sifu' For PC Glitches and Smooth Frame Rates Without Compromise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-samsung-galaxy-s22-with-innovative-ai-integration-and-next-gen-features/"><u>Transform Your Samsung Galaxy S22 with Innovative AI Integration and Next-Gen Features</u></a></li>
+</ul></div>
 

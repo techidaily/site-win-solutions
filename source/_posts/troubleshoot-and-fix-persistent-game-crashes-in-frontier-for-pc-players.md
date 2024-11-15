@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Fix Persistent Game Crashes in Frontier for PC Players
-date: 2024-08-27T20:16:52.210Z
-updated: 2024-08-28T20:16:52.210Z
+date: 2024-11-11T16:03:08.909Z
+updated: 2024-11-15T16:02:29.927Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -84,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
@@ -107,15 +118,19 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -126,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -138,13 +150,14 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -157,14 +170,17 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -178,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +201,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[New] In 2024, Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-prosight-review-the-next-big-step-beyond-manycam/"><u>[New] In 2024, ProSight Review The Next Big Step Beyond ManyCam</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-advanced-game-recording-techniques-in-windows-11/"><u>[New] In 2024, Unveiling Advanced Game Recording Techniques in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-b-roll-impact-in-your-edits-for-2024/"><u>[Updated] Maximizing B-Roll Impact in Your Edits for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arma-3-stability-fixes-top-2024-solutions-for-no-crash-gameplay/"><u>Arma 3 Stability Fixes: Top 2024 Solutions for No-Crash Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/comprehensive-guide-to-free-cloud-communication-software/"><u>Comprehensive Guide to Free Cloud Communication Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-ways-to-prevent-discord-from-crashing-while-streaming-online/"><u>Effective Ways to Prevent Discord From Crashing While Streaming Online</u></a></li>
+<li><a href="https://win-tips.techidaily.com/effortless-guide-mastering-live-video-streaming-online/"><u>Effortless Guide: Mastering Live Video Streaming Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-error-code-6-in-battlefield-dive-into-solutions-for-warzone-and-modern-warfare-on-pc/"><u>Fixing 'Error Code ✖6' In Battlefield: Dive Into Solutions for Warzone and Modern Warfare on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-latency-in-forza-horizon-5-ultimate-troubleshooting-guide/"><u>Fixing Persistent Latency in Forza Horizon 5: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-difficulties-a-fix-for-baldurs-gate-3/"><u>Overcoming Launch Difficulties: A Fix for Baldur's Gate 3</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-and-tips-for-boosting-frame-rate-in-outriders/"><u>Resolved: Fixes & Tips for Boosting Frame Rate in Outriders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996440847-resolved-stop-r-type-final-n-game-from-continuously-crashing-on-pc-with-easy-tips/"><u>Resolved: Stop R-Type Final N Game From Continuously Crashing on PC with Easy Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/smart-shopping-for-data-stores-the-lowdown-on-price/"><u>Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-for-obtaining-free-visual-aids/"><u>The Blueprint for Obtaining Free Visual Aids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-isnt-my-fallout-n-game-launching/"><u>Troubleshooting Guide: Why Isn't My Fallout N Game Launching?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-silent-mc-fixing-the-lack-of-audio-in-your-pcs-minecraft-game/"><u>Troubleshooting Silent MC: Fixing the Lack of Audio in Your PC's Minecraft Game</u></a></li>
+</ul></div>
 

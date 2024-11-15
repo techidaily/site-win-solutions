@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Organizing Information by Alphabetical Order in MS Excel"
-date: 2024-08-28T05:02:16.099Z
-updated: 2024-08-29T05:02:16.099Z
+date: 2024-11-12T16:09:42.018Z
+updated: 2024-11-15T16:08:01.337Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 Related: [How to Alphabetize Lists and Tables in Microsoft Word](https://instagram-videos.techidaily.com/updated-streamline-media-management-with-top-10plus-free-instagram-to-mp4-converters/) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Table of Contents
 
 * **[Alphabetize a Column in Microsoft Excel](https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/)**
@@ -34,28 +41,24 @@ Related: [How to Alphabetize Lists and Tables in Microsoft Word](https://instagr
 
 ![Select a column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/1-select-column.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Excel's ribbon at the top, click the "Data" tab.
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-excel-data-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Data" tab, under the "Sort & Filter" section, you will find options to alphabetize your data. To sort your data A to Z, click the "AZ" icon. To sort your data Z to A, click the "ZA" icon.
 
 ![Click the "AZ" or "ZA" sort option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-alphabetize-column-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  A "Sort Warning" window will open. This window suggests that you allow Excel to adjust the data in other columns so your data remains intact. Enable the "Expand the Selection" option and then click "Sort."
 
 ![Enable "Expand the Selection" and click "Sort" in the "Sort Warning" window in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-excel-sort-warning.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And instantly, Excel will alphabetize your data in your spreadsheet.
 
@@ -78,16 +81,16 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
 ![Select the table in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-select-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [In Excel's ribbon](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-40c-to-mac-drfone-by-drfone-android/) at the top, click the "Data" tab.
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-data-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Data" tab, under the "Sort & Filter" section, click "Sort."
 
 ![Click "Sort" in the "Sort & Filter" section of the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-sort-excel.png) 
@@ -96,25 +99,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Click "Options" on the "Sort" window in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-sort-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  You will see a "Sort Options" box. Here, select "Sort Left to Right" and click "OK."
 
 ![Select "Sort Left to Right" and click "OK" in the "Sort Options" box in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-sort-left-to-right.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Back on the "Sort" window, click the "Sort By" drop-down menu and select the row which you want to alphabetize. Then click the "Order" drop-down menu and select either "A to Z" or "Z to A" sorting.
 
  Finally, at the bottom of the "Sort" window, click "OK."
 
 ![Configure the sort options on the "Sort" window in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-alphabetize-rows-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And immediately, Excel will alphabetize the selected data in your spreadsheet.
 
 ![An alphabetized row in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-alphabetized-rows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And you're all set.
 
@@ -130,8 +141,6 @@ Related: [How to Sort and Filter Data in Excel](https://facebook-video-share.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +148,26 @@ Related: [How to Sort and Filter Data in Excel](https://facebook-video-share.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-secrets-behind-compelling-captions-for-captivating-tiktok-content/"><u>[New] The Secrets Behind Compelling Captions for Captivating TikTok Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-compelling-videos-youtubes-best-thumbnail-practices/"><u>[Updated] Crafting Compelling Videos YouTube's Best Thumbnail Practices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-paint-a-picture-of-perfection-chromatic-mastery-for-beauty/"><u>[Updated] In 2024, Paint a Picture of Perfection Chromatic Mastery for Beauty</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-scaling-down-obs-video-quality-for-2024/"><u>[Updated] Scaling Down OBS Video Quality for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/addressing-video-lag-on-photo-booth-experience-for-2024/"><u>Addressing Video Lag on Photo Booth Experience for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-photos-to-life-a-detailed-ken-burns-effect-guide/"><u>Bring Your Photos to Life A Detailed Ken Burns Effect Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bust-the-glitch-correcting-gray-zone-warfare-game-crashes-in-windows/"><u>Bust the Glitch: Correcting Gray Zone Warfare Game Crashes in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-to-prevent-deathloop-game-freezing-on-your-computer-or-ps5-console/"><u>Effective Fixes to Prevent Deathloop Game Freezing on Your Computer or PS5 Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-pc-issues-today-with-these-proven-techniques-for-resolving-stray-application-crashes-6-solutions/"><u>Fix Your PC Issues Today with These Proven Techniques for Resolving Stray Application Crashes (6 Solutions)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ on Your Chromecast Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-crashes-in-yakuza-6-the-song-of-life-for-pc-users/"><u>How to Resolve Crashes in Yakuza 6: The Song of Life for PC Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-narzo-n53-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme Narzo N53 online without jailbreak</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone XR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-geforce-update-for-gtx-1060/"><u>Nvidia GeForce Update for GTX 1060</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/psychonauts-2-crashes-heres-your-ultimate-solution-for-a-smooth-pc-gaming-experience/"><u>Psychonauts 2 Crashes? Here's Your Ultimate Solution for a Smooth PC Gaming Experience!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-restoring-outlooks-network-functionality/"><u>Solution Guide: Restoring Outlook's Network Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-apex-legends-fixing-the-elusive-engine-glitch/"><u>Troubleshooting Apex Legends: Fixing the Elusive Engine Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-scavengers-game-freezes-and-crashes-for-pc-users/"><u>Troubleshooting Scavengers Game Freezes & Crashes for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-cant-i-play-step-by-step-solution-for-the-rocket-league-not-starting-error/"><u>Why Can't I Play? Step-by-Step Solution for the Rocket League Not Starting Error</u></a></li>
+</ul></div>
 

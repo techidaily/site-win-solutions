@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Data: A Step-by-Step Guide on Disabling Cell Edits in MS Excel"
-date: 2024-08-28T05:02:01.524Z
-updated: 2024-08-29T05:02:01.524Z
+date: 2024-11-09T16:09:19.907Z
+updated: 2024-11-15T16:13:42.738Z
 tags:
   - excel
 categories:
@@ -28,6 +28,13 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 
  By default, Excel will assume that, when you "protect" a worksheet from editing, you want to prevent any changes to all of its cells. If this is the case, you can skip to the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  How to Disable Cell Lock Protection in Excel
 
  To allow or block changes to cells in Excel, open your Excel workbook to the sheet you're looking to edit.
@@ -38,6 +45,13 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 
 ![To enable or disable lock protection to Excel cells, select the cells you wish to allow changes to, right-click and select the "Format Cells" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Format-Cells-Menu-Option.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Format Cells" menu, select the "Protection" tab. Uncheck the "Locked" checkbox to allow changes to those cells once you've protected your worksheet, then press "OK" to save your choice.
 
 ![In the "Protection" tab, check or uncheck the "Locked" checkbox to enable or disable lock protection for that cell, then press "OK" to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Locked-Cell-Setting.png) 
@@ -45,8 +59,12 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
  With the "Locked" setting removed, the cells you've selected will accept changes when you've locked your worksheet. Any other cells will, by default, block any changes once worksheet protection is activated.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Enabling Worksheet Protection in Excel
 
  Only cells with the "Locked" setting removed will accept changes once worksheet protection is activated. Excel will block any attempt to make changes to other cells in your worksheet with this protection enabled, which you can activate by following the steps below.
@@ -57,9 +75,6 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 
 ![Select Review > Protect Sheet to enable or disable lock protection for your active worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Protect-Sheet-Option.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  In the pop-up menu, you can provide a password to restrict changes to the sheet you're locking, although this is optional. Type a password into the text boxes provided if you want to do this.
 
  By default, Excel will allow users to select locked cells, but no other changes to the cells (including formatting changes) are permitted. If you want to change this, select one of the checkboxes in the section below. For example, if you want to allow a user to delete a row containing locked cells, enable the "Delete Rows" checkbox.
@@ -68,21 +83,29 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 
 ![Select Review > Protect Sheet to enable or disable lock protection for your active worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Protect-Sheet-Option.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you decided to use a password to protect your sheet, you'll need to confirm your changes using it. Type the password you provided into the "Confirm Password" box and press "OK" to confirm.
 
 ![If you're locking an Excel worksheet with a password, confirm the password in the "Confirm Password" box and press "OK" to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Lock-Sheet-Confirm-Password.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you've locked your worksheet, any attempts to make changes to locked cells will result in an error message.
 
 ![An example of an Excel error message following an attempt to edit a locked cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Locked-Cell-Error-Message.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  You'll need to remove the worksheet protection if you wish to make any changes to locked cells afterwards.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How to Remove Worksheet Protection in Excel
 
@@ -90,17 +113,10 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
 
 ![To remove lock protection from an Excel worksheet, press Review > Unprotect Sheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Unprotect-Sheet-Option.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  If your worksheet is protected with a password, confirm the password by typing it into the "Unprotect Sheet" text box, then press "OK" to confirm.
 
 ![Type your password into the "Unprotect Sheet" box, then press "OK" to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Excel-Unprotect-Sheet-Password-Prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  This will remove any restrictions to your worksheet, allowing you to make changes to previously locked cells. If you're a Google Docs user, you can [protect Google Sheets cells from edits](https://win-howtos.techidaily.com/overcoming-windows-11-stalling-during-installation-how-to/) in a similar way.
 
 Related: [How to Protect Cells From Editing in Google Sheets](https://win-howtos.techidaily.com/overcoming-windows-11-stalling-during-installation-how-to/)
@@ -111,8 +127,6 @@ Related: [How to Protect Cells From Editing in Google Sheets](https://win-howtos
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +134,23 @@ Related: [How to Protect Cells From Editing in Google Sheets](https://win-howtos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-step-up-your-game-mastering-the-art-of-capturing-playthroughs/"><u>[New] Step Up Your Game Mastering the Art of Capturing Playthroughs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficient-steps-for-capturing-iphone-screens-for-2024/"><u>[Updated] Efficient Steps for Capturing iPhone Screens for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-through-bug-fixes-stabilizing-xcom-2-performance-on-windows-os/"><u>Battle Through Bug Fixes: Stabilizing XCOM 2 Performance on Windows OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creepy-comic-composer-for-2024/"><u>Creepy Comic Composer for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/decoding-fast-techniques-for-ssgnature-bg-cleansing-for-2024/"><u>Decoding Fast Techniques for Ssgnature Bg Cleansing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-ball-z-mastered-version-of-kakarot-resolving-previous-game-issues/"><u>Dragon Ball Z: Mastered Version of Kakarot - Resolving Previous Game Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-performance-tips-resolving-fps-decrease-and-hitching-problems-in-new-world/"><u>Game Performance Tips: Resolving FPS Decrease and Hitching Problems in New World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-core-ideas-exposed/"><u>Generative AI Simplified: Core Ideas Exposed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-silent-twitch-stream-problems-now-working/"><u>How to Solve Silent Twitch Stream Problems – Now Working!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-we-tackled-and-corrected-the-visual-anomaly-in-rust-environment/"><u>How We Tackled and Corrected the Visual Anomaly in Rust Environment</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-issues-play-age-of-empires-2-flawlessly-on-windows-10/"><u>Overcoming Launch Issues: Play Age of Empires 2 Flawlessly on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-for-digital-age-from-facebook-to-youtube/"><u>Social Media Essentials for Digital Age: From Facebook to YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-slow-origin-expert-tips-to-maximize-download-speeds-this-year/"><u>Solving Slow Origin: Expert Tips to Maximize Download Speeds This Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trimming-unnecessary-processes-in-win10/"><u>Trimming Unnecessary Processes in Win10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-inner-cartoon-best-mobile-apps-for-photo-transformation/"><u>Updated Unleash Your Inner Cartoon Best Mobile Apps for Photo Transformation</u></a></li>
+</ul></div>
 

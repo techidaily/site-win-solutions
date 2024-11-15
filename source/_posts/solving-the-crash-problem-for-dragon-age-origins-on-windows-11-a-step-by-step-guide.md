@@ -1,7 +1,7 @@
 ---
 title: "Solving the Crash Problem for Dragon Age: Origins on Windows 11 - A Step-by-Step Guide"
-date: 2024-08-27T20:21:34.034Z
-updated: 2024-08-28T20:21:34.034Z
+date: 2024-11-13T16:30:47.051Z
+updated: 2024-11-15T16:02:41.262Z
 tags:
   - win11
   - win10
@@ -38,17 +38,28 @@ Check for Windows update on your Windows 10:
 1. Type **update**  in your search box from Start. Then click **Check for updates**  from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e460326b771.png)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46083007b4.png)
 3. Install the available updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Reboot your Windows and try to run your game on Steam to see if it works.
 
 **Note:**  If Windows tells you **Your device is up to date**  after checking, please try our next method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Method 2: Update your video card driver
 
  This problem could be also due to an old or corrupted driver, particularly your video card driver. You could solve it through updating your device driver.
@@ -61,16 +72,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click **Scan Now** . It will quickly detect all drivers problems of your computer. Your video card driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Reboot your Windows and try to run your game on Steam to see if it works.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Verify your game cache files
 
  An corrupted game cache file can also prevent your games from launching properly.
@@ -81,16 +101,10 @@ Follow these to verify your game cache files:
 2. Right-click on your game in the**LIBRARY**  section. Then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46fdf19866.jpg)
 3. Click **VERIFY INTEGRITY OF GAME FILES…**  in **LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e47001401be.png)
 4. It should then begin validating your Steam files and you will see this small window after several minutes:  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4712ae8e78.png)
 5. Reboot your Windows and try to run your game on Steam to see if it works.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Close unnecessary programs
 
@@ -110,9 +124,14 @@ Follow these to verify your game cache files:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Hopefull this post helped you solved the Steam games not launching issue. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -125,8 +144,6 @@ Follow these to verify your game cache files:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +151,22 @@ Follow these to verify your game cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-deciphering-old-facebook-threads-a-step-by-step-mobile-and-desktop-guide/"><u>[New] Deciphering Old Facebook Threads A Step-by-Step Mobile & Desktop Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-instruction-loading-windows-movie-maker-60/"><u>[New] Step-by-Step Instruction Loading Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-c55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme C55 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/behind-the-scenes-look-at-mafia-the-final-cuts-launch-hiccups-now-resolved/"><u>Behind-the-Scenes Look at Mafia: The Final Cut's Launch Hiccups – Now Resolved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-your-game-of-gta-5-just-wont-launch/"><u>Effective Solutions For When Your Game of GTA 5 Just Won't Launch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977081127-get-your-csr-bluetooth-devices-official-drivers-here/"><u>Get Your CSR Bluetooth Device's Official Drivers Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-960-graphics-card-newest-driver-updates/"><u>GTX 960 Graphics Card: Newest Driver Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-a-smooth-launch-top-solutions-for-preventing-street-fighter-6-crashes-on-pc/"><u>How to Ensure a Smooth Launch: Top Solutions for Preventing Street Fighter 6 Crashes on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-your-battlefield-v-from-freezing-on-windows-solutions-for-gamers/"><u>How to Prevent Your Battlefield V From Freezing on Windows - Solutions for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lego-star-wars-the-skywalker-saga-pc-game-no-more-crashes-with-latest-patch-updated/"><u>Lego Star Wars The Skywalker Saga PC Game - No More Crashes with Latest Patch (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-fixing-cyberpunk-2077s-persistent-chilling-glitches/"><u>Solution Found: Fixing Cyberpunk 2077'S Persistent Chilling Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-csgo-launch-failures/"><u>Troubleshooting Steps for Resolving CS:GO Launch Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsung-galaxy-chromebook-an-in-depth-review-and-why-its-a-top-bargain-for-windows-users-insights/"><u>Unveiling Samsung Galaxy Chromebook: An In-Depth Review & Why It's a Top Bargain for Windows Users - Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-os/"><u>Windows OSにおけるグラフィックデバイスドライバーを更新する正しい方法</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Get Past the Block: Steps to Launch Saints Row on Your Desktop Smoothly"
-date: 2024-08-27T20:17:05.508Z
-updated: 2024-08-28T20:17:05.508Z
+date: 2024-11-09T16:06:57.900Z
+updated: 2024-11-15T16:18:56.758Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
@@ -54,8 +61,12 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -86,16 +97,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -126,6 +131,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -134,9 +146,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -147,16 +156,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -179,8 +189,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +196,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-critical-analysis-leading-screencast-applications-of-today/"><u>[Updated] Critical Analysis Leading Screencast Applications of Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smooth-transitions-the-ultimate-guide-for-audio-editors/"><u>[Updated] Smooth Transitions The Ultimate Guide for Audio Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>2024 Approved Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100i-power-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100i Power 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-the-cod-warzone-error-code-0-1766-for-a-seamless-experience-on-console-and-desktop/"><u>Bypassing the COD: Warzone Error Code 0-1766 for a Seamless Experience on Console & Desktop</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-fixing-constant-killing-of-the-game-on-overwatch-2-for-windows-computers/"><u>Guide to Fixing Constant Killing of the Game on Overwatch ^2 for Windows Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-skills-with-the-groundbreaking-destiny-2s-broccoli-confrontation-fix/"><u>Master Your Skills with the Groundbreaking Destiny 2'S Broccoli Confrontation Fix</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-sea-of-data-utilizing-facebooks-transparent-tools/"><u>Navigating the Sea of Data: Utilizing Facebook's Transparent Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-how-to-resolve-discord-overlay-issues-instantly/"><u>Quick Fixes: How to Resolve Discord Overlay Issues Instantly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revolutionize-your-gaming-experience-top-strategies-to-stop-pc-lagging/"><u>Revolutionize Your Gaming Experience: Top Strategies to Stop PC Lagging !</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-ceasing-acer-display-flicker/"><u>Tips for Ceasing Acer Display Flicker</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-ghostrunner-errors-solutions-for-a-smooth-gaming-experience-on-windows-10/"><u>Troubleshooting Ghostrunner Errors: Solutions for a Smooth Gaming Experience on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-constant-freezing-issues-in-ghostwire-tokyo-for-desktop-players/"><u>Troubleshooting Guide: Resolving Constant Freezing Issues in Ghostwire: Tokyo for Desktop Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-solutions-for-a-sluggish-connection/"><u>Troubleshooting Steam: Solutions for a Sluggish Connection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-free-content-creation-blending-text-and-video-for-2024/"><u>Unlocking Free Content Creation Blending Text & Video for 2024</u></a></li>
+</ul></div>
 

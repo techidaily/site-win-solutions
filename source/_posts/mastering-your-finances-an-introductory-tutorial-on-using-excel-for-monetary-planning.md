@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Finances: An Introductory Tutorial on Using Excel for Monetary Planning"
-date: 2024-08-28T05:01:58.998Z
-updated: 2024-08-29T05:01:58.998Z
+date: 2024-11-13T16:18:36.834Z
+updated: 2024-11-15T16:24:44.423Z
 tags:
   - excel
 categories:
@@ -25,9 +25,23 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
  Microsoft wants to make managing your finances easier. Money in Excel allows you to connect your financial, bank, and credit card accounts, view transactions, and budget your money. We'll help you get started!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  UPDATE: 5/31/22
 
  Microsoft has [announced it will shut down "Money in Excel"](https://screen-recording.techidaily.com/new-2024-approved-bifrost-betrayal-gods-at-war/) after June 2023.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is Money in Excel?
 
@@ -44,55 +58,53 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
  To use Money in Excel, you simply need a [Microsoft 365](https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/) Family or Personal subscription in the U.S. and the latest version of Excel 365\. You can use Money in Excel on your desktop or [online](https://www.office.com). Unfortunately, it's not currently available on mobile devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Set Up Money in Excel
 
  To get going, just head to the [Money in Excel](https://www.microsoft.com/en-us/microsoft-365/blog/2020/06/15/introducing-money-excel-easier-manage-finances/) website, click "Download Now," and sign in to your Microsoft account. Click "Download," and then open the downloaded template in Excel. If you prefer to use Excel online, click "Edit in Browser."
 
 ![Click Download for Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/DownloadMoneyInExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A pane should appear at the right of the Excel sheet. If it doesn't, click "Money in Excel" in the ribbon on the "Home" tab. In the pane, you'll see an explanation of the add-in from the Office Store. Click "Trust This Add-In" to continue.
 
 ![Click Trust Add-in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/TrustAddin-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click "Sign In," and then follow the prompts to sign in to your Microsoft account and enable the add-in.
 
 ![Click Trust Add-in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/TrustAddin-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The "Money in Excel" pane will appear. Click "Get Started" and "Sign In" once more.
 
 ![Click Get Started and Sign In](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/GetStartedSignIn-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Click "Add an Account," and then click "Continue" to select your first financial institution. If you don't see the location you want, you can use the Search box at the top to locate it.
 
 ![Click Continue and Select Your Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/ContinueSelectBank-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Type your credentials to log into your financial service, and then click "Submit."
 
 ![Sign In To Your Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SignInToBank-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Depending on the service, you might be asked to verify your identity. Select the account, and then click "Continue." It might take a few minutes for the connection process to complete.
 
 ##  Getting Started with Money in Excel
@@ -114,20 +126,35 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 ![Settings Pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SettingsPane-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To update the information from your accounts, click "Update" at the top of the pane any time (just make sure you have an internet connection).
 
 ![Click Update in the Pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/UpdatePane-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  The Money in Excel Tabs
 
  For a summary of the Money in Excel features, or to find answers to any questions you might have about the setup process, click the "Welcome" or "Instructions" tab in the workbook.
 
 ![Welcome Tab in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/WelcomeTab-MoneyInExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "Snapshot" tab to see graphs, charts, and tables that show breakdowns of your financials.
 
@@ -141,18 +168,12 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 ![Categories Tab in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/CategoriesTab-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Save Your Money in Excel Workbook
 
  The last important part of setting up Money in Excel is to save your workbook. (Remember, the file you download from Microsoft is just a template). To do so, click File > Save As, give your new financial master a meaningful name, and then save it in your preferred location.
 
 ![Save Your Workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SaveWorkbook-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Notes on Using Money in Excel
 
  When you're just setting up Money in Excel, here are a few things to keep in mind:
@@ -168,8 +189,6 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +196,24 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-screen-savers-guide-to-recording-tech-for-2024/"><u>[New] The Screen Saver's Guide to Recording Tech for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-free-time-tracker-a-step-by-step-guide/"><u>[Updated] Mastering FREE Time Tracker A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/analyzing-iphones-latest-features-a-must-upgrade/"><u>Analyzing iPhone's Latest Features: A Must-Upgrade?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/anthem-launch-glitch-discover-how-to-overcome-perpetual-loading-issues/"><u>Anthem Launch Glitch? Discover How to Overcome Perpetual Loading Issues!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-stutter-reflections/"><u>Correcting Windows Stutter Reflections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciphering-the-magic-behind-magixs-pixel-editor/"><u>Deciphering the Magic Behind MAGIX's Pixel Editor</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-age-origins-crashes-in-windows-10-heres-how-to-resolve-it/"><u>Dragon Age: Origins Crashes in Windows 10? Here's How to Resolve It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-play-experience-fixing-frame-rate-issues-with-higher-fps-strategies/"><u>Elevate Your Play Experience: Fixing Frame Rate Issues with Higher FPS Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-past-the-stuck-screen-in-football-manager-2021-solutions-and-tips/"><u>Getting Past the Stuck Screen in Football Manager 2021: Solutions & Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-convert-a-spotify-playlist-to-youtube-music-for-2024/"><u>How to Convert A Spotify Playlist To YouTube Music for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-wwe-2k22-continuous-crashes-expert-tips-and-tricks-for-pc-players/"><u>How to Fix WWE 2K22 Continuous Crashes - Expert Tips & Tricks for PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-your-obs-to-resume-screen-recording-problem-solved/"><u>How to Get Your OBS to Resume Screen Recording: Problem Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-repair-update-apple-authorizes-second-hand-components-for-certain-fixes-tech-news/"><u>IPhone Repair Update: Apple Authorizes Second-Hand Components for Certain Fixes - Tech News</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013524640-key-factors-affecting-esp-performance-such-as-particle-size-distribution-electrical-properties-gas-flow-rates-temperature-and-humidity/"><u>Key Factors Affecting ESP Performance, Such as Particle Size Distribution, Electrical Properties, Gas Flow Rates, Temperature, and Humidity.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-cyberpunk-2077s-gameplay-interruptions-with-our-in-depth-troubleshooting-guide/"><u>Resolve Cyberpunk 2077'S Gameplay Interruptions with Our In-Depth Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tiny-and-tough-the-new-g7x-mark-ii-camera/"><u>Tiny and Tough - The New G7X Mark II Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-11-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 11 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Tricks to Switch Your PC to Dark Mode on Windows 10
-date: 2024-08-28T05:01:50.562Z
-updated: 2024-08-29T05:01:50.562Z
+date: 2024-11-09T16:06:36.896Z
+updated: 2024-11-15T16:28:46.776Z
 tags:
   - excel
 categories:
@@ -26,8 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Windows 10 offers a dark mode that applies a dark mode to apps you get from the Windows Store. It doesn't affect most desktop apps, but we've got some other solutions for those. Here's how to get your whole desktop (or as much as possible) looking dark.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Enable Dark Mode for Windows 10 Settings and Apps
 
  To enable Dark Mode, head to Settings > Personalization > Colors. Select the "Dark" option from the drop-down menu under the "Choose your color" section.
@@ -36,9 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Select "Dark" from the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/change-to-dark-mode.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable Dark Mode in Microsoft Edge
 
  The Microsoft Edge web browser included with Windows 10 also has a dark mode. It is set to Light mode by default, but it can be set to respect the system setting, or be forced to use dark mode.
@@ -48,8 +49,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Click "Appearance", then click "System Default" or "Dark."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/click-appearance-then-click-system-defualt-or-dark.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The title bar, toolbars, and menus for Edge turn dark, but most web pages themselves remain unaffected---unless [that website chooses to respect your dark theme](https://youtube-stream.techidaily.com/2024-approved-mr-beasts-financial-reach/). You'll need a browser extension like [Turn Off the Lights](https://www.microsoft.com/en-us/p/turn-off-the-lights-for-microsoft-edge/9nblggh52lrr#activetab=pivot:overviewtab) to make the whole web dark.
 
  You can also set your theme separately in the Groove music player, Movies & TV video player, and [Photos](https://youtube-zero.techidaily.com/wiftly-uninstalling-youtube-videos-from-devices-for-2024/) apps. However, they'll use your system theme setting by default. You don't have to change the setting manually.
@@ -64,13 +69,30 @@ Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-rec
 
 ![Settings for the Office Suite that let you enable dark mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb524ed07d4a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your theme choice applies to all Office applications. So, if you set this option in Word and later open Excel, Excel should also use a dark theme.
 
 Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.techidaily.com/2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Install Dark Themes for Chrome, Firefox, and Other Applications
 
  Many other Windows desktop applications have their own theming options and engines. For example, Google Chrome will respect the color mode set in the system settings, but you can override it to [install your own themes](https://chrome.google.com/webstore/category/themes). Some of Chrome's dark themes are pretty different from the default dark mode, so if you're looking to add some custom flair, they're worth checking out. [Firefox includes a built-in dark theme you can enable](https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/).
@@ -83,6 +105,13 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
  You'll have to check to see whether the applications you frequently use offer their own theme options.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Enable a Dark Mode for Windows Desktop Applications
 
  The real problem with the new Dark Mode setting is that it doesn't affect all of the Windows desktop applications. Some desktop applications, like Notepad, continue using the normal, light theme.
@@ -91,16 +120,10 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
 ![High contrast settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb525c2a8d34.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Setting this high contrast theme makes most desktop applications show a dark background. However, they don't look all that great. High contrast themes are an accessibility feature designed to increase contrast, so the screen is easier to read and understand. They don't look nearly as slick as a modern dark mode would.
 
 ![Notepad with high contrast mode active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb5259ac28b0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Install Custom Themes and Visual Styles in Windows](https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-14-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/) 
 
  If you want a slicker dark mode for desktop applications that don't change with the system setting, you'll have to resort to a third-party app. While there are a few out there, we're big fans of [WindowBlinds from Stardock](https://www.stardock.com/buy2?s=ESD-SDS-W1241&affiliate=LSM03) (the same company that makes apps like Fences and Start10.) The app costs $9.99, but there's a free 30-day trial, so you can see if it's right for you.
@@ -127,8 +150,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +157,21 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-decoding-fraps-video-capturing-techniques/"><u>[New] Decoding Fraps Video Capturing Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-free-mindfulness-playlist/"><u>2024 Approved Free Mindfulness Playlist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-troubleshooting-techniques-to-stop-robocop-rogue-city-from-crashing-on-your-computer/"><u>DIY Troubleshooting Techniques to Stop 'RoboCop: Rogue City' From Crashing on Your Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/economical-action-filmmaking-gear-for-the-aspiring-pro-for-2024/"><u>Economical Action Filmmaking Gear for the Aspiring Pro for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-markets-leading-karaoke-devices-a-2erious-review/"><u>Exploring the Market's Leading Karaoke Devices - A 2Erious Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-smooth-racing-in-f1-2021-overcoming-the-persistent-pc-crash-problems/"><u>Mastering Smooth Racing in F1 2021: Overcoming the Persistent PC Crash Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-installation-hurdles-effective-remedies-when-your-xbox-game-wont-load/"><u>Overcoming Installation Hurdles: Effective Remedies When Your Xbox Game Won’t Load</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/proven-methods-to-restore-brightness-and-remove-ghostly-traces-from-your-device-display/"><u>Proven Methods to Restore Brightness and Remove Ghostly Traces From Your Device Display</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-error-code-130-solved-learn-how-to-correctly-troubleshoot-this-problem/"><u>Steam Error Code 130 Solved! Learn How to Correctly Troubleshoot This Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-halo-infinite-tackling-the-games-framerate-stutters/"><u>Troubleshooting Halo Infinite - Tackling the Game's Framerate Stutters</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-web-10-free-online-video-compression-tools/"><u>Updated The Best of the Web 10 Free Online Video Compression Tools</u></a></li>
+</ul></div>
 

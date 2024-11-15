@@ -1,7 +1,7 @@
 ---
 title: Top 13 Vital Excel Techniques to Master Data Entry
-date: 2024-08-28T05:01:42.954Z
-updated: 2024-08-29T05:01:42.954Z
+date: 2024-11-11T16:00:17.572Z
+updated: 2024-11-15T16:18:55.289Z
 tags:
   - excel
 categories:
@@ -47,6 +47,13 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![TODAY and NOW functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TodayNow-ExcelDataEntryFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Obtain Parts of a Text String: LEFT, RIGHT, and MID
 
  If you're working with strings of text where you need to obtain part of that string for your entry, you can do so with the LEFT, RIGHT, and MID functions.
@@ -69,14 +76,18 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![RIGHT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Right-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And with this formula, you can obtain the five characters starting with the seventh character in cell A1:
 
 =MID(A1,7,5)
 
 ![MID function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Mid-ExcelDataEntryFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Change the Letter Case: UPPER, LOWER, and PROPER
 
@@ -103,12 +114,12 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![PROPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Proper-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Round Your Numbers: ROUNDUP and ROUNDDOWN
 
  You might have a spreadsheet containing decimal numbers that you prefer to [round up](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/) or down, rather than display the entire string. The ROUNDUP and ROUNDDOWN functions in Excel let you round numbers easily.
@@ -130,13 +141,20 @@ Related: [How to Round Off Decimal Values in Excel](https://instagram-clips.tech
 ![ROUNDDOWN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/RoundDown-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Use a positive number for the `number_digits` argument to round decimal places to the right and a negative number to round decimal places to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove Unnecessary Spaces: TRIM
 
  Maybe you have extra spaces in your cells that you want to remove. The [TRIM function](https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/) eliminates spaces.
@@ -150,8 +168,12 @@ Related: [How to Round Off Decimal Values in Excel](https://instagram-clips.tech
 ![TRIM function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Trim-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To remove the additional spaces in the phrase `" Extra Spaces "` you would use the following formula:
 
 =TRIM("   Extra   Spaces   ")
@@ -172,9 +194,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![IF a value equals function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/IfYes-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For a text example, you can see if a value (A1) is greater than another value (B1) and then return "Over" if it is and "Under" if it isn't.
 
 =IF(A1>B1,"Over","Under")
@@ -182,8 +201,12 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![IF a value is greater than function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/IfOver-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Look Up Values: XLOOKUP
 
  When you need to look up a value or text from another location and enter it in your sheet, the XLOOKUP function is ideal.
@@ -200,9 +223,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![XLOOKUP for one field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/XLookupPhone-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As another example, you can use this formula to find both the phone number and the email address for that customer:
 
 =XLOOKUP(G2,A2:A10,B2:C10)
@@ -210,6 +230,13 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
  Here, we simply expanded the `return` argument to cover each column that includes the phone number and email address (B2:C10). So, the formula provided both results.
 
 ![XLOOKUP for two fields](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/XLookupEmailPhone-ExcelDataEntryFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Data entry is enough of a task on its own. Hopefully, you can make it easier using these Excel data entry functions. Do you have different functions that help you [enter data in Excel](https://instagram-video-files.techidaily.com/new-in-2024-how-to-disable-instagrams-igtv/)? Let us know!
 
@@ -221,8 +248,6 @@ Related: [How to Create a Data Entry Form in Microsoft Excel](https://instagram-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +255,23 @@ Related: [How to Create a Data Entry Form in Microsoft Excel](https://instagram-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-emotion-and-imagination-in-tiktok-creations/"><u>[New] In 2024, Elevate Emotion and Imagination in TikTok Creations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-seamless-system-updates-implementing-macos-sierra-for-2024/"><u>[New] Seamless System Updates Implementing macOS Sierra for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromatic-mastery-image-transformation-techniques/"><u>[Updated] Chromatic Mastery Image Transformation Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-youtube-visibility-crafting-effective-descriptions-and-tags/"><u>[Updated] In 2024, Amplify YouTube Visibility Crafting Effective Descriptions & Tags</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-perfect-start-leading-free-video-openers-listed/"><u>2024 Approved Perfect Start Leading Free Video Openers Listed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007651120-century-age-of-ashes-for-pc-fixed-enjoy-seamless-gameplay-with-no-more-crashes/"><u>Century: Age of Ashes for PC Fixed! Enjoy Seamless Gameplay with No More Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-performance-lag-in-dying-light-game/"><u>How to Fix the Performance Lag in Dying Light Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-through-steam-error-code-130-the-comprehensive-fixes-you-need/"><u>Navigating Through Steam Error Code 130 - The Comprehensive Fixes You Need</u></a></li>
+<li><a href="https://fox-access.techidaily.com/no-hassle-just-happiness-effortless-video-edits-on-windows-10/"><u>No Hassle, Just Happiness Effortless Video Edits on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persona-n-game-updates-how-to-fix-persistent-crashing-problems/"><u>Persona N Game Updates: How to Fix Persistent Crashing Problems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-audience-expansion-without-breaking-the-bank/"><u>Rapid Audience Expansion Without Breaking the Bank</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/scripting-success-in-japanese-characters-mastery/"><u>Scripting Success in Japanese Characters Mastery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-acrocefexe-error-a-step-by-step-guide/"><u>Solving the acrocef.exe Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-stop-resident-evil-4s-revamped-version-from-unexpectedly-stopping/"><u>Step-by-Step Solution to Stop Resident Evil 4'S Revamped Version From Unexpectedly Stopping</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-romer-rechargeable-flashlights-assessed-a-durable-battery-free-light-solution/"><u>Top Romer Rechargeable Flashlights Assessed: A Durable, Battery-Free Light Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-sea-of-thieves-overcoming-persistent-load-issues/"><u>Troubleshooting Sea of Thieves: Overcoming Persistent Load Issues</u></a></li>
+</ul></div>
 

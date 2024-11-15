@@ -1,7 +1,7 @@
 ---
 title: "Quiet Your TikTok Experience: A Guide to Expertly Muting Videos with 3 Simple Tricks"
-date: 2024-10-28T22:35:04.770Z
-updated: 2024-11-05T04:17:54.923Z
+date: 2024-11-09T16:23:07.122Z
+updated: 2024-11-15T16:08:40.362Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d59266d824622e9ec9a5bd6e401.jpg
@@ -184,6 +184,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -222,25 +229,11 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -249,13 +242,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -274,6 +260,13 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -298,6 +291,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -326,13 +326,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -367,10 +360,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
@@ -446,13 +439,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -465,6 +451,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -498,10 +491,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -528,10 +521,10 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -543,6 +536,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -601,20 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-reach-new-heights-in-youtube-seo-top-tips-and-tricks/"><u>[Updated] 2024 Approved Reach New Heights in YouTube SEO Top Tips and Tricks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-capture-cumulative-chronicles-for-2024/"><u>[Updated] Capture Cumulative Chronicles for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-4k-laptop-choices-for-gamers/"><u>2024 Approved Premier 4K Laptop Choices for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/file-download-voice-track-analysis-for-2024/"><u>File Download Voice Track Analysis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-a-devices-driver-to-load-on-your-win11-pc/"><u>How to Enable a Device's Driver to Load on Your Win11 PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-xcom-2-crashing-problems-in-windows-effectively/"><u>How to Overcome XCOM 2 Crashing Problems in Windows Effectively</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-your-gameplay-strategies-for-improving-frame-rates-and-minimizing-lag-in-watch-dogs-legion/"><u>Optimize Your Gameplay: Strategies for Improving Frame Rates and Minimizing Lag in Watch Dogs: Legion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pathfinder-wrath-of-the-righteous-stuck-or-frozen-during-gameplay-pc-fixes/"><u>Pathfinder: Wrath of the Righteous Stuck or Frozen During Gameplay - PC Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-itel-a60-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Itel A60</u></a></li>
-<li><a href="https://facebook.techidaily.com/preemptive-actions-for-recovering-a-breached-social-media-account/"><u>Preemptive Actions for Recovering a Breached Social Media Account</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/speed-up-your-storytelling-how-to-create-engaging-time-lapse-videos-for-2024/"><u>Speed Up Your Storytelling How to Create Engaging Time Lapse Videos for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-eliminating-frustration-from-forza-horizon-problems-answer/"><u>Top Tips: Eliminating Frustration From Forza Horizon # Problems # Answer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uncover-the-secrets-to-restoring-skyrims-lost-soundtracks-and-voices/"><u>Uncover the Secrets to Restoring Skyrim's Lost Soundtracks and Voices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/update-fix-implemented-for-previous-online-sign-in-problems/"><u>Update: Fix Implemented for Previous Online Sign-In Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>[Updated] 2024 Approved Pioneering Pixels Select the Leading Video Editors for Big Sur</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-efficient-flow-of-content-tiktok-to-your-fb-profile/"><u>[Updated] 2024 Approved The Efficient Flow of Content TikTok to Your FB Profile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-visual-snips-tool/"><u>[Updated] 2024 Approved Visual Snips Tool</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-budget-analysis-spending-for-translating-tunes-into-videos-for-2024/"><u>[Updated] Budget Analysis Spending for Translating Tunes Into Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-collection-highest-ranking-8-4k-players-for-2024/"><u>[Updated] Ultimate Collection Highest Ranking 8 4K Players for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-codecs-comparison-choosing-between-av1-and-vp9/"><u>2024 Approved Cutting-Edge Codecs Comparison Choosing Between Av1 & VP9</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-fix-for-when-you-cant-find-the-msvcr110dll-in-helldivers-2/"><u>Complete Fix for When You Can't Find the MSVCR110.dll in Helldivers 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-the-failed-anticheat-connection-error-in-escape-from-tarkov-gameplay/"><u>Comprehensive Fix for the 'Failed Anticheat Connection' Error in Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-data-evolution-understanding-ais-transfer-learning-processes/"><u>Decoding Data Evolution: Understanding AI's Transfer Learning Processes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-guide-overcoming-the-obstacle-of-outlook-not-starting-properly/"><u>Easy Guide: Overcoming the Obstacle of Outlook Not Starting Properly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-valorant-experience-with-these-high-performance-tweaks-to-combat-low-fps-202n-edition/"><u>Elevate Your Valorant Experience with These High-Performance Tweaks to Combat Low FPS (202N Edition)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-trouble-heres-how-to-stop-pc-game-crashes-in-5-easy-steps/"><u>Guilty Gear Strive Trouble? Here's How to Stop PC Game Crashes in 5 Easy Steps!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>In 2024, The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-game-freezes-optimizing-your-pc-to-play-assassins-creed-odyssey-smoothly-updated-guide/"><u>Overcome Game Freezes: Optimizing Your PC to Play Assassin’s Creed Odyssey Smoothly (Updated Guide)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-overcoming-persistent-failures-with-lunar-application-on-pc/"><u>Troubleshooting Guide: Overcoming Persistent Failures with Lunar Application on PC</u></a></li>
 </ul></div>
 

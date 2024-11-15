@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Sims 4 Gameplay: Ultimate Fixes for PC Lag Issues (Pro Tips 2024)"
-date: 2024-08-27T20:18:21.198Z
-updated: 2024-08-28T20:18:21.198Z
+date: 2024-11-14T16:12:06.886Z
+updated: 2024-11-15T16:04:39.228Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Recommended requirements for PUBG
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Install the latest patch
 
  PUBG keeps releasing its patches in order to fix some bugs. So you can install the new patches to keep your game up to date on the[Patch Note](https://lite.pubg.com/category/patch-note/) page.
@@ -61,6 +68,13 @@ Recommended requirements for PUBG
  If you’re using an outdated or faulty graphics driver, your game would probably be freezing. To enjoy your game to the fullest, you should update your graphics driver. This can make a great difference especially if you can’t remember when was the last time you updated your drivers.
 
  There are mainly two options you can take to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -80,9 +94,6 @@ Recommended requirements for PUBG
 
 ![automatically update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -98,8 +109,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Disable overclocking
 
  If you’re using MSI Afterburner or other GPU tweaking programs, you cannot play your game smoothly. The game engine doesn’t really support cards that are overclocked. And overclocking can be causing game instability and thus the game might crash. So to fix it, you should disable it.
@@ -122,12 +137,6 @@ Here is how to enable this plan:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to do if you don’t see the Ultimate Performance plan
 
  If you can’t see the**Ultimate Performance** plan on the settings, you can add it with the Command Prompt.
@@ -139,15 +148,39 @@ The steps are as follows:
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-3-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the prompt, type the following command lines and hit**Enter** .
 
  **powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61**
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete temp files
 
@@ -159,16 +192,17 @@ The steps are as follows:
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Select all the files in the folder and delete them.
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-3-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After that, relaunch PUBG and hopefully, the freezing issue should be resolved.
 
  If the freezing issue persists, it’s high time you check if you have **corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
@@ -183,14 +217,8 @@ The steps are as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Turn off VSync
 
  When VSync is enabled, your game might be less responsive. So you can turn it off to boost your game performance. Take NVIDIA as an example:
@@ -216,8 +244,6 @@ The steps are as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +251,24 @@ The steps are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-create-a-facebook-account/"><u>[Updated] 2024 Approved How to Create a Facebook Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-how-to-upload-srt-files-to-social-media-100-working-methods/"><u>2024 Approved How to Upload SRT Files to Social Media (100% Working Methods)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-techniques-to-fix-warzone-pc-freezing-top-strategies-for-smooth-combat-performance/"><u>2024 Techniques to Fix Warzone PC Freezing – Top Strategies for Smooth Combat Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-models-for-enhanced-mobile-gaming-performance/"><u>Best iPhone Models for Enhanced Mobile Gaming Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-solutions-overcoming-the-warzone-memory-error-on-xbox-and-pc-platforms/"><u>Complete Solutions: Overcoming the 'Warzone Memory Error' On Xbox & PC Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/explore-free-options-10-leading-mac-artists-preferences/"><u>Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-kernelbasedll-faults-instantly-a-simple-guide/"><u>Fix KernelBase.dll Faults Instantly: A Simple Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-game-from-crashing-fixes-for-mass-effect-legendary-edition-on-pc-and-xbox/"><u>How to Stop Your Game From Crashing: Fixes for Mass Effect Legendary Edition on PC & Xbox</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>In 2024, Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/innovating-your-gaming-experience-capturing-ps3-playthroughs/"><u>Innovating Your Gaming Experience Capturing PS3 Playthroughs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mafia-definitive-edition-delayed-get-the-latest-updates/"><u>Mafia: Definitive Edition Delayed - Get the Latest Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-10-series-driver-installation-guide-for-new-windows-11-users-effortless-downloads/"><u>NVIDIA 10 Series Driver Installation Guide for New Windows 11 Users: Effortless Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utionize-your-youtube-presence-with-personalized-thumbnails-for-2024/"><u>Revolutionize Your YouTube Presence with Personalized Thumbnails for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-update-problems-for-minecrafts-official-app-on-your-device/"><u>Solving Update Problems for Minecraft's Official App on Your Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-techniques-for-smoother-game-runs-on-pc-fixing-stutter-in-fortnight-battles/"><u>Tips and Techniques for Smoother Game Runs on PC - Fixing Stutter in Fortnight Battles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforme-seus-filmes-do-mp4-para-wmv-eficientemente-usando-a-ferramenta-de-conversao-movavi/"><u>Transforme Seus Filmes Do MP4 Para WMV Eficientemente Usando a Ferramenta De Conversão Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solutions-for-gta-5-game-crash-issues/"><u>Troubleshooting & Solutions for GTA 5 Game-Crash Issues</u></a></li>
+</ul></div>
 

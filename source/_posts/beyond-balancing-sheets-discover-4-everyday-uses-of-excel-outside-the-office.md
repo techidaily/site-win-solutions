@@ -1,7 +1,7 @@
 ---
 title: "Beyond Balancing Sheets: Discover 4 Everyday Uses of Excel Outside the Office"
-date: 2024-08-28T05:02:07.413Z
-updated: 2024-08-29T05:02:07.414Z
+date: 2024-11-12T16:00:35.726Z
+updated: 2024-11-15T16:28:48.980Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 * [Tracking My Weight (I’m on a Diet!)](https://www.howtogeek.com/excel-isnt-just-for-accountants-ways-i-use-it-in-my-daily-life/#tracking-my-weight-i-rsquo-m-on-a-diet)
 
  Excel is often seen as a complicated program for highly trained accountants, but this isn't necessarily the case. I use Excel daily to keep track of my budgeting, choose the ideal vacation destination, track my team's sports stats, and keep an eye on my weight-loss progress... and you can too!
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  1\. Budgeting
 
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 =SUM(H2-H1)
 
 ![An Excel budgeting spreadsheet with today's date, the end of the month, and the days remaining.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/budgeting-2-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We're now ready to populate column D. In cell D2, type
 
@@ -92,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  You now have a complete monthly budgeting spreadsheet. Simply duplicate the sheet each month to set up a new budget. Then, amend that month's payment details, change the last day of the month in cell H2, and keep your bank balance updated.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  2\. Vacation Destinations With Different Criteria
 
  With so many options for different vacation destinations, Excel can help you keep these in order. Yes, there are websites that can help you with some criteria, but how about those specific elements that matter to you, such as property with a fireplace, or a region with a dark sky for those of you who love stargazing? Whatever it is you're looking for, use Excel to whittle down your options without having to pay that extra percentage for third-party booking commissions.
@@ -111,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 * Color code: As an avid stargazer, I use a [light pollution map](https://www.lightpollutionmap.info/) to find out whether there's a good chance of seeing the Milky Way. I then use Excel's color fill to match the cell color with the light pollution indicator. Blues on the map represent little light pollution, while yellows and oranges represent heavy light pollution. I can then filter column H by color to see which properties are likely to offer the best skies.
 * [Notes](https://video-screen-grab.techidaily.com/how-to-expertly-archive-your-favorite-streamed-shows-hulu-for-2024/): Notice the red markers on cells B14 and B17\. These show that I've added a note to that cell that I didn't want to add as an extra column to the spreadsheet. For example, in B14, I made a note that the minimum stay at that property is five nights. To do this, simply right-click the relevant cell, and click "New Note."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  3\. Tracking My Sports Team’s Stats
 
  This is my favorite Excel workbook. Like with most spreadsheets, they started off really simple, and I've gradually added to them over time.
@@ -122,25 +130,30 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 ![An Excel spreadsheet containing players' details for each game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/player-game-details.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see in the screenshot above, I've used [conditional formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/) to automatically apply color to cells based on their values (such as red for L, yellow for D, and green for W). To do this, I selected the whole of column D, opened "Conditional Formatting" in the Home tab, and clicked "New Rule." I then clicked "Format Only Cells That Contain" and completed the details of the rule in the easy-to-follow dialog box.
 
 ![An Excel sheet showing player stats, and conditional formatting used to display data bars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/player-stats.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On this sheet, I've used an in-built conditional formatting rule to create data bars. I selected column B, clicked "Conditional Formatting" in the Home tab, and hovered over "Data Bars." I could then choose the data bar type that best aligned with my spreadsheet's formatting. Then, I used the Format Painter tool to apply the same rules to the other columns, alternating between blue and green for clarity.
 
 ![An Excel dashboard containing four charts based on data on the other sheets in the workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dashboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  My sports team tracking workbook contains 12 tabs overall, so I created a dashboard sheet that pulls together the key information in chart form in one place. Click the "+" at the bottom of your workbook to add a new sheet, and double-click the new tab to rename it **Dashboard**. Then, use the Charts group in the Insert tab on the ribbon to [choose different graphs](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) that will work well for your data. Finally, you can [format your data labels](https://win11.techidaily.com/new-era-of-connectivity-windows-for-iphones-ipads-and-pcs-just-dropped/) and chart colors to make them look exactly how you want, and [hide the gridlines](https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/) to add that extra presentational touch to your dashboard.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  4\. Tracking My Weight (I’m on a Diet!)
 
  Who knew that Excel could be a weight-loss motivator?
@@ -148,8 +161,12 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![An Excel sheet with a table on the left containing date, weight, and target values, and a line chart on the right displaying the data in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/weight-tracking.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Using Excel's formatted table function and line chart, I created a spreadsheet to track my weight and show me how close to my target I am getting:
 
 1. Start by creating a table by typing **Date**, **Weight**, and **Target** into cells A1, B1, and C1, respectively. Once you have your first row of data, highlight all the cells in the table (including the headers), and head to the Home tab. From there, in the Styles group, click "Format As Table," and check the "My Table Has Headers" box.
@@ -171,8 +188,6 @@ ending
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +195,20 @@ ending
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-comprehensive-angles-in-filming-versus-diverse-dimensions-for-2024/"><u>[New] Comprehensive Angles in Filming versus Diverse Dimensions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-screencast-champions-revealed/"><u>[Updated] 2024 Approved Windows Screencast Champions Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-tips-for-gameplay-screen-captures-on-xbox-one/"><u>[Updated] In 2024, Essential Tips for Gameplay Screen Captures on Xbox One</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-no-fuss-trick-for-clownfish-tone-change-in-windows-domain-for-2024/"><u>[Updated] No-Fuss Trick for Clownfish Tone Change in Windows Domain for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/accelerated-record-functionality-and-narrator-support/"><u>Accelerated Record Functionality & Narrator Support</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988247447-dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-eradicated-common-causes-of-black-screens-on-electronics/"><u>Expert Tips: Eradicated Common Causes of Black Screens on Electronics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722995035220-immediate-fixes-for-combat-arms-delays-streamlined-approach/"><u>Immediate Fixes for Combat Arms Delays - Streamlined Approach</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-stabilizing-forza-horizon-5-performance-on-personal-computers/"><u>Step-by-Step Guide: Stabilizing Forza Horizon 5 Performance on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-stop-v-rising-from-freezing-or-crashing/"><u>Step-by-Step Solutions to Stop V Rising From Freezing or Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warno-not-working-properly-on-pc-here-are-solutions-to-stabilize-your-gameplay/"><u>Warno Not Working Properly on PC? Here Are Solutions to Stabilize Your Gameplay</u></a></li>
+</ul></div>
 

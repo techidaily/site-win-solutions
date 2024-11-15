@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Launching The Witcher 3 Game - Expert Guide
-date: 2024-08-27T20:16:42.442Z
-updated: 2024-08-28T20:16:42.442Z
+date: 2024-11-11T16:19:30.725Z
+updated: 2024-11-15T16:05:27.105Z
 tags:
   - win11
   - win10
@@ -54,15 +54,9 @@ Here’s how you can check the file integrity on Steam:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
@@ -76,11 +70,26 @@ Here’s how you can check the file integrity on Steam:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -91,8 +100,12 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -103,13 +116,14 @@ Here’s how you can check the file integrity on Steam:
 3. Open the Resident Evil 5 folder and paste the patch files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -120,12 +134,23 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -138,8 +163,6 @@ Here’s how you can check the file integrity on Steam:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +170,26 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-youtube-cards-and-tags/"><u>[New] In 2024, Navigating YouTube Cards and Tags</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-tall-videos-editing-vertical-media-for-impactful-insta-feeds-for-2024/"><u>[New] The Art of Tall Videos Editing Vertical Media for Impactful Insta Feeds for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/5-dynamic-fitness-series-ideas-to-enhance-viewer-retention/"><u>5 Dynamic Fitness Series Ideas to Enhance Viewer Retention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-artificular-intelligence-discover-15-no-cost-on-demand-online-classes-curated-by-lifewire/"><u>Dive Into Artificular Intelligence: Discover 15 No-Cost, On-Demand Online Classes Curated by Lifewire</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-content-caution-alerts-during-voice-communication-failures/"><u>How to Solve Content Caution Alerts During Voice Communication Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-far-cry-6-game-from-crashing-on-your-computer-solutions-and-guides/"><u>How To Stop Far Cry 6 Game From Crashing on Your Computer - Solutions & Guides</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-stability-effective-ways-to-stop-counter-strike-2-from-crashing-on-your-windows/"><u>Master the Art of Stability: Effective Ways to Stop Counter-Strike 2 From Crashing on Your Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/restoring-your-broadcast-essential-steps-for-uninterrupted-fb-live-for-2024/"><u>Restoring Your Broadcast Essential Steps for Uninterrupted FB Live for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008618059-solve-cs-go-not-starting-discover-effective-strategies-here/"><u>Solve CS: GO Not Starting? Discover Effective Strategies Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-discord-not-responding-dilemma-a-comprehensive-guide/"><u>Solving the 'Discord Not Responding' Dilemma - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-preventing-fifa-20-from-crashing-on-pcs/"><u>Step-by-Step Solution for Preventing FIFA 20 From Crashing on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-flat-text-into-sculptable-3d-characters-for-2024/"><u>Transforming Flat Text Into Sculptable 3D Characters for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992341431-trouble-getting-frontiers-of-pandora-running-this-article-has-the-answers-you-need/"><u>Trouble Getting 'Frontiers of Pandora' Running? This Article Has the Answers You Need</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985347971-trouble-with-nier-gestaltreplicant-remaster-heres-what-to-do/"><u>Trouble with NieR Gestalt/Replicant Remaster? Here's What To Do!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6s-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6s Plus</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-how-to-fix-minecrafts-endless-loading-screen/"><u>Troubleshooting Tips: How to Fix Minecraft's Endless Loading Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-safeguarding-your-windows-machine-with-five-proven-security-techniques/"><u>Ultimate Guide: Safeguarding Your Windows Machine with Five Proven Security Techniques</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289535118-winx-dvd/"><u>무료 WinX DVD 리퍼 및 비디오 컨버터 소프트웨어 - 제공자에게서 쉽거나</u></a></li>
+</ul></div>
 

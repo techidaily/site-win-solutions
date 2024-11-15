@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Fix PC Instability in Marvel's Guardians of the Galaxy"
-date: 2024-08-27T20:15:28.546Z
-updated: 2024-08-28T20:15:28.546Z
+date: 2024-11-12T16:10:55.182Z
+updated: 2024-11-15T16:35:44.383Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -52,7 +59,22 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -60,9 +82,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -77,15 +96,16 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -93,19 +113,10 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -125,8 +136,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +143,26 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfect-panning-leading-stabilizers-unveiled/"><u>[New] 2024 Approved Perfect Panning Leading Stabilizers Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-chatter-on-the-hottest-tiktoks/"><u>[New] In 2024, Twitter Chatter on the Hottest TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>[New] In 2024, Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>[Updated] 2024 Approved Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-detailed-razer-kiyo-webcam-insights-for-2024/"><u>[Updated] Detailed Razer Kiyo Webcam Insights for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fading-out-sounds-effectively-using-lumafusion/"><u>[Updated] Fading Out Sounds Effectively Using Lumafusion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997629304-battle-against-halo-infinite-crashing-on-your-computer-try-our-easy-steps/"><u>Battle Against Halo Infinite Crashing on Your Computer? Try Our Easy Steps!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-affordable-pc-cases-and-accessories-under-100-for-2024/"><u>Best Affordable PC Cases & Accessories (Under $100) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-fps-resolved-glitches-and-issues/"><u>COD: Modern Warfare FPS - Resolved Glitches & Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-armored-core-vi-boot-troubles-effective-solutions-for-launching-fires-of-rubicon-successfully/"><u>Fix Your Armored Core VI Boot Troubles: Effective Solutions for Launching Fires of Rubicon Successfully</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c02-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C02 to Another | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-edge-stability-issues-resolved-tips-for-windows-10-users/"><u>Microsoft Edge Stability Issues Resolved: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-troubleshooting-solving-the-error-code-727e66ac-challenge/"><u>NBA 2K24 Troubleshooting: Solving the Error Code 727E66AC Challenge</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-guide-resolving-everspace-2-game-crashes-effectively/"><u>PC Troubleshooting Guide: Resolving Everspace 2 Game Crashes Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-msi-afterburner-not-recognizing-gpu-error-in-windows-11/"><u>Step-by-Step Fix for 'MSI Afterburner Not Recognizing GPU' Error in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-house-flipper-2-crashes-on-windows/"><u>Troubleshooting Guide: Resolving 'House Flipper 2' Crashes on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-mats-recommendations/"><u>Ultimate Gaming Mats Recommendations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-without-limits-the-top-10-free-online-video-editors/"><u>Updated In 2024, Edit Without Limits The Top 10 Free Online Video Editors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-isnt-football-manager-2022-out-yet-and-how-to-successfully-launch-it-now/"><u>Why Isn't Football Manager 2022 Out Yet? And How to Successfully Launch It Now</u></a></li>
+</ul></div>
 

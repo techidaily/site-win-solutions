@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Roblox's Startup Challenges: A Comprehensive Guide for Players"
-date: 2024-08-27T20:18:32.052Z
-updated: 2024-08-28T20:18:32.052Z
+date: 2024-11-09T16:08:16.674Z
+updated: 2024-11-15T16:05:56.795Z
 tags:
   - win11
   - win10
@@ -42,14 +42,18 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update your graphics drivers
 
  It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
 
 There are mainly two ways for you to update your graphics driver:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -60,12 +64,12 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -80,16 +84,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Verify the game files
 
  To make sure there are no corrupted or missing files, you can check the integrity of the game files. Here’s how to do it:
@@ -101,9 +99,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Play the game in windowed mode
 
@@ -118,8 +127,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Run your game as an administrator
 
  Persona 5 Strikers may not work properly if it lacks administrative rights. To make sure your game has full access to the game files, you can run the game as an administrator and launch your game from the installation folder.
@@ -129,15 +142,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 6\. Tweak some settings in NVIDIA Control Panel
 
  Some find turning off Triple Buffering and setting Low Latency Mode to Ultra help them reduce Persona 5 Strikers crashing. Here’s how to do it:
@@ -167,8 +190,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +197,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[New] In 2024, How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-by-step-screen-recording-in-win10-gaming/"><u>[New] In 2024, Step-by-Step Screen Recording in Win10 Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-essential-youtube-equipment-for-starting-your-channel/"><u>2024 Approved Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-enhances-binge-watching-the-ups-and-downs-while-viewing-my-cherished-show/"><u>Apple Vision Pro Enhances Binge-Watching: The Ups and Downs While Viewing My Cherished Show</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004429646-banish-installation-problems-enjoy-playing-minecraft-on-windows-11-today/"><u>Banish Installation Problems: Enjoy Playing Minecraft on Windows 11 Today!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-free-data-rescue-applications-for-easy-retrieval-latest-picks/"><u>Best Free Data Rescue Applications for Easy Retrieval - Latest Picks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997007037-end-game-crashes-in-ghost-recon-breakpoint-find-out-how-to-fix-them-fast/"><u>End Game Crashes in Ghost Recon Breakpoint? Find Out How to Fix Them Fast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-directx-issue-a-complete-guide-to-enhance-your-fifa-20-gaming-experience/"><u>Fixing the DirectX Issue – A Complete Guide to Enhance Your FIFA 20 Gaming Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-seconds-needed-to-watch-an-hd-20mb-video/"><u>In 2024, Seconds Needed to Watch an HD 20MB Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-crash-issues-solutions-for-a-smoother-insurgency-sandstorm-experience/"><u>Overcome Crash Issues - Solutions for a Smoother 'Insurgency: Sandstorm' Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-initialization-errors-in-pathfinder-wrath-of-the-righteous-for-seamless-gaming-experience/"><u>Overcoming Initialization Errors in Pathfinder: Wrath of the Righteous for Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-in-cyberpunk-2077-for-pc-users-troubleshooting-guide-for-windows-10-audio-issues/"><u>Restoring Soundscape in Cyberpunk 2077 for PC Users: Troubleshooting Guide for Windows 10 Audio Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-chatgpt-app-on-iphone-top-9-strategies-to-get-it-running-smoothly-again/"><u>Revive Your ChatGPT App on iPhone: Top #9 Strategies to Get It Running Smoothly Again</u></a></li>
+</ul></div>
 

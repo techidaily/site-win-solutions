@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Manor Lords' Game Crashes on Your Windows Machine: A Step-by-Step Guide"
-date: 2024-08-27T20:19:41.214Z
-updated: 2024-08-28T20:19:41.214Z
+date: 2024-11-10T16:14:32.226Z
+updated: 2024-11-15T16:31:00.621Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 
  If MC crashes when you’re not running any offending programs, simply take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**broken or outdated graphics driver** . New drivers tackle compatibility issues and offer a zero-cost performance boost. So before attempting anything more complicated, definitely check if your GPU driver is up to date.
@@ -50,9 +47,14 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -61,6 +63,19 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
  After updating your drivers, restart your PC and check if Minecraft crashes again.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your Java is up to date
 
@@ -77,13 +92,12 @@ If the issue persists, you can try the next fix below.
  If Minecraft crashes when you’re not using any mods, take a look at the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  We all have different computer specs and desktop setup, so it’s hard to determine what’s causing the error. But doing a clean boot allows your computer to start with only the essential programs and services, which will in a sense help you root out the offenders.
@@ -91,21 +105,20 @@ If the issue persists, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -113,20 +126,21 @@ If the issue persists, you can try the next fix below.
 
 If this fix doesn’t help you, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Minecraft completely
 
  If none of the fixes above can stop the crash, you should consider reinstalling Minecraft completely. When you’re doing this, you can back up your**.minecraft** folder which can be accessed by typing**%appdata%** in the address bar in File Explorer. By the way, make sure you’ve deleted **[options.txt](https://www.minecraftforum.net/forums/support/java-edition-support/3038499-minecraft-problem-to-launch-exit-code-0#c3)**  insider the**.minecraft** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/minecraft-options-txt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **.minecraft** Folder
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check if your system is corrupted
 
  If you tried all the fixes above and none seem to work, this could imply a bigger issue with you system. But instead of reinstalling Windows, you can first use a repair tool to scan for potential issues.
@@ -138,6 +152,13 @@ If this fix doesn’t help you, simply move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -155,8 +176,6 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +183,22 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-enhancing-media-top-5-streamlining-gadgets/"><u>[New] In 2024, Enhancing Media Top 5 Streamlining Gadgets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-inside-the-cut-an-in-depth-look-at-d500-4k/"><u>[Updated] 2024 Approved Inside the Cut An In-Depth Look at D500 4K</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highlights-of-excellence-top-15-unboxing-youtubers-for-the-year-2024/"><u>[Updated] Highlights of Excellence Top 15 Unboxing Youtubers for the Year, 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers/"><u>[Updated] In 2024, Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-engine-hiccups-top-solutions-for-eliminating-game-bugs-and-crashes/"><u>Apex Legends Engine Hiccups - Top Solutions for Eliminating Game Bugs and Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-prophecy-powers-how-does-chatgpt-stack-up-against-magazine-astrology/"><u>Comparing Prophecy Powers: How Does ChatGPT Stack Up Against Magazine Astrology?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-gaming-with-the-titan-army-p2-groggy180hz-a-detailed-performance-evaluation/"><u>Experience Unmatched Gaming with the Titan Army P2 Groggy180Hz - A Detailed Performance Evaluation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-solutions-for-the-notorious-terraria-crash-issue-get-rid-of-it-now/"><u>Expert Solutions for the Notorious Terraria Crash Issue - Get Rid of It Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-non-loading-pages-in-google-chrome-browser/"><u>Fixing Non-Loading Pages in Google Chrome Browser</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/marvel-gamers-rejoice-fix-these-crashes-in-guardians-of-the-galaxy-for-pc/"><u>Marvel Gamers Rejoice! - Fix These Crashes in Guardians of the Galaxy for PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-alan-wake-2-stability-fix-your-game-crash-issues-now/"><u>Master Alan Wake 2 Stability: Fix Your Game Crash Issues Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-tailoring-security-for-kids/"><u>PlayStation 5: Tailoring Security for Kids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-windows-gameplay-glitches-stabilize-your-games-on-w10w11/"><u>Resolving Window's GamePlay Glitches: Stabilize Your Games on W10/W11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-11-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 11 You Should Try Out</u></a></li>
+</ul></div>
 

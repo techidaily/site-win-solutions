@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Counting Actively Used Sheets in Microsoft Excel"
-date: 2024-08-28T05:02:03.883Z
-updated: 2024-08-29T05:02:03.883Z
+date: 2024-11-13T16:21:52.717Z
+updated: 2024-11-15T16:19:30.738Z
 tags:
   - excel
 categories:
@@ -53,8 +53,6 @@ If you have large workbooks with a lot of formulas on the worksheets, recalculat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +60,27 @@ If you have large workbooks with a lot of formulas on the worksheets, recalculat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air/"><u>[New] In 2024, Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] High-Quality YouTube Images Download Without Any Cost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficiently-setting-up-mixer-on-macos/"><u>2024 Approved Efficiently Setting Up Mixer on MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-best-love-stories-perfectly-captured-weddings/"><u>2024 Approved YouTube's Best Love Stories Perfectly Captured Weddings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-quest-xi-stability-hacked-resolving-game-crashes-effectively/"><u>Dragon Quest XI Stability Hacked - Resolving Game Crashes Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-stabilizing-your-star-wars-jedi-fallen-order-experience-on-windows-1011/"><u>Expert Tips & Tricks: Stabilizing Your Star Wars Jedi: Fallen Order Experience on Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-tool-transform-avi-files-into-ogv-format-move-avni/"><u>Free Conversion Tool: Transform AVI Files Into OGV Format - Move Avni</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-game-on-expert-tips-to-resolve-persistent-warframe-launch-problems/"><u>Get Your Game On! Expert Tips to Resolve Persistent Warframe Launch Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-crashing-problems-in-century-age-of-ashes-for-windows/"><u>How to Resolve Crashing Problems in Century: Age of Ashes for Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-no-update-understanding-the-pause/"><u>Rainbow Six Siege: No Update - Understanding the Pause</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2511182-9781785352720-too-simple-for-words/"><u>Too Simple for Words | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-resolving-bungies-destiny-2-connection-errors/"><u>Troubleshooting Tips for Resolving Bungie's Destiny ^2 Connection Errors</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

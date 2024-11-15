@@ -1,7 +1,7 @@
 ---
 title: "Excel 2013 Guide: Customizing Key Combinations for Symbol Input"
-date: 2024-08-28T05:02:09.745Z
-updated: 2024-08-29T05:02:09.745Z
+date: 2024-11-13T16:27:56.570Z
+updated: 2024-11-15T16:16:55.571Z
 tags:
   - excel
 categories:
@@ -75,8 +75,6 @@ We’ve previously shown you how to [add keyboard shortcuts to symbols in Word 2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +82,24 @@ We’ve previously shown you how to [add keyboard shortcuts to symbols in Word 2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-note-50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Note 50 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>In 2024, Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 6 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovating-your-viewing-experience-android-and-vr-videos-for-2024/"><u>Innovating Your Viewing Experience Android & VR Videos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-launch-issues-playing-forza-horizon-4-smoothly-in-the-year-2024/"><u>Overcome Launch Issues: Playing Forza Horizon 4 Smoothly in the Year 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-minecraft-game-crashes-overcome-2024s-notorious-black-screen-woes/"><u>Resolve Your Minecraft Game Crashes: Overcome 2024'S Notorious Black Screen Woes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-get-your-steam-friends-network-back-online-and-functioning/"><u>Steps to Get Your Steam Friends Network Back Online and Functioning</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-nba-2k24-error-727e66ac-top-5-fixes-for-a-smoother-game/"><u>Troubleshooting NBA 2K24 Error 727E66AC - Top 5 Fixes for a Smoother Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-list-resolving-street-fighter-6-pc-crashes-for-a-seamless-gaming-session/"><u>Ultimate Fix List: Resolving Street Fighter 6 PC Crashes for a Seamless Gaming Session</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

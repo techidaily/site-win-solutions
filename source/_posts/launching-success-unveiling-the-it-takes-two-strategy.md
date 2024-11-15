@@ -1,7 +1,7 @@
 ---
 title: "Launching Success: Unveiling the 'It Takes Two' Strategy"
-date: 2024-08-27T20:14:48.976Z
-updated: 2024-08-28T20:14:48.976Z
+date: 2024-11-08T16:03:07.048Z
+updated: 2024-11-15T16:07:01.392Z
 tags:
   - win11
   - win10
@@ -25,6 +25,19 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 2. [Launch with Vulkan](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game file](https://tools.techidaily.com/drivereasy/download/)
 4. [Replace the launcher file](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your driver
 
@@ -64,8 +77,12 @@ Tips: You can disable the alert in the launcher settings.
 If this fix doesn’t help, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -75,9 +92,6 @@ If this fix doesn’t help, move to the next fix.
 
 If you’re launching from Steam, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify game file
 
  If you launch the game from Steam, then you try to verify game files. This fix will let Steam check your local files. If there’re corrupted files, Steam will redownload them and replace them on your local install.
@@ -86,20 +100,19 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix is not working, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
@@ -108,9 +121,14 @@ If this fix is not working, move to the next one.
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.
 5. Relaunch the game to check.
 
@@ -124,8 +142,6 @@ If this fix is not working, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +149,20 @@ If this fix is not working, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unpacking-virtual-reality-its-upside-and-downside/"><u>[New] 2024 Approved Unpacking Virtual Reality Its Upside & Downside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-quality-steadicam-equipment-for-drone-filmmaking/"><u>[New] Best-Quality Steadicam Equipment for Drone Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-the-course-for-youtube-keyword-mastery/"><u>[Updated] 2024 Approved Charting the Course for YouTube Keyword Mastery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-streaming-platforms-face-off-choosing-between-vimeo-youtube-dailymotion/"><u>[Updated] In 2024, Streaming Platforms Face-Off Choosing Between Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-minecraft-glitches-for-good-with-6-essential-fix-strategies/"><u>Banish Minecraft Glitches for Good with 6 Essential Fix Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-launch-issues-in-amd-radeon-suite/"><u>Effective Solutions for Overcoming Launch Issues in AMD Radeon Suite</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/engage-in-epic-dogfights-with-star-wars-squadrons-video-game-review/"><u>Engage in Epic Dogfights with Star Wars: Squadrons – Video Game Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-iphone-selfie-tools-ranked-8/"><u>Essential iPhone Selfie Tools Ranked #8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-a-breakthrough-unveiling-the-magic-of-apples-latest-immersive-content-with-vision-pro-a-revelatory-journey-detailed-by-zdnet/"><u>Experiencing a Breakthrough: Unveiling the Magic of Apple's Latest Immersive Content with Vision Pro - A Revelatory Journey Detailed by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-intel-raid-driver-update-for-windows-operating-systems-win11-win10-win8-and-win7/"><u>How to Get the Newest Intel RAID Driver Update for Windows Operating Systems: Win11, Win10, Win8, and Win7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-non-responsive-battlenet-launcher-on-windows-pcs/"><u>How to Resolve Non-Responsive Battle.net Launcher on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/kostenlos-konvertieren-sie-ihre-mts-dateien-jetzt-in-mp4-schnelle-und-einfache-methoden/"><u>Kostenlos Konvertieren Sie Ihre MTS-Dateien Jetzt in MP4 - Schnelle Und Einfache Methoden</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-why-your-dead-space-remake-fails-to-start-expert-advice/"><u>Solving the Issue: Why Your Dead Space Remake Fails to Start – Expert Advice</u></a></li>
+</ul></div>
 

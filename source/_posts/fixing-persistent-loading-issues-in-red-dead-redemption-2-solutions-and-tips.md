@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Loading Issues in Red Dead Redemption 2 - Solutions & Tips
-date: 2024-08-27T20:16:59.490Z
-updated: 2024-08-28T20:16:59.490Z
+date: 2024-11-10T16:24:14.644Z
+updated: 2024-11-15T16:16:00.269Z
 tags:
   - win11
   - win10
@@ -64,21 +64,12 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -102,12 +93,24 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -123,14 +126,23 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -145,8 +157,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +164,23 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlining-the-process-of-google-voice-call-capture/"><u>[New] Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-tomtom-bandit-camera-exploration-reimagined/"><u>[New] TomTom Bandit Camera Exploration Reimagined</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>2024 Approved Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988636857-connection-recovered-seamless-access-back-to-hearthstone-online-matches/"><u>Connection Recovered: Seamless Access Back to Hearthstone Online Matches.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/days-gone-action-packed-fps-game-now-available-for-windows-pc/"><u>Days Gone Action-Packed FPS Game Now Available for Windows PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-blacked-out-battles-to-full-spectrum-victory-correcting-rainbow-six-sieges-pc-visual-glitches/"><u>From Blacked-Out Battles to Full Spectrum Victory: Correcting Rainbow Six Siege's PC Visual Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-recurring-discord-application-crash-errors-effectively/"><u>How To Fix Recurring Discord Application Crash Errors Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-solutions-exceeding-standard-fbx-recorders/"><u>Innovative Solutions Exceeding Standard FBX Recorders</u></a></li>
+<li><a href="https://fox-within.techidaily.com/master-the-technique-of-changing-full-color-pdfs-to-grayscale-images/"><u>Master the Technique of Changing Full-Color PDFs to Grayscale Images</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-resident-evil-4-remake-strategies-to-avoid-unwanted-interruptions-and-crashes/"><u>Mastering Resident Evil 4 Remake: Strategies to Avoid Unwanted Interruptions and Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-hitman-ncrash-fix-ultimate-troubleshooting-steps-for-a-smooth-gameplay-experience/"><u>New Hitman nCrash Fix: Ultimate Troubleshooting Steps for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>Perfect Your Presentations Leading Free Mac Screen Capture Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x50iplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X50i+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-fixing-pc-issues-when-starfield-game-fails-to-load/"><u>Troubleshooting: Fixing PC Issues When 'Starfield' Game Fails to Load</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-possible-vulnerabilities-is-chnagpt-safe-to-employ/"><u>Unveiling Possible Vulnerabilities: Is Chnagpt Safe to Employ?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-cant-i-play-a-guide-to-verifying-and-correcting-problematic-game-data/"><u>Why Can't I Play? A Guide to Verifying and Correcting Problematic Game Data</u></a></li>
+</ul></div>
 

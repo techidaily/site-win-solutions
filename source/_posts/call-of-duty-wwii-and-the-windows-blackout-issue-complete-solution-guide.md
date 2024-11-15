@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: WWII and the Windows Blackout Issue – Complete Solution Guide"
-date: 2024-08-27T20:21:19.351Z
-updated: 2024-08-28T20:21:19.351Z
+date: 2024-11-09T16:22:33.281Z
+updated: 2024-11-15T16:20:50.490Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -38,8 +45,12 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -49,9 +60,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,20 +90,18 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -104,9 +110,14 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +132,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +139,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-joining-the-social-tv-revolution-fb-live-and-roku-interactions/"><u>[New] Joining the Social TV Revolution FB Live & Roku Interactions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-meme-wizard-with-these-9gag-strategies-for-2024/"><u>[Updated] Become a Meme Wizard with These 9GAG Strategies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-charting-a-course-to-your-signature-sphere/"><u>[Updated] Charting a Course to Your Signature Sphere</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-nocturnal-nexus-versus-daylight-dominion/"><u>2024 Approved Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/achieve-higher-conversions-with-these-proven-strategies/"><u>Achieve Higher Conversions with These Proven Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-the-lag-issues-of-deathloop-on-next-gen-consoles-and-personal-computers/"><u>Eliminating the Lag Issues of Deathloop on Next-Gen Consoles & Personal Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how/"><u>Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-12-video-capture-goes-on-forever/"><u>Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-blurry-image-issues-in-call-of-duty-warzone-on-your-computer/"><u>Resolving Blurry Image Issues in Call of Duty: Warzone on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-triumph-tackling-high-latency-issues-in-valheim-on-your-windows-machine/"><u>Seamless Gaming Triumph: Tackling High Latency Issues in Valheim on Your Windows Machine</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-manor-lords-pc-crashes-a-step-by-step-guide/"><u>Solving 'Manor Lords' PC Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-no-compatible-hardwaredriver-error-in-rainbow-six-extraction-a-step-by-step-guide/"><u>Solving 'No Compatible Hardware/Driver' Error in Rainbow Six Extraction - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-problems-with-discord-application-that-wont-start/"><u>Solving Problems with Discord Application That Won't Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-persistent-problem-of-warframe-stuttering-and-hitches/"><u>Solving the Persistent Problem of Warframe Stuttering and Hitches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-system-with-official-realtek-drivers-windows-11-10-or-7-supported/"><u>Update Your System with Official Realtek Drivers: Windows 11, 10 or 7 Supported</u></a></li>
+</ul></div>
 

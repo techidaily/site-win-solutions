@@ -1,7 +1,7 @@
 ---
 title: Rockstar Games Launcher Woes? Here's How to Get It Up and Running Again in 202#
-date: 2024-08-27T20:19:21.175Z
-updated: 2024-08-28T20:19:21.175Z
+date: 2024-11-13T16:17:04.762Z
+updated: 2024-11-15T16:01:05.120Z
 tags:
   - win11
   - win10
@@ -53,6 +53,14 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 5. Double-click the**Paradox Interactive** folder, and**delete** the**launcher-v2** folder in it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
@@ -65,6 +73,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable conflicting processes in the background
 
  If there is more than one Paradox Launcher-related service and program running in the background, Paradox Launcher itself may not work as intended, and thus with the refusing to launching problem. To see if this is your case, make sure to close all likely conflicting applications.
@@ -74,13 +89,17 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then try to play your game via Paradox Launcher again and see if its launching problem is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 3\. Make sure your Windows is updated
 
  If your system isn’t updated regularly, there could be missing redistributables and outdated .NET Framework, which are essential to game launchers like Paradox Launcher. Luckily, most of these required files can be downloaded and installed via Windows Update. So you should make sure that you have the latest available updates installed:
@@ -92,9 +111,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
@@ -110,9 +126,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
  It was reported by some users that their antivirus program accidentally flagged**bootstrapper-v2.exe** as a virus or PUA (potentially unwanted application), and thus with the Paradox Launcher not working problem.
@@ -124,20 +137,34 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. On your keyboard, press the**Windows** key and type**windows security** . Then select**Windows Security** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-7.png)
 2. Select**Virus & Threat protection** .  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
@@ -153,14 +180,16 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -168,8 +197,18 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Bypass Paradox Launcher
 
  If Paradox Launcher still doesn’t work after all the above, there’s still one way out: bypassing it altogether.
@@ -188,8 +227,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +234,26 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-direct-route-uploading-from-youtube-to-dailymotion/"><u>[New] In 2024, Direct Route Uploading From YouTube to Dailymotion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-profitable-practices-for-creating-youtube-trailers-for-2024/"><u>[New] Unveiling Profitable Practices for Creating YouTube Trailers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-electorate-engagement-enigma-top-simulator-series/"><u>[Updated] 2024 Approved Electorate Engagement Enigma Top Simulator Series</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-crashing-on-pc-solved/"><u>Baldur's Gate 3 Crashing on PC [Solved]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-a-symphony-for-screens-mastering-music-editing-in-canva-for-2024/"><u>Craft a Symphony for Screens Mastering Music Editing in Canva for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-fix-and-prevent-total-war-three-kingdoms-crashing-errors/"><u>Expert Tips to Fix and Prevent Total War: Three Kingdoms Crashing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-premier-tv-streaming-options-the-top-8-choices/"><u>Exploring the Premier TV Streaming Options – The Top 8 Choices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-metro-exodus-crash-issues-in-windows-solutions-proven-effective/"><u>Fixes for Metro Exodus Crash Issues in Windows: Solutions Proven Effective</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-11-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 11 Pro iCloud Bypass</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lines-to-frame-your-youtube-creation-flow-for-2024/"><u>Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>In 2024, A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-covert-chronicles-of-viewing-instagram-stories-pc-android-and-iphone-edition/"><u>In 2024, The Covert Chronicles of Viewing Instagram Stories - PC, Android & iPhone Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-fix-handling-persistent-wwe-2k20-computer-malfunctions-smoothly/"><u>Master the Fix: Handling Persistent WWE 2K20 Computer Malfunctions Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-uninterrupted-gaming-strategies-for-stutter-free-gameplay-and-superior-fps-in-call-of-duty-mobile-warzone/"><u>Mastering the Art of Uninterrupted Gaming: Strategies for Stutter-Free Gameplay & Superior FPS in Call of Duty: Mobile - Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-chrome-load-failures-strategies-for-browsing-success/"><u>Overcome Chrome Load Failures: Strategies for Browsing Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-hogwarts-legacys-launch-issues-top-8-tips-for-a-smooth-start/"><u>Solve Hogwarts Legacy's Launch Issues: Top 8 Tips for a Smooth Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-fixing-msedgeexe-errors-within-windows-os/"><u>Step-by-Step Solutions for Fixing 'msedge.exe' Errors Within Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-modern-warfare-stutter-and-pauses-in-pc-version/"><u>Troubleshooting Guide: Fixing 'Modern Warfare' Stutter & Pauses in PC Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-d-link-device-in-july-2024-essential-password-list/"><u>Unlocking Your D-Link Device in July 2024: Essential Password List</u></a></li>
+</ul></div>
 

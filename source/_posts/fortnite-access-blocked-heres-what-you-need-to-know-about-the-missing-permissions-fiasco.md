@@ -1,7 +1,7 @@
 ---
 title: Fortnite Access Blocked? Here’s What You Need to Know About the 'Missing Permissions' Fiasco
-date: 2024-08-27T20:18:55.892Z
-updated: 2024-08-28T20:18:55.892Z
+date: 2024-11-12T16:09:18.531Z
+updated: 2024-11-15T16:27:33.807Z
 tags:
   - win11
   - win10
@@ -37,15 +37,27 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing all the system updates, restart your PC and check if the error persists.
 
  If this fix doesn’t help you, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics drivers
 
  We always recommend gamers to keep their GPU drivers up to date for the best performance and minimum issues. If you don’t remember when was the last time you updated your graphics driver, you need to check it now.
@@ -72,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC for it to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3: Temporarily disable your antivirus
 
  In some cases, it might be your antivirus that’s causing the hassle. To prevent your antivirus from interfering with the game, you can disable it temporarily and see how things go.
@@ -91,16 +103,18 @@ Here’s an example of how you can disable Windows Security:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Windows settings menu. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select **Windows Security** in the left pane, and click **Virus & threat protection** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. In the pop-up window, click **Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Toggle off **Real-time protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 Now you can restart Warzone and check if the game loads as expected.
@@ -120,14 +134,12 @@ Now you can restart Warzone and check if the game loads as expected.
 If this method doesn’t give you luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Delete Cache files
 
 [Some users](https://www.reddit.com/r/modernwarfare/comments/f7ga0o/disc%5Fread%5Ferror%5Fsolution%5Ffor%5Fpc%5Fis%5Fhere/) shared that they managed to fix the issue by**deleting specific cache files** . According to the feedback, this appears to be a less painful solution as it re-downloads a small portion of game content. You can try the same and see if this helps.
@@ -144,6 +156,13 @@ If this method doesn’t give you luck, take a look at the next one.
 
 If this trick doesn’t give you luck, take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6:**Rebuild your game files**
 
  The error could indicate an integrity issue with your game files. You can delete the likely corrupted ones and re-download them using the Scan & Repair feature.
@@ -155,14 +174,20 @@ If this trick doesn’t give you luck, take a look at the next one.
 2. Open the**Call of Duty Modern Warfare** folder. Delete all the files EXCEPT folders.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-rebuild-game-files-2.jpg)
 3. In your Battle.net client, click**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 4. Now wait for the process to complete.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If rebuilding these files doesn’t work for you, go back to step 3, delete the main folder and try again.
@@ -177,8 +202,6 @@ If this trick doesn’t give you luck, take a look at the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +209,23 @@ If this trick doesn’t give you luck, take a look at the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/learing-up-that-persistent-green-tint-in-youtube-videos-on-mac-for-2024/"><u>[New] Clearing Up that Persistent Green Tint in YouTube Videos on Mac for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-create-with-colors-youtube-banner-creation-guide/"><u>[New] In 2024, Create with Colors YouTube Banner Creation Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-infuse-your-tiktok-with-popular-anime-themes-and-styles/"><u>[New] In 2024, Infuse Your TikTok with Popular Anime Themes & Styles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dream-weavers-the-marvel-interactive-sculptors/"><u>[Updated] Dream Weavers The Marvel Interactive Sculptors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-comprehensive-guide-to-fixing-launch-errors-in-humankind-mobilepc-version/"><u>A Comprehensive Guide to Fixing Launch Errors in Humankind Mobile/PC Version</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diminishing-decibels-a-guide-to-quieter-soundscapes-in-lumafusion-for-2024/"><u>Diminishing Decibels A Guide to Quieter Soundscapes in Lumafusion for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-resolve-csgo-starting-errors-on-pc/"><u>Effective Techniques to Resolve CSGO Starting Errors on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-lag-issues-while-playing-age-of-empires-4-expert-tips-and-fixes/"><u>Eliminating Lag Issues While Playing Age of Empires 4: Expert Tips & Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/evade-facebook-trackers-with-our-secrets/"><u>Evade Facebook Trackers with Our Secrets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-game-crashing-woes-wolcen-lords-of-mayhem-stability-improved/"><u>Fixing Game-Crashing Woes: Wolcen Lords of Mayhem Stability Improved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-not-found-msvcr110dll-error-for-an-optimal-helldivers-2-experience/"><u>Fixing the Not Found MSVCR110.dll Error for an Optimal Helldivers 2 Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-the-horizon-forbidden-west-full-edition-on-windows-and-mac/"><u>Resolving Issues with the Horizon Forbidden West Full Edition on Windows and Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trim-down-video-sizes-in-a-flash-with-these-five-tips/"><u>Trim Down Video Sizes in a Flash with These Five Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-when-lost-ark-fails-to-connect-to-servers/"><u>Ultimate Fixes for When 'Lost Ark' Fails to Connect to Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-premier-xbox-earphones-of-2e-expert-opinions-and-ratings-zdnet/"><u>Ultimate Guide to the Premier Xbox Earphones of 2E: Expert Opinions & Ratings | ZDNET</u></a></li>
+</ul></div>
 

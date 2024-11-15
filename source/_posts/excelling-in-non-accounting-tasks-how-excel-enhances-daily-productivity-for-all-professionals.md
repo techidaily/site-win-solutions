@@ -1,7 +1,7 @@
 ---
 title: "Excelling in Non-Accounting Tasks: How Excel Enhances Daily Productivity for All Professionals"
-date: 2024-08-28T05:02:12.642Z
-updated: 2024-08-29T05:02:12.642Z
+date: 2024-11-10T16:17:30.681Z
+updated: 2024-11-15T16:16:30.521Z
 tags:
   - excel
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
  Excel is often seen as a complicated program for highly trained accountants, but this isn't necessarily the case. I use Excel daily to keep track of my budgeting, choose the ideal vacation destination, track my team's sports stats, and keep an eye on my weight-loss progress... and you can too!
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Budgeting
 
  With today's never-ending cost-of-living increases, I use Excel to manage my budgeting and keep track of how much disposable income I have left over each month.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
  Whenever you type a date in Excel, make sure the [cell data type is set to "Date."](https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac-for-2024/) This will mean that Excel can use these dates to help you manage your budget automatically.
 
 ![A formatted table in Excel with details of expenditures for budgeting purposes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/budgeting-1-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, in cell G1, type **Today's Date**, in cell G2, type **End of Month**, and in cell G3, type **Days Left**.
 
@@ -66,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
 ![An Excel sheet with budgeting totals underneath the main expenditure table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/budgeting-4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type your bank balance manually. You should update this cell each time you return to check your budget.
 
  Then, in the cell next to Total expenditure, type
@@ -92,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
  You now have a complete monthly budgeting spreadsheet. Simply duplicate the sheet each month to set up a new budget. Then, amend that month's payment details, change the last day of the month in cell H2, and keep your bank balance updated.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  2\. Vacation Destinations With Different Criteria
 
  With so many options for different vacation destinations, Excel can help you keep these in order. Yes, there are websites that can help you with some criteria, but how about those specific elements that matter to you, such as property with a fireplace, or a region with a dark sky for those of you who love stargazing? Whatever it is you're looking for, use Excel to whittle down your options without having to pay that extra percentage for third-party booking commissions.
@@ -103,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
 ![An Excel sheet with a list of holiday properties and several criteria.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/holiday-cottages-list.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Here are some of the tools I benefit from the most when using my spreadsheet:
 
 * [Freeze panes](https://extra-lessons.techidaily.com/prime-traffic-magnet-design/): With my spreadsheet being so vast, I decided to freeze the property link and name columns and the header row. This means that, whenever I scroll across or down, those parts remain visible. In the example above, I selected cell C3, and in the View tab on the ribbon, I clicked "Freeze Panes" to freeze row 1 and columns A and B.
@@ -114,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 * Color code: As an avid stargazer, I use a [light pollution map](https://www.lightpollutionmap.info/) to find out whether there's a good chance of seeing the Milky Way. I then use Excel's color fill to match the cell color with the light pollution indicator. Blues on the map represent little light pollution, while yellows and oranges represent heavy light pollution. I can then filter column H by color to see which properties are likely to offer the best skies.
 * [Notes](https://video-screen-grab.techidaily.com/how-to-expertly-archive-your-favorite-streamed-shows-hulu-for-2024/): Notice the red markers on cells B14 and B17\. These show that I've added a note to that cell that I didn't want to add as an extra column to the spreadsheet. For example, in B14, I made a note that the minimum stay at that property is five nights. To do this, simply right-click the relevant cell, and click "New Note."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  3\. Tracking My Sports Team’s Stats
 
  This is my favorite Excel workbook. Like with most spreadsheets, they started off really simple, and I've gradually added to them over time.
@@ -130,8 +142,12 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 ![An Excel sheet showing player stats, and conditional formatting used to display data bars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/player-stats.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On this sheet, I've used an in-built conditional formatting rule to create data bars. I selected column B, clicked "Conditional Formatting" in the Home tab, and hovered over "Data Bars." I could then choose the data bar type that best aligned with my spreadsheet's formatting. Then, I used the Format Painter tool to apply the same rules to the other columns, alternating between blue and green for clarity.
 
 ![An Excel dashboard containing four charts based on data on the other sheets in the workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dashboard.png) 
@@ -139,17 +155,18 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
  My sports team tracking workbook contains 12 tabs overall, so I created a dashboard sheet that pulls together the key information in chart form in one place. Click the "+" at the bottom of your workbook to add a new sheet, and double-click the new tab to rename it **Dashboard**. Then, use the Charts group in the Insert tab on the ribbon to [choose different graphs](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) that will work well for your data. Finally, you can [format your data labels](https://win11.techidaily.com/new-era-of-connectivity-windows-for-iphones-ipads-and-pcs-just-dropped/) and chart colors to make them look exactly how you want, and [hide the gridlines](https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/) to add that extra presentational touch to your dashboard.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  4\. Tracking My Weight (I’m on a Diet!)
 
  Who knew that Excel could be a weight-loss motivator?
 
 ![An Excel sheet with a table on the left containing date, weight, and target values, and a line chart on the right displaying the data in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/weight-tracking.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Using Excel's formatted table function and line chart, I created a spreadsheet to track my weight and show me how close to my target I am getting:
 
 1. Start by creating a table by typing **Date**, **Weight**, and **Target** into cells A1, B1, and C1, respectively. Once you have your first row of data, highlight all the cells in the table (including the headers), and head to the Home tab. From there, in the Styles group, click "Format As Table," and check the "My Table Has Headers" box.
@@ -171,8 +188,6 @@ ending
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +195,26 @@ ending
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-uninterrupted-snapstreaks-achievable-or-impossible-for-2024/"><u>[New] Uninterrupted Snapstreaks Achievable or Impossible for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] In 2024, Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-channels-selecting-prime-microphones-for-every-content-category/"><u>2024 Approved Elevate Your Channels Selecting Prime Microphones for Every Content Category</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-latency-blues-advanced-strategies-to-combat-outriders-gameplay-lags/"><u>Beat the Latency Blues: Advanced Strategies to Combat Outriders Gameplay Lags</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-dynamic-range-in-iphone-shots-for-2024/"><u>Capturing Dynamic Range in iPhone Shots for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/civil-suit-6-resolving-the-unique-access-rights-breach-of-2024/"><u>Civil Suit #6 - Resolving the Unique Access Rights Breach of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquer-system-limitations-upgrading-from-windows-7-to-10/"><u>Conquer System Limitations: Upgrading From Windows 7 to 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-removing-irritating-buzz-when-using-headsets/"><u>DIY Guide: Removing Irritating Buzz When Using Headsets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722982538479-effortless-steps-to-correct-discord-setup-failures-get-started-now/"><u>Effortless Steps to Correct Discord Setup Failures – Get Started Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/far-cry-6-pc-game-stability-issues-resolved-solutions-and-tips/"><u>Far Cry 6 PC Game Stability Issues: Resolved Solutions & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/firing-your-tile/"><u>Firing Your Tile</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-footage-emerges-for-apples-long-lost-airpower-pad-is-qi-charging-technology-to-blame-or-bless-zdnet/"><u>New Footage Emerges for Apple's Long-Lost AirPower Pad - Is Qi Charging Technology to Blame or Bless? | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992606787-psychonauts-2-pc-stability-issues-solved-no-more-freezes/"><u>Psychonauts 2 PC Stability Issues Solved - No More Freezes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-hitman-n-game-heres-how-to-resolve-the-notorious-pc-black-screen-problem/"><u>Trouble with Hitman N Game? Here's How to Resolve the Notorious PC Black Screen Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-excessive-cpu-use-in-starfield-game-latest-fixes/"><u>Troubleshooting Excessive CPU Use in Starfield Game: Latest Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-converting-dvds-to-high-quality-h265-hevc-mp4-files-for-free/"><u>Ultimate Guide: Converting DVDs to High-Quality H.265 HEVC MP4 Files for Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-how-to-preventing-and-repairing-last-epoch-system-failures-in-modern-computers-tips-updated/"><u>Ultimate How-To: Preventing and Repairing 'Last Epoch' System Failures in Modern Computers (Tips Updated )</u></a></li>
+</ul></div>
 

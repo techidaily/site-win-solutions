@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common Issues: Resolving Rocket League Freezing Problems"
-date: 2024-08-27T20:15:48.362Z
-updated: 2024-08-28T20:15:48.362Z
+date: 2024-11-12T16:04:23.407Z
+updated: 2024-11-15T16:31:48.701Z
 tags:
   - win11
   - win10
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/bfb1d21dc7d722196c5d9970ee836e32f9c269de5
 2. Navigate to the**LIBRARY** tab. Right-click**Among Us** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-1.jpg)
 3. In the pop-up window, navigate to the**LOCAL FILES** tab. Click**VERIFY INTEGRITY OF GAME FILES** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-2.jpg)
 
  Once the checking is completed, launch Among Us and see if it crashes again.
@@ -54,24 +62,30 @@ And here’s how you can do a clean boot:
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your PC restarts, only the essential programs and services will start. You can now launch Among Us and check if it crashes again. If not, you can try to root out the culpable program or service. A way to do that is to repeat the steps above, but **disable half of the services and programs** .
 
  If this trick doesn’t stop the crash, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In some cases, your game will keep crashing if you’re using a faulty or outdated graphics driver. Though Among Us is never a graphically demanding title, using the latest graphics driver could help you avoid lots of errors.
@@ -96,9 +110,6 @@ And here’s how you can do a clean boot:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -107,6 +118,13 @@ And here’s how you can do a clean boot:
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Among Us.
 
 If the crash continues to happen, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -117,14 +135,15 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and **I**  (the i key) at the same time to open the **Windows Settings**  app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. This might take some time depending on your Internet speed.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your computer to take full effect. Next you can launch Among Us and test the stability.
@@ -144,19 +163,28 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Among Us launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Now you can launch Among Us and see if it crashes again.
 
 ---
@@ -169,8 +197,6 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +204,26 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-free-photo-collage-apps-for-iphone/"><u>[New] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>[Updated] In 2024, Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>2024 Approved Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-superior-free-fb-visual-storyteller-tool/"><u>2024 Approved Superior Free FB Visual Storyteller Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-guide-to-playing-yakuza-like-a-dragon-on-your-pc/"><u>Complete Guide to Playing Yakuza: Like a Dragon on Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-decrypter/"><u>DVD-Decrypterで書き込めないエラーの原因と対処法: 完全ガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-video-edits-ken-burns-in-camtasia-for-2024/"><u>Elevate Your Video Edits Ken Burns in Camtasia for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2003-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2003 formula not showing result | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-overcoming-batman-arkham-knights-sudden-freezes-and-critical-bugs/"><u>Fixes and Solutions: Overcoming Batman: Arkham Knight's Sudden Freezes & Critical Bugs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2021-pc-freezing-issue-fixed-solutions/"><u>Football Manager 2021 PC Freezing Issue: Fixed Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-smooth-out-minecraft-performance-issues-on-your-pc/"><u>How To Smooth Out Minecraft Performance Issues On Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-encompassing-virtual-horizon-review/"><u>In 2024, All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unleash-youtube-potential-with-smart-tags-and-titles/"><u>In 2024, Unleash YouTube Potential with Smart Tags and Titles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-nba-2k24-expert-advice-on-overcoming-the-notorious-727e66ac-error-code/"><u>Mastering NBA 2K24: Expert Advice on Overcoming the Notorious 727E66AC Error Code</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-preventing-and-fixing-windows-1110-zoom-crashes/"><u>Mastering Stability: Preventing and Fixing Windows 11/10 Zoom Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uncovering-a-bright-side-a-comprehensive-guide-to-repairing-rainbow-six-siege-computer-display-problems/"><u>Uncovering a Bright Side: A Comprehensive Guide to Repairing Rainbow Six Siege Computer Display Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unraveling-and-solving-nvidias-geforce-experience-mishap-understanding-error-code-0x0003/"><u>Unraveling and Solving NVIDIA's GeForce Experience Mishap: Understanding Error Code 0X0003</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-strategies-for-overcoming-football-manager-2021-compatibility-errors-with-pc/"><u>Winning Strategies for Overcoming Football Manager 2021 Compatibility Errors with PC</u></a></li>
+</ul></div>
 

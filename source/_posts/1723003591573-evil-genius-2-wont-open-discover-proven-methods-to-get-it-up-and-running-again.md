@@ -1,7 +1,7 @@
 ---
 title: Evil Genius 2 Won't Open? Discover Proven Methods to Get It Up and Running Again
-date: 2024-08-27T20:19:18.851Z
-updated: 2024-08-28T20:19:18.851Z
+date: 2024-11-09T16:03:46.606Z
+updated: 2024-11-15T16:02:04.706Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/evil-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tips: You can disable the alert in the launcher settings.
 
  **The solution is easy: update your driver – but not through Windows Update & Device Manager.**
@@ -55,8 +62,22 @@ Tips: You can disable the alert in the launcher settings.
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -64,8 +85,12 @@ Tips: You can disable the alert in the launcher settings.
 If this fix doesn’t help, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -75,10 +100,6 @@ If this fix doesn’t help, move to the next fix.
 
 If you’re launching from Steam, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify game file
 
  If you launch the game from Steam, then you try to verify game files. This fix will let Steam check your local files. If there’re corrupted files, Steam will redownload them and replace them on your local install.
@@ -87,21 +108,11 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 If this fix is not working, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
@@ -110,9 +121,6 @@ If this fix is not working, move to the next one.
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.
 5. Relaunch the game to check.
 
@@ -126,8 +134,6 @@ If this fix is not working, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +141,26 @@ If this fix is not working, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-review-of-the-latest-picsart-updates/"><u>[New] A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pinnacle-playground-top-10-royale-fighters/"><u>[Updated] In 2024, Pinnacle Playground Top 10 Royale Fighters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>[Updated] Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-huawei-p10-an-overview-of-cutting-edge-mobile-experience-for-2024/"><u>[Updated] The Huawei P10 An Overview of Cutting-Edge Mobile Experience for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chrome-loading-errors-what-causes-them-and-how-can-you-fix-them/"><u>Chrome Loading Errors: What Causes Them and How Can You Fix Them?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-when-pathfinder-wrath-of-the-righte-grotesque-isnt-opening-a-step-by-step-guide/"><u>Effective Fixes When Pathfinder: Wrath of the Righte Grotesque Isn't Opening - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/eliminating-grey-edges-on-video-a-youtube-fix-guide/"><u>Eliminating Grey Edges on Video A YouTube Fix Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/excel-drop-down-menu-creation-a-fast-and-simple-guide-from-zdnet/"><u>Excel Drop-Down Menu Creation: A Fast & Simple Guide From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-roblox-crashes-on-windows-swiftly-top-6-tricks/"><u>Fix Roblox Crashes on Windows Swiftly: Top 6 Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-stranger-to-friend-key-japanese-phrases/"><u>From Stranger to Friend: Key Japanese Phrases</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-nvidia-control-panel-crashingnot-opening/"><u>How to Fix NVIDIA Control Panel Crashing/Not Opening</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-windows-1110-from-crashing-due-to-ntdlldll-issue-fixed/"><u>How to Stop Windows 11/10 From Crashing Due to ntdll.dll Issue - Fixed!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>In 2024, Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot/"><u>In 2024, Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-teamwork-in-roller-champions-crossplay-edition-2024/"><u>Mastering Teamwork in Roller Champions Crossplay Edition 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Oppo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warriors-guide-to-conquering-dev-error-e5573-solutions-for-playstation-xbox-and-pc-gamers/"><u>Warrior's Guide to Conquering Dev Error E5573: Solutions for PlayStation, Xbox, and PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-and-windows-10-unlocking-full-gpu-potential-during-gameplay/"><u>Warzone and Windows 10 - Unlocking Full GPU Potential During Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-trouble-solving-the-common-memory-error-0-1766-across-xbox-and-pc-platforms/"><u>Warzone Trouble? Solving the Common Memory Error 0-1766 Across Xbox & PC Platforms</u></a></li>
+</ul></div>
 

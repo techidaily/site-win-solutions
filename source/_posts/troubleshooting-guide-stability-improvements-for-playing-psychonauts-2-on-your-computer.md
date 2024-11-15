@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stability Improvements for Playing 'Psychonauts 2' On Your Computer"
-date: 2024-08-27T20:20:21.567Z
-updated: 2024-08-28T20:20:21.567Z
+date: 2024-11-10T16:24:48.528Z
+updated: 2024-11-15T16:02:11.660Z
 tags:
   - win11
   - win10
@@ -68,18 +68,19 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -106,11 +107,23 @@ Here is how to do it:
 1. Open**Epic Games** **Launcher** , click **Unreal Engine** \> **Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ue.png)
 2. From there, you will see your current version of Unreal Engine. Click the**down arrow** to see if you have the latest one installed.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update DirectX
 
@@ -122,26 +135,30 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With the latest DirectX, check to see if Scavengers still crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -174,8 +191,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +198,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/days-gone-pc-version-launch-patch-notes-and-performance-upgrades-revealed/"><u>'Days Gone': PC Version Launch - Patch Notes & Performance Upgrades Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-guide-to-iphone-7-screen-recording/"><u>[New] 2024 Approved Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-practices-apps-and-sites-mastering-photo-framing-for-2024/"><u>[New] Best Practices Apps & Sites - Mastering Photo Framing for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-flip-shift-and-merge-videos-for-professional-android-results-for-2024/"><u>[Updated] Flip, Shift & Merge Videos for Professional Android Results for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-ginger-isle-of-stardew/"><u>[Updated] Navigating the Ginger Isle of Stardew</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009796898-cyberpunk-2077s-resolved-latency-issues-how-to-optimize-gameplay-smoothly/"><u>Cyberpunk 2077'S Resolved Latency Issues - How to Optimize Gameplay Smoothly!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24-for-2024/"><u>Framing Frontiers Cutting-Edge App Innovations '24 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-version-from-official-sources/"><u>Get the Most Recent NVIDIA Quadro RTX #4000 Driver Version From Official Sources</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-fix-dread-hunger-crashes-in-steam-games/"><u>How to Troubleshoot and Fix Dread Hunger Crashes in Steam Games</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimal-screen-recorder-selection-for-youtube-professionals/"><u>In 2024, Optimal Screen Recorder Selection for YouTube Professionals</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/internet-explorer-troubles-how-to-fix-webpage-cannot-be-displayed-for-easy-online-navigation/"><u>Internet Explorer Troubles: How to Fix 'Webpage Cannot Be Displayed' For Easy Online Navigation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kobo-nia-e-reader-assessment-surpassing-kindle-as-a-prime-contender/"><u>Kobo Nia E-Reader Assessment: Surpassing Kindle as a Prime Contender</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-update-obstacles-for-the-classic-minecraft-launcher-a-step-by-step-guide/"><u>Overcoming Update Obstacles for the Classic Minecraft Launcher - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-error-code-0xc19001e1-on-windows-11-a-step-by-step-guide/"><u>Resolving the 'Error Code 0xC19001E1' On Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-black-screen-conundrum-now-solved-with-these-effective-strategies/"><u>The Black Screen Conundrum - Now Solved with These Effective Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-with-voice-communication-in-among-us-on-windows/"><u>Troubleshooting Steps: Resolving Issues with Voice Communication in Among Us on Windows</u></a></li>
+</ul></div>
 

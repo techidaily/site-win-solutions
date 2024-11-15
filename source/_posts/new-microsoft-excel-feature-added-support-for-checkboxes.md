@@ -1,7 +1,7 @@
 ---
 title: "New Microsoft Excel Feature: Added Support for Checkboxes"
-date: 2024-08-28T05:02:14.940Z
-updated: 2024-08-29T05:02:14.940Z
+date: 2024-11-09T16:10:46.572Z
+updated: 2024-11-15T16:07:30.733Z
 tags:
   - excel
 categories:
@@ -37,8 +37,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +44,39 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-checklist-for-new-channels/"><u>[New] The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>[Updated] In 2024, Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>[Updated] In 2024, The Ultimate Guide to ASUS ProArt A High-End Display</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-win11s-ultimate-app-selection-for-quality-recording-for-2024/"><u>[Updated] Win11's Ultimate App Selection for Quality Recording for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-engine-error-solved/"><u>Apex Legends Engine Error [SOLVED]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-against-bugs-fixing-the-notorious-freezing-glitch-in-call-of-duty-bocw/"><u>Battle Against Bugs: Fixing the Notorious Freezing Glitch in Call of Duty: BOCW</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-wwii-black-screen-fix-for-windows-users-solution-game-support/"><u>Call of Duty: WWII Black Screen Fix for Windows Users [SOLUTION] | Game Support</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-steam-failed-load-steamuidll-error/"><u>How to Overcome the Steam 'Failed Load steamui.dll Error'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-lost-ark-from-keeping-malfunctioning-on-your-computer/"><u>How to Stop Lost Ark From Keeping Malfunctioning on Your Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-google-pixel-7a-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Google Pixel 7a Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1650259-9781782795117-on-dragonfly-wings/"><u>On Dragonfly Wings | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-for-call-of-duty-vanguard-gamers-how-to-stop-game-freezes/"><u>Optimizing Performance for Call of Duty: Vanguard Gamers – How to Stop Game Freezes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/roller-champions-multiplayer-mastery-the-comprehensive-guide-to-cross-platform-gaming-pc/"><u>Roller Champions Multiplayer Mastery: The Comprehensive Guide to Cross-Platform Gaming (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015017246-trouble-with-pc-microphone-in-zoom-heres-how-to-restore-it/"><u>Trouble with PC Microphone in Zoom? Here's How to Restore It!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-repairing-your-escape-from-tarkov-connection-expert-strategies-to-restore-gameplay/"><u>Troubleshooting and Repairing Your Escape From Tarkov Connection: Expert Strategies to Restore Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-with-modern-warfare-3-mw3-startup-problems/"><u>Troubleshooting Steps: Resolving Issues with Modern Warfare 3 (MW3) Startup Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-the-mystery-detecting-if-someones-using-an-airtag-on-you/"><u>Uncover the Mystery: Detecting If Someone's Using an AirTag on You</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

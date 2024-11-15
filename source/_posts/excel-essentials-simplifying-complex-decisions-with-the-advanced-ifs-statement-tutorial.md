@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: Simplifying Complex Decisions with the Advanced IFS Statement Tutorial"
-date: 2024-08-28T05:01:55.471Z
-updated: 2024-08-29T05:01:55.471Z
+date: 2024-11-13T16:03:34.175Z
+updated: 2024-11-15T16:00:24.071Z
 tags:
   - excel
 categories:
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  Let's look at a few basic examples.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ###  Return Cell Reference Values
 
  Here, the condition looks at the ID number in cell C2\. When the formula finds the matching condition, 1 through 5, it returns the corresponding name.
@@ -50,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![IFS function with cell reference value results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/CellReferenceValue-ExcelIFSFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you were to use a nested IF statement instead of the IFS function, your formula would look like this:
 
 =IF(C2=1,A2,IF(C2=2,A3,IF(C2=3,A4,IF(C2=4, A5,IF(C2=5,A6)))))
@@ -58,14 +62,21 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Nested IF statement for cell reference value results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/CellReferenceValueNested-ExcelIFSFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Return Numbers
 
  For another IFS example, we'll apply bonuses to our salespeople based on their sales totals. Here's the formula:
@@ -86,9 +97,6 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 
 ![Nested IF statement for number results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NumberNested-ExcelIFSFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Return Text Values
 
  In this next example, we have a list of employees who haven't finished their training. We'll display [a text result](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) based on the percent complete in cell B2\. Note that the text values must be in quotes.
@@ -100,8 +108,12 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 ![IFS function with text results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TextValue-ExcelIFSFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For one more comparison, here is what the nested IF statement looks like to obtain the same result:
 
 =IF(B2<50,"Less than half",IF(B2=50,"Half",IF(B2>50,"More than half")))
@@ -111,8 +123,12 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 ![Nested IF statement for text results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TextValueNested-ExcelIFSFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  As [Microsoft explains](https://support.microsoft.com/en-us/office/if-function-nested-formulas-and-avoiding-pitfalls-0b22ff44-f149-44ba-aeb5-4ef99da241c8):
 
 > Multiple IF statements require a great deal of thought to build correctly and make sure that their logic can calculate correctly through each condition all the way to the end. If you don't nest your formula 100% accurately, then it might work 75% of the time, but return unexpected results 25% of the time.
@@ -133,8 +149,6 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +156,16 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-moviemakerpro-insights-full-analysis/"><u>2024 Approved MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996855733-finding-a-fix-when-your-computer-isnt-responding-to-the-minecraft-game/"><u>Finding a Fix When Your Computer Isn't Responding to the Minecraft Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998273684-fixing-fallout-eblack-screen-dilemma-troubleshooting-steps-and-tips/"><u>Fixing Fallout Eblack Screen Dilemma - Troubleshooting Steps & Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-expert-guide-to-mastering-your-corsair-gaming-mouse/"><u>Free Download: Expert Guide to Mastering Your Corsair Gaming Mouse</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-cpu-use-by-chrome-issue-now-resolved-steps-to-optimize-performance/"><u>High CPU Use by Chrome Issue Now Resolved - Steps to Optimize Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-necromunda-hired-gun-stability-issues-on-your-computer-tips-and-fixes/"><u>Overcome Necromunda: Hired Gun Stability Issues on Your Computer - Tips and Fixes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/record-video-directly-from-webcam-using-vlc-media-player-for-2024/"><u>Record Video Directly From Webcam Using VLC Media Player for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/responding-to-facebook-security-breach-a-guide-with-5-key-actions/"><u>Responding to Facebook Security Breach: A Guide with 5 Key Actions</u></a></li>
+</ul></div>
 

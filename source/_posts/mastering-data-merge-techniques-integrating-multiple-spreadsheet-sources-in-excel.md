@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Merge Techniques: Integrating Multiple Spreadsheet Sources in Excel"
-date: 2024-08-28T05:01:57.821Z
-updated: 2024-08-29T05:01:57.821Z
+date: 2024-11-10T16:20:17.627Z
+updated: 2024-11-15T16:17:06.256Z
 tags:
   - excel
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Select a cell for the combined data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SelectCell-ExcelConsolidate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to the Data tab and the Data Tools section of the ribbon. Click "Consolidate."
 
 ![On the Data tab, click Consolidate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataConsolidate-ExcelConsolidate.png) 
@@ -47,13 +54,34 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Add more References](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AddAllReferences-ExcelConsolidate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Continue this same process for all sheets and cell data. For our example, we gathered data from the sheets labeled Joe, Jane, and Jim into our Final spreadsheet.
 
 ![All References added](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AddedAllReferences-ExcelConsolidate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Before you finish, you can check the boxes at the bottom for using the labels and creating links to the source data if you like. Click "OK." To make our job easier, we'll [use labels](https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-huawei-p60-drfone-by-drfone-virtual-android/) for the top row and left column.
 
 ![Add labels or links](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LabelsLinks-ExcelConsolidate.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should then see the data consolidated into your sheet.
 
@@ -69,8 +97,6 @@ Related: [How to Combine First and Last Names in Microsoft Excel](https://articl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,12 +104,21 @@ Related: [How to Combine First and Last Names in Microsoft Excel](https://articl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-zoom-settings-for-peak-performance-meetings/"><u>[New] 2024 Approved Essential Zoom Settings for Peak Performance Meetings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-merge-music-and-graphics-in-ppt/"><u>[Updated] Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ctrl-plus-z-4/"><u>「CTRL + Z」キーの魔力! どうすれば戻せるか、賢く4つのワンライナー</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-leaf-error-2022-unlock-easy-fixes-and-winning-strategies-here/"><u>Apex Legends Leaf Error 2022? Unlock Easy Fixes and Winning Strategies Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arcadegeddons-recurring-crashes-plague-players-on-personal-computers/"><u>Arcadegeddon's Recurring Crashes Plague Players on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-saber-fix-up-overcoming-persistent-crashes-during-playtime/"><u>Beat Saber Fix-Up - Overcoming Persistent Crashes During Playtime</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flawless-fast-windows-picture-sight-for-2024/"><u>Flawless Fast Windows Picture Sight for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-c67-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme C67 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-football-manager-202ebase-64base64mzi5ody3ndu-qtftwgjlqyzglnadoxnjc1oaqmtkwddguievsaxe9idoymdmyodkyma-08o/"><u>How to Fix Football Manager 202Ebase-64;base64,MzI5ODY3NDU=--;q'TFTwgJLQyZGlnaDoxNjc1OA==;q'MTkwdDguIEVsaXE9IDoyMDMyODkyMA==-0.8';o</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-edge-40-neo-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Edge 40 Neo to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-to-lut-mastery/"><u>In 2024, Step-by-Step Guide to LUT Mastery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/obs-troubleshooting-success-no-more-screen-recording-problems/"><u>OBS Troubleshooting Success: No More Screen Recording Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007794162-understanding-the-cancellation-of-mafia-definitive-edition-release-answers-found/"><u>Understanding the Cancellation of Mafia: Definitive Edition Release – Answers Found!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->

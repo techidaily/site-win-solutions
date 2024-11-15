@@ -1,7 +1,7 @@
 ---
 title: "Overcoming PC Malfunctions During 'Sons of the Forest': A Step-by-nStep Fix"
-date: 2024-08-27T20:18:00.164Z
-updated: 2024-08-28T20:18:00.164Z
+date: 2024-11-09T16:12:12.049Z
+updated: 2024-11-15T16:24:27.951Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 
  If you’re pretty sure about the specifications, you can jump to[fixes](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Minimum System Requirement**
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                   |
@@ -31,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 | **RAM**          | 6 GB                                                                           |
 | **Video Card**   | NVIDIA GeForce GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2 GB           |
 | **Hard Drive**   | 105 GB                                                                         |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recommended **System Requirement**
 
@@ -41,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 | **Video Card**   | NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM |
 | **Hard Drive**   | 105 GB                                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -52,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 2. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 3. [End other processes](https://tools.techidaily.com/drivereasy/download/)
 4. [Reinstall your game/ Battle.net client](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the compatibility and Run as administrator
 
@@ -62,11 +80,16 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. In the same tab, check**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ad-in-compatible.jpg)
 5. Click**Apply > OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Run Destiny 2 and check the issue is solved or not.
 
 ### Fix 2: Update your driver
@@ -97,22 +120,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd-1.jpg)
 4. Relaunch the game and check to see if it could launch properly.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: End other processes
 
  After clicking the **Play** button, Destiny 2 didn’t launch. You may open the **Task Manager** , end background processes, then reboot the game.
@@ -121,8 +135,12 @@ OR
 2. In the **Processes** tab, choose the process and click **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/end-task.jpg)
 3. Reboot Destiny 2.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game/ Battle.net client
@@ -136,9 +154,6 @@ OR
 3. Right-click on Battle.net and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/battle.jpg)
 4. [Download](https://www.blizzard.com/en-us/download/?platform=windows) the latest version and install it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -154,8 +169,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +176,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-building-impressive-facebook-slideshows-a-practical-guide/"><u>[New] Building Impressive Facebook SlideShows A Practical Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>[New] Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/"><u>Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-a-sneak-peek-at-the-meta-quest-circulation-3-lite-price-estimates-launch-prospectus-and-speculations-on-tech-specs/"><u>Getting a Sneak Peek at the Meta Quest Circulation 3 Lite: Price Estimates, Launch Prospectus & Speculations on Tech Specs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-avatar-pandora-edition-crashing-on-your-computer-for-a-seamless-gaming-experience/"><u>How to Fix Avatar: Pandora Edition Crashing on Your Computer for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme/"><u>Iconic Visual Alteration Suite ImageFusion Xtreme</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-v27e-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo V27e by Name | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-most-advanced-virtual-reality-engines-of-2023/"><u>In 2024, The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-like-a-dragon-the-ultimate-guide-for-unlimited-prosperity-on-pc/"><u>Master 'Like A Dragon': The Ultimate Guide for Unlimited Prosperity on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-utorrent-troubleshooting-fixes-for-peer-downloadingconnectivity-issues/"><u>Mastering uTorrent Troubleshooting - Fixes for Peer Downloading/Connectivity Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-palworld-stability-issues-a-guide-for-pc-gamers/"><u>Overcoming PalWorld Stability Issues: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-how-to-address-pesky-mouse-troubles-successfully/"><u>Resident Evil Village - How to Address Pesky Mouse Troubles Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-ultimate-guide-to-eliminate-fortnite-latency-problems/"><u>Resolved: Ultimate Guide to Eliminate Fortnite Latency Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-adventure-awaits-top-6-fixes-to-eliminate-lag-in-hogwarts-legacy/"><u>Seamless Adventure Awaits: Top 6 Fixes to Eliminate Lag in Hogwarts Legacy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-rectify-continuous-crashes-and-freezing-problems-in-cult-of-the-lamb-while-playing-on-a-pc/"><u>Steps to Rectify Continuous Crashes and Freezing Problems in 'Cult of the Lamb' While Playing on a PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-total-war-warhammer-iis-crashing-glitches/"><u>Troubleshooting and Solving TOTAL WAR: WARHAMMER II's Crashing Glitches</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videos-that-speak-volumes-for-mac-customers/"><u>Videos That Speak Volumes for Mac Customers</u></a></li>
+</ul></div>
 
