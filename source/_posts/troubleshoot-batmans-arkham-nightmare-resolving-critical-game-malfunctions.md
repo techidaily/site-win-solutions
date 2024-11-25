@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Batman's Arkham Nightmare: Resolving Critical Game Malfunctions"
-date: 2024-08-23T11:58:30.660Z
-updated: 2024-08-24T11:58:30.660Z
+date: 2024-11-22T18:45:33.526Z
+updated: 2024-11-24T16:05:35.426Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Change your sound settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Change language on Steam
 
  This fix should resolve the issue with the missing voiceovers. Follow the guide and you’ll get back the audio.
@@ -39,15 +43,13 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
  If you’re already in English, try another language to see if the voices are in this language, then turn back to English.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Uninstall incompatible app
 
  Make sure there’s no other software working on the background. It’s possible that some apps are incompatible with Steam which cause the sound issue. Some players figured out when they had Sonic Studio on, there’s an audio mixer or no sound. After installing the software, the Dying Light was working perfectly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your driver
 
  Sound issue often relates to your sound card and the audio driver. If your audio driver is outdated or wrongly installed, you may encounter sound issues.
@@ -61,21 +63,25 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Change your sound settings
 
  If you don’t have in-game audio from your headset, changing sound settings may work for you.
@@ -97,8 +103,6 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +110,16 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[New] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-betting-basement-bookmarks-for-2024/"><u>[Updated] BETTING BASEMENT BOOKMARKS for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-make-a-good-movie-trailer-for-2024/"><u>[Updated] How To Make A Good Movie Trailer for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-quest-xi-stability-fixed-resolving-the-game-crash-problem/"><u>Dragon Quest XI Stability Fixed: Resolving the Game Crash Problem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-out-how-to-legally-obtain-the-latest-nvidia-3d-vision-drivers-for-free-on-windows/"><u>Find Out How to Legally Obtain the Latest Nvidia 3D Vision Drivers for Free on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-enable-gpu-usage-and-boost-gaming-on-windows-11-a-guide-for-warzone-players/"><u>How to Enable GPU Usage and Boost Gaming on Windows 11: A Guide for Warzone Players</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-find-x6-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Find X6 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-frames-per-second-in-war-thunder-essential-fixes-and-upgrades-for-gamers/"><u>Maximize Frames Per Second in War Thunder: Essential Fixes & Upgrades for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009996295-ultimate-troubleshooters-no-more-chivalry-2-freezing-up/"><u>Ultimate TroubleShooters: No More Chivalry 2 Freezing Up!</u></a></li>
+</ul></div>
 

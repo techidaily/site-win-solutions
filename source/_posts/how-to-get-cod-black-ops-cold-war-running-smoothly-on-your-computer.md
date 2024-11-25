@@ -1,7 +1,7 @@
 ---
 title: "How to Get Cod: Black Ops Cold War Running Smoothly on Your Computer"
-date: 2024-08-27T20:13:32.746Z
-updated: 2024-08-28T20:13:32.746Z
+date: 2024-11-22T19:32:20.119Z
+updated: 2024-11-25T01:28:06.506Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Black Ops Cold War, another Call of Duty blockbuster after Warzone, is finally h
 6. **[Launch Black Ops Cold War in DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check if your system is corrupted**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the minimum requirements
 
  The new Call of Duty installment is no doubt a demanding game, both to your shooting skills and PC specs. So before you dive into any advanced troubleshooting, the first thing you want to do is**make sure your PC setup meets the minimum game requirements** . Because if it doesn’t, then you should get ready for the upcoming Black Friday.
@@ -49,9 +53,6 @@ Minimum
 
  If your gaming rig is powerful enough for the game, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Scan and repair game files
 
  The not launching might indicate**an integrity issue** with your game files. You can follow these steps to check and repair any missing or corrupted files:
@@ -59,14 +60,20 @@ Minimum
 1. Open your**Blizzard Battle.net** client. From the left menu, select**Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click**Options** and select**Scan and Repair** . Then wait until the checking finishes.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
 You can now launch Black Ops Cold War and see if it’s working.
 
  If this method doesn’t help your case, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -80,11 +87,17 @@ You can now launch Black Ops Cold War and see if it’s working.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,9 +105,6 @@ You can now launch Black Ops Cold War and see if it’s working.
 
  If updating your graphics driver doesn’t give you any luck, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows 10 or 7 comes with regular system updates that can address**compatibility and security issues** . Hence it could be a potential solution to your game error.
@@ -116,25 +126,24 @@ You can now launch Black Ops Cold War and see if it’s working.
 1. On your keyboard, press the **Windows logo key** . Select **Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select **System and Security** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click **Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click **Install updates** . It’ll take some time (up to 1 hour) for Windows to install all the updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
+
  Once you’ve installed all the updates, restart your PC and try to launch Black Ops Cold War.
 
  If this solution doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking
 
@@ -156,9 +165,11 @@ Here’re the steps:
 2. From the left menu, select**Call of Duty: BOCW** . Click**Options** and select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-1.jpg)
 3. Check the box next to**Additional command line arguments** . In the input box, type or paste**\-d3d11** (note the dash). Then click**Done** to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-2.jpg)
 
 Now you can check if Black Ops Cold War is working properly.
@@ -173,14 +184,8 @@ Now you can check if Black Ops Cold War is working properly.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -193,8 +198,6 @@ Now you can check if Black Ops Cold War is working properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +205,24 @@ Now you can check if Black Ops Cold War is working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-the-secret-to-swiftly-and-stealthily-purging-messages-on-discord-for-2024/"><u>[New] The Secret to Swiftly and Stealthily Purging Messages on Discord for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crucial-info-every-asmr-viewer-should-absorb-for-2024/"><u>[Updated] Crucial Info Every ASMR Viewer Should Absorb for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-peak-performance-best-post-times-unveiled-for-2024/"><u>[Updated] Peak Performance Best Post Times Unveiled for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cloak-your-online-presence-learn-incognito-techniques-for-major-web-browsers/"><u>Cloak Your Online Presence: Learn Incognito Techniques for Major Web Browsers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/detailed-tips-on-getting-past-the-launch-error-for-avatar-frontiers-of-pandora/"><u>Detailed Tips on Getting Past the Launch Error for Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-printer-error-on-windows-1011/"><u>Epson Printer Error on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-resolving-launch-issues-with-mass-effect-legendary-edition/"><u>Fix Guide: Resolving Launch Issues with Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/garrys-mod-crashing-get-back-on-track-with-essential-fixes-for-the-latest-patch/"><u>Garry's Mod Crashing? Get Back on Track with Essential Fixes for the Latest Patch!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728508993112-hdd/"><u>HDD消去マニュアル：古いハードディスクの安全処理手順を簡単に学ぶ</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-and-restore-your-gta-5-online-gameplay-seamlessly/"><u>How to Repair and Restore Your GTA 5 Online Gameplay Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-rise-of-autofocus-aided-hdr-photography/"><u>In 2024, The Rise of Autofocus Aided HDR Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-problems-when-uploading-instagram-stories-fails-to-work-properly/"><u>Overcoming Problems When Uploading Instagram Stories Fails to Work Properly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-the-issue-where-google-chrome-wont-launch/"><u>Resolved: Fixes for the Issue Where Google Chrome Won't Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-doom-eternal-from-crashing-effective-troubleshooting-tips-and-solutions/"><u>Stop DOOM Eternal From Crashing: Effective Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-solutions-for-audio-stuttering-problems-within-the-mass-effect-anthology-sets/"><u>The Definitive Solutions for Audio Stuttering Problems Within the Mass Effect Anthology Sets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-guide-for-nba-nba-2k24-resolve-error-727e66ac-with-easy-steps/"><u>Ultimate Fix Guide for NBA Nba 2K24: Resolve Error 727E66ac with Easy Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-rainbow-six-siege-lag-and-performance-woes/"><u>Ultimate Guide: Resolving Rainbow Six Siege Lag & Performance Woes</u></a></li>
+</ul></div>
 

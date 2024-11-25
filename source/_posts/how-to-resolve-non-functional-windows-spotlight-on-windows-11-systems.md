@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functional Windows Spotlight on Windows 11 Systems
-date: 2024-08-23T12:01:11.422Z
-updated: 2024-08-24T12:01:11.422Z
+date: 2024-11-21T18:03:35.843Z
+updated: 2024-11-24T19:18:28.454Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 
  If these basic steps didn’t give you luck, you can move on to the advanced fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Advanced fixes
 
  You might not need to try them all. Simply work down the list until you find the one that solves your problem.
@@ -40,8 +44,9 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Unplug all USB accessories
 
  Sometimes iTunes won’t find your phone when there’re other conflicting accessories. In this case, you can try to**remove all USB accessories except for your device** .
@@ -51,8 +56,9 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/usb2-usb3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 USB ports
 
 If this trick doesn’t help, simply move on to the next fix below.
@@ -68,11 +74,16 @@ If you don’t know how, use these steps to check:
 2. Turn off the Personal Hotspot toggle switch.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/disable-personal-hotspot-tethering-2.jpg)
 3. Now try to reconnect your iPhone.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not tethering in your case, simply check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your drivers are up to date
 
@@ -96,9 +107,6 @@ If it’s not tethering in your case, simply check out the next fix.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Once you’ve updated all your drivers, restart your PC and check if iTunes is working now.
 
  If the latest drivers don’t do the charm for you, take a look at the next fix below.
@@ -114,9 +122,6 @@ You can use the following steps to remove iTunes completely.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to open the Run box. Type or paste**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/run-box-appwiz-cpl.jpg)
 2. Locate the following programs and double-click to uninstall. (Some might not exist on certain platforms.)  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **iTunes**  
 **Apple Software Update**  
 **Apple Mobile Device Support**  
@@ -132,9 +137,6 @@ Then you need to remove the remaining files:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run dialog. Type or paste**%programfiles%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/programfiles.jpg)
 2. Delete the following folders if exist:  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **iTunes**  
  **Bonjour**  
  **iPod**
@@ -164,30 +166,21 @@ Then remove the following folders according to your operating system.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once completed, restart your PC for the changes to take effect. Then test if iTunes detects your iPhone now.
 
 If the issue lingers on, try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Try your iPhone on another PC
 
@@ -197,9 +190,6 @@ If the issue lingers on, try the next solution below.
 
  If the issue reappears, you might need to reset your iPhone or contact Apple Support for further assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Check if your system is corrupted
 
  iTunes and Windows, these two just don’t get along. And sometimes it’s a system-level issue. To check if your system is corrupted, you can give **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  a try. It’s a computer repair tool that can diagnose problems on your computer and fix them automatically.
@@ -208,14 +198,12 @@ If the issue lingers on, try the next solution below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -231,8 +219,6 @@ If the issue lingers on, try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +226,24 @@ If the issue lingers on, try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creators-uniting-for-marvels-digital-future/"><u>[New] 2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-refined-approaches-from-obs-studio-to-facebook-screenshots/"><u>[New] 2024 Approved Refined Approaches From OBS Studio to Facebook Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-plain-screeners-toolkit-for-win10-users/"><u>[New] Plain Screener's Toolkit for Win10 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-it-takes-two-not-launch/"><u>[SOLVED] It Takes Two Not Launch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>[Updated] Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ashen-crash-troubles-master-quick-solutions-today/"><u>Ashen Crash Troubles? Master Quick Solutions Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-addressing-disconnected-devices-on-a-windows-machine/"><u>Comprehensive Solution: Addressing Disconnected Devices on a Windows Machine</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-steps-transferring-documents-from-your-mac-to-ios-devices/"><u>Effortless Steps: Transferring Documents From Your Mac to iOS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-frozen-cyberpunk-2077-game-expert-tips-and-tricks/"><u>Fix Your Frozen Cyberpunk 2077 Game - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcome-pc-issues-with-nba-2k21/"><u>Fixes and Solutions: Overcome PC Issues with NBA 2K21</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007433973-how-to-repair-a-malfunctioning-logitech-c920-webcam-solutions-inside/"><u>How to Repair a Malfunctioning Logitech C920 Webcam - Solutions Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-solving-elder-scrolls-online-startup-errors/"><u>The Ultimate Guide to Solving 'Elder Scrolls Online' Startup Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-repairing-your-pathfinder-wrath-of-the-righteeous-gamepad-issues/"><u>Troubleshooting Guide: Repairing Your Pathfinder Wrath of the Righteeous Gamepad Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-preventing-gas-station-simulation-pc-crashes/"><u>Troubleshooting Tips for Preventing Gas Station Simulation PC Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-player-assistance-fixing-the-infamous-dev-error-5573-on-all-systems/"><u>Warzone Player Assistance: Fixing the Infamous Dev Error 5573 on All Systems</u></a></li>
+</ul></div>
 

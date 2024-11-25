@@ -1,7 +1,7 @@
 ---
 title: How to Fix Concurrent Frames Per Second Decrease on Your PC Gaming Rig
-date: 2024-08-23T11:57:31.451Z
-updated: 2024-08-24T11:57:31.451Z
+date: 2024-11-23T19:36:45.520Z
+updated: 2024-11-24T23:37:56.440Z
 tags:
   - win11
   - win10
@@ -35,11 +35,19 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 4. [Reinstall the application](https://tools.techidaily.com/drivereasy/download/)
 5. [Check firewall settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the number of seed/peer
 
  The Stalled status usually appeared when you try to download torrents that have a low number of seed/peers. So you can check the number of speed/peer first. You can reconnect to peers by reinserting torrent in it and the speed will recover a bit. It’s just a temporary fix but worth trying.
 
  If your speed/peers were fine, you can restart the qBittorrent. Some users said after reboot the program, the qBittorrent client works like a charm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Your ISP might be throttling
 
@@ -52,35 +60,21 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 3. Launch NordVPN and click**Connect** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Test your internet speed with[NordVPN](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since[NordVPN](https://tools.techidaily.com/drivereasy/download/) hides your IP address from your ISP, you’ll get an accurate reading of your real internet speed. If the number has a big difference, your ISP might be throttling.
 
 Then you should use NordVPN when downloading torrents with qBittorrent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Check your hard drive space
 
  Some users have reported when your drive was full, no more data could be written to it which cause the qBittorrent to be stalled issue.
 
  You can adjust the install destination to a desirable place, or you can clean up the disc by deleting useless files.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall the application
 
  Some users install qBittorrent in an external HDD drive. Once you remove the default drive, it might cause the qBittorrent stalled status. It’s because the program couldn’t find the default folder.
@@ -88,19 +82,18 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
 1. In the search bar, type control to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-controlpanel.jpg)
 3. Find qBittorrent and right-click on it. Click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-qb.jpg)
 4. Go to[qBittorent webpage](https://www.fosshub.com/qBittorrent.html) , download, and install it in a local drive with enough space.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check firewall settings
@@ -121,8 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +121,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-eac-launch-error-easy-anti-cheat-is-not-installed/"><u>[SOLVED] EAC Launch Error: Easy Anti-Cheat Is Not Installed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snort-spree-top-10-viral-laughs-online-for-2024/"><u>[Updated] Snort Spree Top 10 Viral Laughs Online for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-voice-capture-device-analysis/"><u>2024 Approved Voice Capture Device Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-on-referencing-gpt-3-in-academic-works/"><u>A Comprehensive Guide on Referencing GPT-3 in Academic Works</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-blues-expert-tips-to-resolve-red-dead-redemption-2s-launch-problems/"><u>Beat the Blues: Expert Tips to Resolve Red Dead Redemption 2'S Launch Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-architectural-essence-of-facebook/"><u>Decoding the Architectural Essence of Facebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003044388-experience-seamless-gameplay-with-resolved-pathfinder-wrath-of-the-righteus-on-your-computer/"><u>Experience Seamless Gameplay with Resolved Pathfinder: Wrath of the Righteus on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-and-testing-at-toms-digital-workshop-for-hardware-enthusiasts/"><u>Expert Analysis & Testing at Tom's Digital Workshop for Hardware Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/film-like-a-pro-with-macbook-webcam-tutorial/"><u>Film Like a Pro with MacBook Webcam Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-problems-when-minecraft-wont-start-step-by-step-solutions/"><u>Fixing Problems When Minecraft Won't Start - Step-by-Step Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-precision-in-upload-a-deep-dive-into-youtube-video-size-settings/"><u>In 2024, Precision in Upload A Deep-Dive Into YouTube Video Size Settings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/instant-fixes-to-get-your-steamvr-back-up-and-running/"><u>Instant Fixes to Get Your SteamVR Back Up and Running</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-guide-how-to-resolve-haldll-is-missing-on-windows-xp/"><u>Quick Fix Guide: How to Resolve HAL.DLL Is Missing on Windows XP</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-issue-why-cant-i-get-warframe-running/"><u>Resolving the Issue: Why Can’t I Get Warframe Running?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722993529203-rocket-league-not-opening-heres-how-to-fix-it/"><u>Rocket League Not Opening? Here's How to Fix It!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-upgrades-fast-start-up-of-rdc-version-11/"><u>Top Windows Upgrades: Fast Start-Up of RDC, Version 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolve-mw3-warzone-dev-error-6068-ahead-of-2024/"><u>Troubleshooting Guide: Resolve MW3 - Warzone Dev Error 6068 Ahead of 2024</u></a></li>
+</ul></div>
 
