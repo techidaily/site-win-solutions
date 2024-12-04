@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Halo 3 PC Crashes - Effective Solutions for Gamers
-date: 2024-08-18T14:55:33.392Z
-updated: 2024-08-19T14:55:33.392Z
+date: 2024-12-02T01:09:13.521Z
+updated: 2024-12-03T18:25:23.172Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 **Scavengers** launched into early access in April 2021\. However, just like other games under development, the game has its fair share of issues, with**crashing** problem being the most common.
 
  So far, we have received player reports about **the game crashing on startup, after loading screen, mid-game, Unreal Engine crashes** etc. If you’re met with the same issue, don’t worry. Frustrating as it is, it isn’t too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I run Scavengers?
 
@@ -41,9 +45,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Scavengers Crashing on PC
 
@@ -56,10 +68,6 @@ To check the specs of your PC:
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  Device drivers are essential to the functioning of your computer system. If your Scavenger game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,9 +82,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
@@ -97,6 +102,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
  If Scavengers crashes while you’re on Unreal Engine, it is possible that the current version of Unreal Engine on your launcher is faulty or corrupt, causing Scavenger to crash. In this case, you can check for a newer Unreal Engine, install it to see if it solves your woe.
@@ -106,12 +115,12 @@ Here is how to do it:
 1. Open**Epic Games** **Launcher** , click **Unreal Engine** \> **Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ue.png)
 2. From there, you will see your current version of Unreal Engine. Click the**down arrow** to see if you have the latest one installed.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update DirectX
 
@@ -128,18 +137,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With the latest DirectX, check to see if Scavengers still crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -154,9 +160,6 @@ Here’s how to close background apps:
 3. Restart your computer.
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  Many players have overlocked their CPU or GPU to squeeze extra performance out of the existing components. The downside is that, high clock speed may induce stability issues and even crashes to your system.
@@ -175,8 +178,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +185,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-essential-guide-to-expanding-your-tiktok-reach-and-interactions/"><u>[New] 2024 Approved The Essential Guide to Expanding Your TikTok Reach & Interactions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-for-effective-free-timer-utilization/"><u>[New] The Essentials for Effective Free Timer Utilization</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[Updated] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-live-links-share-twitch-videos-efficiently-on-facebook/"><u>2024 Approved Live Links Share Twitch Videos Efficiently on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-method-integrating-links-into-tiktok-bios/"><u>2024 Approved Optimal Method Integrating Links Into TikTok Bios</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-frequent-freezing-in-your-overwatch-gaming-experience/"><u>How to Stop Frequent Freezing in Your Overwatch Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-repeated-program-shutdowns-of-lunar-software-on-your-desktop-computer/"><u>How to Stop Repeated Program Shutdowns of Lunar Software on Your Desktop Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-beyond-basiccams-prospects-of-elevated-performance/"><u>In 2024, Beyond BasicCams Prospects of Elevated Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-overcoming-full-vrchat-malfunctions/"><u>Mastering the Art of Overcoming Full VRChat Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-minecraft-crossbow-mishaps-a-step-by-step-guide/"><u>Resolving Minecraft Crossbow Mishaps - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-fatal-error-in-ghostrunner-game-on-windows-11-systems/"><u>Resolving the Fatal Error in GhostRunner Game on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-out-gameplay-glitches-fixing-stutter-in-v-on-windows-machines/"><u>Smooth Out Gameplay Glitches: Fixing Stutter in 'V' On Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-resolve-stuttering-and-lag-in-baldurs-gate/"><u>Top 6 Solutions to Resolve Stuttering and Lag in Baldur's Gate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-overcoming-common-ue4-errors-in-arise/"><u>Troubleshooting Guide: Overcoming Common UE4 Errors in Arise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-mordhau-stability-problems-quick-solutions/"><u>Troubleshooting Mordhau Stability Problems – Quick Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/f4v-avi-movavi/"><u>이제 사용자 친화적인 F4V-AVI 변환기가 새로운 Movavi 원격 바인딩에 추가됨!</u></a></li>
+</ul></div>
 

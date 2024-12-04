@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Evil Genius 2 – A Step-by-Step Guide to Get It Running Smoothly
-date: 2024-08-18T14:53:17.770Z
-updated: 2024-08-19T14:53:17.770Z
+date: 2024-11-27T00:14:04.549Z
+updated: 2024-12-04T00:09:29.421Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the integrity of game files
 
  If there is an integrity issue with the game files, R-Type Final 2 may keeps crashing. To fix the crashing issue triggerd by corrupted game files, you need to verify the integrity of game files.
@@ -41,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game after the verifying process finished to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If R-Type Final 2 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,20 +63,19 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Launch R-Type Final 2 and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Granzella Inc., the creator of R-Type Final 2, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -80,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  Run R-Type Final 2 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  The Steam Overylay feature is convinient. However, according to the feedback from some gamers, the Steam Overlay may interfere with R-Type Final 2.
@@ -92,16 +93,15 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on **R-Type Final 2** . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Restart R-Type Final 2 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking
 
  By overclocking the CPU or turbo-boosting the graphics card, players would gain a better FPS. However, it increase the chance of game crashing issues.
@@ -109,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
  You should reset the CPU or the graphics card to the manufacturer specifications if you’re experiencing game crashes after overclocking.
 
  Run the game to see if it crashes after you stopped overclocking. If this fix still didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Add the game as an exception to your 3rd party antivirus software
 
@@ -130,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +141,23 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-story-straightforward-recording-tips/"><u>[New] Instagram Story Straightforward Recording Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>[Updated] OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-image-collage-tools-ranked-10/"><u>Creative Image Collage Tools Ranked #10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-solutions-for-activating-thx-spatial-audio-feature-in-microsofts-latest-windows-versions/"><u>Expert Solutions for Activating Thx Spatial Audio Feature in Microsoft's Latest Windows Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-your-game-running-smoothly-addressing-the-launch-error-in-mass-effect-legendary-edition/"><u>Getting Your Game Running Smoothly: Addressing the Launch Error in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-call-of-duty-black-ops-cold-war-freezing/"><u>How to Fix Call of Duty: Black Ops Cold War Freezing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scrutinizing-vrs-enchantment-and-challenges-ahead/"><u>In 2024, Scrutinizing VR's Enchantment and Challenges Ahead</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximize-listeners-response-top-mailing-techniques-with-massmail-software-for-2011/"><u>Maximize Listeners' Response: Top Mailing Techniques with Massmail Software for 2011</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-podcast-recording-software/"><u>New 2024 Approved 10 Best Podcast Recording Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-pacificadrive-boot-issues-expert-troubleshooting-techniques/"><u>Overcoming PacificaDrive Boot Issues: Expert Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-issue-of-missed-calls-on-your-ios-device/"><u>Resolving the Issue of Missed Calls on Your iOS Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-concealed-wired-connections-windows-guide/"><u>Revealing Concealed Wired Connections: Windows Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-avoid-starcraft-ii-disruptions-and-crashes/"><u>Step-by-Step Solutions to Avoid StarCraft II Disruptions and Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-mir4-system-failures-in-windows-operating-systems/"><u>Troubleshooting MIR4 System Failures in Windows Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/update-previous-online-user-access-problem-solved/"><u>Update: Previous Online User Access Problem Solved</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Solutions for Nonfunctional Discord Overlays: Fix Them Now!"
-date: 2024-08-18T14:55:48.264Z
-updated: 2024-08-19T14:55:48.264Z
+date: 2024-11-27T18:24:53.915Z
+updated: 2024-12-03T23:14:53.869Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -41,37 +45,24 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -80,6 +71,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -87,6 +82,10 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -117,9 +116,9 @@ Or click  **Update All** to automatically download and install the correct versi
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -129,15 +128,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
@@ -153,8 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +157,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximizing-your-viewing-experience-top-10-ios-video-apps/"><u>[New] In 2024, Maximizing Your Viewing Experience Top 10 iOS Video Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-7-android-ad-blockers-your-choice-comparison/"><u>[New] In 2024, Top 7 Android Ad Blockers Your Choice Comparison</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-reality-of-youtubes-fast-subscribe-technique/"><u>[New] The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[Updated] In 2024, Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-the-bug-effective-fixes-for-total-war-three-kingdoms-system-errors/"><u>Decode the Bug: Effective Fixes for Total War: Three Kingdoms System Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008619364-fix-your-controller-issues-fast-and-simple-solutions/"><u>Fix Your Controller Issues: Fast and Simple Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-cyberpunk-2077s-disregard-for-gpu-in-windows-11/"><u>Guide: Resolving Cyberpunk 2077'S Disregard for GPU in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers/"><u>In 2024, Understanding the Economics YouTube's New Model for Content Creators and Viewers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-elite-dangerous-game-crashes-on-personal-computers-efficiently/"><u>Overcoming Elite Dangerous Game Crashes on Personal Computers Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-with-installing-or-downloading-age-of-empires-iv-from-the-microsoft-store/"><u>Resolved: Issues with Installing or Downloading Age of Empires IV From the Microsoft Store</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-the-most-recent-unrecognized-usb-hardware-on-windows-system/"><u>Resolving Issues With the Most Recent Unrecognized USB Hardware on Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-of-unexplained-crashes-with-high-performance-user-profiles/"><u>Solving the Mystery of Unexplained Crashes with High-Performance User Profiles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-when-your-ethernet-wont-work-on-windows-11-and-7-systems/"><u>The Ultimate Fixes for When Your Ethernet Won't Work on Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-and-fix-windows-autoshrink-issue/"><u>Troubleshoot & Fix Windows' Autoshrink Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-the-steamvr-eht-308-issue/"><u>Troubleshooting Tips: Fixing the SteamVR EHT-308 Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-the-libraries-loaderror-code-1114-on-pcs/"><u>Understanding and Correcting the Libraries LoadError (Code: 1114) on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-these-10-tips-for-getting-stray-running-this-year/"><u>Unlock These 10 Tips for Getting 'Stray' Running This Year</u></a></li>
+</ul></div>
 

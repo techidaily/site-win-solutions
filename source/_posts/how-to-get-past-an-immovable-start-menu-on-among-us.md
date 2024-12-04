@@ -1,7 +1,7 @@
 ---
 title: How to Get Past an Immovable Start Menu on Among Us
-date: 2024-08-18T14:58:31.156Z
-updated: 2024-08-19T14:58:31.156Z
+date: 2024-12-03T03:59:07.905Z
+updated: 2024-12-03T22:50:28.513Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -51,8 +48,9 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -66,6 +64,10 @@ This could take several minutes. Wait for the process to be complete.
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -83,32 +85,28 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -125,6 +123,10 @@ This could take several minutes. Wait for the process to be complete.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -136,6 +138,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 **3)** Set a less demanding configuration for your game.
 
 If the crashing still happens, continue with the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
 
@@ -149,9 +155,6 @@ If the crashing still happens, continue with the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
 **4)** Change the fullscreen option to**<FullScreen>0</FullScreen>** .
@@ -170,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +180,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-professional-video-recorder-for-windows-pcs/"><u>[New] Professional Video Recorder for Windows PCs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-animated-text-that-jumps-master-class-with-easy-steps/"><u>[Updated] Animated Text That Jumps Master Class with Easy Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-captivating-cycles-on-ig-perfecting-the-boomerang-effect/"><u>[Updated] Captivating Cycles on IG Perfecting the Boomerang Effect</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-harnessing-instagram-video-power-strategizing-for-impact/"><u>[Updated] Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-intrepid-selection-best-slow-mo-cameras/"><u>[Updated] In 2024, Intrepid Selection Best Slow-Mo Cameras</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crackling-charms-and-whispered-secrets-overcoming-skyrims-sound-issues/"><u>Crackling Charms & Whispered Secrets: Overcoming Skyrim’s Sound Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/directx-fixes-for-anno-1800-players-eradicating-errors-for-optimal-performance/"><u>DirectX Fixes for Anno 1800 Players: Eradicating Errors for Optimal Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guidele-to-preventing-helldivers-ii-disruptions-during-gameplay-on-personal-computers/"><u>Expert Guidele to Preventing Helldivers II Disruptions During Gameplay on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-latency-in-your-outriders-gameplay-experience/"><u>How to Eliminate Latency in Your Outriders Gameplay Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a05-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A05 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-resolving-iphone-xs-facial-recognition-hurdles/"><u>In 2024, Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-roblox-startup-woes-effective-fixes-and-tactics/"><u>Resolve Your Roblox Startup Woes - Effective Fixes & Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-your-playstation-4-from-locking-up-with-these-simple-repair-steps/"><u>Stop Your PlayStation 4 From Locking Up with These Simple Repair Steps!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/television-or-projector-for-peak-4k-performance/"><u>Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-imovie-video-edge-policy-for-2024/"><u>Unraveling the iMovie Video Edge Policy for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997290916-utorrent-not-working-heres-how-to-repair-your-torrent-downloads-and-peer-connections/"><u>UTorrent Not Working? Here’s How to Repair Your Torrent Downloads & Peer Connections!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-strategies-to-fix-league-of-legends-crashes-on-pc-2024-edition/"><u>Winning Strategies to Fix League of Legends Crashes on PC - 2024 Edition</u></a></li>
+</ul></div>
 

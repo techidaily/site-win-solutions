@@ -1,7 +1,7 @@
 ---
 title: "Fix: Civ 6 Installation Issues on Windows 11 PCs"
-date: 2024-08-18T14:57:22.662Z
-updated: 2024-08-19T14:57:22.662Z
+date: 2024-12-03T05:27:34.236Z
+updated: 2024-12-03T19:18:55.122Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 If that doesn’t work for you, try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -40,8 +44,9 @@ If that doesn’t work for you, try the fixes below.
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Allow Minecraft installer through firewall
 
  The Windows Firewall is a built-in application that protects users from internet-based threats. However, sometimes it may mistakenly prevent trustworthy software from making changes on your system. To check if that’s your case, you can manually add Minecraft installer to the list of bypassing the firewall. Below are the steps you can take.
@@ -51,25 +56,19 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Download & install all Windows updates
 
  Windows updates usually fix compatibility issues and come with new features. If you encounter any errors and failures when launching a program, you should consider checking for Windows updates. Follow the instructions to do this.
@@ -79,8 +78,9 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
@@ -89,13 +89,11 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update your device drivers
 
  Therefore, you’re supposed to always make sure that your device drivers are properly updated.
@@ -116,6 +114,10 @@ If that doesn’t work for you, try the fixes below.
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Windows Store troubleshooter
 
  When you have any issues on your system, you can try running the corresponding troubleshooter to see if it helps detect your issues and hopefully fix them.
@@ -134,8 +136,9 @@ If that doesn’t work for you, try the fixes below.
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run a full scan of your PC
 
  If all else fails, it’s time you check whether you have missing or corrupted system files, which will negatively affect your system’s performance and even trigger some errors. In this situation, you can use the System File Checker (SFC) tool to run the command sfc /scannow. But most of the time it only scans major files and may miss minor issues.
@@ -162,8 +165,6 @@ If that doesn’t work for you, try the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +172,20 @@ If that doesn’t work for you, try the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[New] In 2024, Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-design-discover-the-best-software-for-vectors/"><u>[Updated] Pioneering Design Discover the Best Software for Vectors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/adaptive-strategies-for-successful-content-on-new-fb-algorithm-for-2024/"><u>Adaptive Strategies for Successful Content on New FB Algorithm for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-advanced-ais-such-as-chatgpt-and-googles-bard-safe-to-guide-you-in-personal-wealth-management/"><u>Are Advanced AIs Such as ChatGPT and Google's Bard Safe to Guide You in Personal Wealth Management?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-scavengers-from-crashing-on-windows-and-mac/"><u>Effective Solutions to Stop Scavengers From Crashing on Windows and Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enabling-hyper-v-on-windows-10-the-complete-guide-with-installation-steps/"><u>Enabling Hyper-V on Windows 10 – The Complete Guide with Installation Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-razer-synapse-wont-launch/"><u>Fixing the Issue: Why Razer Synapse Won't Launch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/limited-ring-battery-doorbell-pro-assessment-premium-quality-justifies-high-price/"><u>Limited Ring Battery Doorbell Pro Assessment: Premium Quality Justifies High Price</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcome-the-infamous-cyberpunk-2077-black-screen-issue/"><u>Resolved: Overcome the Infamous Cyberpunk 2077 Black Screen Issue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tech-jest-crafter-for-2024/"><u>Tech Jest Crafter for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-watch-80s-films-perfect-for-your-current-movie-marathon/"><u>Top 10 Must-Watch '80S Films Perfect for Your Current Movie Marathon</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-fixes-when-your-sandisk-ssd-isnt-detected-a-comprehensive-guide/"><u>Top Fixes When Your Sandisk SSD Isn't Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-common-issues-why-your-graphics-card-may-cease-to-work-yl-technology-advice/"><u>Troubleshooting Common Issues: Why Your Graphics Card May Cease to Work - YL Technology Advice</u></a></li>
+</ul></div>
 

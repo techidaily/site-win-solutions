@@ -1,7 +1,7 @@
 ---
 title: How I Fixed My Evil Genius 2 Game Not Launching Problem
-date: 2024-08-18T14:52:16.819Z
-updated: 2024-08-19T14:52:16.819Z
+date: 2024-11-28T22:59:34.727Z
+updated: 2024-12-03T23:50:55.878Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry.png)
 
  Does nothing happen when you click on Play? You’re definitely not alone here. Many Far Cry 6 players are reporting the same. If Far Cry 6 won’t launch, below are some troubleshooting steps for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Far Cry 6 won’t launch? Here’s why
 
@@ -105,18 +109,22 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 1. Close any game-related apps. Then Right-click your Ubisoft Connect and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
 3. Click **Apply** \> **OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Also, repeat step 1\~2 for the Far Cry.exe file.
 
  Try restarting the game and see if it helps with the ‘Far Cry 6 not launching’ issue. If not, don’t worry since we have a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 3\. Verify your games files
 
  Corrupted game files can cause your game not to launch, and it’s easily done by verifying your game files. Here’s how:
@@ -131,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 2. Run the installer you downloaded with administrator rights.
 3. Follow the on-screen instructions to complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Update your GPU driver
 
  If you’re using a faulty or outdated GPU driver, you will get constant game crashes while playing Far Cry 6\. This is especially the case if you’re using a 30-series graphics card.
@@ -146,16 +151,15 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 4. Restart your PC for the changes to take full effect.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5\. Turn off overlays
 
  It’s reported by some players that turning off all overlays helps with the crashing issue. You can follow the steps below to disable them.
@@ -173,11 +177,12 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 2. Type in _**msconfig**_ and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Choose **Selective startup** , and uncheck **Load startup items** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
 4. Reboot your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If everything works fine without any background apps running, you might need to find the problematic one by[performing a clean boot](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -211,8 +216,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +223,21 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-expert-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile/"><u>[New] In 2024, Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-quintessential-zooid-startup-top-10/"><u>[Updated] 2024 Approved Quintessential Zooid Startup Top 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-input-reduction-zero-price-included/"><u>Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avatars-quest-in-the-frontiers-of-pandora-troubleshooting-tips-to-prevent-pc-game-crashes/"><u>Avatar's Quest in the Frontiers of Pandora - Troubleshooting Tips to Prevent PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012553635-black-desert-pc-issues-resolved-no-more-crashes-here/"><u>Black Desert PC Issues Resolved - No More Crashes Here</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-discontent-one-star-reviews-rising-for-fb-app-ratings/"><u>Digital Discontent: One-Star Reviews Rising for FB App Ratings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/easy-steps-to-modify-game-sounds-for-a-unique-identity-all-at-no-cost/"><u>Easy Steps to Modify Game Sounds for a Unique Identity - All at No Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-5-expectations-when-could-this-ai-revolutionize-tech-again/"><u>GPT-5 Expectations: When Could This AI Revolutionize Tech Again?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-red-dead-online-from-crashing-on-your-windows-computer/"><u>How to Stop Red Dead Online From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-linux-with-an-easy-to-follow-bavarder-implementation-tutorial/"><u>Mastering ChatGPT on Linux with an Easy-to-Follow Bavarder Implementation Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/no-fee-image-rehabilitation-programs-to-correct-and-restore-corrupted-photos-available-now/"><u>No-Fee Image Rehabilitation Programs to Correct and Restore Corrupted Photos Available Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-global-morning-routine-saying-hello-in-10-languages/"><u>The Global Morning Routine: Saying Hello in 10 Languages</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-battlefield-2042-crashes-in-windows-expert-fixes-and-advice/"><u>Troubleshooting Battlefield 2042 Crashes in Windows - Expert Fixes and Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-issues-with-the-intel-driver-and-support-assistant/"><u>Troubleshooting Guide: Fixing Issues with the Intel Driver and Support Assistant</u></a></li>
+</ul></div>
 

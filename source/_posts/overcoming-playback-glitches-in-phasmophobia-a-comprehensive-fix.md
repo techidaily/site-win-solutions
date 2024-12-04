@@ -1,7 +1,7 @@
 ---
 title: Overcoming Playback Glitches in Phasmophobia - A Comprehensive Fix
-date: 2024-08-18T14:56:25.116Z
-updated: 2024-08-19T14:56:25.116Z
+date: 2024-11-28T01:50:39.264Z
+updated: 2024-12-04T01:29:26.134Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Samurai Warriors 5 system requirements
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  If some important game files are missing or corrupted, the game may not work as expected. Some times, it may crash. If it’s the case, you need to veirfy and repair game files. Here’s how to do it:
@@ -62,9 +66,11 @@ Samurai Warriors 5 system requirements
 2. **Right-click** on **Samurai Warriors 5** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -85,18 +91,22 @@ Samurai Warriors 5 system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of Samurai Warriors 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -112,17 +122,20 @@ Samurai Warriors 5 system requirements
 1. Lauch**Steam** and go to LIBRARY.**Right-click** on **Samurai Warriors 5** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the GENERAL section, enter `**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 3. Run Samurai Warriors 5 and see if the game crashes again.
 
 If this issue persits, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  The game crashing issue may occur when the 3rd party antivirus software blocked important game files. Try adding Steam and the game folder as an exception to your third-party antivirus application. If necessary, try temporarily disabling your 3rd party antivirus software before playing the game.
@@ -131,6 +144,10 @@ If this issue persits, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  Samurai Warriors 5 will crash if there’s a certain app conflicting with it. If you’re not sure which app is conflicting with the game, you can find it out by performing a clean boot. Here’s how to do it:
@@ -138,33 +155,16 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Restart** your PC and launch Samurai Warriors 5 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -189,8 +189,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +196,23 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-all-you-need-to-know-about-the-youtube-shorts-fund/"><u>[Updated] 2024 Approved All You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>[Updated] 2024 Approved Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-high-speed-media-manipulation-a-practical-approach-for-2024/"><u>[Updated] High-Speed Media Manipulation A Practical Approach for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-best-free-subtitles-and-downloader-guide/"><u>[Updated] In 2024, Best Free Subtitles & Downloader Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-sony-vegas-from-frequently-stopping-unexpectedly/"><u>How To Stop Sony Vegas From Frequently Stopping Unexpectedly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-from-creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>In 2024, From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206908598-keyboard-malfunctions-resolve-non-working-keys-in-windows-10-and-11-quickly/"><u>Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988493990-say-goodbye-to-obs-streaming-delays-fixes-and-tips-unveiled/"><u>Say Goodbye to OBS Streaming Delays: Fixes and Tips Unveiled!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-sluggishness-how-to-speed-up-your-spotify-web-player/"><u>Solving the Sluggishness: How to Speed Up Your Spotify Web Player</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-out-on-youtube-top-gear-essentials/"><u>Starting Out on YouTube - Top Gear Essentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-social-issues-fixed-overcoming-network-connectivity-problems/"><u>Steam Social Issues Fixed: Overcoming Network Connectivity Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-correcting-the-mw3-memory-error-code-127/"><u>Step-by-Step Guide to Correcting the MW3 Memory Error Code 127</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-snap-game-with-these-top-tips-for-2024/"><u>Transform Your Snap Game with These Top Tips for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stardew-valley-pc-crashes-solved/"><u>Troubleshooting Stardew Valley: PC Crashes Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/what-to-do-when-age-of-empires-4-wont-start-up/"><u>What To Do When Age of Empires 4 Won't Start Up?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Call of Duty: Warzone Memory Glitch (Error 0-1766) for Both Xbox & PC Players"
-date: 2024-08-18T14:51:34.954Z
-updated: 2024-08-19T14:51:34.954Z
+date: 2024-12-02T04:03:32.196Z
+updated: 2024-12-04T03:46:52.436Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
@@ -87,6 +83,10 @@ OR
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the in-game settings
 
  Lowering the in-game graphics settings might help fix Warzone Pacific crashing. The Modern Warfare program occupied too much virtual memory and it could cause the game to crash. To fix it, you can lower all graphic settings, including turning off on demand streaming textures.
@@ -99,8 +99,9 @@ OR
 If it fixes the issue then slowly increase your graphics settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Warzone Pacific
 
  If none of the fixes work for you, you may reinstall Warzone Pacific to see the result. Some gamers have reported doing a clean reinstall of Warzone Pacific would help.
@@ -109,16 +110,20 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
@@ -133,14 +138,13 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -156,8 +160,6 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +167,20 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>[Updated] Ready, Set, Resize Transformative Techniques for Mac's Instagram Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/boosting-visual-appeal-in-tiktok-videos-for-2024/"><u>Boosting Visual Appeal in TikTok Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-guide-to-youtube-video-captioning-for-2024/"><u>Comprehensive Guide to YouTube Video Captioning for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-ipad-battery-change-a-comprehensive-tutorial/"><u>DIY iPad Battery Change: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exploring-the-best-tools-for-snapshots-and-video-capture/"><u>Exploring the Best Tools for Snapshots and Video Capture</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-gameplay-stop-age-of-empires-iv-from-freezing/"><u>Fix Your Gameplay: Stop Age of Empires IV From Freezing!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722727592618-get-ready-for-a-wild-ride-an-essential-guide-to-fortnites-newest-and-most-fun-season-yet/"><u>Get Ready for a Wild Ride: An Essential Guide to Fortnite’s Newest and Most Fun Season Yet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-5-innovative-tools-that-elevate-writing-imagination/"><u>Harnessing AI: 5 Innovative Tools That Elevate Writing Imagination</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-the-202/"><u>How the 202</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-stop-stardew-valley-from-freezing-or-crashing-pc/"><u>Step-by-Step Fix for Stop Stardew Valley From Freezing or Crashing PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y100i-power-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y100i Power 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-the-d3d-initialization-error-errgfxd3dinit-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the D3D Initialization Error (ERR_GFX_D3D_INIT) in Grand Theft Auto V</u></a></li>
+</ul></div>
 

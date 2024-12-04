@@ -1,7 +1,7 @@
 ---
 title: Clear Up Full Black Screens in Rainbow Six Siege with These Simple Steps (PC)
-date: 2024-08-18T14:59:21.476Z
-updated: 2024-08-19T14:59:21.476Z
+date: 2024-11-26T17:11:36.302Z
+updated: 2024-12-04T04:09:19.439Z
 tags:
   - win11
   - win10
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
@@ -63,24 +68,24 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -93,9 +98,11 @@ If the issue remains, move on to the next fix.
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
@@ -110,9 +117,6 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -120,8 +124,9 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -129,6 +134,11 @@ If not, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run box, type**%appdata%.minecraft** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
@@ -136,8 +146,9 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
@@ -155,8 +166,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +173,26 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-retrieve-your-voice-on-youtube-comments/"><u>[Updated] 2024 Approved How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-pro-tips-to-amplify-your-canva-designs/"><u>[Updated] 2024 Approved Pro Tips to Amplify Your Canva Designs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-synchronizing-success-brand-partnerships-on-youtube-channel/"><u>[Updated] 2024 Approved Synchronizing Success Brand Partnerships on YouTube Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-dailymotion-vs-youtube-who-earns-more-from-video-content-in-2024/"><u>[Updated] Dailymotion vs YouTube Who Earns More From Video Content, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-online-identity-unlocked-establishing-a-new-youtube-chanel-today/"><u>[Updated] In 2024, Your Online Identity Unlocked Establishing a New YouTube Chanel Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-steps-for-dolby-atmos-non-responsiveness-in-modern-windows-os/"><u>Comprehensive Troubleshooting Steps for Dolby Atmos Non-Responsiveness in Modern Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crushing-warzone-glitches-a-step-by-step-guide-to-correct-pc-disc-reading-errors-for-versions-50-and-31/"><u>Crushing Warzone Glitches: A Step-by-Step Guide to Correct PC Disc Reading Errors for Versions 5.0 & 3.1</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-not-utilizing-graphics-card-in-windows-10-heres-how-to-fix-it/"><u>Cyberpunk 2077 Not Utilizing Graphics Card in Windows 10? Here’s How to Fix It</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-youtubes-best-video-editing-practices/"><u>Decoding YouTube's Best Video Editing Practices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-sound-troubleshooting-techniques-overcoming-common-errors/"><u>Dying Light Sound Troubleshooting Techniques: Overcoming Common Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-gaming-experience-techniques-for-enhancing-fps-and-reducing-stutters-in-valorant/"><u>Maximize Your Gaming Experience: Techniques for Enhancing Fps and Reducing Stutters in Valorant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-wont-boot-up-on-pc-how-to-fix-it/"><u>Outriders Won't Boot Up on PC - How to Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dolby-atmos-connectivity-errors-on-pc-a-guide-for-windows-users/"><u>Overcoming Dolby Atmos Connectivity Errors on PC: A Guide for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi Redmi 12 5G.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-fortnite-account-lockouts-quickly-easy-methods-inside/"><u>Resolve Your Fortnite Account Lockouts Quickly: Easy Methods Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stuttering-issues-while-gaming-on-systems-with-high-frames-per-second-fps/"><u>Resolving Stuttering Issues While Gaming on Systems with High Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/success-story-how-fifa-21s-early-launch-glitches-were-successfully-fixed/"><u>Success Story: How FIFA 21'S Early Launch Glitches Were Successfully Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-why-cant-i-complete-the-feature-upgrade-on-windows-11-version-1607/"><u>Troubleshooting Steps: Why Can't I Complete the Feature Upgrade on Windows 11 (Version 1607)?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Days Gone Crashing – 2024
-date: 2024-08-18T14:52:34.674Z
-updated: 2024-08-19T14:52:34.674Z
+date: 2024-11-30T03:08:18.176Z
+updated: 2024-12-03T21:29:58.645Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  You may expect that overclocking your CPU and GPU can give a boost in the game performance, but it sometimes comes at the cost of system stability. To fix Days Gone crashing, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** , and then see how things go. If the problem persists, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  Graphics driver is important to your gaming experience with Days Gone. If the graphics driver is wrong, faulty or outdated, you may get constant crashes during the gameplay. So, make sure your graphics driver is up to date. If not, definitely update it right now.
@@ -70,9 +74,11 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  Test the game to see if the driver update does the trick. If not, there are two more fixes you can try.
@@ -88,14 +94,13 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 2. Right-click**Days Gone** from the list and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
  Wait for the process to complete and check if you can play the game as expected. If not, proceed to **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 #### If you’re playing on Epic Games Store
@@ -116,30 +121,30 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 1. Start the Steam client and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Days Gone** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. On the**General** tab, untick**Enable Steam overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### On GeForce Experience
 
 1. Run GeForce Experience.
 2. Click the **cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 3. Toggle off **In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch the game again and you should be able to enjoy it without interruptions now.
 
@@ -157,8 +162,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +169,23 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/rom-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[New] From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[New] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-marketing-made-simple-free-toolkit-unlocks-potential-for-2024/"><u>[Updated] FB Video Marketing Made Simple Free Toolkit Unlocks Potential for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-phantom-v-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Phantom V Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-methods-for-solving-starfields-excessive-cpu-demand-in-2e24/"><u>Effective Methods for Solving Starfield's Excessive CPU Demand in 2E24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-eliminating-crackle-from-computer-speakers-in-windows-environments/"><u>Effective Solutions for Eliminating Crackle From Computer Speakers in Windows Environments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-steam-slowness-proven-strategies-for-smoother-gameplay/"><u>Eliminate Steam Slowness: Proven Strategies for Smoother Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-misery-of-dragons-dogma-2-collapsing-on-windows-optimization-techniques-revealed/"><u>End the Misery of Dragon's Dogma 2 Collapsing on Windows - Optimization Techniques Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-concurrent-frames-per-second-decrease-on-your-pc-gaming-rig/"><u>How to Fix Concurrent Frames Per Second Decrease on Your PC Gaming Rig</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amc-explorer-ghost-drift-cam-analysis/"><u>In 2024, AMC Explorer Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-your-experience-advanced-fixes-to-overcome-low-fps-in-fallout-76-expert-tips-and-tricks/"><u>Level Up Your Experience: Advanced Fixes to Overcome Low FPS in Fallout 76 - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solution-to-persistent-terraria-game-crashes-edition/"><u>Master the Solution to Persistent Terraria Game Crashes Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-2-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-behind-continuous-crashes-of-call-of-duty-black-ops-cold-war-on-windows-pcs/"><u>Solving the Mystery Behind Continuous Crashes of Call of Duty Black Ops Cold War on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-asus-z170-a-motherboard-to-the-newest-version-for-windows-10-8-or-7-easy-driver-downloads-inside/"><u>Update Your ASUS Z170-A Motherboard to the Newest Version for Windows 10, 8 or 7 - Easy Driver Downloads Inside</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-profile-picture-templates-free-downloads-in-2024/"><u>YouTube Profile Picture Templates – Free Downloads, In 2024</u></a></li>
+</ul></div>
 

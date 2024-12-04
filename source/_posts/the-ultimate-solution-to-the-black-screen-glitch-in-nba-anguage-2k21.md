@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Solution to the Black Screen Glitch in NBA Anguage 2K21
-date: 2024-08-18T14:54:50.040Z
-updated: 2024-08-19T14:54:50.040Z
+date: 2024-12-03T05:36:35.692Z
+updated: 2024-12-04T02:00:01.837Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 2. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Switch DirectX versions](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Check if your PC meets the system requirements for Anno 1800](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Install the latest game patch
 
  The developers of Anno 1800, Unisoft, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **[Ubisoft official website](https://www.ubisoft.com/en-us/)**  , check for the latest patch, download and install it. Then check if it fixes the Anno 1800 game crash problem.
@@ -74,19 +82,12 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
 #### How to update DirectX to the latest version
@@ -95,13 +96,14 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
  4) Restart your computer for the change to take effect.
@@ -112,11 +114,16 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) Open the engine.ini file.
 
 3) Change**DeviceType: DX 12** to**DX 11** and**Adapter: 1** to**Adapter: 0** .
@@ -153,16 +160,14 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
@@ -180,8 +185,6 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +192,21 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instant-recording-audio-enriched-screens/"><u>[New] In 2024, Instant Recording Audio-Enriched Screens</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-taking-control-your-comprehensive-yt-studio-manual/"><u>[Updated] 2024 Approved Taking Control Your Comprehensive YT Studio Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>[Updated] Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-your-computers-vision-mastering-tiktok-video-uploads-for-2024/"><u>[Updated] From Your Computer's Vision Mastering TikTok Video Uploads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-successful-srt-shipping-out-of-premiere/"><u>2024 Approved Unlocking Successful SRT Shipping Out of Premiere</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-metropolis-mastery-failures-steps-for-launching-skylines-city-builder/"><u>Addressing Metropolis Mastery Failures: Steps for Launching Skylines City Builder</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-on-solving-the-problem-of-fallguys-failure-to-launch-and-subsequent-crashes/"><u>Comprehensive Guide on Solving the Problem of FallGuys Failure to Launch and Subsequent Crashes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-restore-visibility-tackling-the-black-screen-quandary-in-windows-11/"><u>Comprehensive Strategies to Restore Visibility: Tackling the Black Screen Quandary in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-2024-fortnite-pc-stutter-issue-essential-troubleshooting-steps/"><u>Fixing the 2024 Fortnite PC Stutter Issue: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-chrome-based-tiktok-video-submission-for-devices/"><u>In 2024, Chrome-Based TikTok Video Submission for Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-artisans-guide-to-crafting-cartoons-on-snaps/"><u>In 2024, The Artisan's Guide to Crafting Cartoons on Snaps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persona-email-protected-solved-how-to-resolve-pc-gaming-issues/"><u>Persona ([Email Protected]) Solved - How to Resolve PC Gaming Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing-for-2024/"><u>Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/team-fortress-2-continuous-crashing-problems-heres-how-to-fix-them/"><u>Team Fortress 2 Continuous Crashing Problems? Here's How to Fix Them</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Glitches: Fixing the Infamous Assassin's Creed Odyssey PC Crash Issue"
-date: 2024-08-18T14:52:32.457Z
-updated: 2024-08-19T14:52:32.457Z
+date: 2024-11-27T18:46:12.777Z
+updated: 2024-12-04T02:16:28.935Z
 tags:
   - win11
   - win10
@@ -56,26 +56,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
@@ -88,15 +84,25 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -123,14 +129,8 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -141,8 +141,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +148,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>[New] 2024 Approved Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-scraps-to-stunning-a-photomontage-journey/"><u>[New] In 2024, From Scraps to Stunning A Photomontage Journey</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-icloud-backup-essentials/"><u>Comprehensive Guide: Understanding iCloud Backup Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-for-sale-best-drones-to-buy/"><u>Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-2-pc-struggles-optimizing-gameplay-and-improving-frame-rate/"><u>Dying Light 2 PC Struggles: Optimizing Gameplay & Improving Frame Rate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-ways-to-resolve-wow-crashing-issues-a-step-by-step-guide/"><u>Effortless Ways to Resolve WoW Crashing Issues - A Step by Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies/"><u>In 2024, Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-gameplay-fixing-latency-problems-in-chivalry-ii-latest-techniques/"><u>Master Your Gameplay: Fixing Latency Problems in Chivalry II (Latest Techniques)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-resolution-of-gta-vs-directx-initialization-error-errgfxd3dinit-tips-and-tricks-for-gamers/"><u>Mastering the Resolution of GTA V's DirectX Initialization Error (ERR_GFX_D3D_INIT): Tips and Tricks for Gamers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-wevideo-the-fast-and-easy-way-to-create-online-videos/"><u>New In 2024, WeVideo The Fast and Easy Way to Create Online Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/team-fortress-team-fortress-2-how-to-resolve-team-fortress-2-crashes-in-korean/"><u>Team Fortress 지미앤콜 런타운해제 방법 (Team Fortress 2 클러시를 해결하는 방법) - How to Resolve Team Fortress 2 Crashes in Korean</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uncover-the-secrets-to-restoring-audio-functionality-in-dying-light/"><u>Uncover the Secrets to Restoring Audio Functionality in Dying Light</u></a></li>
+</ul></div>
 

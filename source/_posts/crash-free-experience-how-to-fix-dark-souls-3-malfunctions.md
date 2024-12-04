@@ -1,7 +1,7 @@
 ---
 title: "Crash-Free Experience: How to Fix Dark Souls 3 Malfunctions"
-date: 2024-08-18T14:55:03.412Z
-updated: 2024-08-19T14:55:03.412Z
+date: 2024-11-28T20:22:04.217Z
+updated: 2024-12-03T16:31:30.664Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 * **Test your keyboard with another PC** if possible. If your keyboard still won’t work, then it’s likely defective and may need a repair.
 
 If you didn’t find any hardware issues, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Make sure no other devices are interfering
 
@@ -53,8 +65,9 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -62,14 +75,8 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
@@ -77,9 +84,9 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -95,17 +102,11 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -121,8 +122,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +129,24 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-camera-experience-mavic-pro-review-for-2024/"><u>[New] Elevating Camera Experience - Mavic Pro Review for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr/"><u>[New] Highlighted Visions Is Intensified Lighting the Future of HD in HDR?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-top-picks-for-high-quality-game-captures/"><u>[New] In 2024, The Top Picks for High-Quality Game Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cutting-edge-meme-creation-app/"><u>[Updated] In 2024, Cutting-Edge Meme Creation App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge/"><u>[Updated] In 2024, Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>2024 Approved Evaluating Top 6 Choices 4K Youtube-to-MP3 Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010659568-assassins-creed-valhalla-top-tricks-for-immediate-performance-boost/"><u>Assassin's Creed: Valhalla - Top Tricks for Immediate Performance Boost</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-ubisoft-connect-problems-expert-advice-for-players/"><u>Bypassing Ubisoft Connect Problems: Expert Advice for Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-76-performance-boosting-techniques-say-goodbye-to-low-fps/"><u>Fallout 76 Performance Boosting Techniques - Say Goodbye to Low FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/frostpunk-stability-solutions-how-to-stop-game-crashes-for-good/"><u>Frostpunk Stability Solutions: How to Stop Game Crashes for Good</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-pc-crash-woes-here-are-the-solutions/"><u>Halo Infinite PC Crash Woes? Here Are the Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformed-terrain-continues-its-chill-version-update-now-resolved/"><u>Transformed Terrain Continues Its Chill: Version Update Now Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-free-tips-addressing-and-repairing-winwordexe-malfunctions-quickly/"><u>Trouble-Free Tips: Addressing and Repairing WINWORD.EXE Malfunctions Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-wallpaper-engine-not-responding-on-windows-11-and-10/"><u>Troubleshooting Guide: Wallpaper Engine Not Responding on Windows 11 & 10</u></a></li>
+</ul></div>
 

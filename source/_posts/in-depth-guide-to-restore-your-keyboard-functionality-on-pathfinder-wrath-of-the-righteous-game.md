@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Guide to Restore Your Keyboard Functionality on Pathfinder: Wrath of the Righteous Game"
-date: 2024-08-18T14:55:09.258Z
-updated: 2024-08-19T14:55:09.258Z
+date: 2024-11-30T16:32:42.903Z
+updated: 2024-12-03T18:52:46.490Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 [3: Delete Rewired_DirectInput.dll file](https://tools.techidaily.com/drivereasy/download/)
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check for hardware issues
 
@@ -43,9 +51,9 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 If you didn’t find any hardware issues, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -57,8 +65,9 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -68,9 +77,6 @@ If you didn’t find any hardware issues, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
@@ -78,8 +84,9 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -95,17 +102,11 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -121,8 +122,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +129,24 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-boost-engagement-with-free-intro-templates/"><u>[New] 2024 Approved Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-the-potential-of-minecraft-recording-with-macos-for-2024/"><u>[New] Unlocking the Potential of Minecraft Recording with MacOS for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stutter-issue-resolved-enjoy-seamless-playtime-with-grand-theft-auto-v/"><u>[Stutter Issue Resolved] Enjoy Seamless Playtime with Grand Theft Auto V</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>[Updated] Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-vr-adventures-on-oculus-devices-for-2024/"><u>[Updated] Essential VR Adventures on Oculus Devices for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-the-reboot-loop-how-to-solve-frequent-watch-dogs-legion-shutdowns-on-desktops/"><u>Addressing the Reboot Loop: How to Solve Frequent 'Watch Dogs: Legion' Shutdowns on Desktops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/april-2024-update-resolving-valorants-pc-lag-and-improving-reaction-time/"><u>April 2024 Update: Resolving Valorant's PC Lag and Improving Reaction Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-how-to-fix-the-game-crashing-issue-on-your-computer/"><u>Destiny 2: How To Fix The Game Crashing Issue On Your Computer</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enchanting-family-gallery-a-review-on-photo-frame-innovation/"><u>Enchanting Family Gallery - A Review on Photo Frame Innovation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-unreal-engine-process-halt-in-outriders-tips-and-solutions/"><u>Fixing the Unreal Engine Process Halt in Outriders - Tips & Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2022-pc-crashing-troubleshooting-step-by-step-guide-to-stability/"><u>Football Manager 2022 PC Crashing Troubleshooting: Step-by-Step Guide to Stability</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-11-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 11 Pro 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>In 2024, 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-halt-spotify-from-automatically-playing-podcasts/"><u>In 2024, How to Halt Spotify From Automatically Playing Podcasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lunar-client-freezing-issue-resolved-no-more-pc-interruptions/"><u>Lunar Client Freezing Issue Resolved - No More PC Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-file-is-locked-hurdles-in-your-steam-library/"><u>Overcoming 'File Is Locked' Hurdles in Your Steam Library</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-10-free-whiteboard-animation-tools-for-windows-and-mac/"><u>Updated Unleash Your Creativity 10 Free Whiteboard Animation Tools for Windows and Mac</u></a></li>
+</ul></div>
 

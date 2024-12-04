@@ -1,7 +1,7 @@
 ---
 title: Stop the Annoying Screen Fluttering - Expert Fixes for Warzone Players
-date: 2024-08-18T14:55:13.613Z
-updated: 2024-08-19T14:55:13.613Z
+date: 2024-11-28T18:13:07.450Z
+updated: 2024-12-03T19:36:40.713Z
 tags:
   - win11
   - win10
@@ -64,16 +64,10 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
 
  If HITMAN 3 isn’t on the list, take the steps below to add the game to the list.
@@ -82,6 +76,10 @@ To play Hitman 3, you need a PC with the following minimum specs:
   
 ![allow HITMAN 3 through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-HITMAN-3-through-windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then browse for HITMAN 3 and follow the instructions to allow your game through the firewall.
 
  If you’re using other anti-virus software, make sure you whitelist HITMAN 3\. If it still didn’t help you boot up HITMAN 3 properly, try the next fix below.
@@ -89,13 +87,18 @@ To play Hitman 3, you need a PC with the following minimum specs:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -107,8 +110,9 @@ To play Hitman 3, you need a PC with the following minimum specs:
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -132,6 +136,10 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Verify integrity of game files
 
  If Hitman 3 has missing or corrupted files, it may not boot up correctly. To check if this is the culprit, you’ll need to verify the game files.
@@ -146,9 +154,6 @@ Here’s how to do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -163,16 +168,14 @@ Here’s how:
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Disable unnecessary programs
 
  Sometimes, the programs running in the background can interfere with Hitman 3\. What’s more, some of them, such as Media Players and web browsers have been constantly using the resources that possibly trigger the black screen in Hitman 3.
@@ -190,8 +193,9 @@ Here’s how to disable programs in Task Manager:
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the **Startup**  tab, you can additionally prevent some programs from starting up on system boot. This will lower your overall cpu usage when using your PC.  
   
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
@@ -210,8 +214,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +221,24 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-leveraging-instagram-stories-with-ease-and-flair/"><u>[New] Leveraging Instagram Stories with Ease and Flair</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-is-the-smoothing-effect-in-photoshop-a-game-changer-or-not/"><u>[Updated] In 2024, Is the Smoothing Effect in Photoshop a Game Changer or Not?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-review-comparing-screen-recorders-for-professionals-for-2024/"><u>[Updated] The Ultimate Review Comparing Screen Recorders for Professionals for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-resolvez-vous-un-probleme-de-demarrage-avec-sccm-et-pxe/"><u>Comment Résolvez-Vous Un Problème De Démarrage Avec SCCM Et PXE?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-2022-leaf-glitch-fixes-and-solutions-for-apex-legends-players/"><u>Defeating the 2022 'Leaf' Glitch: Fixes and Solutions for Apex Legends Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-call-of-duty-wwii-issue-resolving-error-code-4128/"><u>Fixing Call of Duty: WWII Issue - Resolving Error Code 4128</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-game-crashes-in-team-fortress-2/"><u>How to Fix Persistent Game Crashes in Team Fortress 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-red-dead-redemption-crashes-when-played-on-windows-computer/"><u>How to Resolve Red Dead Redemption ^Crashes^ When Played on Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-rust-code-from-abruptly-stopping-a-step-by-step-guide/"><u>How to Stop Your Rust Code From Abruptly Stopping – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-game-performance-resolve-fps-issues-in-dota-2-on-modern-windows-systems/"><u>Improving Game Performance: Resolve FPS Issues in Dota 2 on Modern Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blueprint-for-a-viral-solitary-audio-experience/"><u>In 2024, Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/meaning-behind-invisible-user-presence/"><u>Meaning Behind Invisible User Presence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-gpu-underutilization-in-warzone-when-playing-on-windows-11-systems/"><u>Resolving GPU Underutilization in Warzone When Playing on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-latency-problems-in-rainbow-six-siege/"><u>Solving Latency Problems in Rainbow Six Siege</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-itel-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Itel S23+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-by-toms-experts/"><u>Unveiling the Latest in Hardware by Tom's Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x50-gt-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X50 GT Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

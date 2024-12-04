@@ -1,7 +1,7 @@
 ---
 title: "Chivalry II Stability Optimization: Effective Solutions to Prevent Crashes"
-date: 2024-08-18T14:54:59.772Z
-updated: 2024-08-19T14:54:59.772Z
+date: 2024-12-02T21:39:07.659Z
+updated: 2024-12-03T23:19:17.177Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ KurtzPel: Bringer of Chaos is a free to play 3rd person action battle game, rele
 5. [Update game patches](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch to the other server
 
  KurtzPel was released on North America and EU at beginning, then come with Asia and other states. So simply switch to the EU or NA servers may help you solve this issue.
@@ -43,13 +47,15 @@ KurtzPel: Bringer of Chaos is a free to play 3rd person action battle game, rele
 4. Click**Set Launch Options.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_15-39-34.jpg)
 5. In the box, type**ZoneCode=live PublishCode=EU** . Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can change**EU** to other regions. For example,**America = NA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_15-41-27.jpg)
 6. Restart KurtzPel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2: Unblock program in your antivirus software
 
  One common cause for the crashing issue is your antivirus software block some features of the game and cause crashes. So go to your antivirus software and unblock the game program to fix the crash.
@@ -66,18 +72,13 @@ KurtzPel: Bringer of Chaos is a free to play 3rd person action battle game, rele
 4. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_15-38-52.jpg)
 5. Go to the**LOCAL FILES** tab and click BROWSE LOCAL FILES.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_17-22-07.jpg)
 6. In the folder, right-click on**TheChase** and choose**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_17-22-44.jpg)
 7. Run the game to check.
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify game files
@@ -90,13 +91,11 @@ KurtzPel: Bringer of Chaos is a free to play 3rd person action battle game, rele
 3. In the **LOCAL FILES** tab, click **VERIFY INTEGRITY OF GAME FILES** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_17-22-08.jpg)
 4. Close Steam and relaunch KurtzPel. You should be good to go.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update game patches
 
  Game developers will keep releasing new patches to improve the game performance and fix issues, so it would be a good idea to update your game to the latest version. Update the game to the latest version may help you fix the crashing issue.
@@ -113,12 +112,13 @@ KurtzPel: Bringer of Chaos is a free to play 3rd person action battle game, rele
 3. Right-click on **KurtzPel** and click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-14_18-20-34.jpg)
 4. Go to Steam to download the latest version.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Install and run the game to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## KurtzPel System requirements
 
@@ -170,11 +170,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -189,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mobile-broadcasting-share-videos-without-a-retweet/"><u>[New] 2024 Approved Mobile Broadcasting Share Videos without a Retweet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[New] In 2024, Best Free Downloaders Download YouTube Thumbnail for Free[Online/Win/Mac]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-10-indispensable-instagram-video-editing-apps-for-marketers/"><u>[Updated] 10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[Updated] In 2024, Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-detailed-look-at-chatgpt-vs-huggingchat-who-wins-in-natural-language-processing/"><u>A Detailed Look at ChatGPT Vs. HuggingChat - Who Wins in Natural Language Processing?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-black-ops-cold-war-fixing-pc-game-crashes/"><u>Call of Duty: Black Ops Cold War - Fixing PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/celebrating-the-10-best-moba-games-on-android-for-2024/"><u>Celebrating the #10 Best MOBA Games on Android for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cloud-file-hunting-with-copernic-a-comprehensive-guide/"><u>Cloud File Hunting with Copernic: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-awesome-no-cost-image-manipulation-tools/"><u>Discover These Awesome No-Cost Image Manipulation Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-finding-emails-in-microsoft-outlook-using-copernic-desktop-search/"><u>Effective Strategies for Finding Emails in Microsoft Outlook Using Copernic Desktop Search</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-file-search-experience-mastering-data-retrieval-with-copernic-pro-text-search/"><u>Enhance Your File Search Experience: Mastering Data Retrieval with Copernic Pro Text Search</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-effortless-file-searches-on-windows-and-mac-unleash-copernics-power/"><u>Expert Guide to Effortless File Searches on Windows & Mac - Unleash Copernic's Power</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-macx-mediatrans-mac/"><u>IOSデータ管理・バックアップのプロフェッショナル ソリューション：MacX MediaTrans 推奨 Macユーザー向け</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-smoother-graphics-in-dying-light-by-fixing-low-fps/"><u>Mastering the Art of Smoother Graphics in Dying Light by Fixing Low FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/"><u>Mastering the Battle: Solutions to Tackle Xbox and PC's Error 0-1^66 in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-your-queries-with-brilliance-how-copernics-advanced-search-engine-elevates-information-access/"><u>Optimizing Your Queries with Brilliance: How Copernic's Advanced Search Engine Elevates Information Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-revolutionary-role-of-ai-in-shaping-our-world-and-tomorrow/"><u>The Revolutionary Role of AI in Shaping Our World and Tomorrow</u></a></li>
+</ul></div>
 

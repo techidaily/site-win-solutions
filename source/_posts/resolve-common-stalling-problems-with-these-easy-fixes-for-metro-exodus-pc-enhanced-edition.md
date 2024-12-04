@@ -1,7 +1,7 @@
 ---
 title: Resolve Common Stalling Problems with These Easy Fixes for Metro Exodus (PC) Enhanced Edition
-date: 2024-08-18T14:52:47.870Z
-updated: 2024-08-19T14:52:47.870Z
+date: 2024-11-30T19:41:19.697Z
+updated: 2024-12-03T19:55:46.415Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -68,9 +72,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
 
  If HITMAN 3 isn’t on the list, take the steps below to add the game to the list.
@@ -85,11 +86,19 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -100,10 +109,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -116,22 +121,24 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game to see if it looks much better.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
 
@@ -147,9 +154,6 @@ Here’s how to do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -164,13 +168,14 @@ Here’s how:
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable unnecessary programs
 
  Sometimes, the programs running in the background can interfere with Hitman 3\. What’s more, some of them, such as Media Players and web browsers have been constantly using the resources that possibly trigger the black screen in Hitman 3.
@@ -188,15 +193,13 @@ Here’s how to disable programs in Task Manager:
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the **Startup**  tab, you can additionally prevent some programs from starting up on system boot. This will lower your overall cpu usage when using your PC.  
   
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  After you’ve done these, try to launch Hitman 3 and you should be able to load into the game.
 
 ---
@@ -211,8 +214,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +221,24 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-editmasters-selecting-the-best-4k-screens-for-creatives/"><u>[New] In 2024, EditMasters Selecting the Best 4K Screens for Creatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tips-for-finding-hidden-exclusive-photos-on-snapchat/"><u>[New] In 2024, Tips for Finding Hidden, Exclusive Photos on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hubs-of-immersive-visual-storytelling/"><u>[Updated] Hubs of Immersive Visual Storytelling</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crashes-tips-for-running-modern-warfare-seamlessly-on-windows-machines/"><u>Banish Lag & Crashes - Tips for Running 'Modern Warfare' Seamlessly on Windows Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-v-rising-pc-game-glitches-expert-fixes-for-a-smooth-playing-experience/"><u>Eliminate V-Rising PC Game Glitches: Expert Fixes for a Smooth Playing Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-rig-resolve-lag-problems-in-the-division-2-before-the-next-patch/"><u>Enhance Your Gaming Rig: Resolve Lag Problems in 'The Division 2' Before the Next Patch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stabilize-dota-a-users-manual-to-address-game-malfunctions/"><u>How to Stabilize Dota 지금: A User's Manual to Address Game Malfunctions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leveraging-azures-voice-recognition-for-advanced-solutions/"><u>Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ization-face-off-analyzing-dailymovement-and-youtube-profits-for-2024/"><u>Monetization Face-Off Analyzing DailyMovement and Youtube Profits for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/movie-magic-for-video-editing-enthusiasts/"><u>Movie Magic for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-ultimate-guide-to-fixing-modern-warfare-amoorance-pc-game-crashes/"><u>Seamless Gaming: Ultimate Guide to Fixing 'Modern Warfare Amoorance' PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-steamvrs-troublesome-error-308-issue/"><u>Step-by-Step Guide: Resolving SteamVR's Troublesome Error 308 Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-file-mp4-gratuitamente-in-m4a-usando-lonline-convertitore-di-movavi/"><u>Trasforma I Tuoi File MP4 Gratuitamente in M4A Usando L'Online Convertitore Di Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-problems-with-epic-games-launcher-that-wont-start/"><u>Troubleshooting & Resolving Problems with Epic Games Launcher That Won't Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-drops-and-glitches-in-fortnite-on-windows-systems/"><u>Troubleshooting Frame Rate Drops and Glitches in Fortnite on Windows Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/zooming-in-smoothly-youtube-video-upgrades/"><u>Zooming in Smoothly YouTube Video Upgrades</u></a></li>
+</ul></div>
 

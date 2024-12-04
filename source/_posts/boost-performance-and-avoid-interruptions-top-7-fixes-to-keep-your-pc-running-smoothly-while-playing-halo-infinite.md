@@ -1,7 +1,7 @@
 ---
 title: "Boost Performance & Avoid Interruptions: Top 7 Fixes to Keep Your PC Running Smoothly While Playing Halo Infinite"
-date: 2024-08-18T14:54:58.702Z
-updated: 2024-08-19T14:54:58.702Z
+date: 2024-12-02T19:56:48.419Z
+updated: 2024-12-03T17:42:15.953Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 6. **[Modify in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Minecraft Dungeons](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot the game crashing issue, you’ll need to make sure your PC meets the minimum requirements to run Minecraft Dungeons properly.
@@ -41,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
  After confirming your PC is good enough for Minecraft Dungeons, go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Install the latest game patch
 
  The developers of Minecraft Dungeons constantly release game patches to add new features and fix the known bugs. If you haven’t updated your game to the most recent version, you should give it a try to see if it can resolve your crashing issue.
@@ -61,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 If the crashing issue remains, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a faulty or outdated graphics driver. To fix the potential problem and enjoy a better game experience, you should update your graphics driver to the latest version.
@@ -84,15 +86,16 @@ If the crashing issue remains, continue to the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft Dungeons to see if the game crashes again.
 
 If the issue persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates often bring new features and security improvements. If you don’t remember the last time you updated your system, you can try to check for updates manually and see if it helps. Here’s how:
@@ -101,18 +104,25 @@ If the issue persists, move on to the next fix.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Minecraft Dungeons to see if the crashing issue is resolved.
 
 If this fix doesn’t do the trick, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair your game
 
  The crashing issue in Minecraft Dungeons may occur due to the corrupted game files. If you’re on Windows 10, you can try repairing the game without reinstalling it. The game’s data won’t be affected. Here’s how:
@@ -121,16 +131,15 @@ If this fix doesn’t do the trick, try the next one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** , then click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-options.jpg)
 4. Scroll down the page, then click**Repair** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/repair-minecraft-dungeons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/repair-minecraft-dungeons.jpg)
+
  Now you can relaunch Minecraft Dungeons to check if the game works properly.
 
 If this fix doesn’t work for you, check out the next one.
@@ -145,14 +154,12 @@ If this fix doesn’t work for you, check out the next one.
 3. Select**Advanced Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-graphics.jpg)
 4. **Turn off** V-sync, Anti-Aliasing Quality, Shadow Quality and Bloom.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if Minecraft Dungeons still crashes.
 
 If this fix doesn’t help, check out the last one.
@@ -165,9 +172,6 @@ If this fix doesn’t help, check out the last one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** and select**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-minecraft-dungeons.jpg)
 4. Go to **[Minecraft Dungeon’s official website](https://www.minecraft.net/en-us/about-dungeons)**  to download and install the latest version.
 
@@ -186,8 +190,6 @@ Check if Minecraft Dungeons works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +197,19 @@ Check if Minecraft Dungeons works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-laying-the-groundwork-for-av1-understanding/"><u>[Updated] Laying The Groundwork for AV1 Understanding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/deep-10-immersive-youtube-videos-for-vr-enthusiasts-for-2024/"><u>Dive Deep 10 Immersive YouTube Videos for VR Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722991423144-final-verdict-on-mafia-definitive-edition-launch-puzzle-solved/"><u>Final Verdict on Mafia: Definitive Edition Launch Puzzle Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-persistent-dread-hunger-crash-issues-on-your-computer/"><u>Fixes for Persistent Dread Hunger Crash Issues on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-corrections-for-playstation-network-error-on-windows/"><u>Immediate Corrections for PlayStation Network Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-notes-prominent-on-windows-10-and-11/"><u>Keeping Notes Prominent on Windows 10 & 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-twitch-troubleshooting-essential-techniques-for-resolving-stream-loading-problems/"><u>Master Twitch Troubleshooting: Essential Techniques for Resolving Stream Loading Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mastering-pc-gear-choices-insights-from-toms-hardware/"><u>Mastering PC Gear Choices: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/purchasing-speakers-here-are-5-must-ask-questions-to-ensure-quality-audio-experience/"><u>Purchasing Speakers? Here Are 5 Must-Ask Questions to Ensure Quality Audio Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1142783-9780857010070-seeking-the-spirit-of-the-book-of-change/"><u>Seeking the Spirit of The Book of Change | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-solution-to-stop-xcom-angs-on-your-windows-pc-now/"><u>Ultimate Solution to Stop XCOM Angs on Your Window's PC - Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-ensuring-a-successful-start-of-assassins-creed-mirage/"><u>Ultimate Troubleshooting Guide: Ensuring a Successful Start of Assassin's Creed Mirage</u></a></li>
+</ul></div>
 

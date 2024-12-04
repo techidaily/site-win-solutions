@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Smooth YouTube Viewing: A Fix for Video Stuttering Problems"
-date: 2024-08-18T14:51:38.156Z
-updated: 2024-08-19T14:51:38.156Z
+date: 2024-11-29T19:17:44.716Z
+updated: 2024-12-03T19:10:49.936Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -78,8 +82,9 @@ Make sure that Anthem is closed and not running in the background.
 All good now? That’s great!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -98,14 +103,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
  6) Once finished, restart your computer and launch Anthem.
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Update your drivers
 
@@ -127,18 +133,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
@@ -155,24 +155,26 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -185,6 +187,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
@@ -194,8 +200,9 @@ Here’s what you need to do:
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 6: Change your graphics settings
 
  Many Anthem players have reported that modifying Anthem graphics settings helps with the Anthem loading issue, especially in reducing Anthem loading times. So you can change the graphics settings for Anthem in your computer.
@@ -206,15 +213,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Save your changes.
 
 Re-launch Anthem and see how it works.
@@ -230,8 +238,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +245,26 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-how-to-add-filters-and-music-on-windows-10-photos-app/"><u>[New] 2024 Approved How to Add Filters and Music on Windows 10 Photos App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-fanfare-unveiled-android-and-iphones-most-liked-apps/"><u>[New] In 2024, Facebook Fanfare Unveiled Android & iPhone's Most Liked Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-engagement-title-conjurer/"><u>[New] Peak Engagement Title Conjurer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-10-tools-to-shield-photographic-work/"><u>[New] Top 10 Tools to Shield Photographic Work</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-non-google-augmented-reality-visual-aids/"><u>[Updated] 2024 Approved Non-Google Augmented Reality Visual Aids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/access-restored-no-more-login-troubles-with-your-origin-profile/"><u>Access Restored - No More Login Troubles with Your Origin Profile</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-intel-graphics-driver-on-windows-11-easy-instructions/"><u>Download & Update Intel Graphics Driver on Windows 11 - Easy Instructions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-doom-eternal-from-crashing-continuously/"><u>Effective Solutions to Prevent DOOM Eternal From Crashing Continuously</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-application-malfunctions-the-case-of-nwstoreexe/"><u>Fixing Persistent Application Malfunctions: The Case of nw_store.exe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-zero-to-hero-achieving-perpetual-prosperity-in-the-world-of-like-a-dragon-for-windows-gamers/"><u>From Zero to Hero: Achieving Perpetual Prosperity in the World of 'Like a Dragon' For Windows Gamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-google-pixel-7a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Google Pixel 7a to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-animations-on-the-go-top-mobile-apps/"><u>In 2024, Create Stunning Animations On-the-Go Top Mobile Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-deathloop-stuttering-issues-tips-for-smooth-gaming-on-pc-and-ps5/"><u>Solving Deathloop Stuttering Issues: Tips for Smooth Gaming on PC and PS5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-if-you-cannot-open-microsoft-outlook/"><u>Step-by-Step Fixes if You Cannot Open Microsoft Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-checklist-for-clean-windows-installations/"><u>The Ultimate Checklist for Clean Windows Installations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-when-shadowplay-wont-capture-on-a-pc-setup/"><u>The Ultimate Fix for When ShadowPlay Won’t Capture on a PC Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-issues-resolving-rocket-league-freezing-problems/"><u>Troubleshooting Common Issues: Resolving Rocket League Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unstick-your-progress-solutions-for-among-us-perpetual-load-screens/"><u>Unstick Your Progress: Solutions for 'Among Us' Perpetual Load Screens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valheim-optimization-guide-for-enhanced-frame-rates-fix-low-fps-insights-from-2024/"><u>Valheim Optimization Guide for Enhanced Frame Rates (Fix Low FPS) - Insights From 2024</u></a></li>
+</ul></div>
 

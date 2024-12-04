@@ -1,7 +1,7 @@
 ---
 title: "In Depth Analysis: Resolving Crash Issues on Your Computer for Final Fantasy XIV"
-date: 2024-08-18T14:58:35.492Z
-updated: 2024-08-19T14:58:35.492Z
+date: 2024-11-27T03:31:30.629Z
+updated: 2024-12-04T02:06:20.432Z
 tags:
   - win11
   - win10
@@ -54,9 +54,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -67,18 +64,16 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -106,13 +101,18 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -123,14 +123,17 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -145,8 +148,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,20 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/half-life-alyx-pc-version-latency-and-stutter-no-more/"><u>'Half-Life: Alyx PC Version - Latency and Stutter No More!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[New] 2024 Approved From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlocking-creative-photos-using-pexels-effectively-for-2024/"><u>[New] Unlocking Creative Photos Using Pexels Effectively for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-discord-crashing-when-trying-to-stream/"><u>[Solved] Discord Crashing When Trying to Stream</u></a></li>
+<li><a href="https://article-tips.techidaily.com/chiefs-choice-elite-sky-savers/"><u>Chief's Choice Elite Sky Savers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965551323-fix-and-install-troubleshooting-tips-for-seamless-sandisk-ssd-driver-installation/"><u>Fix & Install: Troubleshooting Tips for Seamless Sandisk SSD Driver Installation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitech-g-hub-failures-tips-for-windows-users/"><u>Fixing Logitech G Hub Failures – Tips for Windows Users</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/key-factors-in-picking-your-perfect-crypto-trading-platform-insights-from-yl-software-experts/"><u>Key Factors in Picking Your Perfect Crypto Trading Platform - Insights From YL Software Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-the-role-youtube-shorts-music-plays-for-2024/"><u>Learn the Role YouTube Shorts Music Plays for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-the-maze-of-stock-visual-acquisition-for-2024/"><u>Navigating the Maze of Stock Visual Acquisition for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-x-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone X on MetroPCS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-call-of-duty-black-ops-4-fail-to-start-we-have-the-answers/"><u>Troubleshooting Your Call of Duty Black Ops 4 Fail to Start - We Have the Answers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/untangling-the-anthem-load-stalling-issue-effective-fixes-and-tips/"><u>Untangling the Anthem Load Stalling Issue: Effective Fixes and Tips</u></a></li>
+</ul></div>
 

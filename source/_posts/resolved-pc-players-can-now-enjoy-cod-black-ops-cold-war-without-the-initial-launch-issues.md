@@ -1,7 +1,7 @@
 ---
 title: "Resolved: PC Players Can Now Enjoy Cod: Black Ops Cold War Without the Initial Launch Issues"
-date: 2024-08-18T14:57:15.965Z
-updated: 2024-08-19T14:57:15.965Z
+date: 2024-11-28T19:53:52.199Z
+updated: 2024-12-03T21:54:26.881Z
 tags:
   - win11
   - win10
@@ -26,11 +26,19 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -41,9 +49,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
@@ -76,14 +81,12 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
@@ -99,21 +102,21 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, launch Black Ops Cold War and see if you can play now.
@@ -128,8 +131,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +138,24 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-embedding-weblinks-on-instas-story-feature/"><u>[Updated] Embedding Weblinks on Insta's Story Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-eye-of-the-tech-giants-leading-screen-capture-apps/"><u>[Updated] In 2024, Eye of the Tech Giants Leading Screen Capture Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-turing-test-is-it-unbeatable-or-not/"><u>Dissecting the Turing Test: Is It Unbeatable or Not?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-background-erasure-in-digital-photography/"><u>Effortless Background Erasure in Digital Photography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-why-does-samurai-warriors-5-keep-crashing-and-how-to-prevent-it/"><u>Expert Advice: Why Does Samurai Warriors 5 Keep Crashing and How to Prevent It?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-valheim-performance-problems-no-more-frame-drops-or-freezes/"><u>Fixing Valheim Performance Problems - No More Frame Drops or Freezes!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-device-management-with-drivereasy-portable-tool-tutorial/"><u>Mastering Device Management with DriverEasy Portable Tool Tutorial</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/movavis-no-cost-web-service-convert-raw-photos-to-tiff-format-easily/"><u>Movavi's No-Cost Web Service: Convert RAW Photos to TIFF Format Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimal-performance-achieved-no-more-drops-in-lost-arks-frame-rate/"><u>Optimal Performance Achieved: No More Drops in Lost Ark's Frame Rate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013319628-pc-players-rejoice-wrc-10-game-crashing-problems-solved-enhanced-performance-guaranteed/"><u>PC Players Rejoice - WRC 10 Game Crashing Problems Solved! Enhanced Performance Guaranteed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v27e-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V27e and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-roblox-problems-quick-a-step-by-step-guide-new-edition-2024/"><u>Solve Your Roblox Problems Quick: A Step-by-Step Guide (New Edition, 2024)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-fixing-non-functional-voice-chats-with-content-warnings/"><u>Step-by-Step Tutorial: Fixing Non-Functional Voice Chats with Content Warnings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/struggling-to-play-doom-eternal-top-fixes-for-launch-problems-revealed/"><u>Struggling to Play DOOM Eternal? Top Fixes for Launch Problems Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-quick-guide-to-quashing-facebooks-flashy-feed-for-2024/"><u>The Quick Guide to Quashing Facebook's Flashy Feed for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/top-5-solutions-for-persistent-wi-fi-drops-on-your-iphone/"><u>Top 5 Solutions for Persistent Wi-Fi Drops on Your iPhone</u></a></li>
+</ul></div>
 

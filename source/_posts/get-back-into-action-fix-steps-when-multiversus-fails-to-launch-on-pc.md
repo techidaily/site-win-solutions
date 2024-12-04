@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into Action: Fix Steps When MultiVersus Fails to Launch on PC"
-date: 2024-08-18T14:55:17.947Z
-updated: 2024-08-19T14:55:17.947Z
+date: 2024-11-30T18:08:57.305Z
+updated: 2024-12-03T21:42:39.627Z
 tags:
   - win11
   - win10
@@ -61,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -85,15 +86,16 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -106,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -119,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -132,22 +128,24 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -164,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-building-a-brand-in-the-metaverse-ecosystem/"><u>[New] Building a Brand in the Metaverse Ecosystem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000424388-banish-fallout-cuffs-from-your-gaming-experience-the-ultimate-fix/"><u>Banish Fallout Cuffs From Your Gaming Experience: The Ultimate Fix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-methods-how-to-quickly-minimize-gif-dimensions-across-various-services/"><u>Effortless Methods: How to Quickly Minimize GIF Dimensions Across Various Services</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-sifu-experience-strategies-to-eliminate-frame-drops-and-stutter-on-pc-setup/"><u>Enhancing Your Sifu Experience: Strategies to Eliminate Frame Drops and Stutter on PC Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-troubleshooting-how-to-resolve-non-launching-issues-with-mass-effect-le/"><u>Error Troubleshooting: How to Resolve Non-Launching Issues with Mass Effect LE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-davinci-resolve-up-and-running-again-on-your-windows-computer/"><u>How to Get DaVinci Resolve Up and Running Again on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-crusader-kings-iii/"><u>How to Stop Your PC From Crashing While Playing Crusader Kings III</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-artful-alterations-crafting-distorted-images-to-dazzle/"><u>In 2024, Artful Alterations Crafting Distorted Images to Dazzle</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-understanding-whatsapps-sound-conversations/"><u>In 2024, Understanding WhatsApp's Sound Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-lava-agni-2-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Lava Agni 2 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/maximize-content-by-merging-apple-music-to-videos/"><u>Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-issues-with-grand-theft-auto-v-understanding-and-resolving-game-crashes/"><u>Persistent Issues with Grand Theft Auto V - Understanding and Resolving Game Crashes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailored-audio-gear-choosing-mics-for-diverse-video-platforms-for-2024/"><u>Tailored Audio Gear Choosing Mics for Diverse Video Platforms for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-2024-playbook-earning-your-keep-on-youtube-channel/"><u>The 2024 Playbook Earning Your Keep on YouTube Channel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-utilitaires-de-capture-decran-gratuits-pour-windows-11-movavi/"><u>Top 10 Utilitaires De Capture D'Écran Gratuits Pour Windows 11 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-solutions-resolving-issues-with-utorrents-connection-and-download-problems/"><u>Troubleshooting Solutions: Resolving Issues with uTorrent's Connection and Download Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-fixing-crashes-in-madden-nfl-19-on-your-windows-computer/"><u>Ultimate Guide to Fixing Crashes in Madden NFL 19 on Your Windows Computer</u></a></li>
+</ul></div>
 

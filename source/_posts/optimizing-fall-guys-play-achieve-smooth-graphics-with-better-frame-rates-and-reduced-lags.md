@@ -1,7 +1,7 @@
 ---
 title: Optimizing Fall Guys Play – Achieve Smooth Graphics with Better Frame Rates & Reduced Lags
-date: 2024-08-18T14:52:17.895Z
-updated: 2024-08-19T14:52:17.895Z
+date: 2024-12-01T17:33:28.408Z
+updated: 2024-12-03T22:28:52.274Z
 tags:
   - win11
   - win10
@@ -32,6 +32,11 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 1. Right-click the**Start** button and then select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/start-device-manager.jpg)
 2. In Device Manager, double-click**Display adapters** to expand it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
@@ -42,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your graphics driver manually
 
  You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.
@@ -78,9 +84,11 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
 3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. **Restart** your PC and check if you can launch Forza horizon 5.
 
 ---
@@ -96,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +111,26 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-optimizing-lifes-dual-roles-job-and-youtubing/"><u>[Updated] Optimizing Life's Dual Roles Job & YouTubing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sony-a6400-video-failure-what-to-do-next/"><u>[Updated] Sony A6400 Video Failure What To Do Next?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-windows-update-issue-easy-solutions-to-correct-error-0x8024200d/"><u>Beat Windows Update Issue: Easy Solutions to Correct Error 0X8024200D</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/checking-scanner-and-windows-11-integration-expert-guide-from-yl-software-solutions/"><u>Checking Scanner & Windows 11 Integration - Expert Guide From YL Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-vanguard-pc-troubleshooting-eliminating-error-code-0x00001338-solution-inside/"><u>CoD Vanguard PC Troubleshooting: Eliminating Error Code 0X00001338 (Solution Inside)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-persistent-sony-vegas-software-crashes-expert-fixes-and-tips/"><u>Dealing with Persistent Sony Vegas Software Crashes: Expert Fixes and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-solutions-resolving-the-issue-of-error-code-130-in-steam-a-comprehensive-guide/"><u>Easy Solutions: Resolving the Issue of Error Code 130 in Steam - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-game-lag-and-crashes-in-mordhau-ultimate-fix-guide-revealed/"><u>End Game Lag & Crashes in Mordhau – Ultimate Fix Guide Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-multiversus-game-freezes-once-and-for-all-effective-tips-to-prevent-crashing/"><u>End MultiVersus Game Freezes Once and for All - Effective Tips to Prevent Crashing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-hd-webcam-drivers-for-enhanced-video-quality-on-windows-11/"><u>Get the Latest Logitech HD Webcam Drivers for Enhanced Video Quality on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-5-high-performance-hdds-built-for-xbox-use/"><u>In 2024, 5 High-Performance HDDs Built for Xbox Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-your-gaming-rig-defeat-latency-and-improve-fps-in-chivalry/"><u>Level Up Your Gaming Rig: Defeat Latency & Improve FPS in Chivalry</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/powerdirector/"><u>PowerDirectorの黒いプレビュー画面を修正するための復活戦略！</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-stop-borderlands-3-from-crashing-instantly/"><u>Quick Fixes: Stop Borderlands 3 From Crashing Instantly!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-a-step-by-step-guide-to-troubleshoot-pc-game-crashes-in-cyberpunk-2077/"><u>Resolved: A Step-by-Step Guide to Troubleshoot PC Game Crashes in Cyberpunk 2077</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets-for-2024/"><u>Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012824869-stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/successfully-launching-age-of-empires-ii-compatible-with-your-new-windows-11-system/"><u>Successfully Launching Age of Empires II Compatible with Your New Windows 11 System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ical-wonders-in-musical-worlds-for-2024/"><u>Whimsical Wonders in Musical Worlds for 2024</u></a></li>
+</ul></div>
 

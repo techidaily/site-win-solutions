@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Keyboard Issues in Pathfinder's Wrath of the Righteous Game
-date: 2024-08-18T14:52:59.920Z
-updated: 2024-08-19T14:52:59.920Z
+date: 2024-11-29T04:04:03.680Z
+updated: 2024-12-03T22:28:30.968Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 5. [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 6. [Change the GPU priority](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the Steam client
 
  It never hurts to restart your game and verify your game files before heading to other more advanced fixes. Here’s how:
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
  5) Once complete, the window will exit automatically.
 
  Try starting the game and check if the ‘Pathfinder: Wrath of the Righteous not launching’ issue persists. If this method doesn’t do the trick, you can move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -83,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable NVIDIA/GoG Overlays
 
  If you’re on GoG and Pathfinder: Wrath of the Righteous won’t launch, the solution is as follow:
@@ -94,18 +99,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  2) Go to**Game Features** and uncheck**Overlay** .
 
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
 
  If you’re using an NVIDIA graphics card, you can disable NVIDIA overlay.
@@ -121,15 +118,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
 
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify the Registry
 
@@ -141,9 +147,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![edit registry](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to C**omputer\\HKEY\_CURRENT\_USER\\SOFTWARE\\owlcat** and delete the entire key.
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
@@ -154,6 +157,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this doesn’t work, there might be other applications that are conflicting with your game. You might want to **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**  to find the problematic one and uninstall it temporarily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the GPU priority
 
  If you have multiple GPUs installed, you might as well try changing the GPU to the dedicated card to see if this helps.
@@ -163,16 +170,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/09/control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .
@@ -191,8 +195,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +202,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphones-ultimate-live-photography-potential/"><u>[New] Unlocking iPhone's Ultimate Live Photography Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-navigate-efficiently-discover-fuel-stations-alongside-your-journey-using-google-maps/"><u>1. Navigate Efficiently: Discover Fuel Stations Alongside Your Journey Using Google Maps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>2024 Approved Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y56-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y56 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-problems-troubleshooting-valheims-failure/"><u>Overcoming Startup Problems: Troubleshooting Valheim's Failure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-unreal-engine-4-glitch-causes-outriders-processing-error-in-maddening-bugs/"><u>Resolved: Unreal Engine 4 Glitch Causes Outriders 'Processing Error' In Maddening Bugs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackle-the-drag-essential-fixes-for-eliminating-stutter-in-forza-horizon-5-gaming/"><u>Tackle the Drag: Essential Fixes for Eliminating Stutter in Forza Horizon 5 Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/time-lapse-video-techniques-for-ipad-users-for-2024/"><u>Time-Lapse Video Techniques for iPad Users for 2024</u></a></li>
+</ul></div>
 

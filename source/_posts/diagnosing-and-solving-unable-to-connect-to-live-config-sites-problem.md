@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Solving 'Unable to Connect to Live Config Sites' Problem
-date: 2024-08-18T14:53:48.577Z
-updated: 2024-08-19T14:53:48.577Z
+date: 2024-11-27T00:30:14.948Z
+updated: 2024-12-03T18:36:53.070Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. [Run as Administrator](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your device
 
  Make sure that the in-game volume isn’t disabled or too low. Then check your computer’s sound configuration and output settings. If everything is working properly, you can move to the next fix.
@@ -40,9 +44,6 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update Windows Media Feature pack
 
  This is a proven fix that has helped many gamers. Give it a try and it may solve your issue.
@@ -62,10 +63,11 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 2. Click**View features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Relaunch the game and check the audio.
 
 ### Fix 3: Update your audio driver
@@ -80,9 +82,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -91,8 +95,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 Then, reboot your PC and relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -102,16 +107,16 @@ Then, reboot your PC and relaunch the game to check.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Relaunch the game and check you have sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify game files
 
@@ -120,9 +125,6 @@ Then, reboot your PC and relaunch the game to check.
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 
@@ -134,8 +136,6 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,20 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-seo-playbook-increase-channels-with-effortless-techniques/"><u>[Updated] In 2024, The Ultimate SEO Playbook Increase Channels with Effortless Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-recovering-youtube-gems-2-easy-watch-methods-revealed/"><u>[Updated] Recovering Youtube Gems 2 Easy Watch Methods Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-analysis-and-reviews/"><u>Exploring the World of Gadgets with Tom's Equipment Analysis & Reviews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-the-stutter-and-lag-in-thaumaturge-on-windowsmacos/"><u>Guide: Resolving the Stutter and Lag in Thaumaturge on Windows/MacOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-130-musicmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia 130 MusicMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-system-file-checker-a-step-by-step-approach/"><u>Initiating System File Checker: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/performance-issues-fixed-clearing-gameplay-interruptions-smooth-rendering-and-improved-response-times/"><u>Performance Issues Fixed: Clearing Gameplay Interruptions, Smooth Rendering & Improved Response Times</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/petsafe-automatic-feeder-reviewed-ensuring-optimal-nutrition-and-controlled-eating-habits-for-long-term-pet-health/"><u>PetSafe Automatic Feeder Reviewed: Ensuring Optimal Nutrition & Controlled Eating Habits for Long-Term Pet Health</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-a-guide-to-preventing-house-flipper-2-crashes-on-your-computer/"><u>Resolving Stability Issues: A Guide to Preventing House Flipper 2 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-repairing-pacific-drive-malfunctions-on-personal-computers/"><u>Solving the Mystery: Repairing Pacific Drive Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/understanding-and-enforcing-rights-on-youtube/"><u>Understanding and Enforcing Rights on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013897682-warframe-freezing-issues-heres-what-you-need-to-know/"><u>Warframe Freezing Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-eliminates-screen-trembling-problems-a-comprehensive-guide/"><u>Warzone Eliminates Screen Trembling Problems: A Comprehensive Guide</u></a></li>
+</ul></div>
 

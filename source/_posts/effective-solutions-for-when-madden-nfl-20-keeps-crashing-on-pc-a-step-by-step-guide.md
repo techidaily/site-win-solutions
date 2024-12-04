@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for When Madden NFL '20 Keeps Crashing on PC: A Step-by-Step Guide"
-date: 2024-08-18T14:52:01.577Z
-updated: 2024-08-19T14:52:01.577Z
+date: 2024-11-30T02:57:43.265Z
+updated: 2024-12-03T20:54:46.405Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -54,9 +58,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -74,6 +75,10 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Navigate to**Settings**
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable third-party software
 
@@ -125,19 +130,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking your GPU
 
@@ -151,8 +154,9 @@ OR
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
@@ -161,19 +165,19 @@ OR
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -192,8 +196,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +203,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-income-content-makers/"><u>[New] 2024 Approved High-Income Content Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>[New] Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-best-screen-recorders-for-mac-for-2024/"><u>[Updated] Top 10 Best Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-2-frame-rate-issues-troubleshooting-fps-drops-in-windows-11-and-10/"><u>Dota 2 Frame Rate Issues: Troubleshooting FPS Drops in Windows 11 and 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-ways-to-prevent-immortals-fenyx-rising-from-unexpectedly-crashing/"><u>Effective Ways to Prevent Immortals: Fenyx Rising From Unexpectedly Crashing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-raspberry-pi-experience-with-this-miniature-keyboard-designed-for-smart-tvs-featuring-expert-insights-from-zdnet/"><u>Enhance Your Raspberry Pi Experience with This Miniature Keyboard Designed for Smart TVs, Featuring Expert Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clean-up-and-customize-your-windows-11-desktop/"><u>How to Clean Up and Customize Your Windows 11 Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-non-functional-windows-spotlight-on-windows-11-systems/"><u>How to Resolve Non-Functional Windows Spotlight on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-risk-of-rain-2s-sudden-freezing-and-crash-problems/"><u>How to Resolve Risk of Rain 2'S Sudden Freezing and Crash Problems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-content-game-studio-aptitude-essentials/"><u>In 2024, Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-an-uber-really-cheaper-than-a-taxi/"><u>Is an Uber Really Cheaper Than a Taxi?</u></a></li>
+<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-addressing-frequent-crashes-while-playing-god-of-war-on-pc/"><u>Mastering Stability: Addressing Frequent Crashes While Playing God of War on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/metro-exodus-pc-version-stabilization-techniques-no-more-unwanted-restarts/"><u>Metro Exodus PC Version Stabilization Techniques – No More Unwanted Restarts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-non-sending-skype-messages-a-comprehensive-guide/"><u>Resolving Issues with Non-Sending Skype Messages: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-roller-champions-cross-play-strategies-comprehensive-2024-pc-gameplan/"><u>Ultimate Roller Champions Cross-Play Strategies: Comprehensive 2024 PC Gameplan</u></a></li>
+</ul></div>
 

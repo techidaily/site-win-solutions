@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for DOOM Eternal Game Crashes
-date: 2024-08-18T14:53:11.251Z
-updated: 2024-08-19T14:53:11.251Z
+date: 2024-11-26T17:05:44.342Z
+updated: 2024-12-04T01:13:19.275Z
 tags:
   - win11
   - win10
@@ -88,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -108,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -119,21 +117,31 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Lower the in-game graphics settings
 
 1. Launch DayZ and modify the following in-game video settings:  
@@ -179,8 +187,9 @@ See if you can play the game smoothly. If not, try the next fix, below.
 Try the next fix below if this fix didn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -193,8 +202,9 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
@@ -206,14 +216,8 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
@@ -231,8 +235,6 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +242,26 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rafting-splitscreen-youtube-videos-a-guide-to-creativity-for-2024/"><u>[New] Crafting Splitscreen YouTube Videos A Guide to Creativity for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[New] In 2024, Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-livestream-platform-push-facebook-vs-youtube-and-periscope/"><u>[New] In 2024, Livestream Platform Push Facebook Vs. YouTube & Periscope</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>[New] In 2024, The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>[Updated] 2024 Approved Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-guiding-users-on-completely-audible-fb-videos/"><u>[Updated] Guiding Users on Completely Audible FB Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-footage-with-top-tier-stabilizers/"><u>[Updated] Professional Footage with Top-Tier Stabilizers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-answers-to-dealing-with-steam-local-connection-failed-problems/"><u>Clear Answers to Dealing With 'Steam Local Connection Failed' Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-robloxs-error-code-amok-expert-tips-and-tricks-for-a-smooth-gaming-experience/"><u>Conquer Roblox's Error Code amoK: Expert Tips and Tricks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cure-your-fall-guys-game-woes-steps-to-prevent-not-loading-or-immediate-crash-at-startup/"><u>Cure Your Fall Guys Game Woes: Steps to Prevent Not Loading or Immediate Crash at Startup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-9-uses-for-chatgpt-in-crafting-your-story/"><u>Discover the Power of AI: 9 Uses for ChatGPT in Crafting Your Story</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-stop-battlefield-2042-from-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Battlefield 2042 From Crashing on Your PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007015002-resolve-your-warzones-directx-glitch-a-comprehensive-guide-to-a-smooth-gameplay-experience/"><u>Resolve Your 'Warzone's DirectX Glitch': A Comprehensive Guide to a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-ipad-operating-system-upgrade-handbook-what-you-need-to-know/"><u>The Definitive iPad Operating System Upgrade Handbook – What You Need to Know</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-civilization-vi-wont-start-on-windows-10/"><u>Troubleshooting Steps When Civilization VI Won't Start on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-solving-common-issues-with-jurassic-world-evolution-crashing-errors/"><u>Ultimate Guide to Solving Common Issues with Jurassic World Evolution Crashing Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-doom-eternal-a-comprehensive-guide-to-installation-troubleshooting/"><u>Unlocking DOOM Eternal: A Comprehensive Guide to Installation Troubleshooting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valheim-stability-issues-solved-no-more-crashes-on-pc-for-gamers/"><u>Valheim Stability Issues Solved: No More Crashes on PC for Gamers</u></a></li>
+</ul></div>
 

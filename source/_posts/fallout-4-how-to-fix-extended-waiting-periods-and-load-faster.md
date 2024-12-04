@@ -1,7 +1,7 @@
 ---
 title: "Fallout 4: How to Fix Extended Waiting Periods and Load Faster"
-date: 2024-08-18T14:58:00.796Z
-updated: 2024-08-19T14:58:00.796Z
+date: 2024-11-27T19:26:16.672Z
+updated: 2024-12-04T03:34:34.740Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 
 If you’re also experiencing audio cutting in and out problems with Starfield, don’t worry, you’re definitely not alone: many other PC gamers have reported this problem. Before Bethesda releases a hotfix, here are some effective methods that have helped other players with their audio issues on Starfield, and you may want to try them as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try all of the following fixes; just work your way down the list until you find the one that fixes the Starfield audio cutting-out issue for you.
@@ -29,6 +33,10 @@ If you’re also experiencing audio cutting in and out problems with Starfield, 
 6. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the minimum system requirements
 
@@ -53,8 +61,9 @@ Here are the requirements for your reference:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Install Starfield on an SSD
 
  As mentioned above, Starfield has such high requirements for players’ computers that an SSD is required for Starfield to be installed. So if your Starfield is constantly having audio issues, like its sound cut in and out frequently, please make sure that it’s installed on an SSD instead of an HDD.
@@ -66,17 +75,11 @@ To tell which drive you have, please view the Task Manager:
 2. Click the second icon (**Performance** ), then check the **Type** field.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with Starfield and are free from the pain of constant audio issues, it’s highly recommended that you install the game on your SSD.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If your Starfield audio still cuts out when you have it installed on the SSD, please move on to the other fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Turn off VSync or VRS
 
  VSync (Vertical Sync) is designed to fix screen tearing and screen stuttering by syncing the refresh rate with the frame rate of your monitor. When the game’s frame rate is too high for your monitor to keep up, not only will you notice the eye-soring screen tearing, but also audio cutting in and out sometimes. To fix it, you can change the VSync settings for your display card.
@@ -98,12 +101,18 @@ To tell which drive you have, please view the Task Manager:
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
@@ -112,17 +121,15 @@ To tell which drive you have, please view the Task Manager:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update audio and graphics drivers
 
  Outdated or incorrect display card and sound card drivers could also be the culprit to your Starfield’s audio cutting in and out problem, so if the above two methods don’t help to restore your Starfield audio back to normal, it’s likely that you have a corrupted or outdated graphics and/or audio driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics and audio driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -150,9 +157,11 @@ And the website of your audio manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -169,14 +178,8 @@ And the website of your audio manufacturer:
 1. Right-click your **Steam** desktop icon and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. You may also want to tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
  Now openStarfield again (it should be opened with administrative permission), to see if its audio is back to normal again. If there are still issues with the Starfield audio, please move on to the next fix.
@@ -190,12 +193,15 @@ And the website of your audio manufacturer:
 1. Launch the Steam app and navigate to **the LIBRARY tab** , then **right-click** Starfield and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files.** ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Then wait for the process to be done – it could take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the verification is done, launch Starfield again to see if its audio still cuts in and out.
@@ -213,8 +219,6 @@ And the website of your audio manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +226,22 @@ And the website of your audio manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-flawless-frame-capturer-kit/"><u>[New] Flawless Frame Capturer Kit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-overcoming-instagram-video-errors-solutions-now-for-2024/"><u>[New] Overcoming Instagram Video Errors Solutions Now for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-achieve-synchronicity-with-your-browser-and-fbs-autoplay-feature-for-2024/"><u>[Updated] Achieve Synchronicity with Your Browser and FB's Autoplay Feature for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-identity-visualization-the-ultimate-toolkit-of-10/"><u>[Updated] In 2024, Channel Identity Visualization The Ultimate Toolkit of 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-key-ingredients-of-a-powerful-podcast-launch-video/"><u>[Updated] In 2024, The Key Ingredients of a Powerful Podcast Launch Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-hurdles-7-effective-fixes-to-get-overwatch-email-protected-running/"><u>Bypassing Hurdles: 7 Effective Fixes to Get Overwatch ([Email Protected]) Running</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-black-ops-4-launch-woes-discover-effective-fixes-for-a-seamless-play/"><u>Call of Duty: Black Ops 4 Launch Woes? Discover Effective Fixes for a Seamless Play!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-troubleshooting-fixing-the-centipede-bug/"><u>Destiny 2 Troubleshooting: Fixing the 'Centipede' Bug</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-capturing-bbc-sounds-using-iplayer-app-for-both-pc-and-mac-users/"><u>Easy Guide: Capturing BBC Sounds Using iPlayer App – For Both PC & Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-get-your-discord-camera-back-in-action/"><u>Fixing the Issue: How to Get Your Discord Camera Back in Action</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-lag-fix-techniques-to-overcome-gameplay-disruptions-and-improve-performance/"><u>Halo Infinite Lag Fix: Techniques to Overcome Gameplay Disruptions and Improve Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastery-tutorial-how-to-repair-halo-infinity-when-it-says-no-connection-to-our-servers/"><u>Mastery Tutorial: How to Repair Halo Infinity When It Says No Connection to Our Servers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-lag-diagnosing-and-solving-pc-issues-in-fifa-22/"><u>No More Lag: Diagnosing and Solving PC Issues in FIFA 22</u></a></li>
+</ul></div>
 

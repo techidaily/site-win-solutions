@@ -1,7 +1,7 @@
 ---
 title: Tips and Solutions for a Smooth GTA 5 Online Session
-date: 2024-08-18T14:55:01.985Z
-updated: 2024-08-19T14:55:01.985Z
+date: 2024-12-01T20:18:53.704Z
+updated: 2024-12-04T01:55:54.127Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -65,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -92,16 +100,13 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
@@ -114,20 +119,18 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -157,15 +160,17 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -179,8 +184,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +191,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>[New] The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freefire-gaming-guide-maximizing-video-impact-for-2024/"><u>[Updated] FreeFire Gaming Guide Maximizing Video Impact for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-enhancing-soundscapes-mastering-audacity-crossfading/"><u>[Updated] In 2024, Enhancing Soundscapes Mastering Audacity Crossfading</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>[Updated] Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-apple-pay-later-introduces-new-financing-alternative-inside-story-tech-insider/"><u>Apple Discontinues 'Apple Pay Later', Introduces New Financing Alternative: Inside Story | Tech Insider</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-free-adventure-awaits-correcting-dark-souls-3s-troublesome-freeze-errors/"><u>Bug-Free Adventure Awaits: Correcting Dark Souls 3'S Troublesome Freeze Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-phasmophobias-90-deadlock-issue-a-step-by-step-guide-updated-release/"><u>Cracking Phasmophobia's 90% Deadlock Issue - A Step-by-Step Guide Updated Release</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-manor-lords-from-crashing-on-your-computer/"><u>Effective Solutions to Prevent 'Manor Lords' From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-launch-issues-in-palworld-effective-techniques-and-tips/"><u>Fixing Launch Issues in Palworld: Effective Techniques and Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-create-ai-tailored-chatgpt-excellence/"><u>Harnessing Create AI: Tailored ChatGPT Excellence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-improve-gameplay-performance-for-dying-light-by-fixing-fps-issues/"><u>How to Improve Gameplay Performance for Dying Light by Fixing FPS Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-leaf-error-code-in-your-apex-legends-game-fix-guide/"><u>How to Overcome 'Leaf' Error Code in Your Apex Legends Game (Fix Guide)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-the-innovative-tech-arena-how-does-a-major-antitrust-decision-impacting-google-compare-with-samsungs-strategic-growth-in-artificial-intelligence-as-refle76/"><u>In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-fps-enhancement-in-ring-of-elysium-expert-techniques-revealed/"><u>Mastering the Art of FPS Enhancement in Ring of Elysium: Expert Techniques Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-tools-for-group-online-calls/"><u>Superior Tools for Group Online Calls</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-cancellation-of-mafia-definitive-edition-release-answers-found/"><u>Understanding the Cancellation of Mafia: Definitive Edition Release – Answers Found</u></a></li>
+</ul></div>
 

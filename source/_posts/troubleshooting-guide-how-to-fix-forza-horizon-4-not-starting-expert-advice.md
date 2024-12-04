@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How To Fix 'Forza Horizon 4 Not Starting' - Expert Advice"
-date: 2024-08-18T14:58:11.925Z
-updated: 2024-08-19T14:58:11.925Z
+date: 2024-11-30T19:58:20.996Z
+updated: 2024-12-04T03:11:21.592Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -62,13 +63,20 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -77,20 +85,12 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -111,12 +111,6 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -126,11 +120,12 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -146,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +148,24 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos/"><u>[New] Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-use-youtube-analytics-to-grow-your-channel/"><u>[New] In 2024, How to Use YouTube Analytics to Grow Your Channel?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-key-strategies-for-high-definition-iptv-logging-for-2024/"><u>[New] Key Strategies for High-Definition IPTV Logging for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists/"><u>[Updated] In 2024, Stepwise Approach to Adding Video Tracks to Your YouTube Playlists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>2024 Approved Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-msi-afterburner-gpu-detection-problems-in-windows-11-a-step-by-step-guide/"><u>Addressing MSI Afterburner GPU Detection Problems in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bug-ultimate-guide-to-fixing-halo-3-crashes-on-your-computer/"><u>Beat the Bug: Ultimate Guide to Fixing Halo 3 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-the-devilish-error-5573-in-call-of-duty-vanguard-solved/"><u>Decode the Devilish Error 5573 in Call of Duty Vanguard - Solved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-started-with-starfield-a-comprehensive-troubleshooting-guide-for-steam-and-xbox-users/"><u>Getting Started with Starfield: A Comprehensive Troubleshooting Guide for Steam & Xbox Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mavericks-video-editing-software-easily-edit-mp4-files/"><u>In 2024, Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-hearts-of-iron-iv-stability-key-fixes-for-seamless-play-experience/"><u>Mastering Hearts of Iron IV Stability: Key Fixes for Seamless Play Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-guide-solving-fallout-76-disconnection-problems-efficiently/"><u>PC Gamer’s Guide: Solving Fallout 76 Disconnection Problems Efficiently</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210675540-9781990863103-sacred-geometry-for-the-soul/"><u>Sacred Geometry For The Soul | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/safety-features-in-place-the-use-of-seat-belts-airbags-and-other-safety-features-can-significantly-reduce-injury-risks-during-a-crash/"><u>Safety Features in Place - The Use of Seat Belts, Airbags, and Other Safety Features Can Significantly Reduce Injury Risks During a Crash.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-sons-of-the-forest-pc-game-crashes-effective-troubleshooting-steps/"><u>Solving Sons of the Forest PC Game Crashes: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-new-artificial-intelligence-capabilities-in-copilotplus-pcs-the-desired-upgrades-for-every-macbook-user/"><u>Unleashing New Artificial Intelligence Capabilities in Copilot+ PCs - The Desired Upgrades for Every MacBook User</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Rapid Recovery From Fortnite Authentication Failures
-date: 2024-08-18T14:51:50.246Z
-updated: 2024-08-19T14:51:50.246Z
+date: 2024-11-29T04:19:15.601Z
+updated: 2024-12-04T01:46:22.187Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Minimum system requirements of Teardown
 
  To see if that’s the case,**turn off your overclocking utilities** (if you’re using any like MSI Afterburner) and**set the clock speed back to the default** . If the crashing problem isn’t mitigated, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Teardown through controlled folder access
 
  If Teardown crashes when you do a quicksave, the game is probably blocked by Windows Security which protects against viruses and malware. To ensure the game gets full access to necessary files and data, you can add it as an allowed app following the steps below:
@@ -60,6 +64,10 @@ Minimum system requirements of Teardown
 **1)** Click the**Start** button, and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Update & Security** .
 
@@ -74,31 +82,31 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Scroll down and click**Manage Controlled folder access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 **6)** When Controlled folder access is enabled, you can click**Allow an app through Controlled folder access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Click**Add an allowed app** \>**Browse all apps** , and choose Teardown as a trusted app.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch the game to see if crashing persists. If unluckily yes, then go ahead with next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Temporarily disable the antivirus software
 
  Antivirus aims to prevent potential security threats on computer, but it’s sometimes overprotective and can interfere with your games the wrong way. To see if that’s the cause, turn off your antivirus programs and re-open Teardown.
@@ -132,9 +140,6 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -142,8 +147,9 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,24 +166,22 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Right-click Teardown and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 **3)** Navigate to the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for Steam to detect and repair the corrupted game files, and then you can check whether Teardown stops crashing or not. If not, have a look at the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall Teardown
 
@@ -191,9 +195,6 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 **3)** Click**Uninstall** to confirm.
 
  After you’re done with the steps above, download and install Teardown again. The freshly installed game is supposed to work perfectly.
@@ -211,8 +212,6 @@ Minimum system requirements of Teardown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +219,23 @@ Minimum system requirements of Teardown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-beginners-guide-to-ps4-game-broadcasting-with-obs-for-2024/"><u>[Updated] Beginner's Guide to PS4 Game Broadcasting with OBS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-to-your-youtube-audience-goal-1kplus/"><u>2024 Approved Skyrocket to Your YouTube Audience Goal 1K+</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-xs-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone XS Activation Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-memes-top-template-compendium/"><u>Ace Memes Top Template Compendium</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013434880-elden-ring-multiplayer-problems-heres-how-you-can-fix-them/"><u>Elden Ring Multiplayer Problems? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-the-persistent-black-screen-when-bootinng-up-overwatch/"><u>Expert Tips and Fixes for the Persistent Black Screen when Bootinng Up Overwatch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-endless-load-screen-in-among-us-and-enjoy-seamless-gameplay/"><u>How to Fix the Endless Load Screen in Among Us and Enjoy Seamless Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movaviqtavi/"><u>Movaviで簡単に無料のQTからAVIへのファイル変換 - オンラインツール</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-performance-hurdles-in-war-thunder-with-these-proven-low-fps-fixes-insights-for-2n24/"><u>Overcome Performance Hurdles in War Thunder with These Proven Low-FPS Fixes (Insights for 2N24)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-repeated-shutdowns-master-guide-to-fix-elex-ii-stability-issues/"><u>Resolving Repeated Shutdowns: Master Guide to Fix Elex II Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-prevent-and-fix-armored-core-6-fires-of-rubicon-pc-gaming-problems/"><u>Step-by-Step Solutions: Prevent and Fix Armored Core 6 Fires of Rubicon PC Gaming Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-guide-for-when-your-outlook-cant-connect-to-the-internet/"><u>The Ultimate Fix Guide for When Your Outlook Can’t Connect to the Internet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-20c-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark 20C Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/train-collisions-decoded-insights-after-the-barrier-breach/"><u>Train Collisions Decoded: Insights After the Barrier Breach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-gpt-4-collectively/"><u>Unlocking the Potential of GPT-4 Collectively</u></a></li>
+</ul></div>
 

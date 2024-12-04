@@ -1,7 +1,7 @@
 ---
 title: Fixing Mistakes During the Installation of Ryzen Master Utility
-date: 2024-08-18T14:53:25.298Z
-updated: 2024-08-19T14:53:25.298Z
+date: 2024-12-02T04:33:18.385Z
+updated: 2024-12-04T03:58:15.214Z
 tags:
   - win11
   - win10
@@ -47,12 +47,13 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -71,6 +72,10 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -78,6 +83,10 @@ There are mainly two ways to update your device drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -89,6 +98,10 @@ There are mainly two ways to update your device drivers:
 4. Restart the computer and see if Minecraft launches then.
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
 
@@ -104,18 +117,6 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
@@ -124,9 +125,6 @@ There are mainly two ways to update your device drivers:
 
 If this method doesn’t work for you, then try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
  Many find running Minecraft launcher in compatibility mode helped solve the Minecraft stuck on the loading screen issue. This method has varying success, but it’s worth trying. Here’s how to do it:
@@ -136,11 +134,12 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
 
@@ -149,15 +148,9 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -175,8 +168,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +175,26 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-for-asmr-enthusiasts/"><u>[New] In 2024, Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-favorites-top-10-tiktok-vids-for-2024/"><u>[New] Twitter's Favorites Top 10 TikTok Vids for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-guide-to-affordable-online-meetings-plus-desktop-display/"><u>[New] Ultimate Guide to Affordable Online Meetings + Desktop Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-engagement-strategic-use-of-youtube-titles-for-2024/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-fast-time-cinematography/"><u>2024 Approved Mastering Fast-Time Cinematography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-8-real-world-promotion-tools-for-videos/"><u>2024 Approved The Ultimate Guide 8 Real-World Promotion Tools for Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s17t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S17t to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-dreaded-crash-bug-tips-for-a-smoother-football-manager-2022-experience-on-windowsmac/"><u>Defeating the Dreaded Crash Bug: Tips for a Smoother Football Manager 2022 Experience on Windows/Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-correcting-error-0xc19001e1-on-windows-11-devices/"><u>Effective Strategies for Correcting Error 0XC19001E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-sound-quality-on-windows-10-with-updated-drivers/"><u>Enhance Sound Quality on Windows 10 with Updated Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-fixing-swtor-initialization-challenges-no-more-frustrating-waits/"><u>Expert Tips for Fixing SWTOR Initialization Challenges – No More Frustrating Waits!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992563477-far-cry-n6-pc-launch-problems-now-fixed/"><u>Far Cry N6 PC Launch Problems - Now Fixed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-civ-6-installation-issues-on-windows-11-pcs/"><u>Fix: Civ 6 Installation Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-speech-recognition-not-starting-error/"><u>How to Fix the Windows Speech Recognition Not Starting Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-paladins-game-crashing-issues-expert-advice-from-2024/"><u>How To Prevent and Fix Paladins Game Crashing Issues - Expert Advice From 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990823333-overcoming-the-release-hurdles-immortals-fenyx-rising-is-finally-out/"><u>Overcoming the Release Hurdles: Immortals' Fenyx Rising Is Finally Out</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-ue4-madness-how-to-overcome-unexpected-clashes-in-outriders-gameplay/"><u>Resolving 'UE4-Madness': How to Overcome Unexpected Clashes in Outriders Gameplay</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-gotrax-gxl-v2-the-ideal-urban-e-scooter-for-speedy-commutes/"><u>Review of the Gotrax GXL V2 - The Ideal Urban E-Scooter for Speedy Commutes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-grounded-game-crashes-on-pc-with-our-latest-2024-fixing-tips/"><u>Solve Your 'Grounded' Game Crashes on PC with Our Latest 2024 Fixing Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Madden 21 From Freezing on Your Computer with These Tips
-date: 2024-08-18T14:54:46.802Z
-updated: 2024-08-19T14:54:46.802Z
+date: 2024-11-29T20:53:06.701Z
+updated: 2024-12-04T02:20:04.397Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -71,11 +68,16 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -84,6 +86,10 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -106,8 +112,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -116,21 +123,16 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -155,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,21 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-building-connections-interacting-with-your-viewers/"><u>[New] 2024 Approved Building Connections Interacting With Your Viewers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-top-10-accelerating-youtube-platforms-for-motivation-and-inspiration/"><u>[New] 2024 Approved The Top 10 Accelerating YouTube Platforms for Motivation and Inspiration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>[New] Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-is-there-a-superior-cameras-marketplace/"><u>[Updated] Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reimagining-game-logging-with-no-fbx-technology/"><u>[Updated] Reimagining Game Logging with No-FBX Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-chuckle-factory-designing-7-video-ideas-for-humorists/"><u>2024 Approved Chuckle Factory Designing 7 Video Ideas for Humorists</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/encountering-utorrent-crashes-here-are-7-guaranteed-fixes-to-get-it-running-again/"><u>Encountering UTorrent Crashes? Here Are 7 Guaranteed Fixes to Get It Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-expert-fixes-for-persistent-tower-of-fantasy-pc-issues/"><u>Farewell To Frustration - Expert Fixes for Persistent Tower of Fantasy PC Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-deathloops-frame-dropping-issues-in-pc-version/"><u>Fixes for Deathloop's Frame Dropping Issues in PC Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-non-loading-map-graphics-for-warzone-players/"><u>How to Resolve Non-Loading Map Graphics for Warzone Players</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-12-pro-max-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 12 Pro Max by Name | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-pc-gaming-lags-top-strategies-for-smooth-play-in-2eighty-four/"><u>Resolving PC Gaming Lags: Top Strategies for Smooth Play in 2Eighty-Four</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-your-games-home-taking-control/"><u>Taking Your Games Home, Taking Control</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>Updated In 2024, 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
+</ul></div>
 

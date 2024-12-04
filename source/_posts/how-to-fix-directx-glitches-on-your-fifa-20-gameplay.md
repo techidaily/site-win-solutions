@@ -1,7 +1,7 @@
 ---
 title: How To Fix DirectX Glitches on Your FIFA 20 Gameplay
-date: 2024-08-18T14:58:03.040Z
-updated: 2024-08-19T14:58:03.040Z
+date: 2024-11-30T03:08:02.327Z
+updated: 2024-12-04T00:44:51.875Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Under the GENERAL tab, enter**\-force -dx11** into the dialog box under the LAUNCH OPTIONS.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/force-dx11.png)
 
  Now relaunch your game. If forcing the game to start in DX11 mode doesn’t do the trick, proceed to the next fix.
@@ -56,17 +60,10 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies Steam will redownload, and repair corrupted files.
 
  When the process is complete, launch your game. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 3\. Update your graphics driver
 
  When your game keeps crashing, you would need to consider whether it’s caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that you can get the most out of your graphics card.
@@ -78,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -89,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
  After updating drivers, restart your PC. Then launch your game and you should be able to enjoy your gameplay without much interruptions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## If your game still crashes
 
  However, if your game still crashes a lot even though you had updated your drivers and made sure your PC meets the system requirements, you can try to repair your PC. Program issues can be caused by corrupted system files. While running a scan of a PC can help you diagnose problems and fix them immediately. For that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a professional computer repair software that will first check hardware-related issues to identify problems, and then security issues, and finally, it detects programs that crash.
@@ -104,12 +95,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to fix the stuttering issue
 
  Nothing all methods are necessary; simply work your way down the list until you find the one that works for you.
@@ -134,15 +119,9 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If disabling V-Sync doesn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Steam overlay
 
  Commonly used in various programs, overlay technology allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may need to disable the Steam overlay and check if it can reduce Bloodhunt in-game stutters. Here’s how you can do this:
@@ -152,11 +131,16 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
 
 ### 3\. Enable game mode
@@ -168,16 +152,18 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Enable hardware-accelerated GPU scheduling
 
@@ -188,10 +174,15 @@ Here’s how you can run a scan of your PC with Reimage:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
@@ -215,13 +206,22 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
@@ -235,8 +235,6 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +242,24 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-fluxvideoart-compile-and-display-on-macos-sierra-for-2024/"><u>[New] FluxVideoArt Compile & Display on macOS Sierra for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] 2024 Approved Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>2024 Approved Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-players-facing-fortnites-error-code-84-unable-to-join-a-party/"><u>Easy Fixes for Players Facing Fortnite's Error Code 84 'Unable to Join a Party'</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-eliminate-persistent-crashing-issues-in-pc-games/"><u>Mastering Stability: How to Eliminate Persistent Crashing Issues in PC Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-pc-crashes-in-the-witcher-3-ultimate-guide/"><u>Resolved: Troubleshooting PC Crashes in 'The Witcher 3' - Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-total-war-warhammer-ii-common-causes-and-fixes-for-game-crashes/"><u>Resolving Total War: Warhammer II - Common Causes and Fixes for Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-overcoming-steelseries-gg-engine-compatibility-issues-with-windows-operating-system/"><u>Solution Guide: Overcoming SteelSeries GG Engine Compatibility Issues with Windows Operating System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999248809-troubled-by-intense-cpu-load-in-phasmophobia-heres-how-to-fix-it/"><u>Troubled by Intense CPU Load in Phasmophobia? Here's How to Fix It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-choosing-the-right-dvd-ripping-tools-the-top-7-mac-programs-for-quick-and-secure-copies/"><u>Ultimate Guide to Choosing the Right DVD Ripping Tools: The Top 7 Mac Programs for Quick and Secure Copies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-mastering-roller-champions-crossplay-multiplayer-on-pc/"><u>Ultimate Guide: Mastering Roller Champions Crossplay Multiplayer on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002880995-unveiling-the-reasons-behind-immortals-fenyx-risings-postponed-debut-issue-resolved/"><u>Unveiling the Reasons Behind Immortals Fenyx Rising's Postponed Debut - Issue Resolved</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-9-choices-for-video-auto-translate/"><u>Updated In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/visionary-viewing-10-high-res-screens/"><u>Visionary Viewing #10 High-Res Screens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/why-watch-hd-switch-to-av1-codec-on-youtube-for-2024/"><u>Why Watch HD? - Switch to AV1 Codec on YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-no-more-screen-shivering/"><u>Win11: No More Screen Shivering</u></a></li>
+</ul></div>
 

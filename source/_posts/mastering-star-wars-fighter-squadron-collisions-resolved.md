@@ -1,7 +1,7 @@
 ---
 title: "Mastering Star Wars: Fighter Squadron Collisions - Resolved"
-date: 2024-08-18T14:57:39.224Z
-updated: 2024-08-19T14:57:39.224Z
+date: 2024-11-27T01:16:04.969Z
+updated: 2024-12-04T03:19:56.690Z
 tags:
   - win11
   - win10
@@ -35,13 +35,19 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 1. Launch Steam and navigate to**the LIBRARY tab** , then**right-click** on**It Takes Two** and select**Properties** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -69,8 +75,9 @@ There are mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -87,11 +94,13 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
 
@@ -99,9 +108,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -110,9 +116,6 @@ There are mainly two ways you can update your graphics drivers:
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -124,13 +127,9 @@ There are mainly two ways you can update your graphics drivers:
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -166,8 +165,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +172,21 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-maximizing-fb-video-area/"><u>[New] Step by Step Maximizing Fb Video Area</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-guide-leading-4k-uhd-blu-ray-devices/"><u>[Updated] In 2024, Ultimate Guide Leading 4K UHD Blu-Ray Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-for-locating-luxe-pexel-pictures/"><u>[Updated] Proven Techniques for Locating Luxe Pexel Pictures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-breakthroughs-essential-updates-in-the-latest-chatgpt-version/"><u>AI Breakthroughs: Essential Updates in the Latest ChatGPT Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-batman-solutions-for-arkhk-crashes-and-critical-bugs/"><u>Fixing Batman: Solutions for ARKHK Crashes & Critical Bugs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-supported-intel-iris-plus-graphics-card-drivers-for-modern-windows-operating-systems/"><u>Get the Newest Supported Intel Iris Plus Graphics Card Drivers for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-free-ae-design-blueprints/"><u>In 2024, Premium Free AE Design Blueprints</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mafia-iii-unleashed-final-version-release-update-clarified/"><u>Mafia III Unleashed: Final Version Release Update Clarified</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-tablet-shopping-consider-these-8-crucial-aspects-first/"><u>Navigating Tablet Shopping? Consider These 8 Crucial Aspects First!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-hurdles-in-installing-days-gone-for-pc-comprehensive-problem-solving-advice/"><u>Overcoming Hurdles in Installing Days Gone for PC - Comprehensive Problem Solving Advice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hing-social-media-smears-with-grace/"><u>Squashing Social Media Smears with Grace</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-how-to-guide-on-unfreezing-your-ps4-step-by-detailed-step/"><u>The Ultimate How-To Guide on Unfreezing Your PS4 - Step by Detailed Step</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-when-your-audio-services-arent-functional/"><u>Troubleshooting When Your Audio Services Aren't Functional</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warframe-wont-launch-discover-proven-techniques-for-a-successful-boot-up/"><u>Warframe Won't Launch? Discover Proven Techniques for a Successful Boot Up!</u></a></li>
+</ul></div>
 

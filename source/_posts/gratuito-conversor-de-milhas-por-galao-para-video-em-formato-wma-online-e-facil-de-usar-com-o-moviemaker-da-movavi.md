@@ -1,7 +1,7 @@
 ---
 title: Gratuito Conversor De Milhas Por Galão Para Vídeo Em Formato WMA - Online E Fácil De Usar Com O MovieMaker Da Movavi
-date: 2024-11-19T16:49:20.020Z
-updated: 2024-11-24T23:45:24.859Z
+date: 2024-11-29T22:55:48.189Z
+updated: 2024-12-03T18:30:59.163Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be16711586cda8948bb2850cfb34e6d.jpg
@@ -162,13 +162,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -179,10 +179,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -230,6 +226,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -244,13 +244,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -266,10 +266,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -281,6 +277,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -314,6 +314,10 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -323,7 +327,7 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -421,11 +425,11 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
 
@@ -480,11 +484,7 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -501,7 +501,7 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -538,6 +538,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -545,10 +549,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,18 +585,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-camera-stabilizers-for-youtube/"><u>[New] Best Camera Stabilizers for YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-youtubes-frame-advantage-five-free-tools/"><u>[Updated] Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/achieve-smooth-playing-fix-stuttering-issues-and-increase-fps-on-the-division-2-fixes-coming-soon/"><u>Achieve Smooth Playing: Fix Stuttering Issues & Increase FPS on 'The Division 2' (Fixes Coming Soon)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diablo-ii-resurrected-wont-boot-up-try-these-solutions-first/"><u>Diablo II: Resurrected Won't Boot Up? Try These Solutions First!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/download-and-experience-days-gone-the-ultimate-fps-adventure-on-pc/"><u>Download and Experience Days Gone - The Ultimate FPS Adventure on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-comprehensive-fixes-for-game-latency-problems/"><u>Guilty Gear Strive: Comprehensive Fixes for Game Latency Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-send-voice-messages-on-iphone/"><u>How to Send Voice Messages on iPhone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-optimize-video-audio-discovering-affordable-wav-extraction-methods/"><u>In 2024, Optimize Video Audio Discovering Affordable WAV Extraction Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-sturdy-panasonic-toughbook-g2-notebook-customizable-compact-laptop-reviewed/"><u>In-Depth Analysis of the Sturdy Panasonic Toughbook G2 Notebook | Customizable, Compact Laptop Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-mac-efficiency-a-step-by-step-guide-to-configuring-and-utilizing-hot-corners-in-macos-unveiled-by-zdnet/"><u>Mastering Mac Efficiency: A Step-by-Step Guide to Configuring & Utilizing Hot Corners in macOS - Unveiled by ZDNet</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-8-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 8 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-motivations-behind-cyber-attacks-on-chatgpt-platforms/"><u>Understanding the Motivations Behind Cyber Attacks on ChatGPT Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722994278309-utorrent-not-working-follow-our-top-7-tips-to-get-it-running-again/"><u>UTorrent Not Working? Follow Our Top 7 Tips to Get It Running Again!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-digital-dominance-10-screen-capture-software-ranked-for-2024/"><u>[New] Digital Dominance #10 Screen Capture Software Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] In 2024, Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-understanding-livestream-technology-explained/"><u>[Updated] In 2024, Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-live-audience-score-keeper-apps/"><u>[Updated] Live Audience Score Keeper Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-pacific-drive-from-stalling-on-your-computer/"><u>Effective Solutions to Stop Pacific Drive From Stalling on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-avatar-gaming-pro-tips-for-smoothing-out-pandoras-persistent-lags/"><u>Enhancing Avatar Gaming: Pro Tips for Smoothing Out Pandora's Persistent Lags</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exploring-the-holdup-of-the-ascent-launch-unveiling-the-issues-at-hand/"><u>Exploring the Holdup of 'The Ascent' Launch - Unveiling the Issues at Hand</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-software-errors-in-sony-vegas-video-editing-suite/"><u>Fixing Persistent Software Errors in Sony Vegas Video Editing Suite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy S23 Ultra Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-210-driver-upgrade-for-windows-10/"><u>Latest NVIDIA GeForce 210 Driver Upgrade for Windows 10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lingo-uncovered-exploring-english-slang-and-its-origins/"><u>Lingo Uncovered: Exploring English Slang and Its Origins</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ntdlldll-malfunction-fixed-how-to-repair-common-windows-11-and-10-issues/"><u>ntdll.dll Malfunction Fixed: How to Repair Common Windows 11 & 10 Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999320121-resident-evil-nagging-not-launching-troubleshoot-and-fix-the-issue-today/"><u>Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-pc-lag-in-the-deathloop-game/"><u>Resolved: Fixes for PC Lag in The Deathloop Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-high-memory-consumption-in-google-chrome-a-step-by-step-guide/"><u>Solving High Memory Consumption in Google Chrome - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure-for-2024/"><u>Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Fixing FIFA 19'S DirectX Issues with Ease"
-date: 2024-08-18T14:52:13.053Z
-updated: 2024-08-19T14:52:13.053Z
+date: 2024-12-03T00:33:56.384Z
+updated: 2024-12-03T16:07:55.639Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 **Why does my Sims 3 keep crashing?** There are many reasons that may cause your Sims keeps crashing. Does your hardware specifications meet the minimum requirements? If not, your game can crash without doubts. The improper game settings in your Sims 3 may also crash your game. In addition, your Sims 3 may keep crashing by the issues because of your graphics card issues.
 
  But don’t worry. Whether you’re getting issues like your**Sims 3 keeps crashes on the loading screen** , or**Sims 3 crashes with the black screen** , you can try the solutions in this post to fix these issues. Check it out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to stop Sims 3 from crashing?
 
@@ -54,8 +58,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a73c0d605.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Restart your router/modern, and restart your computer.
 
  4) Open your Sims 3 to see if it work properly.
@@ -84,14 +89,15 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -99,9 +105,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Set Sims 3 to the Windowed mode
 
  This method works for many users who have had the crashing issue. So you can change your Sims 3 to the Windowed mode to fix it. To do so, follow the steps below:
@@ -115,6 +118,10 @@ If you can access to the game settings:
  3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Save the changes.
 
@@ -135,9 +142,9 @@ If you can access to the game settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
@@ -152,16 +159,10 @@ If you can access to the game settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa31a511b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  3) You can see the**DirectX Version** under the**System** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa69e72dc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 #### **How to update DirectX?**
 
  As for the DirectX version, generally speaking, for Windows 10, Windows 8 and Windows 8.1, you can directly update your Windows to the latest version to install the latest DirectX in your computer. However, for Windows 7, Windows Vista and Windows XP, you may need to install a update package to install the latest DirectX in your computer.
@@ -183,8 +184,6 @@ If you can access to the game settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +191,19 @@ If you can access to the game settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-your-watch-experience-youtube-list-shuffle/"><u>[New] In 2024, Elevating Your Watch Experience YouTube List Shuffle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-find-your-match-top-4-sites-for-custom-tones/"><u>2024 Approved Find Your Match Top 4 Sites for Custom Tones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speaking-and-listening-to-create-better-decks/"><u>2024 Approved Speaking and Listening to Create Better Decks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefront-ii-how-to-fix-lengthy-loading-periods-in-pc-version/"><u>Battlefront II: How to Fix Lengthy Loading Periods in PC Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-guide-to-fix-total-war-three-kingdoms-game-crashes-successfully/"><u>Complete Guide to Fix Total War: Three Kingdoms Game Crashes Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010560591-crusader-kings-ii-not-loading-properly-uncover-the-reasons-and-get-it-running-smoothly-again/"><u>Crusader Kings II Not Loading Properly? Uncover the Reasons & Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-resolving-sound-disturbances-in-halo-infinite-for-a-seamless-gaming-experience/"><u>Guide to Resolving Sound Disturbances in Halo Infinite for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-20-proplus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 20 Pro+ Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-live-deepfakes-made-easy-how-to-download-and-make-your-own-live-model/"><u>New In 2024, Live Deepfakes Made Easy How to Download and Make Your Own Live Model</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-why-your-epic-games-launcher-is-not-opening-and-how-to-address-it/"><u>Quick Fixes: Why Your Epic Games Launcher Is Not Opening and How to Address It</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-in-depth-review-of-ivona-text-to-speech-converter/"><u>Updated In 2024, In-Depth Review of Ivona Text to Speech Converter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vintage-vision-iphone-x-posed-selfies/"><u>Vintage Vision IPhone X Posed Selfies</u></a></li>
+</ul></div>
 

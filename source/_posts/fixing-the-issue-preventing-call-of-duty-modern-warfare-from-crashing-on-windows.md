@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Preventing Call of Duty Modern Warfare From Crashing on Windows"
-date: 2024-08-18T14:52:03.765Z
-updated: 2024-08-19T14:52:03.765Z
+date: 2024-11-30T22:13:07.711Z
+updated: 2024-12-03T16:22:51.309Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -38,8 +42,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -50,8 +55,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,20 +88,16 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -104,9 +106,11 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +125,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +132,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>[New] 2024 Approved The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-youtubes-potential-title-and-tag-best-practices/"><u>[New] 2024 Approved Unlocking YouTube's Potential Title and Tag Best Practices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-rl-live-capture-for-2024/"><u>[New] The Ultimate Guide to RL Live Capture for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-disruptions-in-hearts-of-iron-4-essential-tips-for-a-smooth-gaming-experience/"><u>Avoiding Disruptions in Hearts of Iron 4: Essential Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-4k-hevch2text/"><u>Efficient 4K HEVC/H.2([TEXT]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-resolution-overcoming-league-of-legends-game-crashes/"><u>Effortless Resolution: Overcoming League of Legends Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-stardew-valley-pc-freezing-problems-with-these-simple-steps/"><u>Eliminate Stardew Valley PC Freezing Problems with These Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gain-superior-insights-with-free-copilot-on-turbo/"><u>Gain Superior Insights with Free Copilot on Turbo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-successfully-launching-pathfinder-wrath-of-the-righteus-expert-tips-and-solutions/"><u>Guide to Successfully Launching Pathfinder: Wrath of the Righteus - Expert Tips & Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 7?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/inside-look-resolving-the-cod-vanguard-error-code-5573-glitch/"><u>Inside Look: Resolving the COD Vanguard Error Code 5573 Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-commercial-vehicles-from-gps-spoofing-attacks-essential-strategies-for-prevention/"><u>Protecting Commercial Vehicles From GPS Spoofing Attacks - Essential Strategies for Prevention</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-completed-how-to-connect-to-steam-successfully/"><u>Troubleshooting Completed: How to Connect to Steam Successfully</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xs-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XS Max</u></a></li>
+</ul></div>
 

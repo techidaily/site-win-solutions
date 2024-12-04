@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Alien Fireteam Elite PC Crashes"
-date: 2024-08-18T14:56:20.782Z
-updated: 2024-08-19T14:56:20.782Z
+date: 2024-11-29T18:29:31.586Z
+updated: 2024-12-03T22:13:25.663Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
 ## Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed
 
 If you’re also experiencing audio cutting in and out problems with Starfield, don’t worry, you’re definitely not alone: many other PC gamers have reported this problem. Before Bethesda releases a hotfix, here are some effective methods that have helped other players with their audio issues on Starfield, and you may want to try them as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,9 +56,6 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Install Starfield on an SSD
 
  As mentioned above, Starfield has such high requirements for players’ computers that an SSD is required for Starfield to be installed. So if your Starfield is constantly having audio issues, like its sound cut in and out frequently, please make sure that it’s installed on an SSD instead of an HDD.
@@ -64,16 +65,22 @@ To tell which drive you have, please view the Task Manager:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with Starfield and are free from the pain of constant audio issues, it’s highly recommended that you install the game on your SSD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your Starfield audio still cuts out when you have it installed on the SSD, please move on to the other fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 3\. Turn off VSync or VRS
 
  VSync (Vertical Sync) is designed to fix screen tearing and screen stuttering by syncing the refresh rate with the frame rate of your monitor. When the game’s frame rate is too high for your monitor to keep up, not only will you notice the eye-soring screen tearing, but also audio cutting in and out sometimes. To fix it, you can change the VSync settings for your display card.
@@ -81,39 +88,38 @@ To tell which drive you have, please view the Task Manager:
 * **[If you have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[If you have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **To enable VSync in NVIDIA Control Panel:**
 
 1. On your desktop, right-click in an empty space and select **NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **If you have an AMD display card, modify the Wait for Vertical Refresh setting:**
 
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
-3. Click **Always on** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
+3. Click **Always on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
+
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
  Try Starfield again to see if its audio issue is fixed. If the problem still persists, please move on to the next fix.
@@ -126,9 +132,6 @@ To tell which drive you have, please view the Task Manager:
 
  There are mainly 2 ways you can update your graphics and audio driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -146,9 +149,6 @@ And the website of your audio manufacturer:
 
  Then search for your GPU and sound card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics and audio drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -175,6 +175,11 @@ And the website of your audio manufacturer:
 1. Right-click your **Steam** desktop icon and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. You may also want to tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
@@ -184,8 +189,9 @@ And the website of your audio manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Verify game files
 
  Corrupted or missing files will also cause audio problems for your Starfield. To see if this is the case, you can verify your game files on:
@@ -193,9 +199,11 @@ And the website of your audio manufacturer:
 1. Launch the Steam app and navigate to **the LIBRARY tab** , then **right-click** Starfield and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files.** ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Then wait for the process to be done – it could take several minutes.
 
  When the verification is done, launch Starfield again to see if its audio still cuts in and out.
@@ -213,8 +221,6 @@ And the website of your audio manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +228,22 @@ And the website of your audio manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-a-comprehensible-guide-to-chromebooks-best-digital-pencils/"><u>[New] 2024 Approved A Comprehensible Guide to Chromebook's Best Digital Pencils</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-youtube-monetization-mastery-how-to-monetize-youtube-videos/"><u>[New] 2024 YouTube Monetization Mastery How to Monetize YouTube Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-borderlands-3-crash-quickly-and-easily/"><u>[SOLVED] Borderlands 3 Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-red-dead-redemption-2-wont-launch/"><u>[SOLVED] Red Dead Redemption 2 Won't Launch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-boosting-mastery-unveiling-the-best-5-video-marketing-strategies-for-2024/"><u>[Updated] Channel Boosting Mastery Unveiling the Best 5 Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-tips-for-youtube-short-pitfall-prevention/"><u>[Updated] Expert Tips for YouTube Short Pitfall Prevention</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mov-mp4-movavi/"><u>無料でオンラインにてMOV, MP4フォーマットに変更可能 – 動画変換・Movaviサポート</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-restore-your-steam-gaming-experience-on-windows-11-with-these-fixes/"><u>Beat the Glitch: Restore Your Steam Gaming Experience on Windows 11 with These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-immagine-tga-a-png-fatto-da-te-metodo-gratuito-su-movavi/"><u>Conversione Immagine TGA a PNG Fatto Da Te: Metodo Gratuito Su Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-hashtags-to-metadata-unraveling-the-mystery-of-tagging-in-digital-spaces/"><u>From Hashtags to Metadata: Unraveling the Mystery of Tagging in Digital Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-optimize-your-solid-state-drive-with-ssd-fresh-for-windows/"><u>How to Optimize Your Solid State Drive With SSD Fresh for Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-life-is-strange-from-crashing-complete-walkthrough/"><u>How to Stop Life Is Strange From Crashing? [Complete Walkthrough]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-essentials-fixing-crashes-in-armored-core-6-for-an-uninterrupted-experience/"><u>PC Gaming Essentials: Fixing Crashes in Armored Core 6 for an Uninterrupted Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-for-camera-unavailable-hurdle-on-snap-platform/"><u>Solution Guide for 'Camera Unavailable' Hurdle on Snap Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-google-pixel-6-in-2/"><u>Top-Rated Protective Covers for Google Pixel 6 in 2</u></a></li>
+</ul></div>
 

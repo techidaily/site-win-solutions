@@ -1,7 +1,7 @@
 ---
 title: Banish the Lagging Problem - Stabilize Your Halo Infinite Gameplay on Personal Computer
-date: 2024-08-18T14:55:04.495Z
-updated: 2024-08-19T14:55:04.495Z
+date: 2024-12-02T02:05:33.814Z
+updated: 2024-12-03T21:37:47.946Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a1952e1112a322c48709e825dbee9897ba132a48d
 ## Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -56,18 +60,23 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -78,9 +87,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -91,18 +97,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
@@ -112,8 +106,9 @@ There are mainly two ways you can update the graphics driver:
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -124,15 +119,12 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -149,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +148,26 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>[New] A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-amplifying-your-role-play-roblox-closeup-mastery-for-2024/"><u>[New] Amplifying Your Role-Play Roblox Closeup Mastery for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-capture-the-best-moments-select-6-top-ranked-short-video-download-tools-for-2024/"><u>[Updated] Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-technical-glitches-ensuring-smooth-gaming-on-pc-with-persona-5-strikers/"><u>Defeat Technical Glitches: Ensuring Smooth Gaming on PC with Persona 5 Strikers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-addressing-fatal-development-issues-in-modern-warfare-and-warzone-gameplay/"><u>Effective Solutions for Addressing Fatal Development Issues in Modern Warfare and Warzone Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-v-rising-pc-malfunctions-a-step-by-step-repair-tutorial/"><u>End V-Rising PC Malfunctions: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-workspace-updating-the-driver-of-your-logitech-m310-mouse-explained/"><u>Enhance Your Workspace: Updating the Driver of Your Logitech M310 Mouse Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-common-fortnite-performance-problems-no-more-stuttering-on-pc/"><u>Fix Common Fortnite Performance Problems: No More Stuttering on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-embed-custom-control-buttons-into-your-ebooks-with-flipbuilder-explore-the-possibilities/"><u>How to Embed Custom Control Buttons Into Your eBooks with FlipBuilder - Explore the Possibilities!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-zoom-from-crashing-optimized-fixes-for-windows-11-and-10/"><u>How to Prevent Zoom From Crashing: Optimized Fixes for Windows 11 and 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-among-us-from-crashing-expert-tips-and-tricks-for-gamers-in-2nody24/"><u>How To Stop Among Us From Crashing: Expert Tips and Tricks for Gamers in 2Nody24</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-freeze-ups-when-playing-path-of-exile-a-comprehensive-walkthrough/"><u>How to Stop Freeze-Ups When Playing Path of Exile - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>In 2024, Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-infinite-playground-top-10-affordable-online-adventures/"><u>In 2024, Infinite Playground Top 10 Affordable Online Adventures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k2npc-crash-solutions-discover-the-ultimate-7-strategies-for-smooth-gaming/"><u>NBA 2K2nPC Crash Solutions: Discover the Ultimate 7 Strategies for Smooth Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006704830-quick-fix-for-dayz-fps-issues-speed-up-your-game-now/"><u>Quick Fix for DayZ FPS Issues - Speed Up Your Game Now</u></a></li>
+</ul></div>
 

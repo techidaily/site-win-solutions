@@ -1,7 +1,7 @@
 ---
 title: Avoiding Interruptions in Psychonauts 2 - A Comprehensive Guide to Fix PC Issues
-date: 2024-08-18T14:57:13.393Z
-updated: 2024-08-19T14:57:13.393Z
+date: 2024-12-02T02:40:26.380Z
+updated: 2024-12-04T01:09:20.349Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -57,19 +61,17 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -99,9 +101,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -134,6 +133,11 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
@@ -149,8 +153,9 @@ There are mainly two methods for you to update the graphics driver:
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable overlays
 
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
@@ -158,8 +163,9 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -167,16 +173,15 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
 Launch Sifu to see you can play it smoothly.
 
 ---
@@ -193,8 +198,6 @@ Launch Sifu to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +205,26 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-pubg-voice-customization/"><u>[New] 2024 Approved The Ultimate Guide to PUBG Voice Customization</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-insightful-ways-to-monitor-youtube-viewership-trends/"><u>[New] In 2024, Insightful Ways to Monitor YouTube Viewership Trends</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easy-steps-to-share-your-screen-via-google-meet-for-2024/"><u>Easy Steps to Share Your Screen via Google Meet for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/effortless-twitch-livestream-restarts/"><u>Effortless Twitch Livestream Restarts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-crashes-on-pc-try-these-essential-troubleshooting-steps/"><u>Fortnite Crashes on PC? Try These Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722981426145-get-back-to-gaming-swiftly-troubleshoot-fortnite-loading-issues-today/"><u>Get Back to Gaming Swiftly: Troubleshoot Fortnite Loading Issues Today!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hilarity-unleashed-prime-meme-text-generators-for-2024/"><u>Hilarity Unleashed Prime Meme Text Generators for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-street-fighter-e6s-pc-stability-issues-a-comprehensive-guide/"><u>How to Fix Street Fighter E6's PC Stability Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-fixes-stop-street-fighter-6-from-freezing-your-pc-tips-and-tweaks/"><u>Master the Fixes: Stop Street Fighter 6 From Freezing Your PC, Tips & Tweaks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/y-makers-manual-youtube-track-transfers-for-2024/"><u>Melody Makers' Manual YouTube Track Transfers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-printing-the-definitive-steps-to-assemble-and-install-an-epson-printer-with-precision/"><u>Perfect Printing: The Definitive Steps to Assemble & Install an Epson Printer with Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rescue-your-game-from-ruin-proven-techniques-for-rectifying-arks-terminating-error-codes/"><u>Rescue Your Game From Ruin: Proven Techniques for Rectifying ARK’s Terminating Error Codes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-effective-solutions-for-eliminating-fortnite-latency-problems/"><u>Resolved: Effective Solutions for Eliminating Fortnite Latency Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-stabilizing-hell-let-loose-game-crashes-on-windows-top-fixes-here/"><u>Resolved! Stabilizing Hell Let Loose Game Crashes on Windows: Top Fixes Here!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-fixing-snapchat-camera-access-problems/"><u>Step-by-Step Guide: Fixing Snapchat Camera Access Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-meme-playbook-no-10-essentials/"><u>The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-successfully-fixing-steam-network-reachability-glitches/"><u>Troubleshooting Successfully: Fixing Steam Network Reachability Glitches</u></a></li>
+</ul></div>
 

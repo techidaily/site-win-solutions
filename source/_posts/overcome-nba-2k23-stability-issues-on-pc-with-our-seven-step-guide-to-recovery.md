@@ -1,7 +1,7 @@
 ---
 title: Overcome NBA 2K23 Stability Issues on PC with Our Seven-Step Guide to Recovery
-date: 2024-08-18T14:55:43.864Z
-updated: 2024-08-19T14:55:43.864Z
+date: 2024-12-01T19:28:51.364Z
+updated: 2024-12-04T01:55:15.349Z
 tags:
   - win11
   - win10
@@ -44,9 +44,17 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -56,34 +64,19 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
-5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
-6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
+5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
+6. Click**Set > OK** .
+7. Reboot your computer can check whether the crash will appear or not.
+
 ### Fix 3: Delete specific files from the save folder
 
  It’s possible some of the files in your game folder is corrupted, you can delete the specific files to get rid of crashes.  
@@ -96,13 +89,18 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 5. Reboot your computer and check the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -141,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essentials-of-creating-and-curating-instagram-highlights/"><u>[New] The Essentials of Creating and Curating Instagram Highlights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-creative-couture-top-trendy-filters-on-ig/"><u>[Updated] In 2024, Creative Couture Top Trendy Filters on IG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-elite-gaming-display-showcase-top-5-monitors/"><u>[Updated] In 2024, Elite Gaming Display Showcase Top 5 Monitors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-studio-sound-techniques-mac-basics-for-2024/"><u>[Updated] Studio Sound Techniques Mac Basics for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerate-your-game-expert-tips-on-star-wars-battlefront-ii-shader-enhancement/"><u>Accelerate Your Game: Expert Tips on Star Wars Battlefront II Shader Enhancement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-rainbow-six-siege-server-connection-error/"><u>How to Fix Rainbow Six Siege Server Connection Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-narzo-60-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme Narzo 60 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-rapid-repair-techniques-for-steam-virtual-reality-problems/"><u>Solved: Rapid Repair Techniques for Steam Virtual Reality Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-personal-fitness-chatgpts-guide-to-objectives/"><u>Tailoring Personal Fitness: ChatGPT's Guide to Objectives</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-bugs-and-stops-in-ghostwire-tokyo-for-pc-gamers/"><u>Troubleshooting Continuous Bugs & Stops in Ghostwire: Tokyo for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-halo/"><u>Troubleshooting Halo</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/undeleting-files-on-your-usb-drive-a-step-by-step-guide-for-windows-11-users/"><u>Undeleting Files on Your USB Drive: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+</ul></div>
 

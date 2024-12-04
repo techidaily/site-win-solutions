@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving the Fortnite LS-0013 Game Launch Error
-date: 2024-08-18T14:55:47.126Z
-updated: 2024-08-19T14:55:47.126Z
+date: 2024-11-28T18:07:47.995Z
+updated: 2024-12-03T17:27:30.188Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-featured.jpg)
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,24 +58,24 @@ Here’s how you can check the file integrity on Steam:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -85,6 +89,10 @@ Here’s how you can check the file integrity on Steam:
 
  If this method doesn’t work for you, simply continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
  Resident Evil 5 runs on Microsoft’s Games for Windows LIVE (GFWL) platform, which has already been phased out on Windows 10\. That being said, there’s still a way you can run the game: To make Resident Evil 5 work on Windows 10, you need to install[**the latest GFWL**](https://community.pcgamingwiki.com/files/file/1012-microsoft-games-for-windows-live/) .
@@ -93,9 +101,6 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -104,15 +109,14 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
-4. Now check if Resident Evil 5 can launch normally.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
+4. Now check if Resident Evil 5 can launch normally.
+
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -123,6 +127,11 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -137,8 +146,6 @@ Here’s how you can check the file integrity on Steam:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +153,21 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-embedded-epicness-galaxy-games-chronicle-for-2024/"><u>[New] Embedded Epicness Galaxy Games Chronicle for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-monochrome-to-vibrancy-top-11-video-coloring-strategies-for-2024/"><u>[New] From Monochrome to Vibrancy Top 11 Video Coloring Strategies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-navigating-zoom-meetings-on-windows-10/"><u>[New] Navigating Zoom Meetings on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cut-down-the-latency-proven-strategies-for-reducing-ping-in-back-4-blood/"><u>Cut Down the Latency: Proven Strategies for Reducing Ping in 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-the-problem-forza-horizon-navigate-through-crash-fixes-for-your-gaming-experience/"><u>Fix the Problem: Forza Horizon Navigate Through Crash Fixes for Your Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-call-of-duty-black-ops-4-starts-without-a-hitch-common-issues-resolved/"><u>How to Ensure Call of Duty: Black Ops 4 Starts Without a Hitch - Common Issues Resolved</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-m6-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Poco M6 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-f34-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy F34 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-mousepad-connectivity-issues-in-windows-operating-systems-tips-and-tricks-for-win7-to-win10/"><u>Overcoming Common Mousepad Connectivity Issues in Windows Operating Systems: Tips & Tricks for Win7 to Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/setup-correct-but-device-echoes-silence-instead-of-signal/"><u>Setup Correct, But Device Echoes Silence Instead of Signal</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speed-up-your-gaming-library-troubleshooting-slower-downloads-in-ubisoft-connect/"><u>Speed Up Your Gaming Library: Troubleshooting Slower Downloads in Ubisoft Connect</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-successfully-restoring-your-outlook-connection/"><u>Troubleshooting Guide: Successfully Restoring Your Outlook Connection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-outer-worlds-solutions-for-pc-game-crashes/"><u>Troubleshooting The Outer Worlds: Solutions for PC Game Crashes</u></a></li>
+</ul></div>
 

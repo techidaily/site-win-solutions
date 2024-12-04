@@ -1,7 +1,7 @@
 ---
 title: Top 6 Fixes for a Non-Functioning Obs Microphone
-date: 2024-08-18T14:53:52.958Z
-updated: 2024-08-19T14:53:52.958Z
+date: 2024-12-02T17:21:12.437Z
+updated: 2024-12-03T19:21:41.077Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry.png)
 
  Does nothing happen when you click on Play? You’re definitely not alone here. Many Far Cry 6 players are reporting the same. If Far Cry 6 won’t launch, below are some troubleshooting steps for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Far Cry 6 won’t launch? Here’s why
 
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 6. **[Disable background applications](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1\. Make sure your gear meets the minimum requirements
 
  If your system does not meet the requirements, this will most likely be the cause of any performance issues you may be experiencing.
@@ -108,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 1. Close any game-related apps. Then Right-click your Ubisoft Connect and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
 3. Click **Apply** \> **OK** .
 4. Also, repeat step 1\~2 for the Far Cry.exe file.
@@ -131,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 2. Run the installer you downloaded with administrator rights.
 3. Follow the on-screen instructions to complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Update your GPU driver
 
  If you’re using a faulty or outdated GPU driver, you will get constant game crashes while playing Far Cry 6\. This is especially the case if you’re using a 30-series graphics card.
@@ -146,12 +145,13 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 4. Restart your PC for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Turn off overlays
 
@@ -161,13 +161,15 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 2. Under the General tab, untick the **Enable in-game overlay for supported games** and **Display FPS counter in game** .  
 ![Enable in-game overlay for supported games](https://images.drivereasy.com/wp-content/uploads/2021/10/in-game-overlay.jpg)
 3. Try Far Cry 6 again to test the issue.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Disable background applications
 
  Some Microsoft services or third-party software may interfere with your Far Cry 6\. If that’s the case, you may need to close all background programs and reboot your system.
@@ -211,8 +213,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +220,21 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cutting-down-high-bitrate-obs-streams/"><u>[New] 2024 Approved Cutting Down High-Bitrate OBS Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-social-media-mastery-surpassing-the-competition-in-popularity-rankings/"><u>[New] Social Media Mastery Surpassing the Competition in Popularity Rankings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pathways-of-file-formats-navigating-from-srt-to-others/"><u>[Updated] Pathways of File Formats Navigating From SRT to Others</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>2024 Approved A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-secrets-of-the-pros-efficient-snapchat-pinning-techniques/"><u>2024 Approved Secrets of the Pros Efficient Snapchat Pinning Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerating-your-experience-solving-lag-problems-in-assassins-creed-valhalla-quickly/"><u>Accelerating Your Experience: Solving Lag Problems in Assassin's Creed: Valhalla Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/anthem-game-fix-conquering-the-unstoppable-loading-screens-for-good/"><u>Anthem Game Fix: Conquering the Unstoppable Loading Screens for Good</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-game-development-challenges-corrective-measures-for-critical-errors-in-tales-of-arise-ue4/"><u>Conquering Game Development Challenges: Corrective Measures for Critical Errors in Tales of Arise (UE4)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-nixing-how-to-unstick-your-frozen-launch-screen/"><u>Dota Nixing: How to Unstick Your Frozen Launch Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-pc-game-crash-in-wolcen-lords-of-mayhem/"><u>How to Fix the PC Game Crash in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y100-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y100 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-server-connectivity-in-lost-ark-insider-advice-for-a-smooth-play/"><u>Mastering Server Connectivity in Lost Ark: Insider Advice for a Smooth Play</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-videos-without-spending-a-dime-with-the-8-best-tools-for-2024/"><u>Mastering YouTube Videos Without Spending A Dime - With the 8 Best Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-unmuting-missing-facebook-audio-for-2024/"><u>Tips for Unmuting Missing Facebook Audio for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Kodi Unable to Connect: Couldn’t Retrieve Directory Information [Solved]"
-date: 2024-08-18T14:51:26.510Z
-updated: 2024-08-19T14:51:26.510Z
+date: 2024-12-03T05:28:39.088Z
+updated: 2024-12-03T22:28:28.252Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 
  If you’re experiencing the same issue and hitting the “Retry” button didn’t work, you may want to try the following fixes, which have helped many other players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,6 +37,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 4. **[Run your game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Reboot your network
 
@@ -46,9 +54,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -56,14 +61,8 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 1. In the Windows Search bar, type**firewall** and select**Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
@@ -76,8 +75,9 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your network driver
 
  The thing is when you click**Play** or**Retry** , your network adapter driver will be disabled instantly, thus causing you to get stuck in the world of disconnection. To fix this, you can try updating your network driver to resolve this issue.
@@ -94,9 +94,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 4. Restart your computer for the changes to take effect.
@@ -112,8 +109,9 @@ OR
 2. Select the tab **Compatibility** and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .  
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -123,6 +121,10 @@ OR
  For some antivirus software, disabling them might not work. You can temporally uninstall it or add Hitman 3 to their exclusion lists.
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
 
@@ -135,15 +137,18 @@ OR
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -162,8 +167,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +174,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>[Updated] 2024 Approved Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services/"><u>[Updated] 2024 Approved The Complete Guide to Proficient KineMaster Use and Top Digital Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigating-video-editing-with-apples-latest-m1-macbook-air-for-2024/"><u>[Updated] Navigating Video Editing with Apple’s Latest M1 MacBook Air for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls/"><u>[Updated] Saving Your Focus A Guide to Quieting Naysayers on Google Video Calls</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-the-dark-beginning-solutions-for-elden-ring-launch-glitches/"><u>Dealing With the Dark Beginning: Solutions for 'Elden Ring' Launch Glitches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-samsung-printer-drivers-for-windows-step-by-step-instructions/"><u>Download Compatible Samsung Printer Drivers for Windows - Step by Step Instructions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-steps-to-resolve-elite-dangerous-pc-malfunctions-for-smooth-gaming/"><u>Essential Steps to Resolve Elite: Dangerous PC Malfunctions for Smooth Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-play-baldurs-gate-3-ready-for-your-fantasy-adventure-awaits/"><u>Fix and Play: Baldur's Gate 3 Ready for Your Fantasy Adventure Awaits!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-loading-issues-in-red-dead-redemption-2-solutions-and-tips/"><u>Fixing Persistent Loading Issues in Red Dead Redemption 2 - Solutions & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-stuttering-and-smooth-out-gameplay-for-assassins-creed-valhalla-on-pc/"><u>How to Eliminate Stuttering and Smooth Out Gameplay for Assassin’s Creed Valhalla on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-past-the-block-steps-to-launch-saints-row-on-your-desktop-smoothly/"><u>How to Get Past the Block: Steps to Launch Saints Row on Your Desktop Smoothly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hulu-versus-hulu-plus-identifying-core-differences-for-viewers/"><u>Hulu versus Hulu Plus: Identifying Core Differences for Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-script-creation-for-attractive-vlogging-content/"><u>In 2024, Mastering Script Creation for Attractive Vlogging Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>In 2024, The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002446238-jurassic-world-evolution-master-the-tips-and-tricks-to-stop-your-game-from-crashing/"><u>Jurassic World Evolution: Master the Tips & Tricks to Stop Your Game From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-optimized-overcoming-the-dual-decline-in-frames-per-second/"><u>PC Gaming Optimized: Overcoming the Dual Decline in Frames Per Second</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-frame-drops-and-lags-in-age-of-empires-iv-a-comprehensive-guide/"><u>Resolving Frame Drops and Lags in Age of Empires IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-pros-and-cons-of-the-samsung-galaxy-tab-s5e-the-definitive-android-tablet-overview/"><u>Top Pros and Cons of the Samsung Galaxy Tab S5e: The Definitive Android Tablet Overview</u></a></li>
+</ul></div>
 

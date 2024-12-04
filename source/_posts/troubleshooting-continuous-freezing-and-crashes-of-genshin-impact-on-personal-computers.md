@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Continuous Freezing and Crashes of Genshin Impact on Personal Computers
-date: 2024-08-18T14:52:36.864Z
-updated: 2024-08-19T14:52:36.864Z
+date: 2024-11-29T03:24:51.781Z
+updated: 2024-12-03T23:21:55.637Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
  New games often come out with some bugs, and Deathloop is no exception. One of the issues plaguing many gamers is that**the game keeps freezing on their PC and PS5** . Although we are not sure what is causing the problem currently, there are still some workarounds you can try.
 
  Avoid using the Windows \[**ALT** \]+\[**TAB** \] function as it can have an impact on the framerate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
@@ -54,21 +55,21 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 1. Launch Deathloop and navigate to**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if you still have the freezing issue in Deathloop.
 
 If this does not resolve the problem, proceed to Fix 3\.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, you’re more likely to encounter the freezing issue in Deathloop. To fix it, make sure you have the latest drivers for your graphics card installed.
@@ -79,10 +80,6 @@ If this does not resolve the problem, proceed to Fix 3\.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,6 +95,11 @@ If the game still keeps freezing, take a look at the next fix.
 1. Right-click your**taskbar** and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager.jpg)
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
 3. Relaunch Deathloop and test the gameplay.
 
@@ -111,17 +113,20 @@ If the game still keeps freezing, take a look at the next fix.
 2. Choose**Save Data and Game/App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
+
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
 
 If this method doesn’t do the trick, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Power cycle your PS5
 
@@ -149,8 +154,6 @@ Check if the game freezes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +161,22 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-tools-for-converting-youtube-videos/"><u>[New] 2024 Approved Best Free Tools for Converting YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-lg-360-camera-mastered-a-full-review-for-2024/"><u>[New] LG 360 Camera Mastered A Full Review for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-in-depth-evaluation-of-the-newest-slomo-video-software/"><u>[Updated] In 2024, In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transform-your-reels-6-advanced-applications-for-instagram/"><u>[Updated] In 2024, Transform Your Reels 6 Advanced Applications for Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-recording-rivalry-obs-versus-shadowreplay-for-2024/"><u>[Updated] Real-Time Recording Rivalry OBS Versus ShadowReplay for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decoding-and-correcting-steam-error-code-130-a-complete-walkthrough/"><u>Decoding and Correcting Steam Error Code 130 - A Complete Walkthrough</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002570424-expert-tips-for-a-seamless-jurassic-world-evolution-gaming-experience-no-more-crashes/"><u>Expert Tips for a Seamless Jurassic World Evolution Gaming Experience - No More Crashes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experts-selection-of-iphone-recording-aids/"><u>Expert's Selection of iPhone Recording Aids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-game-running-smoothly-in-valorant-expert-fixes-for-pc-launch-failures/"><u>Get Your Game Running Smoothly in Valorant - Expert Fixes for PC Launch Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000134699-mlb-the-show-21-connectivity-issues-now-fixed/"><u>MLB The Show 21 Connectivity Issues - Now Fixed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-issues-with-unresponsive-steam-social-connections-troubleshooting-guide/"><u>Overcoming Issues with Unresponsive Steam Social Connections: Troubleshooting Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/popular-english-slang-words-and-phrases-how-to-talk-like-gen-z/"><u>Popular English Slang Words and Phrases – How to Talk Like Gen Z</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003485743-top-strategies-to-resolve-lag-issues-in-war-thunder-updated/"><u>Top Strategies to Resolve Lag Issues in War Thunder - Updated !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-dead-by-daylight-crashes-pro-tips-for-a-smooth-2-cuppy-sized-5-expert-fixes-for-uninterrupted-dead-by-daylight-gameplay/"><u>Troubleshooting Guide for Dead by Daylight Crashes - Pro Tips for a Smooth 2 Cuppy-Sized, 5) Expert Fixes for Uninterrupted Dead by Daylight Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-how-to-stop-overwatch-from-hanging/"><u>Troubleshooting Tips: How to Stop Overwatch From Hanging</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Game No More? Restarting 'Elite Dangerous' Woes and How to Get Back on Track
-date: 2024-08-18T14:58:48.570Z
-updated: 2024-08-19T14:58:48.570Z
+date: 2024-11-30T02:00:49.529Z
+updated: 2024-12-03T17:37:36.108Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -51,15 +48,17 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
@@ -67,8 +66,9 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
@@ -100,16 +100,16 @@ This could take several minutes. Wait for the process to be complete.
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -123,9 +123,6 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
@@ -151,9 +148,9 @@ If the crashing still happens, continue with the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
@@ -176,8 +173,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +180,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-vr-and-the-future-of-teaching-strategies/"><u>[Updated] 2024 Approved VR and the Future of Teaching Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[Updated] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-innovations-in-podcast-titling-with-ai-assistants/"><u>2024 Approved Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-football-manager-2e21-pc-malfunctions-solutions-to-common-crashing-problems/"><u>Avoiding Football Manager 2E21 PC Malfunctions: Solutions to Common Crashing Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-asus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Asus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kitty-kingdom-interactive-games/"><u>Kitty Kingdom: Interactive Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-launch-effective-fixes-for-starting-stardee-valley-smoothly/"><u>Mastering the Launch: Effective Fixes for Starting Stardee Valley Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-hurdles-how-to-get-davinci-resolve-working-again-on-your-pc-with-windows/"><u>Overcoming Hurdles: How to Get DaVinci Resolve Working Again on Your PC with Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-guide-ending-devolvers-deathloop-issues-on-windows-machines/"><u>Quick Fix Guide: Ending Devolver's Deathloop Issues on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-the-finest-labor-day-discounts-on-notebook-computers-a-list-of-25-stunning-deals-still-available/"><u>Score the Finest Labor Day Discounts on Notebook Computers: A List of 25 Stunning Deals Still Available!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-overcoming-obs-studios-screen-recording-issues/"><u>Solution: Overcoming OBS Studio's Screen Recording Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-the-mystery-uncovering-why-steam-overlooks-your-vr-setup/"><u>Solve the Mystery: Uncovering Why Steam Overlooks Your VR Setup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-15-open-world-games-to-beat-the-climb/"><u>Top 15 Open World Games to Beat the Climb</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-solution-blueprint-overcoming-vlc-streaming-problems-on-chromecast/"><u>Ultimate Solution Blueprint: Overcoming VLC Streaming Problems on Chromecast</u></a></li>
+</ul></div>
 

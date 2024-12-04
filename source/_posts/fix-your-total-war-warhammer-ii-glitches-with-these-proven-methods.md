@@ -1,7 +1,7 @@
 ---
 title: "Fix Your TOTAL WAR: WARHAMMER II Glitches with These Proven Methods!"
-date: 2024-08-18T14:52:40.126Z
-updated: 2024-08-19T14:52:40.126Z
+date: 2024-12-02T16:33:37.759Z
+updated: 2024-12-04T03:29:14.550Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -83,21 +87,21 @@ You can update your video driver either manually or automatically.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -111,8 +115,9 @@ Launch Fallout 4 to see if it runs smoothly.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
@@ -120,9 +125,6 @@ Launch Fallout 4 to see if it runs smoothly.
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
@@ -150,8 +152,9 @@ Run Fallout 4 to see if it goes smoothly.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -198,8 +201,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +208,17 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-sharper-stars-in-iphone-nocturne-photos/"><u>2024 Approved Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-sauvegarder-en-vrac-avec-une-camera-web-les-techniques-meilleures-pour-windows-et-mac/"><u>Comment Sauvegarder En Vrac Avec Une Caméra Web ? - Les Techniques Meilleures Pour Windows Et Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciphering-elden-rings-release-hold-up-a-detailed-analysis-of-setback-causes/"><u>Deciphering Elden Ring's Release Hold-Up: A Detailed Analysis of Setback Causes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-gaming-tips-and-tricks-to-get-payday-2-running-smoothly-on-pc/"><u>Effortless Gaming: Tips & Tricks to Get Payday 2 Running Smoothly on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-gears-of-war-4-pc-crash/"><u>How To Fix Gears of War 4 PC Crash</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-magic-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Magic 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-motorola-moto-g04-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G04 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jurasserial-conundrum-solved-causes-and-fixes-for-crashes-in-jurassic-world-evolution/"><u>Jurasserial Conundrum Solved: Causes and Fixes for Crashes in Jurassic World Evolution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-configuring-and-accessing-a-virtual-private-network-vpn-app-on-your-android-device/"><u>Step-by-Step Guide: Configuring and Accessing a Virtual Private Network (VPN) App on Your Android Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-problems-why-is-assassins-creed-valhalla-keep-on-freezing/"><u>Troubleshooting PC Problems – Why Is Assassin’s Creed Valhalla Keep on Freezing?</u></a></li>
+</ul></div>
 

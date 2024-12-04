@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent and Repair Constant Crashing in Cities: Skylines 2 on PC"
-date: 2024-08-18T14:55:07.160Z
-updated: 2024-08-19T14:55:07.160Z
+date: 2024-11-27T21:53:46.873Z
+updated: 2024-12-03T19:36:56.244Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Metro-Exodus-PC-Enhanced-Edition-keeps-crashing.jpg)
 
 **Metro Exodus PC Enhanced Edition** is finally out. As a radical update to the original game, the PC Enhanced Edition features Ray Tracing, 60 FPS, Field of View options, DLSS 2.0 and more. However, there’re still many gamers reporting that**Metro Exodus PC Enhanced Edition keeps crashing** on their computers. If you’re experiencing the same issue, you’ve come to the right place. After reading this article, you should be able to fix this issue easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,14 +58,12 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
@@ -81,14 +84,12 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Install the latest game patch
 
  4A Games, the developer of Metro Exodus PC Enhanced Edition, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -115,8 +116,9 @@ If the issue persists, try the next fix below.
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean boot
 
  Metro Exodus PC Enhanced Edition may crash if it conflicts with another application on your PC. If don’t know which application conflicts with the game, it’s necessary to perform a clean boot.
@@ -130,22 +132,26 @@ To perform a clean boot, just follow the steps below:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
-6. Click **Restart** to restart your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Metro Exodus PC Enhanced Edition.
@@ -163,8 +169,6 @@ To perform a clean boot, just follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +176,26 @@ To perform a clean boot, just follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-reel-downloads-quick-save-methods-for-2024/"><u>[New] Instagram Reel Downloads Quick Save Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-rehabilitating-faulty-obs-camera-connection/"><u>[New] Rehabilitating Faulty OBS Camera Connection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-shape-your-online-presence-changing-backdrops-in-google-meet/"><u>[New] Shape Your Online Presence Changing Backdrops in Google Meet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/44cm44oh44o844k5lplusd6k235o6q572u44gl44kj44ov44kh44kk44or5yan55sf5oiq44gu57ch5y2y44gq44ks44kk44oj44cn/"><u>「データ保護措置からファイル再生成の簡単なガイド」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exclusive-insight-into-budget-friendly-design-portals/"><u>2024 Approved Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-strong-and-weak-ai-an-in-depth-look-at-what-sets-them-apart/"><u>Comparing Strong and Weak AI: An In-Depth Look at What Sets Them Apart</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-driver-pack-print-flawlessly-with-your-hp-laserjet-pro-m42ebfw-on-windows-win71011/"><u>Complete Driver Pack: Print Flawlessly with Your HP LaserJet Pro M42ebfw on Windows (Win7/10/11)</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/doctor-who-series-detailed-character-portraits-and-set-visuals-image-collections-by-yl-computing/"><u>Doctor Who Series: Detailed Character Portraits and Set Visuals - Image Collections by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999355044-expert-tips-on-stabilizing-your-controller-no-more-frequent-freezes/"><u>Expert Tips on Stabilizing Your Controller: No More Frequent Freezes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-rust-rendering-issue-a-detailed-guide/"><u>Fixing the Rust Rendering Issue: A Detailed Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-se-2020-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone SE (2020) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-crashes-in-fortnite-for-pc-solutions-updated/"><u>How to Fix Persistent Crashes in Fortnite for PC (Solutions Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-persistent-black-screen-on-launch-in-far-cry-n6/"><u>How to Resolve the Persistent Black Screen on Launch in Far Cry N6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swift-problem-solving-get-the-epic-games-launcher-running-again-now/"><u>Swift Problem-Solving: Get the Epic Games Launcher Running Again Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-division-2-stability-fix-rapid-and-effortless-corrections-inside/"><u>The Division 2 Stability Fix - Rapid and Effortless Corrections Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-blue-screen-of-death-in-helldivers-game-v2/"><u>Troubleshooting and Fixing Blue Screen of Death in Helldivers Game V2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-cannot-start-game-error-for-destiny-2-on-windows-systems/"><u>Troubleshooting the 'Cannot Start Game' Error for Destiny 2 on Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722983449220-unveiling-fact-from-fiction-assassins-creed-valhalla-arrival-timeline-confirmed/"><u>Unveiling Fact From Fiction: Assassin's Creed Valhalla Arrival Timeline Confirmed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bes-golden-age-of-video-gamers/"><u>YouTube's Golden Age of Video Gamers</u></a></li>
+</ul></div>
 

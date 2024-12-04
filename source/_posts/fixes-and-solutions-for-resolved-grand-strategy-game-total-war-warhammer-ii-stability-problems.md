@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions for [Resolved] Grand Strategy Game: TOTAL WAR - WARHAMMER II Stability Problems"
-date: 2024-08-18T14:51:51.340Z
-updated: 2024-08-19T14:51:51.340Z
+date: 2024-12-02T16:53:00.771Z
+updated: 2024-12-04T00:58:12.530Z
 tags:
   - win11
   - win10
@@ -57,14 +57,15 @@ By checking your system specs, just follow the instructions below:
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics drivers
 
  You might not be able to launch your games if your graphics drivers are corrupt or out-of-date. So to have a better gaming experience, have them updated.
 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
 
@@ -76,6 +77,10 @@ By checking your system specs, just follow the instructions below:
 [AMD](https://www.amd.com/en/support)
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics drivers (recommended)
 
  If you don’t feel like updating the drivers all on your own, we recommend you use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs the correct versions of drivers that your computer needs. With Driver Easy, updating graphics drivers becomes much easier.
@@ -86,9 +91,6 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -98,6 +100,10 @@ OR
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After that, launch your game to see if the problem is solved. If not, try to update other drivers including sound drivers, and DirectX drivers as well.
@@ -105,8 +111,9 @@ OR
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -120,8 +127,9 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
  4) Right-click on**hl2** Application and select**Properties** .
@@ -132,12 +140,6 @@ OR
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Verify the integrity of game files
 
  TF 2 might not launch when a certain file is missing or damaged. To fix it, you need to verify the integrity of game files on Steam.
@@ -154,6 +156,10 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Set Launch Options
 
  This method is proven to be working for many game players. So you can give it a shot by following these steps:
@@ -162,23 +168,22 @@ OR
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
  If this didn’t do the trick, it might be a problem related to fullscreen. Then you can type**windowed -noborder -w \[SCR-H\] -h \[SCR-W\]** in[step 3](https://tools.techidaily.com/drivereasy/download/) .
@@ -202,8 +207,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +214,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-every-frame-a-deep-dive-into-polaroids-xs-action-camera/"><u>[New] In 2024, Exploring Every Frame A Deep Dive Into Polaroid's XS Action Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-playback-why-are-videos-spinning/"><u>[New] Instagram Playback Why Are Videos Spinning?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pinnacle-racing-experiences-best-of-the-best/"><u>[Updated] 2024 Approved Pinnacle Racing Experiences Best of the Best</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-the-black-screen-annoyance-in-hitman-3-top-fixes-for-your-pc/"><u>Banish the Black Screen Annoyance in Hitman 3 - Top Fixes for Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-2022-leaf-error-in-apex-legends-step-by-step-guide/"><u>Fixing the 2022 Leaf Error in Apex Legends: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-mute-streaming-issues-in-twitch-successfully/"><u>How to Overcome Mute Streaming Issues in Twitch Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-character-development-through-authentic-dialogue/"><u>In 2024, Character Development Through Authentic Dialogue</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-14-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 14 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-followers-gps-drones-of-the-year/"><u>In 2024, Precision Followers GPS Drones of the Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-experience-resolving-fps-dips-in-the-dragons-dogma-ii-adventure/"><u>Optimizing Gameplay Experience: Resolving FPS Dips in the Dragon's Dogma II Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-guide-tackling-darkest-dungeon-2s-recurring-stability-problems-on-windows/"><u>PC Gamers' Guide: Tackling Darkest Dungeon 2'S Recurring Stability Problems on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-wot-blitz-from-crashing-ultimate-troubleshooting-techniques-revealed/"><u>Stop WoT Blitz From Crashing: Ultimate Troubleshooting Techniques Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-to-overcome-the-stuck-loading-screen-in-forza-horizon-5/"><u>Top 7 Solutions to Overcome the Stuck Loading Screen in Forza Horizon 5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-low-fps-and-smoothness-issues-for-a-better-avatar-gameplay-on-the-planet-pandora/"><u>Troubleshooting Low FPS and Smoothness Issues for a Better 'Avatar' Gameplay on the Planet Pandora</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-hidden-black-screens/"><u>Unveiling Hidden Black Screens</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/value-packed-apple-watch-series-se-critique/"><u>Value Packed Apple Watch Series SE Critique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-content-protection-can-you-record-playbacks-for-2024/"><u>YouTube Content Protection Can You Record Playbacks for 2024</u></a></li>
+</ul></div>
 
