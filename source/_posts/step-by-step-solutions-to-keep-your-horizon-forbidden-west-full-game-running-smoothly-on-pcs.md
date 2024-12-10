@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Keep Your 'Horizon Forbidden West' Full Game Running Smoothly on PCs
-date: 2024-08-18T14:47:46.966Z
-updated: 2024-08-19T14:47:46.966Z
+date: 2024-12-05T18:19:58.333Z
+updated: 2024-12-10T20:33:10.299Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 
 If you encounter the issue on your computer, try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The dev error might suggest an integrity issue, meaning that some files within the game folders are missing or corrupted. To make sure there’s nothing wrong with your game files, you need verify their integrity:
@@ -51,6 +55,10 @@ If you encounter the issue on your computer, try these solutions.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click**Begin Scan** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Warzone and check if the error code reoccurs during gameplay.
 
@@ -63,9 +71,6 @@ If this method doesn’t help you, check out the next one below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -73,6 +78,10 @@ If this method doesn’t help you, check out the next one below.
  Once you’ve installed all the system updates, restart your PC and check if the problem persists.
 
 If the issue remains, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -84,9 +93,6 @@ If the issue remains, you can try the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -103,32 +109,34 @@ If the issue remains, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t do the trick for you, move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Rebuild your settings
 
  Some gamers verified that deleting the user config files will cause the game to reset and thus solve the issue. You can try the same using the following steps:
@@ -136,8 +144,9 @@ Now you can join a match and see if the error pops up again.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) to open the**Run** dialog. Type or paste**%USERPROFILE%Documents** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-open-documents.jpg)
 2. Delete all files inside the folder named**Call of Duty Modern Warfare** /**Call of Duty** . (Leave the folder empty.) Then launch Warzone and check if the problem persists.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, simply continue to the cross-platform solutions below.
@@ -146,9 +155,6 @@ Now you can join a match and see if the error pops up again.
 
 The following fixes apply to both PC and console.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Change to Windowed mode
 
  According to the feedback, changing in-game settings to Windowed mode could be a potential fix for the crash. So you can try this and see how things go.
@@ -157,14 +163,8 @@ The following fixes apply to both PC and console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-windowed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  If changing the display mode doesn’t solve your problem, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Switch to another account
 
  According to some, the Dev Error 5573 only appears on certain accounts. So if possible, you can**switch to another account** , then check if the crash happens again. If the problem disappears, you can contact the Activision support for further troubleshooting regarding your account.
@@ -172,8 +172,9 @@ The following fixes apply to both PC and console.
 If the issue lingers on, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Switch to Modern Warfare operators
 
  If you’re using an operator from Black Ops Cold War, you can try another one from Modern Warfare. Some users reported that the error disappeared when**using operators that are not from Black Ops Cold War** . It’s unclear whether it’s just a glitch or a compatibility issue.
@@ -183,9 +184,9 @@ If the issue lingers on, take a look at the next solution.
  For an overview of operators, you can check out[this page](https://www.gamesatlas.com/cod-modern-warfare/operators/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Switch loadouts and cosmetics
 
  Aside from operators, it’s reported that certain**loadouts or cosmetics** are the one to blame. So if you’re using any of those, try to switch or simply unequip them and see how things go.
@@ -202,8 +203,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +210,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-into-the-fray-with-polaroid-cubeplus-action-recorder/"><u>[New] 2024 Approved Into the Fray with Polaroid Cube+ Action Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-the-power-of-in-stream-ads-strategy-and-metrics-guide/"><u>[New] In 2024, Unlocking the Power of In-Stream Ads Strategy & Metrics Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-the-ways-for-fee-free-pictorial-clips/"><u>[New] Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-elevate-your-visual-content-a-guide-to-videoleap-zooming/"><u>[Updated] In 2024, Elevate Your Visual Content A Guide to Videoleap Zooming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/emium-yoga-channels-for-ultimate-fitness-journey-for-2024/"><u>10 Premium Yoga Channels for Ultimate Fitness Journey for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-flashscreen-snapshot-evaluation-and-alternates/"><u>2024 Approved FlashScreen Snapshot Evaluation & Alternates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-youtube-manages-content-post-upload/"><u>2024 Approved How YouTube Manages Content Post-Upload</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077s-gpu-usage-issue-corrected-on-windows-10-platform-how-to-fix-it/"><u>Cyberpunk 2077'S GPU Usage Issue Corrected on Windows 10 Platform – How to Fix It?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-emotion-detection-by-ai-systems-the-potential-and-limitations-in-deciphering-human-emotions/"><u>Decoding Emotion Detection by AI Systems: The Potential and Limitations in Deciphering Human Emotions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-on-avoiding-and-correcting-continuous-crashes-in-samurai-warriors-5-pc/"><u>Expert Tips on Avoiding and Correcting Continuous Crashes in Samurai Warriors 5 (PC)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-terminal-malfunction-error-for-ghostrunner-in-windows-11/"><u>How to Overcome the Terminal Malfunction Error for Ghostrunner in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-chrome-from-using-too-much-processor-power-solution/"><u>How to Stop Chrome From Using Too Much Processor Power (Solution)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-when-your-oculus-link-goes-dark-actionable-tips-inside/"><u>Quick Fixes for When Your Oculus Link Goes Dark - Actionable Tips Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-entry-point-not-found-error-in-fortnite/"><u>Resolved: Fixing the 'Entry Point Not Found' Error in Fortnite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-8-solutions-to-resolve-marvels-guardians-of-the-galaxy-pc-game-crashes/"><u>Top 8 Solutions to Resolve 'Marvel's Guardians of the Galaxy' PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-microsoft-edge-instability-in-windows-10-systems/"><u>Troubleshooting and Resolving Microsoft Edge Instability in Windows 10 Systems</u></a></li>
+</ul></div>
 

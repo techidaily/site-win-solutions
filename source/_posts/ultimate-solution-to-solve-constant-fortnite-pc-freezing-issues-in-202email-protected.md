@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution to Solve Constant Fortnite PC Freezing Issues in 202[Email Protected]
-date: 2024-08-18T14:48:03.918Z
-updated: 2024-08-19T14:48:03.918Z
+date: 2024-12-07T17:23:21.730Z
+updated: 2024-12-10T17:04:47.614Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -71,20 +68,22 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -96,13 +95,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -117,16 +109,22 @@ No advertising on the website.
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -137,9 +135,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
@@ -150,6 +145,11 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
@@ -170,8 +170,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +177,24 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>[New] Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-audio-recording-tools-11-edition-for-2024/"><u>[New] Premier Audio Recording Tools - #11 Edition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-photo-mastery-top-8-web-based-creation-suite-for-2024/"><u>[Updated] Photo Mastery Top 8 Web-Based Creation Suite for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-simplistic-mobile-tech-crafting-a-basic-handset-with-gratis-programming-resources/"><u>Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-step-by-step-fix-solving-fifa-21-pc-crashes-the-ultimate-guide/"><u>Complete Step-by-Step Fix: Solving FIFA 21 PC Crashes - The Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-to-tackle-end-era-loop-errors-and-keep-your-computer-running-smoothly-in-202e/"><u>Comprehensive Solutions to Tackle End-Era Loop Errors and Keep Your Computer Running Smoothly in 202E</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-for-combatting-frequent-cities-skylines-2-pc-crashing-problems/"><u>Expert Advice for Combatting Frequent Cities: Skylines 2 PC Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-persistent-crash-of-lunar-software-on-desktop-systems/"><u>Fixing the Persistent Crash of Lunar Software on Desktop Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990568137-get-the-smooth-gameplay-experience-with-cyberpunk-2077s-input-latency-fixed/"><u>Get the Smooth Gameplay Experience with Cyberpunk 2077'S Input Latency Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-solve-windows-11-update-issue-error-0x8024401c-explained/"><u>How to Correctly Solve Windows 11 Update Issue - Error 0X8024401C Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-avoid-pc-crashes-while-enjoying-wrc-10-in-the-fia-world-rally-championship-video-game/"><u>Resolved! Avoid PC Crashes While Enjoying WRC 10 in the FIA World Rally Championship Video Game</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-a-dead-apple-watch-touch-screen/"><u>Solving the Mystery of a Dead Apple Watch Touch Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-stabilizing-forza-horizon-4-performance-and-preventing-pc-crashes/"><u>The Ultimate Fix for Stabilizing Forza Horizon 4 Performance and Preventing PC Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-tricks-to-stop-stardee-from-freezing-a-players-handbook-for-stable-gameplay/"><u>Tips & Tricks to Stop Stardee From Freezing: A Player's Handbook for Stable Gameplay</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-toshiba-laptops-software-essential-driver-downloads-for-windows-users/"><u>Update Your Toshiba Laptop's Software - Essential Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-neon-font-generators-create-stunning-text-in-minutes/"><u>Updated 2024 Approved Best Neon Font Generators Create Stunning Text in Minutes</u></a></li>
+</ul></div>
 

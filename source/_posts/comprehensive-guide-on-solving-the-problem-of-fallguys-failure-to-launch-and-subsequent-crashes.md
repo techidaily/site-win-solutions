@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Solving the Problem of FallGuys Failure to Launch and Subsequent Crashes
-date: 2024-08-18T14:47:56.251Z
-updated: 2024-08-19T14:47:56.251Z
+date: 2024-12-05T20:07:51.005Z
+updated: 2024-12-10T20:13:44.611Z
 tags:
   - win11
   - win10
@@ -36,14 +36,19 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 1. Click this **[link](https://kodi.tv/download)**  to download the latest version of Kodi on PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b768d3b4640b.jpg)
 2. Open the downloaded file and follow the on-screen instructions to install Kodi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Launch Kodi and check if it now works properly. If not, try Fix 2, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove recently installed addons
 
  If Kodi crashes soon after you install an add-on, the add-on is probably the culprit. To see if this is causing your problem, you should remove the add-on’s directory from Kodi’s**userdata** folder:
@@ -53,29 +58,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. In the address bar, type**%APPDATA%\\Kodi\\userdata**  then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048ab00113.jpg)
 4. Double-click on the**addon\_data** folder, and select the add-on directory that you think might be causing Kodi to crash, and press**Del** to delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048c0c90e2.jpg)  
 
  If you’re not sure which one is the culprit, you can go back to the **userdata** folder to open the**Database** folder in it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048d401e0e.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048f70a8a4.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  then delete the **Addons27** file.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 5. Relaunch Kodi and check if your problem is resolved. If not, try the next Fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable hardware acceleration
 
  Hardware acceleration is also known to cause Kodi to crash. To check for it, you should try disabling hardware acceleration in Kodi:
@@ -85,23 +82,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click **Player settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa6b255d47.jpg)
 3. In the bottom left corner, click the gear icon**three times** to change the mode from**Standard** to**Expert** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa72e13b88.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa7a1d4a61.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Highlight the **Video** tab, then on the right side, in the **Processing** section, turn off **Allow hardware acceleration -DXVA2** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa89e02e8f.jpg)
 5. Restart Kodi and check if Kodi now works. If not, try Fix 4, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  If the steps above didn’t work for you, the most likely cause is a graphics driver problem.
@@ -120,17 +118,9 @@ Fortunately, this is also one of the easiest problems to fix.
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This require the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b95f34603.jpg)
 4. Restart your computer and check if Kodi now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 5, below.
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,17 +136,24 @@ You can also try doing a clean install of Kodi:
    2. In Control Panel, under**Programs** , click **Uninstall a program** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc0493f39cb6.jpg)  
    3. Right-click Kodi, then click **Unistall** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049667a22b.jpg)
 2. Remove Kodi completely from your PC.  
    1. Press the**Windows logo key** and**E** key at the same time to open**File Explorer** .  
    2. In the address bar, type**%APPDATA%** and press**Enter** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc04983b826b.jpg)  
    3. Select the**Kodi** folder, and press**Shift+Del** to delete the folder permanently.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049984724f.jpg)
 3. **Restart** your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Download** Kodi v17.6 “Krypton” from **[here](https://kodi.tv/download)**  .
 5. Open the downloaded file and follow the on-screen instructions to install Kodi.
 6. Run Kodi and test.
@@ -175,8 +172,6 @@ That’s it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +179,20 @@ That’s it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[Updated] In 2024, Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-hyperprospects-top-laptops-for-elite-video-editors-in-4k/"><u>[Updated] In 2024, HyperProspects Top Laptops for Elite Video Editors in 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-symphonic-syncopation-perfecting-audio-transitions/"><u>2024 Approved Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-essential-tools-every-new-creator-needs/"><u>2024 Approved The Essential Tools Every New Creator Needs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dev-error-6634-troubleshooting-guide-ultimate-solution-for-fortnite-warzone/"><u>Dev Error 6634 Troubleshooting Guide: Ultimate Solution for Fortnite Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-tweaks-getting-team-fortress-2-to-boot-after-previous-failures/"><u>Fixes and Tweaks - Getting Team Fortress 2 to Boot After Previous Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-reduce-chromes-abnormally-high-processor-load/"><u>How to Address and Reduce Chrome's Abnormally High Processor Load</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a79-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A79 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro with/without SIM Card</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/razer-synapse-not-responding-a-step-by-step-solution-approach/"><u>Razer Synapse Not Responding - A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-fix-guide-for-bcm2045a0-driver-issues-simplified-steps-inside/"><u>Speedy Fix Guide for BCM2045A0 Driver Issues – Simplified Steps Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-dead-by-daylight-error-code-8014/"><u>Troubleshooting Guide: Resolving Dead By Daylight Error Code 8014</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-common-warzone-in-game-memory-issue-on-xbox-and-pc-error-0-1766/"><u>Troubleshooting the Common Warzone In-Game Memory Issue on Xbox & PC (Error 0-1766)</u></a></li>
+</ul></div>
 

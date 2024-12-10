@@ -1,7 +1,7 @@
 ---
 title: 5 Proven Methods to Stop 'Modern Warfare' From Freezing Mid-Battle on PC - Now!
-date: 2024-08-18T14:51:19.908Z
-updated: 2024-08-19T14:51:19.908Z
+date: 2024-12-09T18:25:08.712Z
+updated: 2024-12-10T16:39:45.337Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Civilization VI is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -45,9 +49,6 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update your graphics card driver
 
  If device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the culprit for CIV 6 crashing, try updating your video card driver to the latest version.
@@ -80,12 +81,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-238.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-239.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -94,6 +96,10 @@ OR
 Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Use Medium or Low settings for your game
 
@@ -105,9 +111,6 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Method 5: Disable DLC for CIV 6
 
  Usually the game developers release Downloadable Content (DLC) for players, which is additional content created for an already-released video game to have better experience.
@@ -119,8 +122,9 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 6: Turn off antivirus program for your game
 
  Running antivirus programs in your computer can cause your game crashing, as your antivirus program may detect your game program as virus or something, and antivirus program will try to stop your game from running.
@@ -147,9 +151,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-241.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  3) Right click on**Civilization VI** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-240.png)
@@ -158,13 +159,14 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-242.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Uninstall Game** , then follow the on-screen instructions to uninstall CIV 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-243.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Open**File Explorer** that you just open via Steam, and ensure to delete all the files in that game folder.
 
  7) Once you deleted the game files, reinstall CIV 6 into your computer.
@@ -185,8 +187,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,21 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-top-iphone-podcast-listening-experiences/"><u>[New] Top iPhone Podcast Listening Experiences</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>2024 Approved Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtube-organizing-music-into-a-playlist/"><u>2024 Approved Mastering YouTube Organizing Music Into a Playlist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-optimize-collaborative-sessions-zooming-in-on-google-meet-participants/"><u>2024 Approved Optimize Collaborative Sessions Zooming in on Google Meet Participants</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi3gpm4a/"><u>無償でMovaviサポートのオンライン3GPからM4Aへの変換ツール</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuita-de-archivos-caf-a-aiff-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos CAF a AIFF en Línea Con Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-votre-fichier-wav-en-m4a-sans-frais-avec-movavi-online/"><u>Convertissez Votre Fichier WAV en M4A Sans Frais Avec Movavi Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-steelseries-arctis-5-sound-driver-step-by-step-guide/"><u>Download and Install SteelSeries Arctis 5 Sound Driver - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal-for-2024/"><u>From Basic to Expert Mastering the Art of Adobe PS Background Removal for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-free-camera-editing-apps-of-2024-discover-the-best-like-movavi/"><u>Top Free Camera Editing Apps of 2024: Discover the Best Like Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-and-cut-divx-videos-without-spending-a-dime-2023-guide/"><u>Updated 2024 Approved Edit and Cut Divx Videos Without Spending a Dime (2023 Guide)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vobmkv-movavi/"><u>원통 스트리밍 VOB/MKV 펑션을 비용 없이 바이트 코어로 전환하기 - Movavi: 자세한 방법</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228202432-swfmp3-movavi/"><u>オンラインで自由に利用可能なSWFファイルからMP3への対応変換 - Movavi</u></a></li>
+</ul></div>
 

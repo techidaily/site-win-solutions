@@ -1,7 +1,7 @@
 ---
 title: "Resolving Fuzzy Visuals: A Guide to Sharpening COD: Warzone Images on Your PC"
-date: 2024-08-18T14:48:57.531Z
-updated: 2024-08-19T14:48:57.531Z
+date: 2024-12-07T19:51:36.744Z
+updated: 2024-12-10T16:37:01.248Z
 tags:
   - win11
   - win10
@@ -34,6 +34,11 @@ The Outriders “blurry visuals” issue has to do with the full game and hurt p
 2. In the DISPLAY tab, disable FPS Limit and VSync.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_18-11-00.jpg)  
  Some users indicate put DLSS to quality solve the issue. You can lower DLSS as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart the game and it should work normally.
 
 If it’s not working, move to the next one.
@@ -46,17 +51,16 @@ If it’s not working, move to the next one.
 
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 2. In **GENERAL**  tab, type**\-force -dx11** in the text field that under the **LAUNCH OPTIONS** section.![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This command line will allow you to run your game in DX11 mode.
 3. Restart the game to check. The game should run properly.
 
 If this fix brings no luck, the next one may help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphic driver
 
  Your graphics card is one of the core components of your computer and the graphic driver is closely related to the gaming performance. Therefore, whenever you meet graphic issues, updating drivers would be a good choice.  
@@ -73,16 +77,14 @@ If this fix brings no luck, the next one may help.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If this fix not suit you, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Delete the settings folder
 
  This fix would reset the whole visual settings to solve the issue. You need to be aware the settings would be completely reset including your keybind settings. This fix works for many players so I recommend you to have a go.
@@ -93,15 +95,18 @@ If this fix not suit you, try the next one.
 3. Scroll down to find the**Madness** folder and delete it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_17-46-38.jpg)
 4. Back to Steam, right-click on Outriders and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_17-50-40.jpg)
 5. In the**LOCAL FILES** tab, click**Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 6. Once Steam finished doing the process, restart the game and it should work normally and the graphic should be sorted.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -116,8 +121,6 @@ Enjoy the game, have fun!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +128,24 @@ Enjoy the game, have fun!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-your-content-following-twitpic-rules/"><u>2024 Approved Streamline Your Content Following Twitpic Rules</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-hurdles-tips-for-getting-past-warzone-not-starting-troubles/"><u>Bypass the Hurdles: Tips for Getting Past Warzone Not Starting Troubles</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/descubre-como-instalar-windows-11-build-23h2-en-dispositivos-no-oficialmente-compatibles-con-dos-tecnicas-efectivas/"><u>Descubre Cómo Instalar Windows 11 Build 23H2 en Dispositivos No Oficialmente Compatibles Con Dos Técnicas Efectivas</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevating-your-macs-tiktok-opener-quality/"><u>Elevating Your Mac's TikTok Opener Quality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003868213-fix-horizon-zero-dawn-pc-crashes-with-this-simple-solution/"><u>Fix Horizon Zero Dawn PC Crashes with This Simple Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-assassins-creed-odyssey-pc-issues-no-more-crashing/"><u>Fix Your Assassin's Creed Odyssey PC Issues - No More Crashing!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-play-7t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Play 7T Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>In 2024, Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastery-of-fb-instream-ad-setup-and-evaluation-techniques-in-digital-marketing/"><u>Mastery of FB Instream Ad Setup & Evaluation Techniques in Digital Marketing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-image-enhancement-resolving-the-issue-of-blurry-visuals-effectively/"><u>Outriders Image Enhancement - Resolving the Issue of Blurry Visuals Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-get-origin-game-launcher-running-again-on-windows-10-and-11-systems/"><u>Resolved: How to Get Origin Game Launcher Running Again on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-when-outlook-cannot-be-launched/"><u>Solutions for When Outlook Cannot Be Launched</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solutions-rapides-pour-empecher-lexplorateur-windows-de-se-lancer-automatiquement-avec-des-techniques-pratiques/"><u>Solutions Rapides Pour Empêcher L'Explorateur Windows De Se Lancer Automatiquement Avec Des Techniques Pratiques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-3d-printing-machines-of-2024-with-superior-quality-results/"><u>Top Affordable 3D Printing Machines of 2024 with Superior Quality Results</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-keeping-your-genshin-impact-game-running-smoothly-on-pc/"><u>Troubleshooting Tips: Keeping Your Genshin Impact Game Running Smoothly on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/what-to-do-when-your-amd-radeon-drivers-wont-open-an-easy-fix-guide/"><u>What to Do When Your AMD Radeon Drivers Won't Open: An Easy Fix Guide</u></a></li>
+</ul></div>
 

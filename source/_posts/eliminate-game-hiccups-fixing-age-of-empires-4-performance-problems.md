@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Game Hiccups: Fixing Age of Empires 4 Performance Problems"
-date: 2024-08-18T14:48:41.807Z
-updated: 2024-08-19T14:48:41.807Z
+date: 2024-12-03T18:11:01.540Z
+updated: 2024-12-10T19:44:05.768Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -81,15 +78,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to take effect.
@@ -100,9 +95,6 @@ If your problem still persists, don’t worry. There is another try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Switch to DX11 in your game settings
 
  This method works like a charm for many players who have the same crashing issue in Metro Exodus, so it’s worth a try when you’re using DirectX 12 for Metro Exodus.
@@ -121,6 +113,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -131,29 +127,35 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6) Save your changes and restart your computer.
 
 Launch Metro Exodus and see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
 
@@ -177,8 +179,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,23 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-2023-techniques-sending-tweets-as-videos-to-whatsapp/"><u>[New] 2024 Approved 2023 Techniques Sending Tweets as Videos to WhatsApp</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-imagery-stories-a-deep-dive/"><u>[New] Iconic Imagery Stories A Deep Dive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blur-borders-for-visual-privacy/"><u>[Updated] Blur Borders for Visual Privacy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-smart-techniques-save-your-insta-story-videos/"><u>[Updated] Smart Techniques Save Your Insta Story Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-hurdles-essential-troubleshooting-tips-for-stray/"><u>Bypassing Hurdles: Essential Troubleshooting Tips for Stray</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-black-ops-cold-war-dealing-with-persistent-shader-compiling-problems/"><u>Comprehensive Fix for Black Ops Cold War: Dealing with Persistent Shader Compiling Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-fixes-for-overcoming-directx-problems-in-your-fifa-19-game/"><u>DIY Fixes for Overcoming DirectX Problems in Your FIFA 19 Game</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-latest-drivers-for-microsoft-surface-book-2-devices/"><u>Easy Installation of Latest Drivers for Microsoft Surface Book 2 Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/"><u>How to Make a Photo Video with Pixiz for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-and-reduce-discords-cpu-consumption-insights/"><u>How To Optimize & Reduce Discord's CPU Consumption: Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-upgrade-rectification-error-0x80246007-in-win11/"><u>Mastering the Art of Upgrade Rectification: Error 0X80246007 in Win11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-your-gaming-experience-with-these-solutions-to-call-of-duty-black-ops-ivs-frame-rate-and-latency-issues/"><u>Optimizing Your Gaming Experience with These Solutions to Call of Duty: Black Ops IV's Frame Rate & Latency Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-how-to-resolve-twitch-stream-load-failures/"><u>Top 7 Solutions: How to Resolve Twitch Stream Load Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-sudden-crashes-during-your-total-war-three-kingdoms-playthrough/"><u>Troubleshooting Sudden Crashes During Your Total War: Three Kingdoms Playthrough</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tune-tracker-next-gen-audio-for-2024/"><u>Tune Tracker Next-Gen Audio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225283835-mkvmpeg-movavi/"><u>오픈 소스 내 아날로그에서 MKV/MPEG 영상 형식을 제공하는 무료 변환 도구 - Movavi</u></a></li>
+</ul></div>
 
