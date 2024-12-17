@@ -1,7 +1,7 @@
 ---
 title: How To Resolve 'Error Code 84' In Fortnite and Successfully Join Parties
-date: 2024-08-13T09:36:02.866Z
-updated: 2024-08-14T09:36:02.866Z
+date: 2024-12-09T17:27:48.760Z
+updated: 2024-12-16T20:47:41.331Z
 tags:
   - win11
   - win10
@@ -45,8 +45,9 @@ Does this look familiar?
  2) Go to **Security**  tab, then click **Edit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e964774f4ab.png)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select your account, and check on **Full control** . Then click **Apply**  \> **OK**  to save your settings.
@@ -55,9 +56,6 @@ Does this look familiar?
 
  4) Close the Properties window. Then run your Acrobat Reader to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Method 2: Repair your Redistributable 2013
 
  Windows apps relies on Microsoft Visual C++ Redistributable to install and work properly on your Windows; Acrobat Reader is no exception. You can repair Redistributable to solve your problem:
@@ -65,13 +63,18 @@ Does this look familiar?
  1) Type **control**  in the search box from Start and click **Control Panel**  from the result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e96fcb075a5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Programs and Features**  in the **Large icons**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e970228c987.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on **Microsoft Visual C++ 2013 Restributable**  and click **Change** .
 
@@ -80,8 +83,9 @@ Does this look familiar?
  4) Click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e97104a9d9a.png)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes**  when asked by User Account Control.
@@ -91,15 +95,16 @@ Does this look familiar?
  6) Click **Restart**  and run Acrobat Reader again to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e971e77ef35.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  If unfortunately, repairing the Redistributable doesn’t solve your problem, please go on to reinstall it:
 
  1) Type **control**  in the search box from Start and click **Control Panel**  from the result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e96fcb075a5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Programs and Features**  in the **Large icons**  section.
 
@@ -108,9 +113,6 @@ Does this look familiar?
  3) Right-click on **Microsoft Visual C++ 2013 Restributable**  and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e972d8e48d8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Down a new[Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-in/download/details.aspx?id=40784) from  official Microsoft website.
 
@@ -128,17 +130,15 @@ Does this look familiar?
 
  2) Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
  4) Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully one of the methods above resolved the 0xc0000022 error on your PC. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -153,8 +153,6 @@ Does this look familiar?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +160,16 @@ Does this look familiar?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-perfect-images-with-ios-size-modification-skills-for-2024/"><u>[New] Crafting Perfect Images with iOS Size Modification Skills for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-check-of-dji-phantom-3/"><u>[New] The Ultimate Check of DJI Phantom 3</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-mac-image-sorter/"><u>Best Mac Image Sorter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006363035-code-vein-freezing-glitches-heres-how-you-can-fix-them/"><u>Code Vein Freezing Glitches? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-file-safety-tweaking-oss-delete-confirmation/"><u>Controlling File Safety: Tweaking OS's Delete Confirmation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-dark-panel-problem-in-epic-games-launcher-solution-found/"><u>How to Overcome the Dark Panel Problem in Epic Games Launcher - Solution Found!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-crashes-and-booting-issues-in-amd-radeon-graphic-drivers/"><u>How To Resolve Crashes and Booting Issues in AMD Radeon Graphic Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/securing-your-stake-in-youtubes-financial-future/"><u>Securing Your Stake in YouTube's Financial Future</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unable-to-launch-vanguard-check-if-your-processor-matches-the-minimal-specs/"><u>Unable to Launch Vanguard? Check if Your Processor Matches the Minimal Specs</u></a></li>
+</ul></div>
 

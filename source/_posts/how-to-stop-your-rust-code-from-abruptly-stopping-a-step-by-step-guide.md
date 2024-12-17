@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Rust Code From Abruptly Stopping – A Step-by-Step Guide
-date: 2024-08-13T09:37:33.801Z
-updated: 2024-08-14T09:37:33.801Z
+date: 2024-12-10T23:47:30.149Z
+updated: 2024-12-16T22:17:30.791Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
  Ready to enjoy an exciting game with SteamVR but found your headset is not detected with an error code 108? That’s a bummer! Quite many users are running into the same problem, but in fact it’s not hard to fix. In this post, we’ve listed 6 best solutions for you to solve the issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Simply work from the top down until you find the one that does the trick.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 6. **[Opt into SteamVR Beta](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Restart your headset and PC
 
  A simple restart is one of the easiest troubleshooting methods (and very effective in most situations). You just need to**reboot your computer after shutting down SteamVR** and check for the issue. But if there’s no luck, also restart your headset as follows:
@@ -41,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 2. Select**Devices** \>**Reboot Headset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-restart-headset.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Wait until the process completes and then test your peripheral. If the issue persists, move on to the next fix.
 
@@ -68,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 1. Disconnect all the cords on your headset and unplug the Link Box.
 2. Launch SteamVR and go to**Settings > Developer** . Click**Remove All SteamVR USB Devices** , and this will clear your SteamVR device memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-remove-all-devices.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Wait until it completes and plug all the cords back in after a couple of minutes.
 
  The steps above can help you troubleshoot the USB port, Link Box and connection. If they’re not the cause, take a look at Fix 3.
@@ -86,22 +85,20 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-04-15_15-08-24-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_09-41-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart SteamVR and see if the problem is fixed. If not, continue to more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Disable Power Management
 
  Enabling the SteamVR Power Management will power off your USB devices when they’re not in use and may affect the headset detection. To turn it off, follow the steps:
@@ -109,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 1. Open SteamVR and navigate to the**Settings** panel.
 2. Choose the**Developer** tab and click**Disable Power Management** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-power-management-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if the headset is detected now. If not, go on to the next solution.
 
@@ -123,9 +117,6 @@ See if the headset is detected now. If not, go on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that the settings are applied. Check if your headset works now. If not, there is one more fix to try.
 
@@ -136,15 +127,23 @@ See if the headset is detected now. If not, go on to the next solution.
 1. Launch Steam.
 2. Hover your mouse over the**Library** tab and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-tools.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click**SteamVR** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 4. Select the BETAS tab from the left panel. Choose **beta – SteamVR Beta Update** from the drop-down list under Select the beta you would like to opt into.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re already on Beta, simply turn it off by choosing**NONE – Opt out of all beta programs** and check if your SteamVR is more stable.
@@ -162,8 +161,6 @@ See if the headset is detected now. If not, go on to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +168,26 @@ See if the headset is detected now. If not, go on to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-beauty-on-streams-via-color-grading-for-2024/"><u>[New] Enhancing Beauty on Streams via Color Grading for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen/"><u>[New] Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>[Updated] Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-action-captured-top-choice-in-recorders-explored/"><u>2024 Approved Action Captured Top Choice in Recorders Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-guide-to-premiere-pro-full-scene-preview-for-2024/"><u>A Complete Guide to Premiere Pro Full Scene Preview for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-gratuiti-online-trasforma-file-webp-in-formato-jpeg-con-movielabs/"><u>Conversione Gratuiti Online: Trasforma File WEBP in Formato JPEG Con MovieLabs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-eliminating-game-crashes-in-star-wars-squadrons-step-by-step-solution/"><u>Expert Advice on Eliminating Game Crashes in Star Wars: Squadrons | Step-by-Step Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-no-more-restarting-elite-dangerous-woes-and-how-to-get-back-on-track/"><u>Game No More? Restarting 'Elite Dangerous' Woes and How to Get Back on Track</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-got-origin-up-and-running-again-troubleshooting-guide/"><u>How I Got Origin Up and Running Again – Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-download-and-update-logiteche-g403-gamepad-drivers-for-windows-10817-no-cost/"><u>How to Download and Update Logiteche G403 Gamepad Drivers for Windows 10/8.1/7 - No Cost</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-crash-in-naraka-battlepoint-gameplay/"><u>How to Fix a Crash in Naraka: Battlepoint Gameplay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fixes-of-your-clownfish-voice-modifier-a-comprehensive-guide/"><u>Mastering the Fixes of Your Clownfish Voice Modifier: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-complete-loading-failures-in-vrchat-expert-tips-and-tricks/"><u>Overcoming Complete Loading Failures in VRChat: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/silicon-sense-and-cyber-shields-telling-techs-jestful-journey/"><u>Silicon Sense & Cyber Shields: Telling Tech's Jestful Journey</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-stop-infinite-loads-in-anthem-game/"><u>Step-by-Step Solution to Stop Infinite Loads in Anthem Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-performance-issues-smooth-gameplay-with-serious-sam-4-on-pcs/"><u>Troubleshooting Performance Issues: Smooth Gameplay with Serious Sam 4 on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-why-the-nintendo-switch-is-unbeatable-in-handheld-gameplay/"><u>Ultimate Guide: Why the Nintendo Switch Is Unbeatable in Handheld Gameplay</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-8-essential-video-metadata-editors-for-mac-users-updated-2023/"><u>Updated 2024 Approved 8 Essential Video Metadata Editors for Mac Users (Updated 2023)</u></a></li>
+</ul></div>
 

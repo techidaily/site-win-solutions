@@ -1,7 +1,7 @@
 ---
 title: Effortless Troubleshooting Tips for Speedily Fixing 'Origin Won't Load'
-date: 2024-08-13T09:36:39.869Z
-updated: 2024-08-14T09:36:39.869Z
+date: 2024-12-12T22:24:42.108Z
+updated: 2024-12-16T16:51:04.334Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 
  As one of the most popular football video game titles, Madden NFL 22 is finally here. However, many players have been complaining about Madden 22 not working on PC. If you happen to be on the same boat, don’t worry. We’ve rounded up all the fixes for you to solve the glitch easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -61,15 +58,21 @@ There are mainly two ways to update your drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -82,9 +85,6 @@ There are mainly two ways to update your drivers:
 
 See if the issue persists. If yes, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -93,28 +93,15 @@ See if the issue persists. If yes, continue to the next solution.
 
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Right-click Madden 22 from the list and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -122,13 +109,19 @@ See if the issue persists. If yes, continue to the next solution.
 
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -159,8 +152,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +159,24 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-prevent-fbs-video-ad-pop-ups/"><u>[Updated] 2024 Approved How to Prevent FB's Video Ad Pop-Ups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steps-to-identify-your-dream-livestream-platform/"><u>[Updated] Steps to Identify Your Dream Livestream Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-questions-rising-about-openais-ability-to-oversee-chatgpt/"><u>Are Questions Rising About OpenAI's Ability to Oversee ChatGPT?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-mow2-experience-by-resolving-stuttering-and-freezing-issues-on-window-machines/"><u>Boost Your MOW2 Experience by Resolving Stuttering & Freezing Issues on Window Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cities-skylines-stability-solutions-overcome-city-simulation-crashes-with-our-latest-strategies/"><u>Cities: Skylines Stability Solutions – Overcome City Simulation Crashes with Our Latest Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-mishaps-comprehensive-solutions-to-not-foundmissing-issues/"><u>dciman32.dll Mishaps: Comprehensive Solutions to Not Found/Missing Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciding-filmora-vs-democracy-creator/"><u>Deciding Filmora Vs. Democracy Creator</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-solutions-resolving-the-issue-of-error-code-130-in-steam-a-comprehensive-guide/"><u>Easy Solutions: Resolving the Issue of Error Code 130 in Steam - A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210467830-9781628601756-energetic-diagnosis/"><u>Energetic Diagnosis | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-from-the-ashes-solutions-for-persistent-game-crashes/"><u>Fixing 'From The Ashes' - Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722867894284-from-s-230-we-have-a-triple-root-at-s2-this-means-theres-a-critical-point-at-s2-with-multiplicity-3/"><u>From ((S-2)^3=0 ), We Have a Triple Root at (S=2 ). This Means There's a Critical Point at (S=2 ) with Multiplicity 3</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-biomutant-pc-performance-eliminate-crashes-with-these-2024-pro-tips/"><u>Mastering Biomutant PC Performance - Eliminate Crashes with These 2024 Pro Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986670555-pc-troubles-discover-how-to-stop-tower-of-fantasy-from-crashing-now/"><u>PC Troubles? Discover How to Stop Tower of Fantasy From Crashing Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-t2x-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo T2x 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-preventing-the-ascent-from-releasing/"><u>Resolved: Issues Preventing 'The Ascent' From Releasing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-gta-v-resolving-game-crashes/"><u>Troubleshooting GTA V: Resolving Game Crashes</u></a></li>
+</ul></div>
 

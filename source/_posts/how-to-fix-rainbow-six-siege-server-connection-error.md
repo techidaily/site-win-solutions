@@ -1,7 +1,7 @@
 ---
 title: How to Fix Rainbow Six Siege Server Connection Error
-date: 2024-08-13T09:34:27.845Z
-updated: 2024-08-14T09:34:27.845Z
+date: 2024-12-14T21:17:06.575Z
+updated: 2024-12-16T18:15:08.265Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
  What to do when Rainbow Six Extraction keeps crashing on your Windows PC? Are there any permanent fixes to this problem? You’re in the right spot. Below, you will find every possible fix that has helped many other players.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [1. Check your PC specs](https://tools.techidaily.com/drivereasy/download/)
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 * [6. Disable SMT](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Check your PC specs
 
  First, make sure your PC meets the minimum requirements of Rainbow Six Extraction.
@@ -52,18 +54,15 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 _Rainbow Six Extraction_ System Requirements
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Stop overclocking
 
  The Intel “K” and “X” chips usually mean the chip is unlocked. Many gamers like squeezing out a little extra performance than what you get out of the box. When coupled with good ventilation and cooling, CPU overclocking can reap great results.
 
  But if you’re experiencing Rainbow Six Extraction crashing issues when tweaking the clock speeds, you should stop overclocking and try resetting your processor (and GPU, if appropriate) to default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 3\. Verify your game files
 
  This is a very basic troubleshooting step you should try before heading on to other fixes. Here’s how to do it in Ubisoft Connect PC:
@@ -91,10 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
   
@@ -107,6 +102,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  4) Launch the game and check whether it works without any crashes. Ty running Rainbow Six Extraction either on Vulkan (this requires the latest graphics driver) or DirectX 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Disable conflicting apps
 
  Antivirus software like BitDefender is known to interfere with your Rainbow Six Extraction. You might need to disable any antivirus software installed on your PC temporarily.
@@ -116,8 +115,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To find out the problematic app, you can try[**performing a clean boot**](https://tools.techidaily.com/drivereasy/download/) . This allows your PC to run without any unnecessary startups. If your game stops crashing, then you need to enable the startup item one by one to find the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Disable SMT
 
 Some Rainbow Six Extraction players find it helps when they disable SMT.
@@ -143,8 +143,6 @@ Some Rainbow Six Extraction players find it helps when they disable SMT.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +150,23 @@ Some Rainbow Six Extraction players find it helps when they disable SMT.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-video-capture-for-iphoneipad-users/"><u>[New] In 2024, The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting-for-2024/"><u>[New] Streamlining Your Process Tools and Tricks for Smooth Broadcasting for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-metro-exodus-crashing-on-pc/"><u>[Solved] Metro Exodus Crashing on PC</u></a></li>
+<li><a href="https://win-premium.techidaily.com/5lih5lia5peg5osp5lit5yi75b2v56gs55uy6kplusl5aac5l2v5ase55cg77yf57kplus6ycj5lij56en566a5y2v5pyj5pwi55qe5pa55bypiq/"><u>万一无意中刻录硬盘该如何处理？精选三种简单有效的方式!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/checking-your-computers-ram-functionality-a-guide-by-yl-computing/"><u>Checking Your Computer's RAM Functionality - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-build-and-host-a-personalized-gpt-based-chat-interface-on-windows-pcs-key-reasons-and-detailed-instructions/"><u>How to Build and Host a Personalized GPT-Based Chat Interface on Windows PCs: Key Reasons and Detailed Instructions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 Phone with Broken Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/latest-smartphone-scene-preview-what-to-expect-from-future-devices-by-google-and-samsung/"><u>Latest Smartphone Scene Preview: What to Expect From Future Devices by Google and Samsung</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/managing-your-internet-bandwidth-on-windows-11-key-strategies-for-monitoring-data-use/"><u>Managing Your Internet Bandwidth on Windows 11: Key Strategies for Monitoring Data Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-classic-technique-transferring-files-effortlessly-to-your-smartphone-at-any-age/"><u>Mastering the Classic Technique: Transferring Files Effortlessly to Your Smartphone at Any Age</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-windows-11-efficiency-with-microsoft-copilot-a-step-by-step-guide/"><u>Maximizing Windows 11 Efficiency with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-introduces-new-advertising-features-within-windows-11s-start-screen/"><u>Microsoft Introduces New Advertising Features Within Windows 11'S Start Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-targets-resolution-of-fuzzy-font-issue-in-windows-version-of-chrome/"><u>Microsoft Targets Resolution of Fuzzy Font Issue in Windows Version of Chrome</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quicktimedvdmacdvd/"><u>QuickTimeへのフリーなDVD変換ソフトウェアで、Mac用最速ドライブ：どんなDVDも簡単に変換可能</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stay-connected-even-on-do-not-disturb-heres-how-your-iphone-can-handle-texts-and-calls/"><u>Stay Connected Even on Do Not Disturb – Here's How Your iPhone Can Handle Texts and Calls!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-reviews-of-the-kobo-clara-hd-the-perfect-travel-companion-for-book-lovers-everywhere/"><u>Top Reviews of the Kobo Clara HD - The Perfect Travel Companion for Book Lovers Everywhere</u></a></li>
+</ul></div>
 

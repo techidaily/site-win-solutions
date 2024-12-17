@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the SteamVR EHT-308 Issue"
-date: 2024-08-13T09:34:07.614Z
-updated: 2024-08-14T09:34:07.614Z
+date: 2024-12-15T19:38:13.723Z
+updated: 2024-12-16T19:50:01.536Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 
 If you’re presented with the**Graphics Driver Crashed** error on Valorant and wonder how to fix it quickly, you’re in the right spot. No matter what graphics card (NVIDIA/AMD/Intel) you’re using, we’ve put together every possible fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -65,8 +62,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Roll back the graphics driver
 
  If the error**Graphics driver crashed** happens and your Volorant keeps crashing after a graphics driver update, you should roll back to its previous version.
@@ -79,6 +77,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
   * Change the numbers at the end of the link to correlate to the downloads you want to download.
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update DirectX
 
@@ -94,9 +96,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
@@ -104,8 +103,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 To fix this, you can try resetting the software to default:
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
@@ -119,8 +119,9 @@ To fix this, you can try resetting the software to default:
 * Click on **Restore Factory Defaults** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Play Valorant in windowed mode
 
  If the**Valorant graphics driver crashed** error persists or the game keeps crashing after you have tried the two methods above, the culprit might be on their end. But still, you can reduce the crashes by playing the game in windowed mode:
@@ -129,9 +130,6 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
@@ -165,9 +163,9 @@ To fix this, you can try resetting the software to default:
 * First Person Shadows: Off
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -177,8 +175,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click Riot Vanguard and select**Uninstall** .
@@ -199,8 +198,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +205,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ispatching-dreadful-green-screen-distortion-on-mac-editing-sessions-for-2024/"><u>[New] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard-for-2024/"><u>[New] Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-sharing-explained-maximizing-profits-with-snippet-videos/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-garmins-innovative-ultra-30-review-full-capabilities-examined-for-2024/"><u>[Updated] Garmin's Innovative Ultra 30 Review Full Capabilities Examined for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos/"><u>[Updated] In 2024, Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/detailed-tips-on-getting-past-the-launch-error-for-avatar-frontiers-of-pandora/"><u>Detailed Tips on Getting Past the Launch Error for Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-and-restore-your-gta-5-online-gameplay-seamlessly/"><u>How to Repair and Restore Your GTA 5 Online Gameplay Seamlessly</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-quick-tips-extracting-and-keeping-gif-tweets/"><u>In 2024, Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-the-issue-where-google-chrome-wont-launch/"><u>Resolved: Fixes for the Issue Where Google Chrome Won't Launch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguard-or-simplify-how-to-remove-pin-protection-on-windows-11-easily/"><u>Safeguard or Simplify? How to Remove PIN Protection on Windows 11 Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-missing-dll-files-a-comprehensive-guide/"><u>Solving the Mystery of Missing DLL Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-doom-eternal-from-crashing-effective-troubleshooting-tips-and-solutions/"><u>Stop DOOM Eternal From Crashing: Effective Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-solutions-for-audio-stuttering-problems-within-the-mass-effect-anthology-sets/"><u>The Definitive Solutions for Audio Stuttering Problems Within the Mass Effect Anthology Sets</u></a></li>
+</ul></div>
 

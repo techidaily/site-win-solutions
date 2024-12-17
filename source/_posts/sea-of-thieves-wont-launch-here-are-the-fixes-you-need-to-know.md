@@ -1,7 +1,7 @@
 ---
 title: Sea of Thieves Won't Launch? Here Are the Fixes You Need to Know
-date: 2024-08-13T09:34:47.243Z
-updated: 2024-08-14T09:34:47.243Z
+date: 2024-12-12T23:18:09.113Z
+updated: 2024-12-16T20:25:44.643Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Click **Check for Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -50,6 +47,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstalling your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the won’t launch problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -59,10 +60,11 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 4. Run the game to check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
 
@@ -75,10 +77,12 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 4. Download and install the Sea of Thieves.
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Find and click **Sea of Thieves** on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
@@ -92,19 +96,22 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check your time zone and date.
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Reboot your PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -114,12 +121,14 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your drivers and programs
 
  The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems. Updating your drivers is a good option to fix errors. What else, this method can also provide you better gaming experience.
@@ -147,15 +156,13 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Reboot your PC and run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -163,9 +170,6 @@ OR
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall your game
 
  If the above fixes don’t work, reinstall your game may be the only choice. The clean uninstall can delete every file, then redownload and install it from Microsoft store. This can make sure there’s no corruption or wrongly installed files which should make the game work again.
@@ -182,8 +186,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-youtube-video-gear-top-rated-cameras-and-lenses/"><u>[New] Your Ultimate YouTube Video Gear Top-Rated Cameras and Lenses</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powerdirector-app-2024-in-depth-review-and-step-by-step-guide/"><u>[Updated] PowerDirector App 2024 In-Depth Review & Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-seamless-shift-your-path-to-kinemaster-expertise-for-2024/"><u>[Updated] The Seamless Shift Your Path to Kinemaster Expertise for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>2024 Approved Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-curtain-what-is-truthgpt-and-how-does-it-define-future-ais/"><u>Behind the Curtain: What Is TruthGPT and How Does It Define Future AIs?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-repairing-microphone-malfunctions-in-your-turtle-beach-elite-atlas-gaming-headset/"><u>Guide to Repairing Microphone Malfunctions in Your Turtle Beach Elite Atlas Gaming Headset</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>In 2024, From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-excel-functionality-within-microsoft-word-a-step-by-step-guide/"><u>Mastering the Art of Excel Functionality Within Microsoft Word: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-numeric-sequencing-in-microsoft-excel-spreadsheets-the-ultimate-how-to-guide/"><u>Mastering the Art of Numeric Sequencing in Microsoft Excel Spreadsheets: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-time-calculations-a-step-by-step-guide-to-adding-and-subtracting-dates-in-microsoft-excel/"><u>Mastering Time Calculations: A Step-by-Step Guide to Adding and Subtracting Dates in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-value-manipulation-adding-and-multiplying-data-using-excels-paste-special-feature/"><u>Mastering Value Manipulation: Adding and Multiplying Data Using Excel's Paste Special Feature</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/protecting-data-with-style-embedding-watermarks-on-excel-worksheets-2013/"><u>Protecting Data with Style: Embedding Watermarks on Excel Worksheets (2013)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/secure-your-data-prevent-unauthorized-changes-to-excel-sheets/"><u>Secure Your Data - Prevent Unauthorized Changes to Excel Sheets</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-connection-problems-solved-restored-game-server-access/"><u>Steam Connection Problems Solved – Restored Game Server Access</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-applying-date-based-conditional-formatting-in-microsoft-excel/"><u>Step-by-Step Guide: Applying Date-Based Conditional Formatting in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-managing-device-names-and-deletion-in-the-amazon-kindle-ecosystem/"><u>Step-by-Step Guide: Managing Device Names & Deletion in the Amazon Kindle Ecosystem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-5-prime-apps-for-clandestine-story-viewers-for-2024/"><u>The 5 Prime Apps for Clandestine Story Viewers for 2024</u></a></li>
+</ul></div>
 

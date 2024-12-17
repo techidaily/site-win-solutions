@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide to Prevent Cod: Modern Warfare From Freezing or Crashing"
-date: 2024-08-13T09:34:51.435Z
-updated: 2024-08-14T09:34:51.435Z
+date: 2024-12-14T20:18:14.654Z
+updated: 2024-12-16T19:58:39.542Z
 tags:
   - win11
   - win10
@@ -19,17 +19,11 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
  Bloodhunt is a thrilling, free-to-play battle royale game set in the Vampire: The Masquerade universe. But if the game keeps crashing and stuttering, it definitely kills your excitement. If you’re on the same boat, don’t worry. We’ve got you covered with some tips on**how to fix the crashing and stuttering issues in Bloodhunt** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix the crashing issue
 
  Below are the fixes for you to try. But before getting started, you need to make sure that your PC meets minimum system requirements.
 
 ![Bloodhunt system requirements](https://images.drivereasy.com/wp-content/uploads/2021/09/image-2-1200x538.png)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve confirmed that your PC is able to run Bloodhunt, try the fixes below.
 
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
  Now relaunch your game. If forcing the game to start in DX11 mode doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Verify integrity of game files
 
  A variety of issues such as game crashing on PC may be caused by corrupted game files. To troubleshoot your issue, you need to verify your game files on Steam. Below are the steps you can take.
@@ -62,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Select the**LOCAL FILES** tab. Then click on the button**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
 
@@ -83,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -102,9 +94,9 @@ Here’s how you can run a scan of your PC with Reimage:
 3. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix the stuttering issue
@@ -127,22 +119,21 @@ Here’s how you can run a scan of your PC with Reimage:
 2. Select**SETTINGS** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/press-ESC-and-select-SETTINGS.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select**GRAPHICS** . Under**BASIC** , make sure the option ENABLE VSYNC is unchecked.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If disabling V-Sync doesn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 2\. Disable Steam overlay
 
  Commonly used in various programs, overlay technology allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may need to disable the Steam overlay and check if it can reduce Bloodhunt in-game stutters. Here’s how you can do this:
@@ -150,21 +141,16 @@ Here’s how you can run a scan of your PC with Reimage:
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### 3\. Enable game mode
 
  After the new release of Windows updates, the game mode feature helps users increase gaming performance by deactivating background activities like app notifications. So you can actually enable this feature to benefit from it. To do this, follow the steps below.
@@ -175,9 +161,14 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
@@ -191,19 +182,21 @@ Here’s how you can run a scan of your PC with Reimage:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
-![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 If that doesn’t work for you, proceed to the next fix.
 
@@ -218,10 +211,11 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 4. Press **Ctrl + A**  at the same time to select all the files inside the folder. Then right-click and select **Delete** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
@@ -241,8 +235,6 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +242,26 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-powerful-strategies-for-optimizing-gratuitous-timer-use/"><u>[New] 2024 Approved Powerful Strategies for Optimizing Gratuitous Timer Use</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-list-7-cost-free-video-tags-extractors-on-youtube/"><u>[New] Essential List 7 Cost-Free Video Tags Extractors on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-5-remote-recorders-online/"><u>[Updated] In 2024, Best 5 Remote Recorders Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/creating-customizable-heading-rows-for-easy-data-organization-in-microsoft-excel/"><u>Creating Customizable Heading Rows for Easy Data Organization in Microsoft Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-tricks-to-switch-your-pc-to-dark-mode-on-windows-10/"><u>Easy Tricks to Switch Your PC to Dark Mode on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-mastering-data-visualization-with-excels-quick-analysis-tool/"><u>Effective Techniques: Mastering Data Visualization with Excel's Quick Analysis Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-internet-connectivity-an-expert-evaluation-of-the-netgear-ac120-00-ex6200-wifi-booster-a-thorough-review/"><u>Enhancing Internet Connectivity: An Expert Evaluation of the Netgear AC120 00 EX6200 WiFi Booster - A Thorough Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-visual-data-with-excel-techniques-for-using-cell-values-in-chart-annotations/"><u>Enhancing Visual Data with Excel: Techniques for Using Cell Values in Chart Annotations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-efficiency-hacks-tips-for-seamless-undo-redo-and-repetition-of-tasks-using-shortcuts/"><u>Excel Efficiency Hacks: Tips for Seamless Undo, Redo, and Repetition of Tasks Using Shortcuts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-essentials-simplifying-complex-decisions-with-the-advanced-ifs-statement-tutorial/"><u>Excel Essentials: Simplifying Complex Decisions with the Advanced IFS Statement Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-honor-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Honor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-direct-pathway-transferring-youtube-content-to-dailymotion/"><u>In 2024, Direct Pathway Transferring YouTube Content to Dailymotion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insert-hyperlink-features-in-microsoft-excel-a-simple-guide/"><u>Insert Hyperlink Features in Microsoft Excel: A Simple Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-data-merge-techniques-integrating-multiple-spreadsheet-sources-in-excel/"><u>Mastering Data Merge Techniques: Integrating Multiple Spreadsheet Sources in Excel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-finances-an-introductory-tutorial-on-using-excel-for-monetary-planning/"><u>Mastering Your Finances: An Introductory Tutorial on Using Excel for Monetary Planning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-performance-a-detailed-walkthrough-of-maintaining-and-sanitizing-residential-audio-speakers/"><u>Maximizing Performance: A Detailed Walkthrough of Maintaining and Sanitizing Residential Audio Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-difficulties-the-ultimate-fix-guide/"><u>Overcoming iPhone 13 Difficulties: The Ultimate Fix Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211331787--the-witchs-guide-to-animal-familiars/"><u>The Witch's Guide to Animal Familiars | Free Book</u></a></li>
+</ul></div>
 

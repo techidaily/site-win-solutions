@@ -1,7 +1,7 @@
 ---
 title: How to Improve Gameplay Performance for Dying Light by Fixing FPS Issues
-date: 2024-08-13T09:38:52.110Z
-updated: 2024-08-14T09:38:52.110Z
+date: 2024-12-13T16:48:43.834Z
+updated: 2024-12-16T21:37:10.628Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
 **If you’re running into Dying Light lag issue, don’t worry. You’ve come to the right place!** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Dying Light players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,22 +28,9 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 5. **[Set process affinity for DyingLightGame.exe](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Install the latest game patch
 
  The developers of Dying Light release regular game patches to fix bugs. It’s possible that a recent patch has caused this lag issue, and that a new patch is required to fix it.
@@ -62,8 +46,9 @@ The outdated or broken graphics driver may also lag the game.
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -80,9 +65,6 @@ The outdated or broken graphics driver may also lag the game.
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -99,6 +81,11 @@ The outdated or broken graphics driver may also lag the game.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -114,28 +101,27 @@ The outdated or broken graphics driver may also lag the game.
 
  Modifying the graphics settings is another easy fix to reduce lags in Dying Light. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Modify the graphics settings in Nvidia Control Panel
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
 2. View Control Panel by**Large icons** .  
-![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
 3. Click**NVIDIA Control Panel** to open it.  
 ![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
 4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
-![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
+
 ### Lower the in-game graphics settings
 
 1. Launch Dying Light and modify the following in-game video settings:  
@@ -161,6 +147,10 @@ The powerful video editing program for your Windows PC</a>
 
 See if the game lag issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Use Steam launch options for Dying Light
 
  If your PC didn’t meet the recommended system requirements for Dying Light, and you’re suffering from the lag in-game, you can also try using Steam launch options for Dying Light. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -168,21 +158,20 @@ See if the game lag issue persists. If not, try the next fix, below.
 1. Launch the Steam client and go to Steam**Library** .
 2. **Right-click on Dying Light** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
 4. Copy and paste the commands below and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-nologos -high -useallavailablecores`  
 ![Steam set launch options 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options-1.jpg)
 5. Save these steam settings and run the game.
 
  See if this fix reduces the lags in-game. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Set process affinity for DyingLightGame.exe
 
  Some players reported that they fixed the Dying Light lag issue by setting process affinity for DyingLightGame.exe. If you haven’t tried this fix yet, just give it a shot.
@@ -195,10 +184,6 @@ See if the game lag issue persists. If not, try the next fix, below.
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager.jpg)
 6. **Check CPU 0** and**uncheck the rest** . (The game will freeze in the background, but don’t worry)  
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
 
  See if the game runs more smoothly than before. If this fix still didn’t work, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
@@ -216,8 +201,6 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +208,24 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-diving-deep-into-quantum-hdr-basics/"><u>[New] 2024 Approved Diving Deep Into Quantum HDR Basics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-overhaul-the-2023-updates-explained-for-2024/"><u>[New] Facebook Overhaul The 2023 Updates Explained for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>[Updated] 2024 Approved Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-digital-screen-capture-techniques/"><u>[Updated] Mastering Digital Screen Capture Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streaming-quality-comparison-obs-against-shadowplay/"><u>2024 Approved Streaming Quality Comparison OBS Against ShadowPlay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-severe-startup-challenges-for-a-successful-2024-product-release/"><u>Addressing Severe Startup Challenges for a Successful 2024 Product Release</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-troubleshooting-how-to-resolve-the-black-display-problem/"><u>Fallout 4 Troubleshooting: How to Resolve the Black Display Problem</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fast-start-stellar-help-desk/"><u>Fast Start - Stellar Help Desk</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/half-life-alyx-resolved-issues-with-frame-drops-and-lags-on-pc/"><u>Half-Life: Alyx - Resolved Issues with Frame Drops & Lags on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-overwatch-2-running-again-essential-fixes-for-the-latest-version/"><u>How To Get Overwatch 2 Running Again - Essential Fixes for the Latest Version</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-ai-enriched-content-strategies-with-advanced-chatbot-solutions/"><u>Navigating Through AI-Enriched Content Strategies with Advanced Chatbot Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-not-working-heres-how-to-get-past-the-starting-screen/"><u>Outriders Not Working? Here's How to Get Past the Starting Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-obstacles-of-final-release-expert-fixes-games/"><u>Overcoming the Obstacles of Final Release: Expert Fixes Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-for-persistent-steam-game-launcher-issues/"><u>Quick Solutions for Persistent Steam Game Launcher Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-the-sounds-of-desolation-tackling-fallout-4s-no-sound-dilemma-on-pc-machines/"><u>Restoring the Sounds of Desolation: Tackling Fallout 4’S No-Sound Dilemma on PC Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-steps-overcoming-common-launch-hurdles-in-genshin-impact/"><u>Simple Steps: Overcoming Common Launch Hurdles in Genshin Impact</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficient Methods to Reduce High CPU Use in Discord - Comprehensive Guide
-date: 2024-08-13T09:35:37.219Z
-updated: 2024-08-14T09:35:37.219Z
+date: 2024-12-12T21:24:39.152Z
+updated: 2024-12-16T19:40:46.125Z
 tags:
   - win11
   - win10
@@ -42,16 +42,14 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -65,38 +63,43 @@ Restart your computer for the changes to take effect.
 2. Find a older version of the driver and download it.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Display adapters** and right-click on your GPU.
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Install the driver and reboot your PC.
-7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Check the issue is persist or not.
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
 
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 2. Scroll down to find**Advanced display settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
@@ -121,8 +124,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +131,26 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-an-in-depth-look-at-basic-and-simplified-hdr-photography/"><u>[New] 2024 Approved An In-Depth Look at Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-like-factor-techniques-for-traffic-driving-facebook-content/"><u>[New] The Like Factor Techniques for Traffic-Driving Facebook Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-mkv-top-12/"><u>2024 해상체계에서 가장 우수한 MKV 리델링 소프트와 영문화: TOP 12 팬드</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-solving-varied-frame-per-second-drops-in-pc-gaming/"><u>Diagnosing and Solving Varied Frame Per Second Drops in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-valves-new-upgrades-advanced-game-distribution-in-families-and-improved-parental-management-systems-on-steam/"><u>Discover Valve's New Upgrades: Advanced Game Distribution in Families and Improved Parental Management Systems on Steam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-to-fix-the-relink-problem-in-your-granblue-fantasy-playthrough/"><u>Effective Strategies to Fix the Relink Problem in Your Granblue Fantasy Playthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-risk-can-chatgpt-assist-cybercriminal-activity-against-banks-and-personal-pcs/"><u>Examining the Risk: Can ChatGPT Assist Cybercriminal Activity Against Banks & Personal PCs?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-preventing-and-repairing-gta-5-freezing-problems/"><u>Expert Advice: Preventing and Repairing GTA 5 Freezing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-release-delayed-update-on-upcoming-launch/"><u>Guilty Gear Strive Release Delayed: Update on Upcoming Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722994034505-how-the-latest-patch-made-football-manager-nstoppable-in-2020-no-more-crashes/"><u>How the Latest Patch Made Football Manager Nstoppable in 2020 - No More Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-6-lite-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic 6 Lite to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-beginners-vlogging-landscape-for-2024/"><u>Navigating Beginner's Vlogging Landscape for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-fixing-continuous-crashes-in-age-of-wonders-planetfall/"><u>PC Troubleshooting: Fixing Continuous Crashes in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolving-abrupt-exit-issues-with-videotransfer-pro-on-your-mac-system/"><u>Resolving Abrupt Exit Issues with VideoTransfer Pro on Your Mac System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-non-responsive-gta-5-online-gameplay/"><u>Resolving Issues with Non-Responsive GTA 5 Online Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-overcoming-black-screen-difficulties-while-playing-star-wars-battlefront-2/"><u>Solutions for Overcoming Black Screen Difficulties While Playing Star Wars Battlefront 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/twitch-sound-malfunctions-explained-solutions-for-no-output-during-broadcasting/"><u>Twitch Sound Malfunctions Explained: Solutions for No Output During Broadcasting</u></a></li>
+</ul></div>
 

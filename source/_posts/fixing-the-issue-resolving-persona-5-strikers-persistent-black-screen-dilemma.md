@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Resolving 'Persona 5 Strikers' Persistent Black Screen Dilemma"
-date: 2024-08-13T09:36:34.151Z
-updated: 2024-08-14T09:36:34.151Z
+date: 2024-12-14T20:27:12.729Z
+updated: 2024-12-16T21:25:05.705Z
 tags:
   - win11
   - win10
@@ -55,13 +55,11 @@ There are mainly two ways for you to update your graphics driver:
  Note that when installing a driver manually, you’ll need to perform a clean installation so that the new driver can be recognized correctly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,15 +71,13 @@ There are mainly two ways for you to update your graphics driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,15 +91,13 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
@@ -114,11 +108,12 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Run your game as an administrator
 
  Persona 5 Strikers may not work properly if it lacks administrative rights. To make sure your game has full access to the game files, you can run the game as an administrator and launch your game from the installation folder.
@@ -127,15 +122,18 @@ There are mainly two ways for you to update your graphics driver:
  Or you can right-click the game and select**Manage** \>**Browse local files** .
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
@@ -168,8 +166,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +173,24 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-how-to-fix-multiversus-crashing-8-best-ways/"><u>[SOLVED] How to Fix MultiVersus Crashing - 8 Best Ways</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[Updated] Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-winxvideoai-ultimate-video-and-imagery-transformation-suite-upgrade-quality-smooth-motion-multimedia-conversion-and-recording-features/"><u>1. WinxVideoAI: Ultimate Video & Imagery Transformation Suite – Upgrade Quality, Smooth Motion, Multimedia Conversion, and Recording Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-splitscreen-study/"><u>2024 Approved SplitScreen Study</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefront-ii-how-to-fix-lengthy-loading-periods-in-pc-version/"><u>Battlefront II: How to Fix Lengthy Loading Periods in PC Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/best-strategies-to-resolve-warzone-20-startup-issues-in-pc-discover-these-7-troubleshooting-tips/"><u>Best Strategies to Resolve Warzone 2.0 Startup Issues in PC - Discover These 7 Troubleshooting Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-windows-11-restlessness-at-night/"><u>Conquer Windows 11 Restlessness at Night</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-long-load-times-in-fallout-4-expert-solutions/"><u>Fixes for Long Load Times in Fallout 4: Expert Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-season-8-understanding-the-reason-behind-decreased-frame-rates/"><u>Fortnite Season 8: Understanding the Reason Behind Decreased Frame Rates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y02t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y02T is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-toolkit-guidebook/"><u>In 2024, PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-game-jitters-how-to-eliminate-overwatch-hitching/"><u>Overcoming Game Jitters: How To Eliminate Overwatch Hitching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-why-your-epic-games-launcher-is-not-opening-and-how-to-address-it/"><u>Quick Fixes: Why Your Epic Games Launcher Is Not Opening and How to Address It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-screen-capture-issues-in-obs-studio-for-smooth-recording/"><u>Resolving Screen Capture Issues in OBS Studio for Smooth Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-honor-90-gt-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor 90 GT Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-jump-cut-like-a-pro-expert-techniques-for-final-cut-pro-x-editors/"><u>Updated In 2024, Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors</u></a></li>
+</ul></div>
 

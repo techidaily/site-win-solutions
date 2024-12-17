@@ -1,7 +1,7 @@
 ---
 title: How to Stop Frequent Freezing in Your Overwatch Gaming Experience
-date: 2024-08-13T09:35:36.177Z
-updated: 2024-08-14T09:35:36.177Z
+date: 2024-12-14T19:44:26.641Z
+updated: 2024-12-16T19:18:31.575Z
 tags:
   - win11
   - win10
@@ -25,18 +25,12 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
 **[Get Surfshark VPN>>](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hide your IP address with Surfshark VPN
 
  As low as $2.49/mo. 100% money-back guarantee for your first 30 days.
 
 [Get Surshark VPN](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1. Check Your Internet Speed](https://tools.techidaily.com/drivereasy/download/)
@@ -51,9 +45,6 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 * [Fix 10. Add Trackers](https://tools.techidaily.com/drivereasy/download/)
 * [IMPORTANT: Protect Your Privacy When Torrenting!](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1\. Check Your Internet Speed
 
  You can check your current internet speed by searching**internet speed test** on Google. If your speed score is low, it could be an indication that your internet is the problem. Try the following steps:
@@ -65,8 +56,9 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
  If your speed score is fast, chances are your slow download speed has nothing to do with the internet. Read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2\. Restart Your Computer
 
  If the problem wasn’t your internet, it may be your device. The easiest fix to try would be restarting your computer which will close apps running in the background, reset your desktop environment. So if you haven’t yet, give it a shot.
@@ -86,8 +78,9 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
  3) Go to the**Bandwidth tab** , then set your**Global Upload/Download Rate** and**Number of Connections** as followed:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-bandwidth-settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to the **Queueing**  tab and set the value as followed. Then, click**Apply** .
@@ -95,29 +88,24 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
  If you’re downloading multiple files at a time, it would take more time for each file to be downloaded because each file you download will take a piece of your bandwidth.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-queueing.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  5) Go to the**Connection** tab, then set the Random port value to**45682** and click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
 6) Apply the settings and restart uTorrent to test the issue.
 
 If your download speed is still slow, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4\. Use a VPN
 
  Torrents and file-sharing use massive amounts of bandwidth. While ISPs won’t stop you from using torrents legally, they could throttle torrents and slow them to a crawl of only a few KB/s in order to prevent network congestion and lower bandwidth costs. If this is the problem for you, you can use a[VPN](https://tools.techidaily.com/drivereasy/download/) , also known as a Virtual Private Network, to bypass Internet throttling.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vpn-1200x800.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  A good VPN encrypts your data and redirects it through a protected tunnel. In this way, your ISP won’t be able to tell what kind of traffic you’re sending or receiving, and thus can’t interfere with your network.
 
@@ -135,9 +123,6 @@ If your download speed is still slow, move on and try the next fix.
 
 4) Now you can download securely and anonymously!
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5\. Allow uTorrent through Firewall
 
  If your download speed drops to zero, it could be Windows Firewall that is blocking your torrent client. In this case, you can add an exception to the Windows firewall to fix the issue:
@@ -147,19 +132,25 @@ If your download speed is still slow, move on and try the next fix.
 2) Go to**Options> Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-preference.png)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Connections** and check the **Add Windows Firewall exception**  box and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the box is already checked, or if this didn’t fix the issue, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6\. Update uTorrent
 
  uTorrent updates can eliminate hidden issues and enhance its performance.
@@ -169,6 +160,10 @@ If your download speed is still slow, move on and try the next fix.
 2) Click**Help** , then**Check for Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-03_16-25-29.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After the update is finished, open uTorrent to test your issue.
 
@@ -185,13 +180,14 @@ If the problem persists, try the next fix below.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete. Then, check if uTorrent can download properly.
 
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8\. Update Device Drivers
 
@@ -208,6 +204,10 @@ If your issue persists, then move on to the next fix below.
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_18-45-58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the driver you need to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -243,14 +243,11 @@ If the problem still exists, read on and try the next fix.
  3) Copy the tracker list that you found and paste it to the end of the existing tracker list box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-trackers.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## IMPORTANT: Protect Your Privacy When Torrenting
 
  Downloading torrents is perfectly legal, so long as the files you’re downloading aren’t protected under copyright.
@@ -273,8 +270,6 @@ If the problem still exists, read on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +277,19 @@ If the problem still exists, read on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-easy-screenshot-methods-for-mac-users/"><u>[New] Easy Screenshot Methods for Mac Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-artisans-guide-to-flawless-skype-calls-capture-and-storage/"><u>[New] In 2024, The Artisan's Guide to Flawless Skype Calls Capture and Storage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>[Updated] Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>2024 Approved Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-sharpening-from-youtube-shorts-to-mp4/"><u>2024 Approved Digital Sharpening From YouTube Shorts to MP4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gaming-experience-diagnosing-and-repairing-pacific-drives-pc-performance-problems/"><u>Enhancing Your Gaming Experience: Diagnosing & Repairing Pacific Drive's PC Performance Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows-for-2024/"><u>From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-sims-4-gameplay-ultimate-fixes-for-pc-lag-issues-pro-tips-2024/"><u>Maximize Your Sims 4 Gameplay: Ultimate Fixes for PC Lag Issues (Pro Tips 2024)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mouse-also-has-an-irregular-plural-mice/"><u>Mouse Also Has an Irregular Plural: Mice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-the-forza-horizon-4-startup-issue-with-these-essential-steps-for-players/"><u>Solve the Forza Horizon 4 Startup Issue with These Essential Steps for Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-constant-crashes-in-team-fortress-2/"><u>Troubleshooting Tips: Fixing Constant Crashes in Team Fortress 2</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Reboot Loop: How to Solve Frequent 'Watch Dogs: Legion' Shutdowns on Desktops"
-date: 2024-08-13T09:37:59.636Z
-updated: 2024-08-14T09:37:59.636Z
+date: 2024-12-12T16:07:41.326Z
+updated: 2024-12-16T22:31:15.253Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  One possible cause of the crash is that certain game files are**corrupted or missing** . You need to make sure all the game files are intact and up to date. To do so, you can run a scan to verify the integrity of game files.
@@ -40,14 +37,24 @@ Here’s how to do that on Steam:
 
 1. Go to your Steam library. Right click**Subnautica: Below Zero** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start Subnautica: Below Zero and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t help you, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -61,9 +68,15 @@ If this fix doesn’t help you, take a look at the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,22 +91,17 @@ If this fix doesn’t help you, take a look at the next one below.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -102,9 +110,6 @@ No advertising on the website.
 
 If this trick doesn’t help, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Limit CPU cores for Subnautica: Below Zero
 
  There’re also players who found that**limiting the CPU cores** for Subnautica helps stop the crash. So you can try the same and see how it goes.
@@ -114,16 +119,10 @@ If this trick doesn’t help, you can move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-affinity-1.jpg)
 3. Setting the processor affinity to only use 4 cores (0,1,2,3). Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Now you can test the gameplay.
 
 If Subnautica: Below Zero still crashes, you can check out the next tip.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Overclocking is not something new in 2021, basically every motherboard and graphics card has this gimmick. But when you’re enjoying this zero-cost performance booster, beware of the side effect of making your system unstable. So if you’re using overclocking software, such as**MSI Afterburner** and**Intel Extreme Tuning Utility** (Intel XTU), or you’re using a BIOS setting to overclock, disable it and test the gameplay again.
@@ -140,8 +139,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +146,24 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-elite-group-of-12-tools-for-endless-video-capture/"><u>[New] Elite Group of 12 Tools for Endless Video Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-a-step-by-step-guide-on-applying-cc-rights-effectively/"><u>[Updated] In 2024, A Step-by-Step Guide on Applying CC Rights Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>2024 Approved Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bid-farewell-to-frontier-crashing-on-pc-effective-solutions-inside/"><u>Bid Farewell to Frontier Crashing on PC: Effective Solutions Inside!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-youtube-ban-protective-measures-for-2024/"><u>Eluding YouTube Ban Protective Measures for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>In 2024, 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-for-cyberpunk-2077-tackling-the-high-cpu-usage-problem/"><u>Optimizing Performance for Cyberpunk 2077 - Tackling the High CPU Usage Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-prototyping-via-chatgpt-techniques/"><u>Revolutionizing Prototyping via ChatGPT Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-for-opening-origin-on-windows-10-and-11-systems/"><u>Solution Guide for Opening Origin on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-a-list-guide-to-instagram-photo-mastery-for-2024/"><u>The A-List Guide to Instagram Photo Mastery for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-enhance-your-microphone-performance-updated-guide/"><u>Troubleshoot & Enhance Your Microphone Performance - Updated Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-warzone-pc-crash-issues-solutions-and-tips/"><u>Troubleshooting CoD Warzone PC Crash Issues - Solutions and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-tarkov-fixing-error-code-103003-for-smooth-gameplay-experience/"><u>Troubleshooting Steam Tarkov - Fixing Error Code 103^003 for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-for-preventing-fifa-20-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting for Preventing FIFA 20 From Crashing on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-at-the-2025-worldwide-developer-conference-by-apple-key-announcements-insight/"><u>What to Expect at the 2025 Worldwide Developer Conference by Apple: Key Announcements Insight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-battle-against-fatal-errors-in-ghostrunner-for-windows-11-users/"><u>Winning the Battle Against Fatal Errors in Ghostrunner for Windows 11 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PC Gaming Troubles? Here's Why 'Lost Ark' Might Be Crashing - And How to Prevent It!
-date: 2024-08-13T09:34:36.688Z
-updated: 2024-08-14T09:34:36.688Z
+date: 2024-12-12T19:23:45.755Z
+updated: 2024-12-16T23:50:59.452Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/e90e6f752b022264e64aea434fd43c18d14201667
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963914c70e5-150x150.png) You may often use Skype to contact colleagues and friends. If you somehow aren’t able to send messages on Skype, it’s not only causing inconvenience but annoyance. But don’t don’t worry, there’re practical solutions to Skype not sending messages.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these solutions
 
  Here are 4 solutions that have helped other users get Skype sending messages again. You don’t have to try them all, just work your way down the list until you find the ones that works for you.
@@ -37,19 +38,20 @@ thumbnail: https://thmb.techidaily.com/e90e6f752b022264e64aea434fd43c18d14201667
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9621d745191.jpg)
 2. Navigate to and select Skype, then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96227db84d5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Under Reset, click the**Reset** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622ba52457.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Click**Reset** as confirmation.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
 5. When the reset is finished, you’ll see a tick next to the Reset button. Then you can close the Settings window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96237bdfba8.jpg)
 6. Log into Skype and test by sending a message to a contact.  
@@ -57,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/e90e6f752b022264e64aea434fd43c18d14201667
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 2 – Update your Skype to the latest version
 
  If you’re using an older version of Skype on Windows 10, you can check for updates in the **[Microsoft Store](https://www.microsoft.com/en-us/p/skype/9wzdncrfj364?rtc=1&activetab=pivot%3aoverviewtab)**  to try fixing the**Skype messages not sending** problem.
@@ -78,39 +77,44 @@ thumbnail: https://thmb.techidaily.com/e90e6f752b022264e64aea434fd43c18d14201667
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 4 – Reinstall Skype
 
  If feeling at your wit’s end, you might as well try reinstalling Skype to fix the issue. Follow these steps:
 
 1. Type**skype** in the Windows search box,**right-click** on Skype and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f2f2dddb.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2. On your keyboard, press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  key and **R**  at the same time to open the Run box.
 3. Type**%appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f4e00b2c.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Select the**Skype** folder and**delete** it to completely remove Skype from your computer.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
 5. Click **[this link](https://www.skype.com/en/get-skype/)**  to download Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964d3604b91.jpg)
 6. When the download is completed, open the downloaded file and follow the onscreen instructions to reinstall Skype on your PC.
 
 ---
 
 Hopefully this fixes your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -121,9 +125,6 @@ Hopefully this fixes your problem.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee7000c9754.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee6ff414d3a.jpg)
 
@@ -137,8 +138,6 @@ Hopefully this fixes your problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,20 @@ Hopefully this fixes your problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-combat-guide-to-top-fps-games-for-2024/"><u>[New] The Ultimate Combat Guide to Top FPS Games for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-angular-adjustments-on-youtube-videos-the-ultimate-2023-guide/"><u>2024 Approved Angular Adjustments on YouTube Videos - The Ultimate 2023 Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/flac-and-ogg-movavi/"><u>FLAC & OGGファイルを変換せずに無料でダウンロード - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Sony Xperia 1 V?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>In 2024, Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/metodos-faciles-para-transferir-tu-sistema-operativo-al-nuevo-disco-solid-state-ssd/"><u>Métodos Fáciles Para Transferir Tu Sistema Operativo Al Nuevo Disco Solid State (SSD)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/organize-and-revitalize-your-audio-collection-with-mp3tag-version-327/"><u>Organize and Revitalize Your Audio Collection with Mp3tag Version 3.27</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/privacy-control-on-windows-11-preventing-the-display-of-last-open-documents/"><u>Privacy Control on Windows 11: Preventing the Display of Last Open Documents</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/protonvpn-enhances-privacy-with-stealth-feature-compatible-with-windows-systems/"><u>ProtonVPN Enhances Privacy with Stealth Feature, Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quarantine-and-isolation-protocols/"><u>Quarantine and Isolation Protocols</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-guide-how-to-terminate-a-frozen-application-in-windows-10/"><u>Quick Guide: How to Terminate a Frozen Application in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/recognizing-the-red-flags-when-its-time-to-upgrade-your-device/"><u>Recognizing the Red Flags: When It's Time to Upgrade Your Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxvideo-ai-intelligente-videobearbeitung-mit-skalierung-stabilisierung-und-konvertierung/"><u>WinxVideo AI – Intelligente Videobearbeitung Mit Skalierung, Stabilisierung Und Konvertierung</u></a></li>
+</ul></div>
 

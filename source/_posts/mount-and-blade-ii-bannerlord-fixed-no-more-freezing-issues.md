@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade II: Bannerlord Fixed – No More Freezing Issues!"
-date: 2024-08-13T09:36:07.560Z
-updated: 2024-08-14T09:36:07.560Z
+date: 2024-12-10T19:41:25.963Z
+updated: 2024-12-16T22:41:17.957Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Outdated graphics drivers, of course, are the most common culprit to game issues. Be sure to download and install the correct driver set for your video card.
@@ -61,14 +66,15 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -77,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Verify Warframe cache files
 
  Game issues might occur when your game installation files are outdated or get corrupted somehow. In this case, you can verify the game cache files in the Warframe launcher settings menu.
@@ -91,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  This will compare your game files with those of the latest version on Warframe’s content distribution network (CDN), replaces any bad game data, and update outdated files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
 
@@ -110,23 +110,25 @@ Your game still freezes? Try the next fix below.
 **2)** Go to**OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Turn off unnecessary programs
 
  Third-party software running in your computer background sometimes can interfere with Warframe, causing issues like game freezing. So you should turn off inessential software during gameplay.
@@ -155,8 +157,6 @@ If your issue persists, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,22 @@ If your issue persists, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ergonomic-hold-techniques-for-clarity/"><u>[New] 2024 Approved Ergonomic Hold Techniques for Clarity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[New] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>[New] The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-canon-mp620-unsupported-in-win11/"><u>[Troubleshooting] Canon MP620 Unsupported in Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-tips-for-recording-fb-messenger-calls/"><u>[Updated] 2024 Approved Essential Tips for Recording FB Messenger Calls</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/black-ops-cold-war-e887a0005-bug-fixed-complete-walkthrough-for-players/"><u>Black Ops Cold War E887A0005 Bug Fixed: Complete Walkthrough for Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-chrome-freezes-and-improve-performance-winning-strategies-for-windows-11-users/"><u>Bypass Chrome Freezes & Improve Performance: Winning Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experience-a-seamless-journey-in-nier-replicant-your-ultimate-guide-to-stop-game-crashes/"><u>Experience a Seamless Journey in NieR: Replicant – Your Ultimate Guide to Stop Game Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-digital-to-dollars-is-fb-planning-to-open-nearby-stores/"><u>From Digital to Dollars: Is FB Planning to Open Nearby Stores?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-groundhog-day-crashing-problems-on-assassins-creed-odyssey-tips-and-tricks-2e14/"><u>How to Fix Groundhog Day Crashing Problems on Assassin's Creed Odyssey - Tips & Tricks 2E14</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-a60s-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel A60s Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-performance-hiccups-in-fallout-76-a-comprehensive-guide/"><u>Overcoming Performance Hiccups in Fallout 76 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-solve-recurring-errors-and-crashes-in-video-games/"><u>Steps to Solve Recurring Errors and Crashes in Video Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-server-disconnection-issues-in-escape-from-tarkov/"><u>Troubleshooting Server Disconnection Issues in Escape From Tarkov</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-back-4-blood-keep-failing-during-play-troubleshooting-tips-for-pc-users/"><u>Why Does 'Back 4 Blood' Keep Failing During Play? Troubleshooting Tips for PC Users</u></a></li>
+</ul></div>
 

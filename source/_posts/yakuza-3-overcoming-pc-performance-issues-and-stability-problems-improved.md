@@ -1,7 +1,7 @@
 ---
 title: Yakuza 3 - Overcoming PC Performance Issues and Stability Problems ([IMPROVED])
-date: 2024-08-13T09:37:13.385Z
-updated: 2024-08-14T09:37:13.385Z
+date: 2024-12-15T22:10:01.776Z
+updated: 2024-12-16T19:02:47.455Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b67a45995.jpg)
 
  If**Overwatch stutters** on your computer, you would be very annoying. But there’s no need to panic; you’re certainly not the only one. We’ve seen many users are reporting this issue. More importantly, you Can fix it with the solutions below. Read on and see how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,14 +45,13 @@ You can update your video driver either manually or automatically.
 
 1. Download and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
- Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
 
  Restart your computer after updating your video driver. Then check if Overwatch runs smoothly.
 
@@ -61,8 +64,9 @@ You can update your video driver either manually or automatically.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Turn off fullscreen optimization
 
  If you enable**fullscreen optimization** on your computer while playing Overwatch, Overwatch may also stutters. You could simply turn off fullscreen optimization to fix your problem.
@@ -78,8 +82,9 @@ Re-run your Overwatch game and see if it runs smoothly.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Turn off Game Mode
 
  There’s a feature called**Game Mode** in Windows 10, with Game Mode on, Windows 10 ensures you play your games with the best possible experiences. But sometimes it could cause problems, including the Overwatch stuttering issue. In this case, make sure Game Mode is turned off if you’re playing Overwatch on Windows 10.
@@ -89,8 +94,9 @@ Here’s how to turn off Game Mode:
 1. On your keyboard, hold down**the Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
 3. Select**Game Mode** in the left, then set**Use Game Mode** to**Off** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bdd00abb4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check to see if Overwatch runs smoothly.
@@ -108,9 +114,6 @@ Here’s how you can turn Game DVR off.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Re-run your Overwatch game and check to see if it runs smoothly.
 
@@ -126,8 +129,6 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,23 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ensuring-visibility-fixing-missing-shorts-thumbnails/"><u>[Updated] 2024 Approved Ensuring Visibility Fixing Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-techniques-for-cost-efficient-youtube-introduction-and-conclusion-creation/"><u>[Updated] 2024 Approved Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-youtube-file-extraction-for-2024/"><u>[Updated] Effortless YouTube File Extraction for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-c12-plus-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from C12 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999974111-cod-modern-warfare-stability-improvements-no-more-game-crashes/"><u>Cod: Modern Warfare Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-c51-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-age-of-empires-iv-download-problems-via-microsoft-store/"><u>How to Fix Age of Empires IV Download Problems via Microsoft Store</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-no-rest-for-the-wicked-from-crashing-your-pc-essential-fixes-and-tweaks/"><u>How to Stop 'No Rest for the Wicked' From Crashing Your PC: Essential Fixes & Tweaks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6s-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6s Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list/"><u>In 2024, Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issue-fixing-the-eac-not-installed-message-during-game-setup/"><u>Resolved Issue: Fixing the 'EAC Not Installed' Message During Game Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/silent-adventure-no-more-fixing-sound-problems-in-lost-ark/"><u>Silent Adventure No More: Fixing Sound Problems in Lost Ark</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-days-gone-launch-issue-for-pc-users-detailed-guide/"><u>Solving the 'Days Gone' Launch Issue for PC Users - Detailed Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issues-troubleshooting-thaumaturge-game-crashes-on-windows/"><u>Solving the Issues: Troubleshooting Thaumaturge Game Crashes on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-stuttering-and-fps-drops-on-red-dead-redemption-2/"><u>Troubleshooting Tips for Stuttering and FPS Drops on Red Dead Redemption 2</u></a></li>
+</ul></div>
 

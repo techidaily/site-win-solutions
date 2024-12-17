@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Discord Live Broadcast Buffering Issues"
-date: 2024-08-13T09:35:14.112Z
-updated: 2024-08-14T09:35:14.112Z
+date: 2024-12-11T16:22:59.291Z
+updated: 2024-12-16T21:16:44.008Z
 tags:
   - win11
   - win10
@@ -32,13 +32,9 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 7. [Launch in safe mode](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1 Restart your network devices
 
  Twitch may not be loading if it loses its connection. Chances are you have a weak internet connection that doesn’t provide enough bandwidth for Twitch to stream properly. So the first thing we should look into is your network devices, which could become overflooded with cache if you have kept them on for too long a while.
@@ -48,10 +44,24 @@ Here’s how to restart it:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Start streaming in Twitch and see if the loading issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 Update your graphics driver
 
@@ -64,18 +74,20 @@ Here’s how to restart it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 Change your DNS settings
 
@@ -98,8 +110,9 @@ To fix this, you can try using Google Public DNS. Here’s how:
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 Clear cache and cookies
 
  Web browsers store cache and cookies to help sites load faster, but sometimes this data gets corrupted or outdated. Clearing the cache and cookies gives your browser a fresh start, deleting any problematic cached/cookie data that may be preventing a page from loading properly.
@@ -109,14 +122,8 @@ Clear cache and cookies in Google Chrome:
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Clear browsing data…**  
 ![clear browsing data](https://images.drivereasy.com/wp-content/uploads/2017/10/clear-browsing-data.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
@@ -127,16 +134,9 @@ Clear cache and cookies in Google Chrome:
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6 Use VPN to change your IP address
 
  You won’t be able to visit Twitch if you are trying to open the website in a country without access to Twitch, as it isn’t readily available in some locations. Fortunately, there is a simple and reliable solution to this problem. Using a**VPN (Virtual Private Network)** will help you “mask” your IP to make it appear as though it’s coming from a country where Twitch is allowed.
@@ -148,16 +148,14 @@ Here’s how to use it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install**NordVPN** .
 2. Run NordVPN, then choose a location you want to connect to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
@@ -165,9 +163,6 @@ Here’s how to use it:
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
@@ -179,8 +174,6 @@ Here’s how to use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +181,24 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-harnessing-iphones-power-for-dynamic-range-shots/"><u>[New] 2024 Approved Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-comprehensive-analysis-top-budget-friendly-video-calling-tools-iphones-and-androids/"><u>[New] In 2024, Comprehensive Analysis Top Budget-Friendly Video Calling Tools - iPhones & Androids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[New] Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-vlc-analysis-and-substitutes-revisited-for-2024/"><u>[New] VLC Analysis & Substitutes Revisited for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-essential-tips-for-monetizing-your-content-finding-the-right-viewer-count-for-2024/"><u>[Updated] 5 Essential Tips for Monetizing Your Content Finding the Right Viewer Count for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-fix-crashing-episodes-while-playing-fallout-4-on-personal-computers/"><u>Effective Solutions to Fix Crashing Episodes While Playing Fallout 4 on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-reducing-latency-issues-for-a-smoother-cyberpunk-2077-gameplay/"><u>Expert Advice on Reducing Latency Issues for a Smoother Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-run-destiny-2-after-fixes-for-initial-pc-launch-glitches/"><u>How to Successfully Run Destiny 2 After Fixes for Initial PC Launch Glitches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-haven-the-ultimate-choice-of-memer-text-tools/"><u>In 2024, Humor Haven The Ultimate Choice of Memer Text Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inspirational-movies-for-momentum-and-self-belief-for-2024/"><u>Inspirational Movies for Momentum and Self-Belief for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-ps4s-video-capture-expert-advice-on-camera-placement/"><u>Mastering Your PS4's Video Capture: Expert Advice on Camera Placement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-gameplay-troubleshooting-lag-in-dragons-dogma/"><u>Optimize Your Gameplay: Troubleshooting Lag in Dragon's Dogma</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-discord-delays-comprehensive-fixes-and-tips/"><u>Overcome Discord Delays : Comprehensive Fixes and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999463495-smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-black-screen-error-in-rainbow-six-siege-for-your-pc-expert-tips/"><u>Troubleshooting the Black Screen Error in Rainbow Six Siege for Your PC – Expert Tips</u></a></li>
+</ul></div>
 
