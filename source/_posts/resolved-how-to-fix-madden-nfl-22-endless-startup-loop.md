@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Madden NFL 22 Endless Startup Loop"
-date: 2024-08-13T09:30:47.541Z
-updated: 2024-08-14T09:30:47.541Z
+date: 2024-12-18T17:36:22.404Z
+updated: 2024-12-25T16:41:21.791Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,11 +45,19 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -82,25 +94,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -114,9 +111,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -135,9 +129,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -155,15 +146,17 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
@@ -188,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +188,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[New] In 2024, Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-masterful-descriptions-for-youtube-success/"><u>[New] Masterful Descriptions for YouTube Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-selection-of-mac-clipping-tools/"><u>[Updated] 2024 Approved The Ultimate Selection of Mac Clipping Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-be-gone-comprehensive-fixes-to-stop-the-cycle-frontier-from-crashing-on-pcs/"><u>Bug Be Gone: Comprehensive Fixes to Stop 'The Cycle: Frontier' From Crashing on PCs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-decluttering-your-hard-drive-expert-tips-from-yl-computings-software-solutions/"><u>Effective Strategies for Decluttering Your Hard Drive: Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-of-tormented-souls-by-solving-persistent-pc-crashes-issues/"><u>Enhance Gameplay of Tormented Souls by Solving Persistent PC Crashes Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tactics-to-stabilize-your-csgo-frames-per-second-and-eliminate-drops/"><u>Expert Tactics to Stabilize Your CS:GO Frames per Second and Eliminate Drops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-the-impressive-ipad-air-challenges-my-loyalty-to-ipad-pro-an-in-depth-review-by-zdnet/"><u>How the Impressive iPad Air Challenges My Loyalty to iPad Pro | An In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-astounding-vlogs-start-here-easy-to-create-projects/"><u>In 2024, Astounding Vlogs Start Here Easy-to-Create Projects</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-disrupt-unbidden-youtube-content-feeds/"><u>In 2024, Disrupt Unbidden YouTube Content Feeds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-in-jurassic-world-evolution-eliminating-game-crash-issues/"><u>Mastering Stability in Jurassic World Evolution - Eliminating Game Crash Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-corsair-icue-compatibility-issues-with-windows-10-and-11/"><u>Overcoming Corsair iCUE Compatibility Issues with Windows 10 and 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-resolving-ghost-recon-breakpoint-crashing-problems/"><u>Quick Fixes: Resolving Ghost Recon Breakpoint Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-solutions-resolving-wwe-2k2e-pc-game-crashes-quickly/"><u>Simple Solutions: Resolving WWE 2K2e PC Game Crashes Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-constant-crash-issue-for-total-war-warhammer-3-on-pc-systems/"><u>Solving the Constant Crash Issue for Total War: Warhammer 3 on PC Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-smartwatches-of-2024/"><u>The Best Smartwatches of 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/top-gratuit-logiciels-de-synchronisation-et-restauration-du-systeme-aomei-backupper/"><u>Top Gratuit Logiciels De Synchronisation Et Restauration Du Système: AOMEI Backupper</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011696414-turbocharge-your-escape-from-tarkov-session-with-these-t-pro-level-fps-enhancements/"><u>Turbocharge Your Escape From Tarkov Session with These T Pro-Level FPS Enhancements.</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
+</ul></div>
 

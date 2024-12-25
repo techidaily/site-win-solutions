@@ -1,7 +1,7 @@
 ---
 title: "End Fortnite Lags: Proven Methods That Work!"
-date: 2024-08-13T09:27:13.658Z
-updated: 2024-08-14T09:27:13.658Z
+date: 2024-12-24T16:34:34.364Z
+updated: 2024-12-25T16:30:08.100Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What you might concern…
 
  Before we go, check if your computer meets the requirements for running Fallout 4:
@@ -61,9 +58,6 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 1: Stop your background running programs
 
  Fallout 4 requires Internet access when running. While playing Fallout 4, if you have any other **programs running in background and they’re eating up Internet usage or taking up a lot of your system space** , Fallout 4 may stutter. So check to stop any other unnecessary background programs while you’re playing Fallout 4\. Then check if Fallout 4 runs smoothly.
@@ -71,8 +65,9 @@ Hard disk space: 30 GB free HDD space
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -93,17 +88,11 @@ You can update your video driver either manually or automatically.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -116,19 +105,28 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
 2. On the launcher menu, click**Options** .
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
@@ -151,6 +149,10 @@ Here’s how you can do it:
 Run Fallout 4 to see if it goes smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust the frame rate
 
@@ -198,8 +200,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +207,24 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>[New] Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-desktop-pcs-the-best-of-the-best/"><u>[New] Exquisite Desktop PCs The Best of the Best</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-acquisition-of-stock-video-backgrounds/"><u>[Updated] Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-6-networks-fostering-profitable-partnerships/"><u>2024 Approved Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-guide-shutting-down-igtv/"><u>2024 Approved Guide Shutting Down IGTV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722959807358-choosing-your-device-a-comprehensive-guide-to-ipad-pro-vs-macbook-pro/"><u>Choosing Your Device: A Comprehensive Guide to IPad Pro Vs. MacBook Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-fixes-for-steamvr-error-code-308-a-step-by-step-walkthrough/"><u>DIY Fixes for SteamVR Error Code 308: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solutions-for-fast-tracking-league-of-legends-stability-issues/"><u>Effortless Solutions for Fast-Tracking League of Legends Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-fixed-the-cannot-start-battlefield-4-on-my-computer-error-permanently/"><u>How I Fixed the 'Cannot Start Battlefield 4 on My Computer' Error Permanently</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-fixed-connection-error-reconnect-loop-solution/"><u>League of Legends Fixed Connection Error - Reconnect Loop Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/red-dead-redemption-effective-solutions-to-fix-frame-drops-and-improve-gaming-speed/"><u>Red Dead Redemption ²: Effective Solutions to Fix Frame Drops & Improve Gaming Speed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/seamless-blending-of-voice-and-text-in-powerpoint-decks-for-2024/"><u>Seamless Blending of Voice and Text in PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-valorant-continuously-stops-working-on-pc/"><u>Troubleshooting Steps When Valorant Continuously Stops Working on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-when-deathloop-continuously-crashes-on-pc-and-ps5/"><u>Troubleshooting Steps: Resolving Issues When Deathloop Continuously Crashes on PC and PS5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unveiling-techniques-for-repairing-severe-malfunctions-in-ark-survival-game-servers/"><u>Unveiling Techniques for Repairing Severe Malfunctions in Ark Survival Game Servers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Armored Core VI Game Failure to Load Correctly
-date: 2024-08-13T09:33:30.871Z
-updated: 2024-08-14T09:33:30.871Z
+date: 2024-12-23T17:29:56.848Z
+updated: 2024-12-25T17:03:34.735Z
 tags:
   - win11
   - win10
@@ -30,29 +30,28 @@ Follow the questions below to troubleshoot the issue step by step:
 2. **[Does your Windows computer connect to the Internet successfully?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Does the source you want to add run properly?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
 
  So when Kodi tells you the Unable to connect error, firstly **check the URL you’ve type or paste, make sure it’s exactly typed correctly.** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi2.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1
 
  You can run the**Windows Network Diagnostics** utility on your computer to detect any network issue. It’s easily and quickly, see how:
@@ -68,13 +67,9 @@ Then add the source again.
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -88,8 +83,9 @@ Then add the source again.
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -99,10 +95,11 @@ Follow to check the status the source you want to add:
 1. Enter the source in your browser and press**Enter** .
 2. If the source runs properly, you would see a page**containing a zip file** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
 
@@ -118,8 +115,6 @@ Follow to check the status the source you want to add:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +122,22 @@ Follow to check the status the source you want to add:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[Updated] 2024 Approved Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-video-aesthetics-to-meet-instagram-standards/"><u>[Updated] 2024 Approved Elevate Video Aesthetics to Meet Instagram Standards</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[Updated] 2024 Approved The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>[Updated] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-12-mini-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 12 mini for Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avi-to-wmv-movavi-online-tool/"><u>無料変換ソフト AVI to WMV - MOVAVI ONLINE TOOL</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertire-file-aiff-a-formato-mp4-liberamente-online-movavi/"><u>Convertire File Aiff a Formato Mp4 Liberamente Online - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-conversion-how-to-change-mp4-files-to-m4v-format-with-online-tools/"><u>Free Conversion: How to Change MP4 Files to M4V Format with Online Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/implied-consent-delegation/"><u>Implied Consent Delegation.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mov-in-3gp-convertito-online-gratuitamente-tramite-movavi-guida-dettagliata/"><u>MOV in 3Gp Convertito Online Gratuitamente Tramite Movavi - Guida Dettagliata</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-steps-to-translate-video-on-twitter/"><u>New In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-lgbtq-content-to-binge-on-netflix-for-july-2024/"><u>The Ultimate List of LGBTQ Content to Binge on Netflix for July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-free-hdd-and-ssd-checkers-updates-for-july-202n4/"><u>Ultimate List of Free HDD & SSD Checkers: Updates for July 202N4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-user-agreement-rules-and-regulations-for-the-movavicom-site/"><u>Understanding the User Agreement: Rules & Regulations for the MOVAVI.COM Site</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-jpeg-0-krw-ppm-movavi/"><u>Web용 JPEG 편집: 비용 0 KRW, 무료 전원 PPM 변환기 - Movavi</u></a></li>
+</ul></div>
 

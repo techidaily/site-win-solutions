@@ -1,7 +1,7 @@
 ---
 title: "How to Tackle and Correct DirectX Error in Call of Duty: Modern Warfare II"
-date: 2024-08-13T09:26:55.919Z
-updated: 2024-08-14T09:26:55.919Z
+date: 2024-12-19T18:37:37.267Z
+updated: 2024-12-25T18:25:33.285Z
 tags:
   - win11
   - win10
@@ -30,9 +30,9 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 5. **[Uninstall the latest Windows update](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your DS4 Windows
 
  Run the update tool called**DS4Updater** in your DS4 Windows installation folder to check for new updates. This update tool is the first thing you can check if you run into any DS4 Windows connection issues.
@@ -41,9 +41,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If not, eg. saying it’s already up to date, you may have installed the old DS4 Windows. You should uninstall the current DS4 Windows and proceed to the next fix to download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall your DS4 Windows
 
  To get the latest version, you can go to[**DS4 Windows New Releases**](https://ryochan7.github.io/ds4windows-site/) and download the app according to your operating system.
@@ -52,15 +49,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) Launch**DS4Windows.exe**  in the extracted folder.  
 ![ds4 windows not installing driver](https://images.drivereasy.com/wp-content/uploads/2020/01/ds4-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) You may be prompted to install the **[.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)**  if you haven’t installed it.  
 ![install the net](https://images.drivereasy.com/wp-content/uploads/2020/01/proceed.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  4) Under “**Run desktop apps** “, select**Download X64** .  
 ![desktop](https://images.drivereasy.com/wp-content/uploads/2020/01/desktop-app.jpg)
@@ -70,20 +61,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  6) Follow the steps described in the**Welcome to DS4Windows** to install the driver and finish the setup.  
 ![install windows ds4 driver](https://images.drivereasy.com/wp-content/uploads/2020/01/install-driver.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Follow the on-screen instructions to finish installing.  
 ![complete](https://images.drivereasy.com/wp-content/uploads/2020/01/complete.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) You can install optional drivers if you want other cool features. Once complete, you can click**Finished** .  
 ![finish ds4 windows driver installation](https://images.drivereasy.com/wp-content/uploads/2020/01/finished.jpg)
@@ -91,8 +75,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  9) Go to the**Settings** tab and select**Hide DS4 Controller** .  
  This will prevent your system from recognizing two controllers and causing connection issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Hide-DS4-Controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You need to reconnect your DS4 controller device. If nothing changes — DS4 Windows driver not installing or DS4 Windows not detecting controller, you should move on to the next fix.
@@ -100,9 +85,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **Note:** The DS4 Windows from<http://ds4windows.com/> has not been updated for a long time. It is the one on **[DS4 Windows New Releases](https://github.com/Ryochan7/DS4Windows/releases)**  that keeps updating from time to time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Re-enable your controller
 
  DS4 Windows will fail to detect your PS4 if your controller is disabled. To check if this is the culprit, you can go to Device Manager.
@@ -110,9 +95,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**devmgmt.msc** and hit Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  2) Expand**Human Interface Devices** and right-click**HID-compliant game controller** , then select**Enable** **device** . (For Bluetooth users, it’s**Bluetooth-HID-device** . )
 
@@ -132,6 +114,10 @@ If it’s already enabled, you can disable and enable it again.
 
  If re-enabling the controller fails, you can go back to the Device Manager to uninstall the**HID-compliant game controller** . Then close your DS4 Windows and disconnect your controller and connect it again. Afterward, open DS4 Windows, and you will see your controller here again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Uninstall the game controller driver
 
  Still can’t fix your DS4 Windows not detecting your controller problem? It might be other device drivers that are causing your DS4 Windows not to work. You can follow these steps to test the issue:
@@ -143,10 +129,6 @@ If it’s already enabled, you can disable and enable it again.
  2) Go to**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/devices.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  3) You will find your PS4 controller here. Right-click your controller, and select**Properties** .
 
@@ -156,15 +138,20 @@ If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/hid-game.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go to the**Driver** tab, and select**Uninstall Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Once the driver is uninstalled, unplug your controller, and then restart your PC. Reconnect your Controller using DS4 Windows to see if it pops up in the**Controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Uninstall the latest Windows Update
 
  If this problem occurred just after a Windows Update, then the new update may be the one to blame.
@@ -178,6 +165,10 @@ If it’s already enabled, you can disable and enable it again.
  3) Right-click the problematic update and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unistall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the uninstall.
 
@@ -197,14 +188,15 @@ If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card driver to automatically download the correct version of that driver, and then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click_Update All._ )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -222,8 +214,6 @@ If it’s already enabled, you can disable and enable it again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +221,22 @@ If it’s already enabled, you can disable and enable it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitta-to-trackable-audio-transitions/"><u>[New] 2024 Approved Twitta to Trackable Audio Transitions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-silent-illumination-issue-asus/"><u>[RESOLVED] Silent Illumination Issue - Asus</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-crafting-excellence-essential-tips-for-ginger-island-life-for-2024/"><u>[Updated] Crafting Excellence Essential Tips for Ginger Island Life for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-leverage-vimeo-for-wider-viewership/"><u>[Updated] In 2024, Leverage Vimeo for Wider Viewership</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-virtual-experiences-a-report/"><u>[Updated] Pioneering Virtual Experiences A Report</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-challenger-arises-meet-the-g7x-mark-ii/"><u>Compact Challenger Arises – Meet the G7X Mark II</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decoding-the-delay-a-deep-dive-into-guilty-gear-strike-release-issues/"><u>Decoding The Delay: A Deep Dive Into 'Guilty Gear Strike' Release Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ensuring-a-smooth-start-tips-to-fix-assassins-creed-mirage-not-launching/"><u>Ensuring a Smooth Start: Tips to Fix Assassin's Creed Mirage Not Launching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/helldivers-2-starts-with-no-display-issue-and-how-to-solve-it/"><u>Helldivers 2 Starts with No Display Issue & How to Solve It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/jbl-charge-5-performance-check-still-a-top-contender-after-3-years/"><u>JBL Charge 5 Performance Check - Still a Top Contender After 3 Years?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/latest-techniques-for-troubleshooting-and-preventing-arma-3-from-crashing/"><u>Latest Techniques for Troubleshooting and Preventing ArmA 3 From Crashing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-a-creative-vision-start-xps-moviemaker-suite/"><u>Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-advanced-strategies-to-prevent-among-us-from-freezing-and-crashing-updated/"><u>Mastering Stability: Advanced Strategies to Prevent Among Us From Freezing & Crashing (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/origin-online-login-is-currently-unavailable-fixed/"><u>Origin Online Login Is Currently Unavailable [FIXED]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/what-went-wrong-debunking-the-assassins-creed-valhalla-delay-rumors/"><u>What Went Wrong? Debunking the Assassin's Creed Valhalla Delay Rumors</u></a></li>
+</ul></div>
 

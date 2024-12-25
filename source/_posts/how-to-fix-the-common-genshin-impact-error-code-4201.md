@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Common Genshin Impact Error Code 4201
-date: 2024-08-13T09:32:55.262Z
-updated: 2024-08-14T09:32:55.262Z
+date: 2024-12-21T18:28:52.534Z
+updated: 2024-12-25T16:45:52.484Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 
  Many PC players have reported getting**Error 4201 on Genshin Impact** , which prevents them from even logging into the game. The error message may state “**Failed to connect, please check your network settings** ” or “**Failed to connect to the server** .” If you’re on the same boat, no worries! We’ve got some working fixes that you can try, just read on and find out what they are.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -39,10 +35,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  As mentioned in the introduction, Error 4201 on Genshin impact sometimes can be a server issue. When the server is down, there’s nothing much to do on the player-side. This article will only focus on the possible fixes that players can do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection
 
  Error 4201 is a connection issue, so the first thing you should check is to make sure your Internet is working fine. Here’s a few things that you can do to check your Internet connection:
@@ -54,6 +46,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -61,18 +57,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Open your Genshin Impact installed path, then go to**Genshin ImpactGenshin Impact Game** .
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Fix 3: Check your VPN
 
  VPN seems to be a cause of Error 4201 on Genshin Impact, but it could also be a fix to this issue. No matter if you use VPN for Genshin Impact or not, you can refer to this fix to solve your problem.
@@ -94,24 +88,31 @@ The ultimate burning program for all your needs!</a>
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your network adapter driver
 
  If you’ve tried the fixes above but nothing worked, you may try to update your network adapter driver. Making sure your network adapter driver is working properly could help solve Error 4201 on Genshin Impact.
@@ -125,9 +126,6 @@ The ultimate burning program for all your needs!</a>
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -153,8 +151,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +158,24 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-audio-recording-top-mics-for-4k-video-for-2024/"><u>[New] Mastering Audio Recording - Top Mics for 4K Video for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-online-gaming-earnings-in-the-future/"><u>[Updated] In 2024, Online Gaming Earnings in the Future</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/catchy-cadences-in-creative-snaps-and-videos/"><u>Catchy Cadences in Creative Snaps and Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-instantanea-de-materiais-multimidia-converter-mkv-em-mp3-online-sem-custo/"><u>Conversão Instantânea De Materiais Multimídia: Converter MKV Em MP3 Online Sem Custo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-excessive-cpu-activity-by-dropbox-tips-for-windows-users/"><u>Curbing Excessive CPU Activity by Dropbox: Tips for Windows Users</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/editing-excel-spreadsheets-on-a-windows-pc-a-comprehensive-guide-yl-computing-solutions/"><u>Editing Excel Spreadsheets on a Windows PC: A Comprehensive Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-conversione-flv-ad-3gp-con-movavi-strategie-seo-per-il-massimo-riconoscimento-su-google/"><u>Gratuito Conversione FLV Ad 3GP Con Movavi - Strategie SEO per Il Massimo Riconoscimento Su Google</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-zero-5g-2023-turbo-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Zero 5G 2023 Turbo to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/les-meilleurs-convertisseurs-videos-gratuites-vers-mp4-pour-2024-top-liste/"><u>Les Meilleurs Convertisseurs Vidéos Gratuites Vers MP4 Pour 2024 : Top Liste</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-youtube-content-creation-essential-tips-and-tools-for-seamless-video-editing/"><u>Mastering YouTube Content Creation: Essential Tips and Tools for Seamless Video Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-interactive-learning-portal-enhance-education-with-innovative-digital-tools/"><u>Movavi Interactive Learning Portal: Enhance Education with Innovative Digital Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compressor-in-fcpx-a-beginners-guide-to-efficient-video-encoding/"><u>New 2024 Approved Compressor in FCPX A Beginners Guide to Efficient Video Encoding</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pitch-turn-off-series-s-shakes/"><u>Perfect Pitch: Turn Off Series S Shakes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-essential-software-platforms-for-creating-effective-elearning-courses/"><u>Top 5 Essential Software Platforms for Creating Effective eLearning Courses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-selection-of-applications-for-magnifying-your-digital-images-perfectly/"><u>Ultimate Selection of Applications for Magnifying Your Digital Images Perfectly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-tips-how-to-perform-a-fresh-start-on-samsung-audio-systems/"><u>Ultimate Troubleshooting Tips: How to Perform a Fresh Start on Samsung Audio Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226919507-online-aiff-mp3-movavi/"><u>모바일 지원, 최신 기술을 사용한 Online AIFF MP3 택시 변환 - Movavi의 강력한 도구</u></a></li>
+</ul></div>
 
