@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Counter-Strike 2 PC Crashes with These Proven Strategies
-date: 2024-08-18T13:48:09.305Z
-updated: 2024-08-19T13:48:09.305Z
+date: 2024-12-29T22:46:01.195Z
+updated: 2025-01-04T02:13:39.992Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 If you’re presented with the**Graphics Driver Crashed** error on Valorant and wonder how to fix it quickly, you’re in the right spot. No matter what graphics card (NVIDIA/AMD/Intel) you’re using, we’ve put together every possible fix for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -33,6 +34,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 7. **[Close all background apps](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -64,6 +69,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Roll back the graphics driver
 
  If the error**Graphics driver crashed** happens and your Volorant keeps crashing after a graphics driver update, you should roll back to its previous version.
@@ -77,9 +86,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -95,36 +101,27 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
 
 To fix this, you can try resetting the software to default:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Play Valorant in windowed mode
 
  If the**Valorant graphics driver crashed** error persists or the game keeps crashing after you have tried the two methods above, the culprit might be on their end. But still, you can reduce the crashes by playing the game in windowed mode:
@@ -133,16 +130,10 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Close all background apps
 
  Another possible cause of the error is application interference. You can press**Ctrl** +**Shift** +**Esc** to open Task Manager and close all unnecessary applications.
@@ -171,6 +162,10 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -180,6 +175,10 @@ To fix this, you can try resetting the software to default:
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click Riot Vanguard and select**Uninstall** .
 
@@ -199,8 +198,6 @@ To fix this, you can try resetting the software to default:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +205,26 @@ To fix this, you can try resetting the software to default:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-cutting-edge-online-resources-for-glittering-3d-typography/"><u>[New] In 2024, Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streamlining-ad-revenue-for-youtube-channels-post-monetization/"><u>[New] In 2024, Streamlining Ad Revenue for YouTube Channels Post-Monetization</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design/"><u>[New] In 2024, The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features-for-2024/"><u>[Updated] Swiftly Adjust Video Speeds A User's Guide to YouTube Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-conquering-consumer-attention-metaverse-marketing-tips/"><u>2024 Approved Conquering Consumer Attention Metaverse Marketing Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cutting-edge-film-making-start-here/"><u>Cutting-Edge Film Making, Start Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-bless-unleashed-adventure-tips-to-combat-lag-and-decrease-pc-ping-times/"><u>Enhance Your Bless Unleashed Adventure: Tips to Combat Lag and Decrease PC Ping Times</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-fixing-recurring-disruptions-in-ghostwire-tokyo-for-pc-users/"><u>Expert Guide to Fixing Recurring Disruptions in Ghostwire: Tokyo for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-on-solving-apex-legends-runtime-issues-and-optimizing-performance/"><u>Expert Tips on Solving Apex Legends Runtime Issues and Optimizing Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-7-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 7 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-game-solve-terraria-connection-problems-with-these-proven-steps/"><u>Master the Game: Solve Terraria Connection Problems with These Proven Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-frame-retrieval-techniques-for-any-graphics-card/"><u>Next-Gen Frame Retrieval Techniques for Any Graphics Card</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-high-cpu-demands-in-cyberpunk-2077/"><u>Resolved: Overcoming High CPU Demands in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986342797-solving-sony-vegas-stability-issues-no-more-unwanted-shutdowns/"><u>Solving Sony Vegas Stability Issues - No More Unwanted Shutdowns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-non-responsive-windows-spotlight-in-windows-11/"><u>Troubleshooting Guide: Fixing Non-Responsive Windows Spotlight in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-freezing-issues-in-code-vein/"><u>Troubleshooting Tips: Resolving Freezing Issues in Code Vein</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-frequent-outriders-crashes-effortlessly/"><u>Troubleshooting Tips: Resolving Frequent Outriders Crashes Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-revolutionary-3d-printed-holographics-for-high-capacity-encoding-of-keys-and-addresses-up-to-57n-bits/"><u>Unlock the Potential: Revolutionary 3D-Printed Holographics for High Capacity Encoding of Keys and Addresses (Up to 57N Bits)</u></a></li>
+</ul></div>
 

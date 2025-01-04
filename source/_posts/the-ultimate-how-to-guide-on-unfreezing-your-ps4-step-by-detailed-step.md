@@ -1,7 +1,7 @@
 ---
 title: The Ultimate How-To Guide on Unfreezing Your PS4 - Step by Detailed Step
-date: 2024-08-13T09:22:36.965Z
-updated: 2024-08-14T09:22:36.965Z
+date: 2024-12-28T19:14:32.695Z
+updated: 2025-01-03T22:55:10.195Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 
 ## The Ultimate Guide to Unfreeze Fallout 4 and Enjoy Seamless Gaming Experience
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-1024x576.jpg)
 
  Launched on 10 November 2015, Fallout 4 is now with a history of around 4 years. Still, some players are suffering from freezing issues that almost ruin their gaming experience in Fallout 4\. If you happen to be one of those victims, don’t worry – this post provides 5 fixes for you to solve the problem.
@@ -43,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 | HDD space        | 30 GB                                                        |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 fixes for Fallout 4 freezing issue
 
  There are**6** easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game cache
 
@@ -80,17 +82,15 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
  You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
 
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
 3. Run your game to see if this works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.
@@ -103,15 +103,13 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change your game mode and correct the resolutions by modifying your game file
 
@@ -130,6 +128,10 @@ Here’s how you can do it:
 **iSize W=1920**
 3. Save the file and exit Notepad.
 4. Run Fallout 4 to see if it goes smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Adjust the frame rate
 
@@ -155,8 +157,6 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,18 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>[New] The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-youtubes-secrets-transcribe-for-free-and-efficiently/"><u>[New] Unlock YouTube's Secrets Transcribe for Free and Efficiently</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevating-your-contents-presence-perfecting-youtube-thumbnails-size/"><u>2024 Approved Elevating Your Content's Presence Perfecting YouTube Thumbnails Size</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>2024 Approved Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-excel-resizing-with-keys-learn-to-modify-row-heights-and-column-widths-quickly/"><u>Effortless Excel Resizing with Keys: Learn to Modify Row Heights & Column Widths Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/embracing-python-in-microsoft-excel-opportunities-and-considerations-for-users/"><u>Embracing Python in Microsoft Excel: Opportunities and Considerations for Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-online-excel-webworkers-strategies-for-streamlining-spreadsheet-efficiency/"><u>Enhancing Online Excel Webworkers: Strategies for Streamlining Spreadsheet Efficiency</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-essentials-unveiled-harnessing-the-power-of-countif-for-data-analysis-techniques/"><u>Excel Essentials Unveiled: Harnessing the Power of Countif for Data Analysis Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-range-calculation-secrets-learn-how-to-easily-identify-cell-ranges/"><u>Excel Range Calculation Secrets - Learn How To Easily Identify Cell Ranges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/key-5-photo-editing-tools-iphone-x78-background-swap/"><u>Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/short-cuts-big-impact-top-editors-for-youtube-short-videos-on-mobile-for-2024/"><u>Short Cuts, Big Impact Top Editors for YouTube Short Videos on Mobile for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Smooth Gameplay in Sea of Thieves by Eliminating Hang-Ups
-date: 2024-08-13T09:24:19.621Z
-updated: 2024-08-14T09:24:19.621Z
+date: 2024-12-31T23:56:28.425Z
+updated: 2025-01-03T16:46:37.215Z
 tags:
   - win11
   - win10
@@ -35,14 +35,6 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 
  Before we dive into anything advanced, try restarting the game and your PC to see if it was just a glitch.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Verify game files integrity
 
  Incomplete or damaged local game files can trigger the fatal error and cause the game to crash. To verify and fix this issue, you can do it via the Steam client. Here’s how:
@@ -50,18 +42,22 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 1. Open your Steam library and find Tales of Arise. Right-click the game and click**Properties.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. In the**Local files** tab, click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-2.jpg)
 3. Steam will scan the game files in your local game folder and compare them with those on the server. If anything seems wrong, Steam will fix it for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once the scan is done, restart the game.
 
  If you’ve verified your game files but still get the UE4 fatal error crash, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Install the latest Windows updates
 
  Keeping your system up-to-date may solve, or at least help prevent some compatibility issues that can trigger the fatal error. Here’s how to install the latest Windows updates:
@@ -72,16 +68,14 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available updates. If there aren’t any, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If installing the Windows updates doesn’t solve your problem, try the next fix.
 
@@ -92,6 +86,10 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
  If you don’t get the fatal error message anymore, then your antivirus might be the problem. You can either add Tales of Arise and Steam to the whitelist of your antivirus or consult the antivirus supplier company for help. If you decide to completely get rid of your antivirus, be cautious and avoid downloading files from the internet for safety concerns.
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your graphics driver
 
@@ -107,11 +105,12 @@ If this doesn’t solve your problem, try the next fix.
 **Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card and your Windows version, then it will download and install it correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -121,9 +120,6 @@ If this doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall Microsoft Visual C++ Redistributable
 
  Some players were able to solve the problem by reinstalling the Microsoft Visual C++ Redistributable files on their PC. These files are essential for games and if they are corrupt, it may interfere with UE4 and cause a fatal error crash. Here’s how to reinstall it:
@@ -158,8 +154,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +161,24 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-showcase-excellence-with-these-essential-thumbnail-fonts/"><u>[New] 2024 Approved Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[New] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-utilizing-b-roll-in-video-production-effectively/"><u>[New] Utilizing B-Roll in Video Production Effectively</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-learn-youtube-live-streaming-with-easy-obs-guide/"><u>[Updated] 2024 Approved Learn YouTube Live Streaming with Easy OBS Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-experience-fixing-metro-exodus-pc-instability-problems/"><u>Enhance Your Gaming Experience: Fixing Metro Exodus PC Instability Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-gaming-experience-by-resolving-satisfactory-fps-decrease/"><u>Enhancing Gaming Experience by Resolving Satisfactory FPS Decrease</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-pc-crashes-in-psychonauts-2-a-step-by-step-guide/"><u>Fixing the PC Crashes in Psychonauts 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/having-trouble-with-cyberpunk-2077-downloads-heres-how-to-fix-it-on-steam/"><u>Having Trouble With Cyberpunk 2077 Downloads? Here's How to Fix It on Steam</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50iplus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50i+</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-frame-rate-and-eliminate-stutters-a-guide-to-enhancing-performance-in-the-ascent/"><u>Improve Frame Rate & Eliminate Stutters: A Guide to Enhancing Performance in 'The Ascent'</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/infusing-dandd-realms-with-ai-powered-character-blueprints/"><u>Infusing D&D Realms with AI-Powered Character Blueprints</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issue-smooth-gameplay-on-naraka-swordbreaker-after-patch-update/"><u>Resolved Issue: Smooth Gameplay on Naraka: Swordbreaker After Patch Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pc-malfunctions-in-euro-truck-simulator-2-for-a-smooth-gaming-experience/"><u>Solving PC Malfunctions in Euro Truck Simulator 2 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001475674-troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-update-to-windows-10-1607-understanding-install-issues/"><u>Why Can't I Update to Windows 10 1607? Understanding Install Issues</u></a></li>
+</ul></div>
 

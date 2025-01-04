@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: Vanguard Performance Boost - Eliminating Game Lag & Freezing"
-date: 2024-08-13T09:23:25.741Z
-updated: 2024-08-14T09:23:25.741Z
+date: 2024-12-31T02:54:02.616Z
+updated: 2025-01-03T19:56:36.472Z
 tags:
   - win11
   - win10
@@ -41,15 +41,18 @@ A screenshot of The King of Fighters XV from Steam
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **THE KING OF FIGHTERS XV** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you’re playing KOF XV on Epic games Launcher** , follow the instructions below:
 
@@ -64,8 +67,9 @@ A screenshot of The King of Fighters XV from Steam
 If the game still crashes after you verified the game files, try the next
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping) and even screen flickering issues.
@@ -77,9 +81,9 @@ If the game still crashes after you verified the game files, try the next
 There’re mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -95,6 +99,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -125,9 +133,6 @@ Run KOF XV and check if it crashes or not.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
 [SNK CORPORATION](https://store.steampowered.com/search/?developer=SNK%20CORPORATION&snr=1%5F5%5F9%5F%5F2000) , the game developer, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -150,9 +155,6 @@ Run KOF XV and check if it crashes or not.
 
 If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking
 
  Many PC gamers would like to overclock the CPU or turbo boost the graphics card in order to gain a better FPS. However, it often crashes the game.
@@ -164,12 +166,9 @@ If this fix didn’t work for you, try the next fix, below.
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Repair Epic Games Launcher
 
  _This fix is for players on Epic Games Launcher. If you play the game on Steam, just skip to[the next fix](https://tools.techidaily.com/drivereasy/download/) ._
@@ -181,6 +180,10 @@ No advertising on the website.
 2. **Right-click** on**Epic Games Launcher** and select**Repair** .  
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After Windows repaired Epic Games Launcher, launch KOF XV to see if it will crash. If it still crashes, try the next fix, below.
 
 ## Fix 7: Perform a clean boot
@@ -190,29 +193,19 @@ No advertising on the website.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch KOF XV to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -243,8 +236,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +243,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-video-enhancement-incorporating-youtube-into-slides/"><u>[New] 2024 Approved Video Enhancement Incorporating YouTube Into Slides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hoosing-the-right-lights-and-cameras-for-youtube-videos-for-2024/"><u>[New] Choosing the Right Lights & Cameras for YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-go-live-on-youtube-with-minimum-follower-criteria-met-for-2024/"><u>[Updated] Go Live on Youtube with Minimum Follower Criteria Met for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>2024 Approved Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reacting-to-self-viewer-errors-on-popular-social-networks/"><u>2024 Approved Reacting to Self-Viewer Errors on Popular Social Networks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-creative-potential-free-voice-effects-at-hand/"><u>2024 Approved Unleash Your Creative Potential Free Voice Effects at Hand</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-g24-power-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/among-us-load-errors-heres-what-you-need-to-know-and-fix-that-persistent-screenshot/"><u>Among Us Load Errors? Here's What You Need to Know and Fix That Persistent Screenshot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-fixes-to-launch-seamlessly-into-sea-of-thieves-without-load-screen-hiccups/"><u>Easy Fixes to Launch Seamlessly Into Sea of Thieves Without Load Screen Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-arise-experience-strategies-for-dealing-with-game-malfunctions/"><u>Enhanced Arise Experience: Strategies for Dealing with Game Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/facing-issues-during-ffxiv-latest-update-confirmation-process/"><u>Facing Issues During FFXIV Latest Update Confirmation Process</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/forza-horizon-pc-performance-tweaks-eliminating-game-crashes-and-lag/"><u>Forza Horizon ➡️ PC Performance Tweaks: Eliminating Game Crashes and Lag</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>In 2024, Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mw3-overcoming-the-challenging-warzone-bug-6067-before-2024-arrives/"><u>MW3: Overcoming the Challenging Warzone Bug 6067 Before 2024 Arrives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-oculus-glitches-by-resolving-graphics-card-driver-problems/"><u>Overcoming Oculus Glitches by Resolving Graphics Card Driver Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-finding-and-replacing-the-lost-mfc42dll-file/"><u>Step-by-Step Solutions for Finding and Replacing the Lost mfc42.dll File</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-missing-dll-correct-the-msvcr110dll-issue-in-helldivers-2/"><u>Trouble with Missing DLL? Correct the MSVCR110.dll Issue in Helldivers 2</u></a></li>
+</ul></div>
 

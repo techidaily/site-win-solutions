@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for World of Warcraft Crashes - No More Gaming Interruptions!
-date: 2024-08-13T09:21:36.839Z
-updated: 2024-08-14T09:21:36.839Z
+date: 2024-12-29T00:54:01.528Z
+updated: 2025-01-03T20:39:37.232Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 ## God of War Gameplay Interruptions Solved? No More PC Crashes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-featured.jpg)
 
  The PC port of God of War is finally here, which means you no longer need an expensive console to play Kratos. While the game seems to be optimized for PC, many gamers are still dealing with**constant crashes** , and some have to go through the same chapter over and over again.
@@ -45,23 +42,19 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 Here’s how to verify game files on Steam:
 
 1. Open your Steam client and go to**LIBRARY** . Right click**God of War** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** … and wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-2.jpg)
 
 Once done, start God of War and check if the game crashes again.
 
 If this doesn’t give you luck, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 2:**Disable in-game overlays**
 
  In-game overlay is a feature that allows you to read stats and record achievements during gameplay. But according to some gamers it sometimes brings performance issues. So if you’re constantly crashing with God of War, make sure to disable in-game overlays by**Steam** ,**Discord** or**NVIDIA GeForce Experience** .
@@ -71,6 +64,10 @@ If you don’t know how, use these steps to disable Steam Overlay:
  After disabling all the overlays, restart your game and test the gameplay.
 
 If this doesn’t fix the issue, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Update your graphics driver**
 
@@ -84,6 +81,11 @@ If this doesn’t fix the issue, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -102,6 +104,11 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the updates, restart your system and check if the problem persists.
@@ -117,50 +124,45 @@ Here’s how to increase the virtual memory of Windows:
 1. On your keyboard, press the**Windows logo key** and type**advanced system settings** . Click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the**Performance** section, click**Settings…** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the**Advanced** tab. Under the**Virtual memory** section, click**Change…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select**Customize size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter**Initial size** and**Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the**Initial size** for me here is**8 x 1024 x 1.5 = 12288 MB** , and the**Maximum size** should be**8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click**Set** , then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can check if you can make it through the crash location.
 
 If God of War crashes at the same spot, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 6: Change in-game display settings
 
  Though optimized, God of War still shows glitches at specific scenes. Some gamers found that the glitch disappeared after adjusting some graphics settings. You can do the same and see if that works for you.
 
 1. Launch God of War and open**SETTINGS** . Select**Display** .
 2. Set VSync to**Off** . If you’re on an AMD GPU, set**FidelityFX Super Resolution** to**Balanced** or**Performance** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-1.jpg)
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
 
  If these tunings don’t seem to help, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Check if your system is corrupted
 
  If none of the fixes can help you, you might be dealing with a**system issue** that’s more serious. You can take your chances and wait for more official patches, or you can use a system repair tool to find out what went wrong exactly.
@@ -169,11 +171,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -188,8 +192,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +199,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-nba-livestream-a-list-of-15-essentials/"><u>[New] 2024 Approved Mastering NBA Livestream A List of 15 Essentials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>[Updated] 2024 Approved Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-and-science-of-compelling-headlines/"><u>[Updated] The Art & Science of Compelling Headlines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>2024 Approved Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-melodies-turn-any-tiktok-sound-into-phone-alerts-for-2024/"><u>Crafting Melodies Turn Any TikTok Sound Into Phone Alerts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dive-into-an-epic-exploration-of-pandora-play-the-latest-avatar-adventure-game-now-on-pc/"><u>Dive Into an Epic Exploration of Pandora - Play the Latest Avatar Adventure Game Now On PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-solutions-for-the-common-palworld-eos-login-error-learn-from-these-6-techniques/"><u>Essential Solutions for the Common PalWorld EOS Login Error – Learn From These ☣️ 6 Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exploring-apeaksofts-innovations-in-screen-recording/"><u>Exploring Apeaksoft’s Innovations in Screen Recording</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-launch-errors-addressed-tips-and-tricks-for-a-successful-game-start-on-your-pc/"><u>Outriders Launch Errors Addressed - Tips and Tricks for a Successful Game Start on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-semaphore-expired-error-on-windows-1011/"><u>Overcoming 'Semaphore Expired Error' On Windows 10/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-successfully-launch-and-enjoy-wrc-10-for-pc-without-any-hitches/"><u>Solution Found! Successfully Launch and Enjoy WRC 10 for PC without Any Hitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-strategies-for-lenovo-laptop-speakers-that-wont-play-sounds/"><u>Solution Strategies for Lenovo Laptop Speakers that Won't Play Sounds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-creme-de-la-creme-elite-karaoke-machines-to-rule-your-parties/"><u>The Crème De La Crème: Elite Karaoke Machines to Rule Your Parties !</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-issues-with-persona-3-fes-not-starting/"><u>Troubleshooting Tips: Resolving Issues with Persona 3 FES Not Starting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winwordexe-application-snags-here-are-five-straightforward-fixes/"><u>WINWORD.EXE Application Snags? Here Are Five Straightforward Fixes</u></a></li>
+</ul></div>
 

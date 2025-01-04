@@ -1,7 +1,7 @@
 ---
 title: Optimize Performance for God of War by Lowering CPU Usage - A Comprehensive Guide
-date: 2024-08-13T09:22:12.568Z
-updated: 2024-08-14T09:22:12.568Z
+date: 2025-01-02T02:47:37.083Z
+updated: 2025-01-03T19:12:02.216Z
 tags:
   - win11
   - win10
@@ -37,8 +37,9 @@ Avatar: Frontiers of Pandora is an exciting and visually stunning new open-world
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-crashing-on-PC-1-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  Before troubleshooting crashes further, first make sure your PC hardware meets or exceeds the minimum system requirements to properly run Avatar: Frontiers of Pandora.
@@ -65,17 +66,14 @@ _Recommended requirements_
 
  To check your PC specs, all you need to do is press the**Windows logo + R keys** simultaneously to open the Run box, then type**msinfo32** and hit Enter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-System-Information-1200x699.jpg)
 
 If your PC perfectly meets the requirements, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the game with administrator rights
 
  Some games run into stability issues or crashes if they do not have administrator access to modify certain protected files, registry keys, or hardware functions. Running Avatar as an admin could resolve these permission-related clashes.
@@ -93,8 +91,9 @@ To make your game permanently run with admin rights for all users:
  After applying the changes, launch the game. If your issue persists, don’t worry! Below are some other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable background applications
 
  Other applications running in the background on your PC while trying to play Avatar could potentially interfere with stability or system resources. End unnecessary background processes before launching the game.
@@ -103,12 +102,13 @@ To make your game permanently run with admin rights for all users:
 
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box.
 2. Type **taskmgr**  and hit Ener to open the Task Manager.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Right-click the process that you don’t need to run while playing Avatar: Frontiers of Pandora and select **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your game still crashes, proceed to the next fix.
 
@@ -123,17 +123,14 @@ If your game still crashes, proceed to the next fix.
 2. When the updates are available, simply click on the button **Download & install** .  
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
 If your issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update your graphics card driver
 
  One of the most common culprits behind game crashes and instability is outdated or faulty graphics card drivers. Nvidia, AMD, and Intel regularly issue optimized driver updates for games to run best on their GPUs.
@@ -159,9 +156,6 @@ If your issue persists, try the next fix below.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Verify game files
 
  Sometimes crashes or conflicts stem from the game files themselves becoming corrupted or left partially downloaded. Most game platforms have built-in utilities to check and restore game file integrity.
@@ -174,40 +168,40 @@ If your issue persists, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Ubisoft-Connect.jpg)
 4. If prompted, select**Repair** . Ubisoft Connect PC will then download and restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Epic Games Launcher
 
 1. Open the Epic Games Launcher.
 2. Find the game in your Epic Games**Library** .
 3. Click the**three dots** on the right side of the game line. Select**Manage** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Manage.jpg)
 4. Click on the**VERIFY** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files.jpg)
 5. Wait for validation to complete. It may take a while to verify all your files.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Launch Steam.
 2. In the**LIBRARY** , right-click Avatar and select**Properties** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
 When the process is completed, launch your game and see how things go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay (Ubisoft Connect)
 
@@ -217,16 +211,10 @@ When the process is completed, launch your game and see how things go.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-three-lines.jpg)
 2. Select **Settings** .
 3. In the**General** section,**uncheck** the box next to Enable in-game overlay for supported games.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-Ubisoft-Connect.jpg)
 
 Try to relaunch your game to see if it takes effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
 
  Certain games may have compatibility issues or encounter errors related to specific DirectX versions. By forcing the game to use either DirectX 11 (“-dx11”) or DirectX 12 (“-dx12”) through launch arguments, you are providing a directive for the game to utilize a particular graphics API.
@@ -234,12 +222,13 @@ Try to relaunch your game to see if it takes effect.
 1. Open Ubisoft Connect PC.
 2. Go to the**Games** tab and choose your game.
 3. Select**Properties** in the menu. Under**Game launch arguments** , enter**\-dx12** or**\-dx11** into the box and click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-dx12.jpg)
 
 If this doesn’t work, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Start your game in High Priority
 
@@ -249,19 +238,17 @@ If this doesn’t work, proceed to the next fix.
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. In the**Processes** tab, right-click your game and select**Go to details** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Go-to-details.jpg)
 4. Now the executable will be highlighted, right-click it and select**Set priority > High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Set-priority-High-1.jpg)
 
  After applying the changes, launch Avatar: Frontiers of Pandora. If your game still crashes frequently, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Check for corrupted system files
 
@@ -287,8 +274,6 @@ Once done, reboot your device and try to launch the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +281,26 @@ Once done, reboot your device and try to launch the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-orbitmaster-high-definition-full-touch-desktops-for-2024/"><u>[New] OrbitMaster High Definition Full Touch Desktops for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-masterful-picks-top-6-mac-compatible-capture-tools/"><u>[Updated] In 2024, Masterful Picks Top 6 Mac-Compatible Capture Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>2024 Approved Determining Frame Rates Master Choice Between 30Fps and 60Fps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dive-deep-accessing-facebooks-story-vault/"><u>Dive Deep Accessing Facebook's Story Vault</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-find-x6-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Find X6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-fix-crashing-episodes-while-playing-fallout-4-on-personal-computers/"><u>Effective Solutions to Fix Crashing Episodes While Playing Fallout 4 on Personal Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/groundwork-for-animate-infographic-creation/"><u>Groundwork for Animate Infographic Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-run-destiny-2-after-fixes-for-initial-pc-launch-glitches/"><u>How to Successfully Run Destiny 2 After Fixes for Initial PC Launch Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-will-eliminating-taskbar-chat-from-windows-11-change-your-user-experience/"><u>How Will Eliminating Taskbar Chat From Windows 11 Change Your User Experience?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discover-top-6-short-video-download-sites-free/"><u>In 2024, Discover Top 6 Short Video Download Sites (FREE)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-ps4s-video-capture-expert-advice-on-camera-placement/"><u>Mastering Your PS4's Video Capture: Expert Advice on Camera Placement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-troubles-top-tactics-for-fixing-launch-difficulties-successfully/"><u>Minecraft Troubles? Top Tactics for Fixing Launch Difficulties Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-gameplay-troubleshooting-lag-in-dragons-dogma/"><u>Optimize Your Gameplay: Troubleshooting Lag in Dragon's Dogma</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-discord-delays-comprehensive-fixes-and-tips/"><u>Overcome Discord Delays : Comprehensive Fixes and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006832677-overwatch-crashes-with-black-screen-here-are-proven-solutions/"><u>Overwatch Crashes with Black Screen? Here Are Proven Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999463495-smooth-gaming-experience-achieved-cyberpunk-2077s-lag-and-stuttering-solved/"><u>Smooth Gaming Experience Achieved: Cyberpunk 2077'S Lag and Stuttering Solved</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-restoring-missing-microsoft-word-files-on-your-pc/"><u>Step-by-Step Guide: Restoring Missing Microsoft Word Files on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-black-screen-error-in-rainbow-six-siege-for-your-pc-expert-tips/"><u>Troubleshooting the Black Screen Error in Rainbow Six Siege for Your PC – Expert Tips</u></a></li>
+</ul></div>
 

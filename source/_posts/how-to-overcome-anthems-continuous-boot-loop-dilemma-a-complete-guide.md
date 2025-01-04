@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Anthem’s Continuous Boot Loop Dilemma - A Complete Guide
-date: 2024-08-13T09:24:00.302Z
-updated: 2024-08-14T09:24:00.302Z
+date: 2025-01-01T18:13:31.034Z
+updated: 2025-01-04T01:05:11.689Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_11-28-28.jpg)
 
 **Can’t log in to the Steam client** ? What a bummer! But you’re not alone, many players run into Steam login issues from time to time. The good news is, there are some known fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  Before we dive into anything advanced, make sure your account is not suspended or banned. A quick way to verify is to **try another account, or log in with your account on another device** . If you suspect your account is locked, contact[Steam support](https://help.steampowered.com/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your credentials
 
  When you’re having trouble logging in to Steam, the first thing you should always do is to make sure your credentials are correct. This may sound silly, but it does work. Make sure you’re**logging in with your username, not your email** . For password, you can type it down somewhere and paste it in Steam to make sure it’s correct.
@@ -53,13 +61,18 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  If you’ve checked your credentials and everything looks fine, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Check Steam server status
 
  Another quick fix is to see if the problem is with Steam server instead of user-end. You can check the server status on[Steam stats page](https://store.steampowered.com/stats/) , where you’ll see the number of real-time concurrent players. If the server is down, there should be a sharp decline on the current users.
 
 If the server is working just fine, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Log in from a web browser
 
@@ -82,9 +95,6 @@ If this doesn’t work, try the next fix.
 
  After clearing the cache files, your Steam client won’t remember the auto-filled credentials and it’s like when you first installed it. Your account and game files won’t be affected. If this doesn’t give you luck, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 5: Test your internet connection
 
  If you’ve tried the above fixes but nothing worked, then the problem is likely with your PC, not Steam. You can test your internet connection first to see you can connect to the Steam server. Here’s a few things you can do:
@@ -96,9 +106,6 @@ If this doesn’t work, try the next fix.
 
  If your Internet connection is valid but you still get the login error from Steam, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Fix 6: Check your firewall and antivirus
 
  Your firewall or antivirus, if you use any, can block Steam if it thinks Steam is risky. The connection to the Steam server could be interfered with, so you keep getting login errors. In this case, you can allow Steam through your firewall and/or your antivirus.
@@ -107,25 +114,22 @@ If this doesn’t work, try the next fix.
 
 1. Press the**Windows key** and**R** on your keyboard to invoke the Run box.
 2. Type**control panel** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-19-54.jpg)
 3. Select**View by: Small icons** . Click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-21-09.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-25-19.jpg)
 5. Scroll down and you should see**Steam.exe** , and other Steam related programs. You can**tick the box of Private** to allow Steam through the firewall when you’re using a private network. Click**OK** to save.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you didn’t find Steam in the exception list above, you’ll need to **manually add it to the list then allow it through the firewall** . Here’s how:
 
@@ -136,16 +140,20 @@ If this doesn’t work, try the next fix.
 3. Click**Browse** then navigate to the Steam local folder. The default path is**C:\\Program Files (x86)\\Steam** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-42-30.jpg)
 4. Select**Steam.exe** , then click**Open** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-43-21.jpg)
 5. If you want to add other Steam-related programs to the exception list, you can repeat Step 3 and 4\. Once you’re done, select all the programs you wish to add to the list, then click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-45-12.jpg)
 6. **Tick the box of Private** to allow Steam.exe (and other programs if you need) through the firewall when you’re using a private network. Click**OK** to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
 
  The steps for your antivirus software should be similar. You’ll need to add the Steam executable file or select the Steam client, then add it to the whitelist of your antivirus.
@@ -154,17 +162,11 @@ If this doesn’t work, try the next fix.
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Fix 7: Disable background programs
 
  Programs running in the background may have been interfering with Steam so you couldn’t log in to Steam. Here’s a[list](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) of programs that could possibly cause the issue. If you suspect any of the programs on your PC, you can close it in the Task Manager then try to log into Steam. Here’s how:
 
 1. Right-click your taskbar, then click**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that you think could be problematic. Right-click it then select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
@@ -207,8 +209,6 @@ Restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +216,26 @@ Restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-top-5-zero-cost-windows-10-screen-recorder-tools/"><u>[New] In 2024, Essential Top 5 Zero Cost Windows 10 Screen Recorder Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-creators-guide-turn-viewers-into-paychecks/"><u>[New] The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-how-to-fix-indivisible-crash-issues/"><u>[SOLVED] How to Fix Indivisible Crash Issues?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>[Updated] 2024 Approved Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/13-simple-ways-to-document-webinars-cost-free/"><u>13 Simple Ways to Document Webinars Cost-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-frustration-easy-four-step-solution-to-warzones-directx-troubles/"><u>Bypass the Frustration: Easy Four-Step Solution to Warzone's DirectX Troubles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-for-csgo-not-loading-errors/"><u>Comprehensive Fixes for CSGO Not Loading Errors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-strategies-and-insights-on-data-deletion-stellar-collection/"><u>Essential Strategies & Insights on Data Deletion - Stellar Collection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-lost-ark-game-stop-pc-crashes-and-enjoy-adventure/"><u>Fix Your Lost Ark Game: Stop PC Crashes and Enjoy Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-your-apex-legends-connectivity-problems-solutions-inside/"><u>Fixing Your Apex Legends Connectivity Problems - Solutions Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-non-responsive-corsair-icue-control-system-on-latest-windows-oses/"><u>How to Repair Non-Responsive Corsair iCUE Control System on Latest Windows OSes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-and-pc-stability-ensuring-uninterrupted-gameplay-after-resolving-freezing-problems/"><u>Modern Warfare and PC Stability: Ensuring Uninterrupted Gameplay After Resolving Freezing Problems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-video-downloads-with-top-converters-for-2024/"><u>Optimal Video Downloads with Top Converters for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-no-ping-issues-in-halo-infinite-connect-with-your-data-centers/"><u>Resolving 'No Ping' Issues in Halo Infinite - Connect with Your Data Centers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96466898-9781939681294-the-physics-of-angels/"><u>The Physics of Angels | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-viewing-the-transformers-series-chronologically/"><u>The Ultimate Guide to Viewing the Transformers Series Chronologically</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-dealing-with-dead-by-daylights-error-8014-issue/"><u>Ultimate Guide: Dealing with Dead by Daylight's Error 8014 Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-issues-with-call-functionality-on-your-android-device/"><u>Ultimate Guide: Resolving Issues with Call Functionality on Your Android Device</u></a></li>
+</ul></div>
 

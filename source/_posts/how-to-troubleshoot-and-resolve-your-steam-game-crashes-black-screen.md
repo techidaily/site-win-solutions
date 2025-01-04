@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Resolve Your Steam Game Crashes (Black Screen)
-date: 2024-08-13T09:21:02.905Z
-updated: 2024-08-14T09:21:02.905Z
+date: 2024-12-30T23:06:53.570Z
+updated: 2025-01-04T00:17:29.917Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ _Image source: bethesda.net_
  Starfield is definitely one of the most anticipated games these days. And now it’s been out! However, the issue of**Starfield not launching** is driving some users up the wall. Some also**receive some error codes** , preventing them from enjoying the gameplay. If you’re one of them, don’t fret! We’ve gathered some methods for you to identify the root cause and resolve your problems.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Before going any further…
 
  Before we dive into troubleshooting, let’s begin by ensuring your system is up to the challenge of running Starfield. Bethesda’s epic space exploration game offers a breathtaking experience, but it requires a certain level of hardware capability to truly shine.
@@ -62,18 +63,16 @@ If you don’t know how to find your PC specs, take the steps below.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to invoke the Run box.
 2. Enter**msinfo32** and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/msinfo32.png)
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-check-your-system-specs.png)
 
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -86,15 +85,16 @@ If you don’t know how to find your PC specs, take the steps below.
 * **[Update the Xbox and Gaming Services apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics drivers
 
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -108,16 +108,14 @@ If you have no idea what kind of graphics card your PC is packing,
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Enter**taskmgr** and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-open-task-manager.png)
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update graphics drivers (recommended)
 
@@ -135,29 +133,31 @@ Below is the simple three-step guide.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/Update-AMD-Radeon-RX-6700-XT-with-Driver-Easy-no-version-info.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 After driver updates, it’s a good practice to reboot your device.
 
  After the reboot, relaunch Starfield. If it still fails to start, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Windows
 
  To ensure Starfield opens without interruptions, it’s crucial to keep your Windows updated. Windows updates often include bug fixes, make sure your system is compatible with application requirements, and enhance system stability, reducing conflicts that can hinder game launches.
 
 To download and install the latest Windows updates, take these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Windows 11
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Windows Update** and follow the on-screen instructions to download and install the latest updates.
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -176,9 +176,6 @@ To temporarily disable the Windows Firewall:
 1. On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box.
 2. Type or paste **control firewall.cpl** and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
@@ -186,6 +183,10 @@ To temporarily disable the Windows Firewall:
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To temporarily turn off your antivirus software:
 
@@ -204,9 +205,6 @@ To temporarily turn off your antivirus software:
 3. From the drop-down menu, select**Properties…** .
 4. Select the**Install Files** tab and click on the**Verify integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
@@ -220,10 +218,11 @@ Follow the steps below to do this.
 2. Select**Library** .
 3. Under**Updates & download** , check if there are any updates available for the Xbox app or Gaming Services app. If an update is available, select**Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Starfield-on-the-game-launcher-1200x675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For Xbox users, you should also check if the services are up and running. Sometimes the issue is not on your end.
 
@@ -231,9 +230,6 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Uninstall and reinstall the game
 
  If none of the above methods work, you should consider uninstalling and reinstalling the game.
@@ -256,9 +252,6 @@ Follow the steps below to do this.
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -271,10 +264,11 @@ Below is how you can benefit from the use of Fortect.
 2. Launch Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
 3. If it detects any issues on your PC, click **Start Repair**  to let it start the repairing process.  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
 
@@ -286,8 +280,6 @@ Below is how you can benefit from the use of Fortect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +287,22 @@ Below is how you can benefit from the use of Fortect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>[New] Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-efficient-guide-to-transforming-gifs-into-engaging-whatsapp-and-telegram-stickers/"><u>[Updated] 2024 Approved Efficient Guide to Transforming GIFs Into Engaging WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-efficient-time-markers-in-youtube-videos-desktopmobile-edition-for-2024/"><u>[Updated] Efficient Time Markers in YouTube Videos (Desktop/Mobile Edition) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-virtual-recording-tools-online/"><u>[Updated] In 2024, Top Virtual Recording Tools Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unbind-from-discord-on-all-platforms-for-2024/"><u>[Updated] Unbind From Discord on All Platforms for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-methods-for-converting-and-uploading-dvd-files-from-your-computers-hard-drive-to-youtube-windowsmac/"><u>Easy Methods for Converting & Uploading DVD Files From Your Computer's Hard Drive to YouTube (Windows/Mac)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevate-your-editing-skills-with-pro-color-techniques-for-2024/"><u>Elevate Your Editing Skills with Pro Color Techniques for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ensure-your-virtual-reality-journey-starts-smoothly-addressing-non-detection-of-steam-vr-headsets/"><u>Ensure Your Virtual Reality Journey Starts Smoothly: Addressing Non-Detection of Steam VR Headsets.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-solved-successfully-launching-eac-with-properly-configured-easy-anti-cheat-installation/"><u>Error Solved! Successfully Launching EAC with Properly Configured Easy Anti-Cheat Installation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005824730-essential-fixes-and-tips-to-stop-dauntless-from-freezing-or-crashing-on-windows/"><u>Essential Fixes and Tips to Stop Dauntless From Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/live-streaming-simplified-with-top-webcam-recorders-for-2024/"><u>Live Streaming Simplified with Top WebCam Recorders for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/politica-de-derecho-a-la-informacion-y-proteccion-de-datos-guia-detallada-por-parte-de-digiarty-software-inc/"><u>Política De Derecho a La Información Y Protección De Datos: Guía Detallada Por Parte De Digiarty Software, Inc.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722995875812-resolve-your-hitman-e3-link-up-problems-in-minutes/"><u>Resolve Your Hitman E3 Link-Up Problems in Minutes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-overcoming-fortnites-persistent-loading-screens/"><u>Solution Guide: Overcoming Fortnite's Persistent Loading Screens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-improving-lost-ark-performance-drop-issues/"><u>Troubleshooting Steps for Improving Lost Ark Performance Drop Issues</u></a></li>
+</ul></div>
 

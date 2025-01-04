@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Preventing and Solving GTFO Software Failures
-date: 2024-08-13T09:21:22.978Z
-updated: 2024-08-14T09:21:22.978Z
+date: 2024-12-29T22:58:39.620Z
+updated: 2025-01-03T22:16:13.563Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
 Only got a**black screen** at startup or during the thrilling gameplay in Resident Evil Village? You’re definitely not alone! This is one of the known bugs and devs are rolling out a patch. But you might want to fix it on your own. In this post, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -30,9 +27,6 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 4. **[Run your game as admin](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable HDR](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
 ## 1\. Verify integrity of game files
@@ -43,12 +37,17 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
@@ -64,14 +63,15 @@ If this didn’t solve your problem, try the next fix below.
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
  After the reboot, try to launch your game to check if you can get into the main screen successfully.
 
  Still no luck? Don’t worry, there are a few other fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -89,9 +89,6 @@ If this didn’t solve your problem, try the next fix below.
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . (Also check: users’[reviews](https://tools.techidaily.com/drivereasy/download/) on Driver Easy)
@@ -102,19 +99,11 @@ If this didn’t solve your problem, try the next fix below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,24 +120,30 @@ The powerful video editing program for your Windows PC</a>
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, launch your game and it should be running with administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable HDR
 
  High-Dynamic Range (HDR) refers to the ability of a monitor to display a wider range of contrast ratio and color than an SDR (Standard Dynamic Range) display. This means the image on display is closer to real life. Despite its fascinating features, it could be the cause that your game merely shows a black screen according to players. Therefore, you may need to disable HDR and check if it solves your issue. To do this, take these steps:
@@ -157,11 +152,12 @@ The powerful video editing program for your Windows PC</a>
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
  3) Find the**config** file and open it.
@@ -180,8 +176,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +183,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-building-a-brand-in-the-metaverse-ecosystem-for-2024/"><u>[New] Building a Brand in the Metaverse Ecosystem for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quickcapture-chromes-screen-recording-feature-for-2024/"><u>[New] QuickCapture Chrome's Screen Recording Feature for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-reviews-of-zooms-powerful-affordable-transcription-software-for-2024/"><u>[Updated] Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/combat-lag-and-frame-drops-in-cyberpunk-2077-effective-solutions-to-enhance-your-gameplay/"><u>Combat Lag and Frame Drops in Cyberpunk 2077: Effective Solutions to Enhance Your Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-resolution-guide-navigating-through-genshin-impacts-challenge-error-nter-code-4201/"><u>Error Resolution Guide: Navigating Through Genshin Impact's Challenge, Error Nter Code 4201</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-rectify-graphics-driver-crashes-during-valorant-gameplay-swiftly-and-safely/"><u>Expert Tips to Rectify 'Graphics Driver Crashes During Valorant Gameplay' Swiftly and Safely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-import-and-use-unique-fonts-on-your-iphone-smartphone/"><u>Expert Tips: Import and Use Unique Fonts on Your iPhone Smartphone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-the-notorious-failed-to-connect-message-on-path-of-exile-step-by-step-solutions/"><u>Fix the Notorious 'Failed to Connect' Message on Path of Exile : Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-2022-leaf-error-in-apex-legends-step-by-step-guide/"><u>Fixing the 2022 Leaf Error in Apex Legends: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-mute-streaming-issues-in-twitch-successfully/"><u>How to Overcome Mute Streaming Issues in Twitch Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-upload-mp3-quickly-step-by-step-to-youtube-broadcasting/"><u>In 2024, Upload MP3 Quickly Step-by-Step to YouTube Broadcasting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-drivers-for-c6515-model/"><u>Latest Drivers for C6515 Model</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-techniques-preventing-battlefield-1-from-crashing-instantly/"><u>Master the Techniques: Preventing Battlefield 1 From Crashing Instantly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gamers-guide-tackling-darkest-dungeon-2s-recurring-stability-problems-on-windows/"><u>PC Gamers' Guide: Tackling Darkest Dungeon 2'S Recurring Stability Problems on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-techniques-for-changing-your-devices-protective-glass-layer/"><u>Simple Techniques for Changing Your Device’s Protective Glass Layer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-wot-blitz-from-crashing-ultimate-troubleshooting-techniques-revealed/"><u>Stop WoT Blitz From Crashing: Ultimate Troubleshooting Techniques Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004742909-team-fortress-not-launching-heres-how-you-can-get-it-running-again/"><u>Team Fortress Not Launching? Here's How You Can Get It Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/update-your-graphics-card-drivers-for-smooth-minecraft-gaming-experience/"><u>Update Your Graphics Card Drivers for Smooth Minecraft Gaming Experience</u></a></li>
+</ul></div>
 
