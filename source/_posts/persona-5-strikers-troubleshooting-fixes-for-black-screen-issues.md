@@ -1,7 +1,7 @@
 ---
 title: Persona 5 Strikers Troubleshooting - Fixes for Black Screen Issues
-date: 2024-08-18T13:53:02.635Z
-updated: 2024-08-19T13:53:02.635Z
+date: 2025-01-07T21:31:13.050Z
+updated: 2025-01-10T16:36:06.784Z
 tags:
   - win11
   - win10
@@ -39,18 +39,17 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  According to[some players](https://www.reddit.com/r/blackopscoldwar/comments/kiaa2w/ui%5Ferror%5F27711%5Fcant%5Fload%5Fthe%5Fgame%5Fanymore%5Fpc/) , updating the graphics driver is a potential fix to this UI error. So you need to**make sure you’re using the latest graphics driver** . If you aren’t, definitely do it now because it can save you lots of hassle.
@@ -77,21 +76,28 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -102,21 +108,15 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -133,8 +133,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +140,24 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-experts-selection-of-iphone-recording-aids/"><u>[New] Expert's Selection of iPhone Recording Aids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-engaging-visual-storytelling-with-b-roll/"><u>[Updated] 2024 Approved Crafting Engaging Visual Storytelling with B-Roll</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-transform-slide-show-into-video-format-for-2024/"><u>[Updated] Transform Slide Show Into Video Format for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-how-to-find-videos-on-facebook-for-2024/"><u>2023 | How to Find Videos on Facebook for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-lag-free-victories-ultimate-guide-to-lower-ping-while-gaming/"><u>Achieve Lag-Free Victories: Ultimate Guide to Lower Ping While Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/city-skylines-2-stuttering-issues-fix-them-with-these-expert-solutions-for-pc-players/"><u>City Skylines 2 Stuttering Issues? Fix Them with These Expert Solutions for PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dead-space-remake-wont-open-master-these-techniques-to-get-your-game-running-in-2e-24/"><u>Dead Space Remake Won't Open? Master These Techniques to Get Your Game Running in 2E-24!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-frequent-outlook-crashes-on-your-windows-computer/"><u>Dealing with Frequent Outlook Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-8-ebook-reader-applications/"><u>Discover the Best 8 eBook Reader Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-davinci-resolve-launch-failure-in-windows-os/"><u>Fixing the Issue: DaVinci Resolve Launch Failure in Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/freezing-problem-in-rocket-league-game-now-patched/"><u>Freezing Problem in Rocket League Game Now Patched</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-diagnose-and-resolve-pc-speaker-issues/"><u>How To Successfully Diagnose and Resolve PC Speaker Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-latency-in-star-wars-battlefront-ii-a-seamless-play-is-back/"><u>Improved Latency in Star Wars Battlefront II: A Seamless Play Is Back</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/optimal-live-streaming-scenery-ideas-for-2024/"><u>Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-connectivity-the-ultimate-guide-to-choosing-the-best-6-in-1-usb-c-hub-for-optimal-cable-management-zdnet/"><u>Transform Your Connectivity: The Ultimate Guide to Choosing the Best 6-in-1 USB-C Hub for Optimal Cable Management | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-battlefield-2042s-pc-crash-problems/"><u>Troubleshooting Guide: Resolving Battlefield 2042'S PC Crash Problems</u></a></li>
+</ul></div>
 

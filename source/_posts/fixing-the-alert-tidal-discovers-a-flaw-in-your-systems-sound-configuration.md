@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Alert: Tidal Discovers a Flaw in Your System’s Sound Configuration"
-date: 2024-08-18T13:53:28.447Z
-updated: 2024-08-19T13:53:28.447Z
+date: 2025-01-07T18:58:48.208Z
+updated: 2025-01-10T17:28:12.158Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  After the Minecraft update, many players start reporting an**Drivers Outdated message** telling that they need to update their graphics driver. If you’re on the same boat, you’re in the right place. In this tutorial, we’ll show you how to get rid of this message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -46,11 +44,17 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -71,10 +75,11 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Java edition
 
@@ -95,10 +100,6 @@ You can use the following steps to check for Minecraft updates.
 
 If you’re still seeing the message, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Scan and repair Windows
 
  If you’re sure it’s not a driver issue, try scanning Windows and see if it’s a system error.
@@ -107,11 +108,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -127,26 +130,24 @@ Here’s how you can check the preferred GPU of Minecraft:
  If you’re on Windows 7 or 8, you can change the preferred GPU of Minecraft in **NVIDIA Control Panel** or**AMD Radeon™ Settings** .
 
 1. At the empty area of your desktop, right-click and select **Display settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 Now you can restart Minecraft and check if the message is still there.
@@ -163,8 +164,6 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +171,26 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-gopro-tips-and-tricks/"><u>[New] Gopro Tips and Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-time-lapse-photography-on-samsung-phones/"><u>[Updated] Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-sierra-icloud-for-seamless-access/"><u>2024 Approved Navigating Sierra iCloud for Seamless Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/active-exploration-augmented-reality-adventures/"><u>Active Exploration: Augmented Reality Adventures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/alien-is-fireteam-elite-continuously-failing-at-launch-pc-edition/"><u>Alien: Is Fireteam Elite Continuously Failing at Launch? PC Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-your-frame-rate-and-cutting-down-lags-a-complete-guide-for-players-of-fall-guys/"><u>Boosting Your Frame Rate & Cutting Down Lags: A Complete Guide for Players of Fall Guys</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/confirming-text-delivery-and-reading-a-comprehensive-guide/"><u>Confirming Text Delivery and Reading: A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/early-language-ladders-from-nursery-school-to-elementary/"><u>Early Language Ladders: From Nursery School To Elementary</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-to-prevent-microsoft-edge-from-crashing-under-windows-10/"><u>Effective Fixes to Prevent Microsoft Edge From Crashing Under Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-addressing-and-repairing-crossbow-error-code-mishaps-in-minecraft/"><u>Expert Advice: Addressing and Repairing Crossbow Error Code Mishaps in Minecraft</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-repairing-and-restoring-your-nvidia-control-panel-access/"><u>Guide to Repairing and Restoring Your NVIDIA Control Panel Access</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/multiversus-continuity-secured-eight-key-tactics-for-crash-free-gaming-experience/"><u>MultiVersus Continuity Secured: Eight Key Tactics for Crash-Free Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-windows-xpatch-issue/"><u>Navigating the Maze of Windows XPatch Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-overcoming-issues-with-saints-row-game-not-initializing-on-computer/"><u>Solution Guide: Overcoming Issues with Saints Row Game Not Initializing on Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-endless-cycle-unveiled-insights-into-black-survival-crash/"><u>The Endless Cycle Unveiled: Insights Into 'Black Survival Crash'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-issues-in-splitgate-a-comprehensive-guide/"><u>Troubleshooting Frame Rate Issues in Splitgate – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-stop-rocket-league-from-continuously-crashing-tips-and-solutions/"><u>Troubleshooting Steps: Stop 'Rocket League' From Continuously Crashing [Tips & Solutions]</u></a></li>
+<li><a href="https://games-able.techidaily.com/unauthorized-xbox-controller-crackdown-player-repercussions/"><u>Unauthorized Xbox Controller Crackdown: Player Repercussions</u></a></li>
+</ul></div>
 

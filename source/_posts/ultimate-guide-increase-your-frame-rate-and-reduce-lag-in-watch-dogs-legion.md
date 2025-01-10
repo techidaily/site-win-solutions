@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Increase Your Frame Rate & Reduce Lag in Watch Dogs: Legion"
-date: 2024-08-18T13:53:53.208Z
-updated: 2024-08-19T13:53:53.208Z
+date: 2025-01-05T16:12:10.772Z
+updated: 2025-01-10T20:17:20.233Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ## Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/the-ascent-featured.jpg)
 
  The most awaited cyberpunk RPG, The Ascent, finally hit PC in the middle of 2021\. But the game is still at a primitive stage, and there’re already many players complaining about the**stuttering and FPS issues** . If your game lags like crazy and you’re looking for a cure, you’re in the right place. Here’re some workarounds we found that can stop, or at least mitigate the lag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all of them. Simply work down the list until you find a fix that cures the stuttering.
@@ -40,15 +34,16 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  The devs of The Ascent are[aware of the stuttering issue](https://steamcommunity.com/app/979690/discussions/0/3050611107169701612/#c3050611107169718682) and are looking into it. So you might want to check if there’re any hotfixes before tuning your PC settings.
 
 1. Go to your Steam library. Right click **The Ascent** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
  If this doesn’t fix the stuttering issue, take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -60,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -78,15 +79,17 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
  If this doesn’t give you any improvements, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run The Ascent on DirectX 11
 
  Some players reported different results on DirectX 11 and 12, so you can switch between these two and see which works the best. By default you’ll be running The Ascent on DirectX 12.
@@ -95,13 +98,14 @@ If you don’t know how to switch, follow these steps:
 
 1. In your Steam LIBRARY, right click **The Ascent** and select **Properties** .
 2. In the pop-up window, scroll down until you see**LAUNCH OPTIONS** . Click the input area and type**\-dx11** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Control Flow Guard
 
@@ -110,23 +114,15 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
@@ -142,8 +138,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +145,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-steamvr-not-working-easily-and-quickly/"><u>[SOLVED] SteamVR Not Working – Easily & Quickly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] 6 Video Styles for Maximum Viewer Engagement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tips-for-shooting-and-sharing-videos-on-instagram/"><u>[Updated] In 2024, Tips for Shooting & Sharing Videos on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/assassins-creed-mirage-wont-start-top-fixes-and-troubleshooting-steps/"><u>Assassin's Creed: Mirage Won't Start? Top Fixes & Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/designing-future-web-services-with-ai-assistance-from-chatgpt/"><u>Designing Future Web Services with AI Assistance From ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004522854-expert-guide-solving-guilty-gear-strives-lag-issues-once-and-for-all/"><u>Expert Guide: Solving Guilty Gear Strive's Lag Issues Once & For All</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-launch-multiversus-successfully-after-encountering-errors-on-desktop/"><u>How to Launch MultiVersus Successfully After Encountering Errors on Desktop</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-breaking-down-instagrams-standard-video-cap-solutions/"><u>In 2024, Breaking Down Instagram's Standard Video Cap Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-4k-updated-review-of-ultimate-action-cams/"><u>In 2024, GoPro Vs. Yi 4K Updated Review of Ultimate Action Cams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472008243-iphones-wireless-charger-malfunctioning-here-are-7-effective-fixes/"><u>IPhone's Wireless Charger Malfunctioning? Here Are 7 Effective Fixes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/madden-nfl-21-pc-performance-boosted-overcoming-common-crashes-with-proven-fixes-for-gamers/"><u>Madden NFL 21 PC Performance Boosted: Overcoming Common Crashes with Proven Fixes for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-tip-overcoming-persistent-stalling-and-crashing-in-pc-game-psychonauts-2/"><u>Master Tip: Overcoming Persistent Stalling & Crashing in PC Game Psychonauts 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-comprehensive-solution-for-battlefield-5-stability-issues-on-desktop/"><u>Solved: Comprehensive Solution for Battlefield 5 Stability Issues on Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tier-surveillance-alert-why-the-waterproof-blink-mini-2-stands-above-all-wyze-cam-alternatives-zdnet-insights/"><u>Top-Tier Surveillance Alert! Why the Waterproof Blink Mini 2 Stands Above All Wyze Cam Alternatives | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-cygwin1dll-errors-on-your-pc-easily/"><u>Troubleshooting Missing cygwin1.dll Errors on Your PC Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-secrets-resolving-helldivers-2s-launch-issues-on-steam/"><u>Unlocking the Secrets: Resolving Helldivers 2'S Launch Issues on Steam</u></a></li>
+</ul></div>
 

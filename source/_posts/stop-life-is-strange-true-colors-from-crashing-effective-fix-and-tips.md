@@ -1,7 +1,7 @@
 ---
 title: "Stop Life Is Strange: True Colors From Crashing: Effective Fix & Tips"
-date: 2024-08-18T13:48:33.691Z
-updated: 2024-08-19T13:48:33.691Z
+date: 2025-01-05T16:07:31.273Z
+updated: 2025-01-10T18:15:28.981Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
 
 ## Definitive Fix for Preventing Mass Effect LE From Freezing or Crashing: A Gamer's Guide
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-featured.jpg)
 
  The long-awaited Mass Effect Legendary Edition is finally here, but some issues have also emerged, and the most prominent one is the**constant crashes** . If you’re facing the same issue, don’t worry. The solution might turn out easier than you think.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,15 +41,16 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
 You can use these steps to scan and repair your game:
 
 1. Go to your steam**LIBRARY** . Right-click**Mass Effect Legendary Edition** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
 
 If this doesn’t help, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -60,9 +62,6 @@ If this doesn’t help, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -72,8 +71,9 @@ If this doesn’t help, check out the next fix below.
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable hardware monitors
 
  Some gamers suggested that hardware monitoring software could be interfering with the game and hence the crashes. When troubleshooting crashing issues, we recommend closing other programs so as to minimize the risk. In other words, if you’re using hardware monitors such as**MSI Afterburner** ,**NVIDIA GeForce Experience** and**AIDA64** , make sure they’re turned off before launching Mass Effect.
@@ -82,9 +82,6 @@ If this doesn’t help, check out the next fix below.
 
  If you’re not running any monitors nor overclocking, simply check out the next tips below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable all overlays
 
  Overlays is a feature that allows you to record in-game achievements or interact with friends. Convenient as they may be, they could also affect game stability. In this case, you can try disabling all these overlays and see how things go.
@@ -94,8 +91,9 @@ Now you can start Mass Effect and test the improvements.
  If disabling overlays doesn’t help, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -103,13 +101,13 @@ Now you can start Mass Effect and test the improvements.
 Here’s how to disable VSync with NVIDIA graphics card:
 
 1. In the empty area of your desktop, right-click and select**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch Mass Effect and check if it crashes again.
 
@@ -121,9 +119,6 @@ Now you can launch Mass Effect and check if it crashes again.
 2. Launch**Mass Effect** from your dashboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-1.jpg)
 3. Enter one of the games from the launcher menu.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
 
@@ -137,8 +132,6 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +139,20 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-6-fixes-for-street-fighter-6-crashing-on-pc-2024/"><u>[Fixed] 6 Fixes for Street Fighter 6 Crashing on PC 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-live-play-with-professional-gear-lists/"><u>[New] In 2024, Elevating Live Play with Professional Gear Lists</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-techniques-for-high-quality-in-game-recordings/"><u>[New] Techniques for High-Quality In-Game Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-devices-to-device-guide-for-google-meet-participation-for-2024/"><u>[Updated] Devices to Device Guide for Google Meet Participation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-iptv-stream-preservation/"><u>[Updated] In 2024, The Definitive Guide to IPTV Stream Preservation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998273684-fixing-fallout-eblack-screen-dilemma-troubleshooting-steps-and-tips/"><u>Fixing Fallout Eblack Screen Dilemma - Troubleshooting Steps & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-cpu-use-by-chrome-issue-now-resolved-steps-to-optimize-performance/"><u>High CPU Use by Chrome Issue Now Resolved - Steps to Optimize Performance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-detailed-guide-to-photo-hue-opposites-technique/"><u>In 2024, Detailed Guide to Photo Hue Opposites Technique</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/intel-support-software-problem-solved-restart-and-repair-tips-for-windows-users/"><u>Intel Support Software Problem Solved: Restart and Repair Tips for Windows Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimizing-your-businesss-profile-with-multilingual-posts/"><u>Optimizing Your Business's Profile with Multilingual Posts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-necromunda-hired-gun-stability-issues-on-your-computer-tips-and-fixes/"><u>Overcome Necromunda: Hired Gun Stability Issues on Your Computer - Tips and Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-team-fortress-2-initialization-problems/"><u>Overcoming Team Fortress 2 Initialization Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-palette-primer-essential-steps-to-refine-your-photos-colors/"><u>The Palette Primer Essential Steps to Refine Your Photos' Colors</u></a></li>
+</ul></div>
 

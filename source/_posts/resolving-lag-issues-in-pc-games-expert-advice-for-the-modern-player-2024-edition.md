@@ -1,7 +1,7 @@
 ---
 title: "Resolving Lag Issues in PC Games: Expert Advice for the Modern Player, 2024 Edition"
-date: 2024-08-18T13:52:46.132Z
-updated: 2024-08-19T13:52:46.132Z
+date: 2025-01-03T18:17:11.069Z
+updated: 2025-01-10T16:05:35.620Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
 Only got a**black screen** at startup or during the thrilling gameplay in Resident Evil Village? You’re definitely not alone! This is one of the known bugs and devs are rolling out a patch. But you might want to fix it on your own. In this post, we’ve got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -32,9 +29,6 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  Making sure that your game files is usually the first step to take when troubleshooting the issues you’re having with your Steam games. The feature, verifying integrity of game files allows you to achieve the goal:
@@ -59,6 +53,10 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -67,9 +65,6 @@ If this didn’t solve your problem, try the next fix below.
 
  Still no luck? Don’t worry, there are a few other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Your graphics driver acts like an interpreter between your device and the system. If it’s out-of-date or misconfigured, issues like programs not launching properly would occur. To ensure that you get the most out of your graphics card, you need to check for graphics driver updates. This may help you fix the black screen issue immediately.
@@ -77,8 +72,9 @@ If this didn’t solve your problem, try the next fix below.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -88,6 +84,10 @@ If this didn’t solve your problem, try the next fix below.
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -104,40 +104,43 @@ If this didn’t solve your problem, try the next fix below.
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run your game as admin
 
  Sometimes your game may fail to start as intended because it lacks the administrative rights. To fix it, attempt to run Evil Resident Village as an administrator:
 
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
@@ -145,9 +148,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  After applying the changes, launch your game and it should be running with administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable HDR
 
  High-Dynamic Range (HDR) refers to the ability of a monitor to display a wider range of contrast ratio and color than an SDR (Standard Dynamic Range) display. This means the image on display is closer to real life. Despite its fascinating features, it could be the cause that your game merely shows a black screen according to players. Therefore, you may need to disable HDR and check if it solves your issue. To do this, take these steps:
@@ -158,10 +158,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
  3) Find the**config** file and open it.
@@ -180,8 +176,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +183,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-100-safe-audio-download-techniques-from-youtube-for-2024/"><u>[Updated] 100% Safe Audio Download Techniques From YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spice-up-social-media-create-memes-on-kapwing/"><u>2024 Approved Spice Up Social Media - Create Memes on Kapwing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722989422140-dota-s-crash-problem-learn-how-to-fix-it-permanently/"><u>Dota S Crash Problem? Learn How to Fix It Permanently!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-launch-failures-in-star-wars-the-old-republic-swtor-game/"><u>How to Resolve Launch Failures in Star Wars: The Old Republic (SWTOR) Game</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-perfect-aspect-ratios/"><u>In 2024, Unlocking the Secrets of Perfect Aspect Ratios</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/kodi-cant-connect-solve-the-mystery-behind-unable-to-fetch-directory-data/"><u>Kodi Can't Connect? Solve the Mystery Behind 'Unable to Fetch Directory Data'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-in-launching-saints-row-on-windows-expert-fix-guide/"><u>Overcoming Challenges in Launching Saints Row on Windows - Expert Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-hot-30i-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix Hot 30i</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fix-for-troublesome-error-0x800eusages/"><u>The Definitive Fix for Troublesome Error 0X800eusages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-rcs-texting-a-comprehensive-overview/"><u>The Ins and Outs of RCS Texting: A Comprehensive Overview</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209875446-9781943070657-the-twelve-rays-practical-applications/"><u>The Twelve Rays Practical Applications | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-assassins-creed-origins-startup-issue/"><u>Troubleshooting Steps: Resolving 'Assassin's Creed Origins' Startup Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wsappx-explained-effectively-addressing-high-disk-space-and-cpu-demands/"><u>WSAPPX Explained: Effectively Addressing High Disk Space and CPU Demands</u></a></li>
+</ul></div>
 

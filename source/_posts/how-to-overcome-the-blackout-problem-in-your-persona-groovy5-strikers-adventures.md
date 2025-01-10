@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Blackout Problem in Your Persona Groovy5 Strikers Adventures
-date: 2024-08-18T13:54:23.356Z
-updated: 2024-08-19T13:54:23.356Z
+date: 2025-01-07T16:14:42.715Z
+updated: 2025-01-10T17:58:24.875Z
 tags:
   - win11
   - win10
@@ -33,18 +33,15 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 
 1. Close the Nexon launcher.
 2. Right-click on the shortcut and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Chang Compatibility Mode
 
  Many players has reported that changing the compatibility mode would help resolving the problem.
@@ -52,24 +49,24 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 1. Open **C drive > Nexon > Library > Maplestory > appdata** .
 2. Open the Maplestory folder and right-click maplestory.exe. Click**Properties.**
 3. In the**Compatibility** tab, check**Run this program in compatibility mode for** and select**Windows 7** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 4. Launch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change System Configuration
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**msconfig** and press**Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
 
@@ -97,23 +94,17 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 5: Use Registry editor
 
  This method should be your final solution cause it has potential risks. You’d better backup files before trying this method.
@@ -122,6 +113,11 @@ No advertising on the website.
 2. End up all the Nexon files and Maplestory files by clicking**End Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 3. Press the Windows logo key + R to open the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type**regedit** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 5. Press**Windows key + F** together open the search menu.
@@ -139,8 +135,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +142,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-expert-insights-into-crafting-dynamic-youtube-shorts-templates/"><u>[New] 2024 Approved Expert Insights Into Crafting Dynamic YouTube Shorts Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-become-an-audio-chameleon-learn-how-to-change-free-fire-voices/"><u>[New] Become an Audio Chameleon! Learn How to Change Free Fire Voices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-narratives-vr-storytelling-breakthroughs/"><u>[New] Immersive Narratives VR Storytelling Breakthroughs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-precision-in-upload-a-deep-dive-into-youtube-video-size-settings/"><u>[Updated] 2024 Approved Precision in Upload A Deep-Dive Into YouTube Video Size Settings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-setting-up-your-first-livestream-successfully/"><u>[Updated] Setting Up Your First Livestream Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-your-frames-per-second-fps-in-the-ark-scorched-earth-adventure-pc-guide/"><u>Boosting Your Frames Per Second (FPS) in the ARK: Scorched Earth Adventure – PC Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-glitches-improve-fortnite-performance-issues-for-a-seamless-pc-experience/"><u>Eliminate Glitches: Improve Fortnite Performance Issues for a Seamless PC Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-starcraft-2-pc-game-freezing-issues-step-by-step-guide/"><u>Fixing Starcraft 2 PC Game Freezing Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme GT Neo 5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insight-into-exception-civ-6-overcoming-the-challenge-of-access-breach-a-2024-perspective/"><u>Insight Into Exception #CIV 6: Overcoming the Challenge of Access Breach - A 2024 Perspective</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-palworld-startup-errors-effective-quick-solutions-available-now/"><u>Overcome Palworld Startup Errors: Effective Quick Solutions Available Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782710-9781620555507-sacred-relationships/"><u>Sacred Relationships | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c12-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C12 Pro Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-how-to-stop-diablo-iv-from-freezing-and-crashing-across-platforms/"><u>Top 7 Solutions: How to Stop Diablo IV From Freezing & Crashing Across Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-solving-pacific-drives-crashing-issues-on-your-computer/"><u>Troubleshooting Tips: Solving Pacific Drive's Crashing Issues on Your Computer</u></a></li>
+</ul></div>
 

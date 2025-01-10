@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Start Far Cry N6 on Your PC – No More Worry
-date: 2024-08-18T13:48:40.265Z
-updated: 2024-08-19T13:48:40.265Z
+date: 2025-01-06T16:28:30.007Z
+updated: 2025-01-10T20:15:02.437Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  Does nothing happen when you click on Play? You’re definitely not alone here. Many Far Cry 6 players are reporting the same. If Far Cry 6 won’t launch, below are some troubleshooting steps for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Far Cry 6 won’t launch? Here’s why
 
 * **You’re using Windows 11.** Ubisoft recommends using Windows 10 if possible instead.
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 4. **[Update your GPU driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background applications](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Make sure your gear meets the minimum requirements
 
@@ -101,35 +102,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 | DirectX    | DirectX 12                                                                 |
 | Hard Drive | 60 GB available storage                                                    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Run your game as admin
 
  In case lacking administrative privileges cause your Far Cry 6 not to start, we recommend that you run the game executable file and game launcher (Ubisoft Connect / Epic Games Launcher) as an administrator.
 
 1. Close any game-related apps. Then Right-click your Ubisoft Connect and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
 3. Click **Apply** \> **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Also, repeat step 1\~2 for the Far Cry.exe file.
 
  Try restarting the game and see if it helps with the ‘Far Cry 6 not launching’ issue. If not, don’t worry since we have a few more fixes to try.
@@ -158,9 +148,6 @@ Key features:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -168,8 +155,9 @@ Key features:
 4. Restart your PC for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Turn off overlays
 
  It’s reported by some players that turning off all overlays helps with the crashing issue. You can follow the steps below to disable them.
@@ -180,22 +168,17 @@ Key features:
 3. Try Far Cry 6 again to test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Disable background applications
 
  Some Microsoft services or third-party software may interfere with your Far Cry 6\. If that’s the case, you may need to close all background programs and reboot your system.
 
 1. Press the **Windows**  and **R** key at the same time to invoke the Run box.
 2. Type in _**msconfig**_ and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Choose **Selective startup** , and uncheck **Load startup items** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
 4. Reboot your system.
 
@@ -231,8 +214,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +221,18 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-cyber-companion-tone-downloads-guide/"><u>[New] In 2024, Ultimate Cyber Companion Tone Downloads Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[New] In 2024, YouTube's Shorts A Deep Dive Into Content Creation and Revenue</u></a></li>
+<li><a href="https://win11.techidaily.com/add-ons-for-the-classics-mastering-achievements-via-retroarch-software-guide/"><u>Add-Ons for the Classics: Mastering Achievements via Retroarch Software Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-silent-twitch-stream-problems-now-working/"><u>How to Solve Silent Twitch Stream Problems – Now Working!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y77t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y77t Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-chatgpt-with-our-expert-guide-to-ultimate-custom-instructions/"><u>Master ChatGPT with Our Expert Guide to Ultimate Custom Instructions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-common-problems-in-phasmophobia-vr-gameplay/"><u>Overcoming Common Problems in Phasmophobia VR Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-slow-origin-expert-tips-to-maximize-download-speeds-this-year/"><u>Solving Slow Origin: Expert Tips to Maximize Download Speeds This Year</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-no-cost-solutions-for-converting-mkv-files-to-ipad-2-format/"><u>Top No-Cost Solutions for Converting MKV Files to iPad 2 Format</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-ending-your-battle-with-fortnite-slow-performance/"><u>Troubleshooting Complete: Ending Your Battle with Fortnite Slow Performance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-guide-to-easy-youtube-subtitle-and-closed-caption-addition/"><u>Ultimate Guide to Easy YouTube Subtitle and Closed Caption Addition</u></a></li>
+</ul></div>
 

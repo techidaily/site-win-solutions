@@ -1,7 +1,7 @@
 ---
 title: Fixes and Solutions for Fortnite's Blackscreen Problem on PC Systems
-date: 2024-08-18T13:49:13.641Z
-updated: 2024-08-19T13:49:13.641Z
+date: 2025-01-05T17:31:50.832Z
+updated: 2025-01-10T20:31:26.135Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
 ## Discord Install Problems? Here's an Easy Solution
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be149f53a3cf.png)
 
  Many people have reported that they run into an error saying “**Installation has failed** ” while installing Discord. If you’re having the same error, or you**fail to install Discord** , don’t worry. You’re not alone. The good news is, you can fix the problem.
@@ -35,15 +31,16 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type**taskmgr** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
@@ -52,23 +49,32 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
@@ -93,16 +99,14 @@ OR
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
@@ -114,8 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +125,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/omprehensive-tips-for-monitoring-subscriber-engagement-for-2024/"><u>[New] Comprehensive Tips for Monitoring Subscriber Engagement for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-tutorial-adding-timer-functionality-to-obs/"><u>[New] Comprehensive Tutorial Adding Timer Functionality to OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-end-your-videos-professionally-with-these-free-tools-top-6-for-2024/"><u>[New] End Your Videos Professionally with These Free Tools (Top 6) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-kickstarting-a-vlog-key-hardware-and-apps-for-2024/"><u>[New] Kickstarting a Vlog Key Hardware & Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>[Updated] In 2024, Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proiphone-close-ups-techniques-for-captivating-images/"><u>2024 Approved Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-the-razer-synapse-not-opening-quick-solutions-and-fixes/"><u>Dealing with the 'Razer Synapse Not Opening': Quick Solutions & Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-getting-past-the-warframe-unable-to-initialize-error/"><u>Expert Tips for Getting Past the 'Warframe Unable to Initialize' Error</u></a></li>
+<li><a href="https://fox-http.techidaily.com/google-ar-stickers-explained-with-comparative-alternatives/"><u>Google AR Stickers Explained with Comparative Alternatives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-why-it-hasnt-released-yet-insights-and-updates/"><u>Guilty Gear Strive: Why It Hasn't Released Yet – Insights & Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-apex-legends-simple-strategies-to-skyrocket-your-frame-rate/"><u>Mastering Apex Legends: Simple Strategies to Skyrocket Your Frame Rate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-no-more-control-crashing-troubles/"><u>Quick Solutions - No More Control Crashing Troubles!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-8t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 8T Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-for-when-your-lost-ark-game-fails-to-load/"><u>Troubleshooting Guide for When Your Lost Ark Game Fails to Load</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-preventing-metro-exodus-pc-enhanced-edition-from-shutdown-failures/"><u>Troubleshooting Guide: Preventing Metro Exodus PC Enhanced Edition From Shutdown Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-10-sync-feature-grayed-out-solutions-unveiled/"><u>Troubleshooting Windows 10 Sync Feature Grayed Out - Solutions Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-steps-for-nvidia-geforce-error-code-0x0003/"><u>Ultimate Troubleshooting Steps for NVIDIA GeForce Error Code 0X0003</u></a></li>
+</ul></div>
 

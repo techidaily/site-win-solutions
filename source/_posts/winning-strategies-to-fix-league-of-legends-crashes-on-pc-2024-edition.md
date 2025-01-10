@@ -1,7 +1,7 @@
 ---
 title: Winning Strategies to Fix League of Legends Crashes on PC - 2024 Edition
-date: 2024-08-18T13:50:25.817Z
-updated: 2024-08-19T13:50:25.817Z
+date: 2025-01-03T18:53:55.497Z
+updated: 2025-01-10T21:39:55.245Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -64,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -104,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -118,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -131,16 +134,14 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
  3) Click**Initiate Full Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -155,17 +156,15 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -180,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +186,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>[New] 2024 Approved Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-understanding-aspect-ratio-regulations-on-twitter/"><u>[New] 2024 Approved Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[Updated] 2024 Approved Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-champion-smartphones-top-picks-for-excellent-video-quality/"><u>[Updated] Champion Smartphones Top Picks for Excellent Video Quality</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/detailed-insight-into-key-topics-explained/"><u>Detailed Insight Into Key Topics Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-revolutionary-computing-with-a-bold-new-ar-100-inch-display-laptop-monitor-freeze-no-problem/"><u>Experience Revolutionary Computing with a Bold New AR 100-Inch Display Laptop - Monitor Freeze? No Problem!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-problem-solver-step-by-step-fixes-for-error-code-727e66ac/"><u>NBA 2K24 Problem Solver: Step-by-Step Fixes for Error Code 727E66ac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-common-steam-display-errors-proven-solutions-for-gamers/"><u>Overcoming Common Steam Display Errors: Proven Solutions for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-cs2-performance-issues-tips-to-boost-your-frame-rate-and-eliminate-stutter/"><u>Solving CS2 Performance Issues: Tips to Boost Your Frame Rate and Eliminate Stutter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-the-ping-unable-to-contact-data-centers-in-halo-infinity/"><u>Step-by-Step Solutions to the 'Ping Unable to Contact Data Centers' In Halo Infinity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006389479-steps-to-resolve-frequent-disconnections-of-nox-player-while-running-on-a-pc/"><u>Steps to Resolve Frequent Disconnections of Nox Player While Running on a PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-delays-in-borderlands-3-a-comprehensive-guide/"><u>Troubleshooting Common Delays in Borderlands 3: A Comprehensive Guide</u></a></li>
+</ul></div>
 

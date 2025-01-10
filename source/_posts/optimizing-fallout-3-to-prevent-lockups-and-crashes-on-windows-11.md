@@ -1,7 +1,7 @@
 ---
 title: Optimizing Fallout 3 to Prevent Lockups and Crashes on Windows 11
-date: 2024-08-18T13:50:17.520Z
-updated: 2024-08-19T13:50:17.520Z
+date: 2025-01-06T16:43:50.734Z
+updated: 2025-01-10T19:33:42.364Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/f2cca3b4364396f9937c3705e4296e2973a5931d8
 Are you seeing Warcraft 3 Reforged crashing constantly at startup or during gameplay, and making multiple attempts to relaunch but all to no avail? We know this can be totally annoying, but don’t worry, here are 6 fixes for you to solve the issue easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick.
@@ -58,8 +59,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  A smooth and pleasant gaming performance also depends on your graphics card driver. If it’s incompatible, corrupt or out-of-date, you’ll run into various issues including Warcraft 3 crashing. To keep your graphics driver up-to-date, you should update it **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,32 +104,33 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Set high priority for Warcraft 3 Reforged
 
  Setting a specific application to high priority will make it access more system resources than other running software and thus play smoothly. So, you can boost the priority level for Warcraft 3 Reforged and see how it works.
 
 **1)** Right-click on any empty area on the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Details** tab. Then, right-click**Warcraft 3\. exe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Mouse over**Set priority** and then click**Above normal** or**High** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Re-open Warcraft 3 Reforged and see if the crashing issue is fixed. If not, continue to troubleshoot with the next fix below.
 
@@ -139,9 +142,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **1)** Right-click on any empty area on the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
 **2)** Right-click each resource-hogging application, and then click **End task**  to close them one by one.
@@ -154,13 +154,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  To gain the best performance, many players attempted to overclock their GPUs. However, doing this is sometimes counterproductive and can render your game unstable. We suggest**lowering your GPU to the default settings** to stop Warcraft 3 Reforged from crashing. If the situation isn’t mitigated with this workaround, turn to the next fix below.
@@ -175,15 +168,15 @@ No advertising on the website.
 
 **2)** Click the**menu icon** in the bottom right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-2.jpg)
 
 **3)** Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure**VSync** is turned off.
 
@@ -191,9 +184,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **5)** Set each of the parameters under Graphical Quality to**Low** or**Medium** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-1.jpg)
 
  After applying the lower settings, restore Warcraft 3 Reforged and the crashing problem should be gone.
@@ -210,8 +200,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +207,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-converters-top-8-list-seamless-sub-and-srt-format-switching/"><u>[New] Converters' Top 8 List Seamless Sub and SRT Format Switching</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>[New] Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-deciphering-social-media-copyright-laws-including-fb-for-2024/"><u>[Updated] Deciphering Social Media Copyright Laws, Including FB for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/affordable-easy-to-use-video-capture-tools-for-windows-for-2024/"><u>Affordable, Easy-to-Use Video Capture Tools for Windows for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-perturbation-resolved-how-to-troubleshoot-application-stopped-errors/"><u>COD Modern Warfare Perturbation Resolved: How To Troubleshoot 'Application Stopped' Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-speed-up-and-conclude-your-puzzled-updates/"><u>How to Speed Up and Conclude Your Puzzled Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>In 2024, In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-a2-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo A2 Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-virtualization-enabling-hyper-v-environment-on-windows-10/"><u>Mastering Virtualization: Enabling Hyper-V Environment on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-solution-dealing-with-enigma-encased-system-crashes/"><u>PC Gaming Solution: Dealing with Enigma-Encased System Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-shutdown-issues-a-comprehensive-guide/"><u>Resolving GeForce Experience Shutdown Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-obs-microphone-issues-with-these-6-effective-methods/"><u>Solve Your OBS Microphone Issues with These 6 Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/star-wars-battlefront-ii-error-resolution-overcoming-error-code-327-for-uninterrupted-fun/"><u>Star Wars Battlefront II Error Resolution – Overcoming Error Code 327 for Uninterrupted Fun</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998362474-troubleshoot-your-steam-sign-in-problem-successful-techniques-that-work/"><u>Troubleshoot Your Steam Sign-In Problem: Successful Techniques That Work!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-embrace-the-dragon-in-action-the-definitive-pc-game-experience/"><u>Yakuza: Embrace the Dragon in Action - The Definitive PC Game Experience</u></a></li>
+</ul></div>
 

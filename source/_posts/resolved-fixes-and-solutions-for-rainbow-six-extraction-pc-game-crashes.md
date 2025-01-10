@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Solutions for Rainbow Six Extraction PC Game Crashes"
-date: 2024-08-18T13:53:27.399Z
-updated: 2024-08-19T13:53:27.399Z
+date: 2025-01-04T16:12:34.917Z
+updated: 2025-01-10T18:41:55.741Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
  The constant crashes may indicate an**integrity issue** with your game files. To check and repair corrupted game files, simply follow these steps:
 
 1. Go to your**Steam Library** . Right-click**Marvel’s Avengers** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-1.jpg)
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** , then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-2.jpg)
@@ -44,6 +41,10 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 
  If this method doesn’t solve your crashing issue, you can continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Install all the Windows updates
 
  Windows 10 includes 2 types of updates, one is**quality updates** , which provides security and reliability fixes, another one is**feature updates** , which add new functionalities twice per year. If you can’t remember the last time you installed any updates, definitely do it now as it could be a potential fix to your problem.
@@ -51,14 +52,13 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 You can install system updates with just a few clicks:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box. Type or paste **control /name Microsoft.WindowsUpdate** and hit **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . This might take a while for Windows to search and install the updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed all the updates, restart your computer for it to take full effect.
 
@@ -69,8 +69,9 @@ You can install system updates with just a few clicks:
  If this fix doesn’t work for your case, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  In most cases, crashing issues tend to be driver-related, which means you’re probably using a**faulty** or**outdated graphics driver** . So updating your driver could very well tackle your problem right away.
@@ -94,9 +95,6 @@ You can install system updates with just a few clicks:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
@@ -108,8 +106,9 @@ You can install system updates with just a few clicks:
  If this method doesn’t give you any luck, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable all the overlays
 
 **Using overlay for games** is another possible cause for crashing. So if you’re using overlays like**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable this feature and start the game directly.
@@ -119,20 +118,18 @@ You can install system updates with just a few clicks:
 1. On the top left corner of your Steam client, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab,**uncheck** these boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Marvel’s Avengers and see if it crashes again.
 
  If this fix doesn’t do the trick for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Close all the background programs
 
  Some AAA titles require all the resources of your rig, and sometimes they crash because you have other programs eating up your RAM or CPU resources. So check if you’re running large programs such as**Chrome** ,**Discord** or**Skype** . If you do, close them before launching Marvel’s Avengers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Turn off VSync
 
@@ -146,6 +143,10 @@ You can install system updates with just a few clicks:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Launch Marvel’s Avengers and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  So these are the fixes for your crashing issue with Marvel’s Avengers. Hopefully, you’ve fixed the crash and can realize your super hero dream. If you have any questions and suggestions, don’t hesitate to leave a comment.
@@ -156,8 +157,6 @@ You can install system updates with just a few clicks:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,21 @@ You can install system updates with just a few clicks:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/pathfinder-wrath-of-the-righteous-stability-improved-say-goodbye-to-crashing-episodes/"><u>'Pathfinder: Wrath of the Righteous' Stability Improved - Say Goodbye to Crashing Episodes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-activate-or-deactivate-video-commenting-in-youtube-for-2024/"><u>[New] How To Activate or Deactivate Video Commenting in YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premiere-pro-vanishing-art/"><u>[New] Premiere Pro Vanishing Art</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-tips-enhancing-focus-in-your-youtube-video/"><u>[Updated] Essential Tips Enhancing Focus in Your YouTube Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-pc-optimization-eliminate-high-cpu-consumption-with-our-latest-fixes/"><u>Baldur's Gate 3 PC Optimization: Eliminate High CPU Consumption with Our Latest Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-corsair-icue-interface-malfunction-under-windows-11-operating-system/"><u>Fixing the Corsair iCUE Interface Malfunction Under Windows 11 Operating System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/god-of-war-a-new-fps-adventure-arrives-for-pc-gamers/"><u>God of War: A New FPS Adventure Arrives for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-overwatch-2-keeps-crashing-on-pc/"><u>How to Fix Overwatch 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-monochrome-to-vibrancy-top-11-video-coloring-strategies/"><u>In 2024, From Monochrome to Vibrancy Top 11 Video Coloring Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-minecraft-masterpieces-creative-buildings-guide/"><u>In 2024, Minecraft Masterpieces Creative Buildings Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-compatible-realtek-bluetooth-drivers-with-your-windows-computer/"><u>Installing Latest Compatible Realtek Bluetooth Drivers with Your Windows Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pantheon-of-popularity-reddits-top-10-posts-for-2024/"><u>The Pantheon of Popularity Reddit's Top 10 Posts for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-10-best-free-avi-joiner-software-for-windows-and-mac/"><u>Updated In 2024, The Ultimate List 10 Best Free AVI Joiner Software for Windows and Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726026958035-xbox-game-bar/"><u>Xbox Game Barで動画編集：ダイナミックなトリミングのステップバイステップガイド</u></a></li>
+</ul></div>
 

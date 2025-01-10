@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Among Us' Freezes and Crashing Issues – Tips & Solutions
-date: 2024-08-18T13:51:28.621Z
-updated: 2024-08-19T13:51:28.621Z
+date: 2025-01-08T21:18:45.911Z
+updated: 2025-01-10T16:32:58.249Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  Anthem shows you the infinite loading screen and won’t load it up at all? This is quite frustrating, and you’re definitely not alone. The good news is, you can fix**Anthem stuck on loading screen** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Anthem stuck on loading screen
 
  Here are the solutions you can try. You shouldn’t have to try them all; just work your way down the list untile everything’s working again.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 4. [Turn off Origin In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Move your game to another drive
 
@@ -46,19 +54,11 @@ Make sure that Anthem is closed and not running in the background.
 
 3) Type**taskmgr** and click**OK** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
@@ -74,17 +74,15 @@ Make sure that Anthem is closed and not running in the background.
 
 2) Click**My Game Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
  3) Right click**Anthem** , and click**Move game** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
@@ -109,6 +107,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
@@ -119,9 +121,6 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -146,9 +145,6 @@ OR
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
 4) Once updated, restart your computer to take effect.
@@ -157,9 +153,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Solution 4: Turn off Origin In-Game Overlay
 
  Sometimes the in-game overlays can result in game crashing as it may cause software conflicts. To rule it out as the cause, you can turn off Origin In-Game Overlay and see it you can fix your issue.
@@ -168,9 +161,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 2) Click the Origin menu button and click**Application settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
  3) Click the**Origin In-Game** tab.
@@ -179,9 +169,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  4) Switch it to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 5) Restart Origin and Anthem to see how it works.
@@ -198,21 +185,23 @@ Here’s what you need to do:
 
 2) Right click on Anthem setup file, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -228,11 +217,11 @@ Here’s what you need to do:
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -249,8 +238,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +245,22 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/zombie-army-4-dead-war-overcome-early-crash-problems-with-latest-pc-fixes-installed/"><u>'Zombie Army 4: Dead War': Overcome Early Crash Problems with Latest PC Fixes Installed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>[New] Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3aacm4a-movavi/"><u>無料MP3/AACからM4Aへのオンライン変換 - Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ankers-ultimate-usb-30-powerhouse-a-comprehensive-superspeed-hub-review/"><u>Anker's Ultimate USB 3.0 Powerhouse: A Comprehensive SuperSpeed Hub Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-fix-for-league-of-legends-crashes-expert-advice-and-steps/"><u>Effortless Fix for League of Legends Crashes: Expert Advice & Steps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-multilingual-reach-adding-subtitles-in-vimeo-for-2024/"><u>Enhancing Multilingual Reach Adding Subtitles in Vimeo for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-track-your-files-top-tricks-to-boost-origins-download-velocity/"><u>Fast Track Your Files: Top Tricks to Boost Origin's Download Velocity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-audiovisual-discrepancy-on-youtube-in-chrome-or-firefox-when-sound-persists-alone/"><u>Fix Audiovisual Discrepancy on YouTube in Chrome or Firefox | When Sound Persists Alone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/freecam-x-an-in-depth-webcam-capture-analysis-for-2024/"><u>FreeCam X An In-Depth Webcam Capture Analysis for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-conversation-to-text-mastering-googles-document-feature/"><u>From Conversation to Text Mastering Google's Document Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-setting-up-video-size-on-youtube-complete-tutorial/"><u>In 2024, Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006948689-mafia-definitive-edition-launch-issues-resolved-heres-why-it-wasnt-happening/"><u>Mafia: Definitive Edition Launch Issues Resolved - Here’s Why It Wasn’t Happening</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009156982-rocket-league-performance-restored-say-goodbye-to-freezing-glitches/"><u>Rocket League Performance Restored - Say Goodbye to Freezing Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-why-does-my-nox-player-keep-freezing-solve-now/"><u>Troubleshooting: Why Does My Nox Player Keep Freezing? Solve Now</u></a></li>
+</ul></div>
 

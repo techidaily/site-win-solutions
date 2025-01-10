@@ -1,7 +1,7 @@
 ---
 title: Persona 5 Strikers Not Starting on Windows - Fix Guide
-date: 2024-08-18T13:51:26.347Z
-updated: 2024-08-19T13:51:26.347Z
+date: 2025-01-09T18:20:24.902Z
+updated: 2025-01-10T18:30:15.906Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
 ## Outriders Not Starting Up on Your PC ? Try These Fixes Now
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-12_14-45-33.jpg)
 
 **Having trouble launching Outriders on PC?** You’re not alone. Hundreds of gamers have reported this exact issue. The good news is that there’re some known solutions to this problem. In this article, we’ll introduce some available fixes, read on and find out what they are…
@@ -38,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
 [6: Reinstall Outriders](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Before we dive into anything advanced…
 
  Make sure you’ve tried to **restart your PC and your game launcher (Epic Games Launcher & Steam)** .
@@ -56,22 +57,9 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
  You can also check out the[recommended specifications](https://tools.techidaily.com/drivereasy/download/) if needed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Sometimes your system doesn’t give your game enough permissions for it to launch. So you may want to grant the game administrative rights for it to function properly. To run as administrator:
@@ -87,9 +75,6 @@ Key features:
 2. Under**LOCAL FILES** , click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-51-05.jpg)
 3. Once you locate your game files, right-click**OUTRIDERS-Win64-Shipping.exe** , then select**Run as administrator** . If prompted for permission, click Yes.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-52-07.jpg)
 
  Check if you can launch Outriders. If this doesn’t help, try the next solution.
@@ -107,14 +92,13 @@ Key features:
 **On Steam:**
 
 1. Find Outriders in your library, right-click the game then select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-46-04.jpg)
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_12-12-55.jpg)
 3. It could take a few minutes for the scan to complete depending on the size. If anything’s missing or damaged, Steam will add the required files to your local folder.
 
@@ -148,8 +132,9 @@ Key features:
  Restart your PC for the new driver to take effect. Launch Outriders to see if it opens. If the problem returns, proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Allow the game through firewall
 
  Sometimes Windows Defender will block your game if it assumes the game is a virus. Similarly, a third-party antivirus software could also conflict with your game. To stop your game from being blocked, there are two options:
@@ -163,17 +148,15 @@ Key features:
 1. In the search bar next to the Start button, type**firewall** then click**Allow an app through Windows Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-35-56.jpg)
 2. Click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-38-43.jpg)
 3. Click**Allow another app** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-39-57.jpg)
 4. Click**Browse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-07-37.jpg)
 5. Navigate to the folder containing your game files.  
 
@@ -184,17 +167,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Once you locate**OUTRIDERS-Win64-Shipping.exe** , select it then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-50-02.jpg)
 6. Click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-49-01.jpg)
 7. Check the box of the network type you would allow Outriders to access. If you play at home or at friend’s, check**Private** . Then click**OK** .  
 
  If you play on a domain network or public network, you can check the boxes of these two options as well. Note that there could be connectivity issues and security concerns.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-17-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll also need to check if your game launcher is allowed through the firewall. If it’s allowed already,[skip to the next solution](https://tools.techidaily.com/drivereasy/download/) . If not, repeat the above steps to make sure your firewall no longer blocks your game launcher.
 
@@ -227,9 +208,6 @@ If this fix doesn’t help, try the next solution.
 
  Check if you’re able to launch Outriders. If you’ve tried the above solutions but still no luck, we have one last fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Outriders
 
  It’s possible that Outriders won’t launch because the previous installation is incomplete or interrupted. Reinstalling the game can solve the not-launching issue in some cases. To reinstall Outriders:
@@ -237,11 +215,13 @@ If this fix doesn’t help, try the next solution.
 **On Steam:**
 
 1. Find Outriders in your library. Right-click the game, select**Manage** then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_17-19-29.jpg)
 2. Once Outrider’s removed from your computer, you’ll see the option to install the game on the Outrider’s page from your library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Reinstall the game.
 
 **On Epic Games Launcher:**
@@ -249,6 +229,10 @@ If this fix doesn’t help, try the next solution.
 1. Go to your library, click on the**three-dot icon** next to Outriders.
 2. Click**Uninstall** .
 3. Once the game is uninstalled, restart your Epic Games Launcher and reinstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Additional Notes
 
@@ -280,8 +264,6 @@ If this fix doesn’t help, try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +271,16 @@ If this fix doesn’t help, try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter/"><u>[New] 2024 Approved Inside Track Full Adobe Cloud Storage Guide and Why Other Solutions Matter</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-striking-setups-to-impress-online-audiences/"><u>[Updated] In 2024, Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-varied-and-eye-catching-vlog-discussion-points/"><u>2024 Approved Varied and Eye-Catching Vlog Discussion Points</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-x-fold-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo X Fold 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-recurring-crash-problems-while-playing-tower-of-fantasy-on-pc/"><u>Resolving Recurring Crash Problems While Playing Tower of Fantasy on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-for-wolcen-pc-performance-hiccups-and-glitches/"><u>Solution Found for Wolcen PC Performance Hiccups and Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-reactivate-your-google-meet-webcam/"><u>Step-by-Step Solution to Reactivate Your Google Meet Webcam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009612009-the-truth-unveiled-diablo-immortal-is-launching-for-pc-after-all/"><u>The Truth Unveiled: Diablo Immortal Is Launching for PC After All</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-lightroom-for-android-a-complete-guide/"><u>Unveiling Lightroom for Android A Complete Guide</u></a></li>
+</ul></div>
 

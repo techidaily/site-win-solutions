@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye To Crashes: Successfully Playing Madden 20 on Your Computer [FIXED]"
-date: 2024-08-18T13:50:32.248Z
-updated: 2024-08-19T13:50:32.248Z
+date: 2025-01-04T16:51:36.076Z
+updated: 2025-01-10T20:11:15.148Z
 tags:
   - win11
   - win10
@@ -32,8 +32,9 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
@@ -52,27 +53,22 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -94,17 +90,22 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -122,9 +123,6 @@ This could take several minutes. Wait for the process to be complete.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -138,23 +136,24 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -174,8 +173,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +180,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-whos-at-the-apex-youtube-subscribers-ranking/"><u>[Updated] Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>2024 Approved Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/android-tips-flipping-video-images/"><u>Android Tips Flipping Video Images</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/beliebteste-faqs-zur-datenwiederherstellung-mit-aomei/"><u>Beliebteste FAQs Zur Datenwiederherstellung Mit AOMEI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-naraka-playtime-fixing-latency-and-improving-connection-speed/"><u>Enhancing Your Naraka Playtime - Fixing Latency and Improving Connection Speed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/filmmaking-made-easy-pc-mac-and-smartphone-techniques/"><u>Filmmaking Made Easy PC, Mac & Smartphone Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-guide-properly-installing-your-ryzen-master-drivers/"><u>Fix Guide: Properly Installing Your Ryzen Master Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-in-game-freeze-problem-in-among-us-a-complete-guide/"><u>Fixing the In-Game Freeze Problem in Among Us - A Complete Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastered-fixes-for-detroit-become-human-seamless-gaming-on-pc-achieved/"><u>Mastered Fixes for 'Detroit: Become Human': Seamless Gaming on PC Achieved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-performance-and-minimize-delay-on-watch-dogs-legion-a-complete-guide/"><u>Maximize Performance & Minimize Delay on Watch Dogs: Legion - A Complete Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezing-frames-in-halo-infinite-for-your-pc-apply-these-7-fixes-now/"><u>No More Freezing Frames in Halo Infinite for Your PC - Apply These 7 Fixes Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smooth-transition-optimal-8-sub-to-srt-modules/"><u>Smooth Transition Optimal 8 Sub to SRT Modules</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-instructions-for-deleting-image-albums-on-ios-devices-before-iphone-15/"><u>Step-by-Step Instructions for Deleting Image Albums on iOS Devices Before iPhone 15</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-strategies-for-effective-pc-maintenance-insights-from-yl-computings-expert-guide/"><u>Top Strategies for Effective PC Maintenance: Insights From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-hitman-3-fixing-the-pc-versions-persistent-black-screen-issue/"><u>Troubleshooting Hitman 3: Fixing the PC Version's Persistent Black Screen Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-call-of-duty-warzone-error-6-on-pc-platforms/"><u>Troubleshooting Steps for Call of Duty Warzone Error 6 on PC Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-potential-your-custom-hotkey-journey/"><u>Unlocking Windows Potential: Your Custom Hotkey Journey</u></a></li>
+</ul></div>
 

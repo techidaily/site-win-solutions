@@ -1,7 +1,7 @@
 ---
 title: "Fortnite PC Troubleshooting: Why Does It Keep Crashing ?"
-date: 2024-08-18T13:51:29.724Z
-updated: 2024-08-19T13:51:29.724Z
+date: 2025-01-07T19:16:10.700Z
+updated: 2025-01-10T17:46:48.545Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes that have helped other Fortnite PC players get Fortnite working again. You may not have to try them all; just work your way down the list until you find one that works for you.
@@ -36,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -44,27 +45,27 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
 
  Overlay applications like**GeForce Experience** are also known to cause Fortnite to get stuck on the loading screen. You can follow these steps to turn off the GeForce Experience share in-game overlay:
 
 1. From the GeForce Experience app, click the**Settings** icon in the upper right corner.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
@@ -86,16 +87,14 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4c9c13ba1.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -107,13 +106,15 @@ OR
 2. Right-click the Epic Games Launcher icon, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for account issues
 
  If you’ve tried the above but nothing seems to be working, you’d better make sure it’s not an account problem.
@@ -138,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-iptv-screen/"><u>[New] How to Record IPTV Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nextgen-recording-movavis-new-tech-showcase/"><u>[Updated] NextGen Recording Movavi's New Tech Showcase</u></a></li>
+<li><a href="https://fox-links.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success/"><u>Building an Empire in SMM A Step-by-Step Guide for Success</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/buy-now-the-premier-eraser-for-iphone-users-touchscreen-friendly-and-smudge-free/"><u>Buy Now: The Premier Eraser for iPhone Users - Touchscreen Friendly & Smudge Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deciphering-and-solving-the-resident-evil-village-creepy-critter-conundrums/"><u>Deciphering and Solving the 'Resident Evil Village' Creepy Critter Conundrums</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-fixes-stop-windows-control-issues-in-their-tracks/"><u>Effortless Fixes: Stop Windows Control Issues in Their Tracks!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-software-for-virtual-webcams/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Software for Virtual Webcams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-msvcr110dll-not-found-in-helldivers-2-easy-troubleshooting-tips/"><u>Fixing 'MSVCR110.dll Not Found' In Helldivers 2 - Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-wrath-of-the-righteeus-input-issues-in-pathfinder-a-comprehensive-guide/"><u>Fixing Wrath of the Righteeus Input Issues in Pathfinder – A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-note-30i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Note 30i.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y100t Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-60-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo 60 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30FRP Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-hunt-without-hiccups-troubleshooting-and-fixing-pc-bugs-in-the-witcher-3/"><u>Master the Hunt without Hiccups: Troubleshooting and Fixing PC Bugs in The Witcher 3</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-racing-experience-comprehensive-guide-to-preventing-game-crashes-in-forza-horizon-cuarto-de-maquina/"><u>Optimize Your Racing Experience: Comprehensive Guide to Preventing Game Crashes in Forza Horizon Cuarto De Máquina</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-to-accelerate-your-steam-downloads/"><u>Quick Fixes to Accelerate Your Steam Downloads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restore-game-sounds-resolving-minecrafts-no-audio-problem-for-windowspc-players/"><u>Restore Game Sounds: Resolving Minecraft's No Audio Problem for Windows/PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-steps-for-when-you-cant-start-a-game-checking-game-files/"><u>Solution Steps for When You Can’t Start a Game - Checking Game Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-windows-admin-installation-restriction-error/"><u>Steps to Bypass Windows 'Admin Installation Restriction' Error</u></a></li>
+</ul></div>
 

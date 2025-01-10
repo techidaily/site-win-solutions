@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Cod: Black Ops Cold War: Essential Troubleshooting for PC Players Struggling to Start the Game"
-date: 2024-08-18T13:48:36.968Z
-updated: 2024-08-19T13:48:36.968Z
+date: 2025-01-05T20:39:00.994Z
+updated: 2025-01-10T17:26:51.793Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -55,9 +56,11 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -66,9 +69,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -81,17 +81,15 @@ To do so, first visit the website of your GPU manufacturer:
    * **Launcher.exe (Modern Warfare)**
 2. Launch your**Battle.net** client.
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -99,15 +97,21 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -125,8 +129,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +136,24 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-iphone-hacks-for-minimalist-video-presentation-for-2024/"><u>[New] IPhone Hacks for Minimalist Video Presentation for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-10-tiktok-sensations-spreading-via-tweets/"><u>[New] Top 10 TikTok Sensations Spreading via Tweets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-capturing-desktop-using-ezvid-software/"><u>[Updated] 2024 Approved Step-by-Step Guide to Capturing Desktop Using Ezvid Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-key-benefits-of-using-artificebased-software-for-scholarly-inquiry/"><u>5 Key Benefits of Using Artificebased Software for Scholarly Inquiry</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/anthem-launch-glitch-discover-how-to-overcome-perpetual-loading-issues/"><u>Anthem Launch Glitch? Discover How to Overcome Perpetual Loading Issues!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-ultimate-gaming-experience-logitech-driving-force-gt-for-pc-with-windows-compatibility-win71011/"><u>Download the Ultimate Gaming Experience: Logitech Driving Force GT for PC with Windows Compatibility (Win7/10/11)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-play-experience-fixing-frame-rate-issues-with-higher-fps-strategies/"><u>Elevate Your Play Experience: Fixing Frame Rate Issues with Higher FPS Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hearts-of-iron-4-crash-fix-steps-to-address-frequent-errors-effectively/"><u>Hearts of Iron 4 Crash Fix: Steps to Address Frequent Errors Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-forza-horizon-5-crashing-on-pc/"><u>How to Fix Forza Horizon 5 Crashing on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-wwe-2k22-continuous-crashes-expert-tips-and-tricks-for-pc-players/"><u>How to Fix WWE 2K22 Continuous Crashes - Expert Tips & Tricks for PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-your-obs-to-resume-screen-recording-problem-solved/"><u>How to Get Your OBS to Resume Screen Recording: Problem Solved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 5G Phone without PIN</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-beginners-guide-to-earning-success/"><u>In 2024, YouTube Beginners' Guide to Earning Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/micro-scripted-movie-plot-for-2024/"><u>Micro-Scripted Movie Plot for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/multichannel-sports-broadcasts-on-youtube-tv-the-future-of-personalized-sportscasting/"><u>Multichannel Sports Broadcasts on YouTube TV: The Future of Personalized Sportscasting.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-days-gone-launch-obstacles-effective-solutions-for-pc-users/"><u>Overcoming 'Days Gone' Launch Obstacles: Effective Solutions for PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-cyberpunk-2077s-gameplay-interruptions-with-our-in-depth-troubleshooting-guide/"><u>Resolve Cyberpunk 2077'S Gameplay Interruptions with Our In-Depth Troubleshooting Guide</u></a></li>
+</ul></div>
 

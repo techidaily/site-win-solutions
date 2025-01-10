@@ -1,7 +1,7 @@
 ---
 title: "Winning Strategy: Get PAYDAY 2 Up and Running on Desktop Systems"
-date: 2024-08-18T13:52:36.896Z
-updated: 2024-08-19T13:52:36.896Z
+date: 2025-01-09T19:43:26.776Z
+updated: 2025-01-10T22:06:37.630Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ You may have tried the basic troubleshooting methods such as:
  If you haven’t done the basic troubleshooting, then try those before you head to the fixes below. In this post, we’ll show you some solutions you may not have tried yet to get rid of your**Payday 2 not launching issue** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 fixes to try when Payday 2 won’t launch
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -43,6 +44,10 @@ You may have tried the basic troubleshooting methods such as:
 7. **[Run SFC](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove All 3rd Party Mods
 
  I know most Payday 2 gamers just love the mods, and some love the mods part even more than the game itself. However, I’m not saying you should remove these mods for good, but just rename**WSOCK32.dll** and maybe**IPHLPAPI.dll** as well. If this method doesn’t do the trick, you can change it back later on.
@@ -51,9 +56,6 @@ For non-mod players, you can skip to the next fix.
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
 4. Rename**WSOCK32.dll** to**WSOCK32.dll** .**old** .
@@ -61,9 +63,6 @@ For non-mod players, you can skip to the next fix.
 
  Many Payday 2 gamers find the mods are the real culprit. Payday 2 not launching is an issue that you’ll always bump into when there’s a game update. The most important of all is to make sure you have the **[latest SuperBLT mods](https://superblt.znix.xyz/)**  installed. However, sometimes you have to wait for the update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update Device Drivers
 
  Your graphics card driver is vital to your gaming performance. Therefore, always check for any updates when you run into a game crashing or not launching. You’ll probably be amazed at how many driver updates you missed out on. If you have tried updating your GPU drivers, but failed to solve**Payday 2 not launching** issue, you’d better update your audio drivers as well.
@@ -97,9 +96,6 @@ OR
 
  Click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Free-Pro.jpg)
 
 [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .
@@ -108,16 +104,10 @@ OR
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**Change render\_settings file**
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
 4. Locate**render\_settings** , then right-click and select**Edit with Notepad++** .
@@ -128,6 +118,10 @@ OR
 
  You may have to try this method mutiple times until you find the resolution that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall the latest Visual Studio C++
 
  If your PC is not shipped with the most recent DirectX (DX12,[how to check?](https://tools.techidaily.com/drivereasy/download/) ) or Microsoft Visual C++, you should consider downloading the latest version yourself.
@@ -135,9 +129,6 @@ OR
  Either you’re running Visual C++ 2013 or 2015, or you have all versions installed, first uninstall the ones you have.
 
 1. Press **Windows** key + **R** and type **appwiz.cpl** , then press **Enter** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Uninstall the Microsoft Visual C++ Redistributable you have installed.![](https://images.drivereasy.com/wp-content/uploads/2020/05/uninstall.jpg)
 3. Download the latest version (both ×64 and ×86) from Microsoft official website.  
    * [Visual C++ 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)  
@@ -172,6 +163,11 @@ Now you can run your Payday 2 to check if it launches properly.
 3. Under**3D settings** , click**Manage 3D Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 4. Click on the**Programs Settings** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Add** and find Payday 2 executable file, and click**OK** .
 6. Choose**High Performance NVIDIA processor** .
 7. Click**Apply** .
@@ -181,11 +177,13 @@ Now you can run your Payday 2 to check if it launches properly.
  If unfortunately, your graphics card doesn’t support a switchable graphics card, you can force it to use your dedicated card manually.
 
 1. Press**Windows** key +**X** and select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/device-manager-1.jpg)
 2. Expand**Display Adapters** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click your integrated graphics card and choose**Disable** , then your screen resolution will change.
 4. Restart the computer.
 5. Run**PAYDAY 2** and then close it.
@@ -221,13 +219,15 @@ The following programs are known to cause issues when playing Payday 2:
 2. Type**msconfig** in the Run box and click on the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/system-config.jpg)
 3. Under the**General** tab, uncheck**Load Startup items** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/load-startup-item.jpg)
 4. Then go to the**Services** tab and check**Hide all Microsoft services** . Then click**Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/disable-all-start-up.jpg)
 5. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now restart your computer and try running Payday 2 again to check if the not launching issue still persists.
 
  If this doesn’t work for you, you can open the system configuration again and enable all the services. But if a clean reboot helps, you can find out which one is at fault by enabling the services one by one.
@@ -238,15 +238,21 @@ The following programs are known to cause issues when playing Payday 2:
 
 1. Type**cmd** in the Windows search bar.
 2. Choose**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/cmd.jpg)
 3. In the Command Prompt window, enter the following command:**`sfc /scannow`** . Note that there’s a space between sfc and /.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/sfc-scannnow.jpg)
 4. Wait for the process to complete.
 
  You may need to reboot your computer and try running your Payday 2\. If this doesn’t work, you’ll need to run this command again and reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the game
 
@@ -258,8 +264,6 @@ The following programs are known to cause issues when playing Payday 2:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +271,18 @@ The following programs are known to cause issues when playing Payday 2:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/disabling-automated-podcast-recommendations-on-spotify/"><u>Disabling Automated Podcast Recommendations on Spotify</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-audio-overhaul-methods-for-content-creators-online/"><u>In 2024, Audio Overhaul Methods for Content Creators Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hero-10-ultimate-guide-for-l-slow-cinematography/"><u>In 2024, Mastering Hero 10 Ultimate Guide for L-Slow Cinematography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v30-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V30 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-nightmares-insights-and-opinions-on-the-bone-chilling-quest-in-bloodborne/"><u>Navigating Nightmares: Insights and Opinions on the Bone-Chilling Quest in Bloodborne</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-top-free-mkv-splitters-no-watermarks-or-trials-for-2024/"><u>New S Top Free MKV Splitters No Watermarks or Trials for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-erratic-frame-rates-and-optimizing-your-fps-experience/"><u>Overcoming Erratic Frame Rates and Optimizing Your FPS Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-functionality-to-your-malfunctioning-msi-dragon-center/"><u>Restoring Functionality to Your Malfunctioning MSI Dragon Center</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-resolving-steams-persistent-freeze-problem/"><u>Solution Found! Resolving Steam's Persistent Freeze Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-chivalry-2-crashes-easily/"><u>Troubleshooting Guide: How to Fix Chivalry 2 Crashes Easily</u></a></li>
+</ul></div>
 

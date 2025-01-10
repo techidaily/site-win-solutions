@@ -1,7 +1,7 @@
 ---
 title: Fixes for Horizon Zero Dawn Game Crashes on Windows PCs
-date: 2024-08-18T13:50:02.324Z
-updated: 2024-08-19T13:50:02.324Z
+date: 2025-01-08T20:09:38.005Z
+updated: 2025-01-10T18:25:00.764Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 [Horizon Zero Dawn](https://www.epicgames.com/store/en-US/p/horizon-zero-dawn-complete-edition?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=3328b08ac1c14540aa265a1a85c07839) is finally on PC, yet many players start having**constant crashes** during their post-apocalypse adventure. If you’re also having the Horizon Zero Dawn crashing issue, don’t worry. We’ve put together some working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Make sure your PC specs meet the requirements**](https://tools.techidaily.com/drivereasy/download/)
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 8. **[Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)](https://www.drivereasy.com/knowledge/solved-horizon-zero-dawn-crashing-on-pc/#fix8)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  It’s a bit cliché. But still, your PC specs are a decisive factor for your gaming experience. Besides, Horizon Zero Dawn is a demanding game. Having a decent setup definitely gives you a leg up on playing AAA titles.
@@ -68,6 +73,10 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 
  If verifying game files doesn’t help your case, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes to the crash is a**faulty or outdated GPU driver** . Graphics card manufacturers release new drivers on a regular basis, addressing compatibility issues and improving gaming experience. If the last time you updated drivers feels like ages ago, definitely do it now as it might save your day.
@@ -89,10 +98,6 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -111,14 +116,8 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 And here’s a quick guide to disable Steam overlay:
 
 1. At the top-left corner of your Steam client, click**Steam** and select**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-steam-overlay-1.jpg)
 2. From the left menu, select**In-Game** . Under the**Steam Overlay** section, uncheck these boxes. Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 
 Now you can start Horizon Zero Dawn and see if it crashes again.
@@ -132,17 +131,13 @@ Now you can start Horizon Zero Dawn and see if it crashes again.
 So here’s how to check for updates manually:
 
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install available updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -157,13 +152,18 @@ Here’s how:
 1. Open Horizon Zero Dawn and go to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-1.jpg)
 2. Navigate to the**DISPLAY** tab and set**Display mode** to**Borderless** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-2.jpg)
 3. Restart your game and test the gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this solution doesn’t help, you can continue to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Increase virtual memory
 
@@ -176,27 +176,25 @@ You can use this guide to increase your virtual memory:
 2. Under the **Performance**  section, click **Settings…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** . Then select **Customize size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
 
 If the crash reoccurs, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  If you tried all the methods above and none works, you can try this last fix that works for some players.
@@ -206,29 +204,18 @@ If the crash reoccurs, you can take a look at the next fix.
 And here’s how to enable HAGS:
 
 1. In the empty area of your desktop, right-click and select**Display settings** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the**Default settings** section, click**Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC and launch**Horizon Zero Dawn** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -240,8 +227,6 @@ And here’s how to enable HAGS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +234,24 @@ And here’s how to enable HAGS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-overcome-the-invisibility-of-short-videos/"><u>[New] In 2024, Overcome The Invisibility of Short Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-10-memetic-artistry-codes/"><u>[Updated] 2024 Approved Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-compreranium-unpacking-apeaksoft-screen-tech-2023-edition/"><u>[Updated] In 2024, Compreranium Unpacking Apeaksoft Screen Tech, 2023 Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-expert-advice-overcoming-launch-errors-and-getting-the-most-out-of-hogwarts-legacy/"><u>2024 Expert Advice: Overcoming Launch Errors and Getting the Most Out of Hogwarts Legacy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1638138-9781780282275-civilization-one/"><u>Civilization One | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dark-souls-iii-stability-issues-heres-how-to-fix-them-permanently/"><u>Dark Souls III Stability Issues? Here's How to Fix Them Permanently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-error-0x8007000d-on-pcs/"><u>Deciphering and Remedying 'Error 0X8007000D' On PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-ce-3-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord CE 3 5G Device SIM</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-constant-pc-crashes-in-age-of-wonders-planetfall/"><u>Fixing the Constant PC Crashes in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-to-innovate-and-enhance-soundscapes-within-your-daw-studio/"><u>Harnessing ChatGPT to Innovate and Enhance Soundscapes Within Your DAW Studio</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-your-game-solve-dota-2-latency-troubleshooting/"><u>How To Optimize Your Game: Solve Dota 2 Latency Troubleshooting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Spark 10C</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-gameplay-disruptions-optimizing-stutter-and-reducing-lag-in-naraka-bladepoint/"><u>Overcoming Gameplay Disruptions: Optimizing Stutter & Reducing Lag in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-players-hit-continuous-roadblocks-with-necromunda-hired-gun-learn-how-to-resolve-crashes/"><u>PC Players Hit Continuous Roadblocks with Necromunda: Hired Gun – Learn How to Resolve Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-game-lags-a-comprehensive-guide-to-overcoming-new-world-connectivity-problems/"><u>Resolving Game Lags: A Comprehensive Guide to Overcoming 'New World' Connectivity Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-fixing-live-server-connection-failure-mistake-efficiently/"><u>Step-by-Step Guide: Fixing Live Server Connection Failure Mistake Efficiently</u></a></li>
+</ul></div>
 

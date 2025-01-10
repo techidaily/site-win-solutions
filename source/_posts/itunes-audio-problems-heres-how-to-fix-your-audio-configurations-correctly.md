@@ -1,7 +1,7 @@
 ---
 title: ITunes Audio Problems? Here’s How to Fix Your Audio Configurations Correctly
-date: 2024-08-18T13:54:12.362Z
-updated: 2024-08-19T13:54:12.362Z
+date: 2025-01-03T17:21:07.764Z
+updated: 2025-01-10T18:54:30.692Z
 tags:
   - win11
   - win10
@@ -39,15 +39,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  If you have multiple audio devices (external speakers or a microphone) hooked up to your computer, check to see if your devices are**powered on** and**the wired connections clean and plugged in** all the way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
 
 #### Ensure your computer is not on mute
@@ -56,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  If there’s no sound at all,**check** the speak icon on the bottom right corner of your screen to see**if you’ve accidentally muted the sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/speaker-icon.png)
 
  If the volume is on, follow the instructions below to check if you set the right playback device.
@@ -67,21 +55,23 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 **1)** Right-click the **Volume Control icon** on the taskbar and select **Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
 **2)** Click the **Playback tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Make sure you have the right device set as the default audio device. If not, right-click your audio device and select **Set as default device** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **OK** button.
 
@@ -90,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 If the sound is still not available, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Restart Your PC
 
  Sometimes the audio missing problem is just a temporary error that you can fix by restarting your PC.
@@ -100,9 +91,6 @@ If the sound is still not available, try the fixes below.
 
 If your issue persists after the reboot, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Fix Browser Issues
 
  If you’re encountering the sound problem when using Twitch web version, then it could be an issue with your web browser. Here’re some fixes to try:
@@ -117,9 +105,6 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  2) Type**inetcpl.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
@@ -140,6 +125,10 @@ If there’s still no sound, read on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Relaunch the browser to see if the sound comes back.
 
 If not, read on and try the next solution.
@@ -149,6 +138,10 @@ If not, read on and try the next solution.
  You can try streaming on another browser. For example, if you were streaming on Chrome, try using another browser like Opera or Edge. If the problem is occurring in Chrome only, then it could be a Chrome issue. You can try updating your browser or contact the developer for assistance.
 
 If the sound isn’t coming back, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Update Your Audio Driver
 
@@ -164,18 +157,12 @@ If the sound isn’t coming back, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -186,8 +173,9 @@ If the sound isn’t coming back, try the next fix.
  If the sound issue isn’t resolved, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Run Windows Audio Troubleshooter
 
  The audio troubleshooter is a Windows **built-in utility** that can detect and fix common audio problems automatically.
@@ -197,6 +185,10 @@ If the sound isn’t coming back, try the next fix.
 **1)** On your keyboard, press the **Windows logo key**  and type **audio** troubleshooter. Then click **Find and fix audio playback problems** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Next**  and wait for the scans to complete.
 
@@ -218,8 +210,6 @@ If the sound isn’t coming back, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +217,22 @@ If the sound isn’t coming back, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>[New] 2024 Approved The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-dive-into-drone-flying-with-the-syma-x5c-review-for-starters-for-2024/"><u>[New] Dive Into Drone Flying with the Syma X5C Review for Starters for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>[New] Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-hearts-of-iron-4-crashing-issues/"><u>[SOLVED] Hearts of Iron 4 Crashing Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cultural-heritage-without-copyright-boundaries/"><u>2024 Approved Cultural Heritage Without Copyright Boundaries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-solutions-to-overcome-last-line-unavailable-errors-on-ios-devices/"><u>Easy Solutions to Overcome ‘Last Line Unavailable’ Errors on iOS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-correct-directx-issues-in-battlefield-2042/"><u>Effective Techniques to Correct DirectX Issues in Battlefield 2042</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-dying-light-gaming-experience-by-boosting-the-fps/"><u>Enhance Your Dying Light Gaming Experience by Boosting the FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2e020-crash-fix-tips-get-back-in-the-game/"><u>Football Manager 2E020 Crash Fix Tips - Get Back in the Game</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/modi-per-risolvere-il-problema-di-restauro-dei-file-in-lightroom-tre-tecniche-efficaci/"><u>Modi Per Risolvere Il Problema Di Restauro Dei File in Lightroom: Tre Tecniche Efficaci</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-issue-resolving-assassins-creed-origins-launch-errors/"><u>Overcome the Issue: Resolving 'Assassin's Creed Origins' Launch Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-logitech-g935-mic-connectivity-error-on-windows-os/"><u>Step-by-Step Solution for Logitech G935 Mic Connectivity Error on Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/valorant-on-your-computer-now-running-smoothly-crashing-issue-resolved/"><u>Valorant on Your Computer Now Running Smoothly - Crashing Issue Resolved</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Crashes and Improve Stability While Playing Call of Duty: Vanguard on PC (Tips )"
-date: 2024-08-18T13:54:19.857Z
-updated: 2024-08-19T13:54:19.857Z
+date: 2025-01-09T19:35:48.888Z
+updated: 2025-01-10T18:25:06.697Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ Recently, many_**Wolcen: Lords of Mayhem**_ players are reporting the game crash
 
  So, try turning off your PC, then turn it back on. If Wolcen: Lords of Mayhem still crashes after the reboot, don’t worry. There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Clear game cache files
 
  Game cache files accumulated on your computer will affect your gaming performance. When the files become corrupted somehow, they might crash your game.
@@ -47,15 +44,20 @@ Recently, many_**Wolcen: Lords of Mayhem**_ players are reporting the game crash
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Type **%public%\\Documents** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Right-click the **Steam folder** and select **Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-40.jpg)
 
 **5)** Restart_**Lords of Mayhem**_ to check if this worked for you.
@@ -76,6 +78,10 @@ If Wolcen: Lords of Mayhem is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-16-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
@@ -87,9 +93,9 @@ If Wolcen: Lords of Mayhem is still unplayable, move on to the next fix.
 If Wolcen still crashes after this, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues.
@@ -102,9 +108,6 @@ The ultimate burning program for all your needs!</a>
 
  **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-22-14.jpg)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
@@ -129,9 +132,6 @@ The ultimate burning program for all your needs!</a>
 
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
 **2)** Click **View advanced system settings.**
@@ -140,16 +140,10 @@ The ultimate burning program for all your needs!</a>
 
 **3)** Click **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
@@ -158,9 +152,6 @@ The ultimate burning program for all your needs!</a>
 
 **6)** Click your **C drive** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
@@ -168,10 +159,11 @@ The ultimate burning program for all your needs!</a>
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
 * **Maximum size** – Don’t set this value too high. It should be about 1.5 times the size of your physical RAM. e.g. A PC with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4096 MB x 1.5).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -180,8 +172,9 @@ The ultimate burning program for all your needs!</a>
  You should be able to run Wolcen without crashing now. If not, check the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the game
 
  Game issues, such as freezing, crashing or lagging might happen when the game is not properly installed on your PC, follow the instructions below to reinstall_**Lords of Mayhem**_ to see if it fixes your problem:
@@ -192,12 +185,17 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-25-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-26-45.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -218,8 +216,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +223,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-through-channels-aesthetics-with-these-tools/"><u>[New] 2024 Approved Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[New] TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[Updated] 2024 Approved How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-step-by-step-guide-to-building-a-profitable-channel/"><u>In 2024, Your Step-by-Step Guide to Building a Profitable Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-stability-effective-ways-to-stop-counter-strike-2-from-crashing-on-your-windows/"><u>Master the Art of Stability: Effective Ways to Stop Counter-Strike 2 From Crashing on Your Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-undead-battlefield-solving-za4-issues-with-steam-and-pc-optimization/"><u>Mastering the Undead Battlefield: Solving ZA4 Issues with Steam and PC Optimization</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-crashes-in-ac-odyssey-for-pc-step-by-step-repair-guide/"><u>No More Crashes in AC Odyssey for PC - Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-guide-duplicate-and-preserve-your-dvd-collection-using-winx-dvd-copy-software/"><u>Quick Guide: Duplicate and Preserve Your DVD Collection Using WinX DVD Copy Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/seize-the-day-with-exhilarating-game-hits-all-for-free/"><u>Seize the Day with Exhilarating Game Hits (All for Free!)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008618059-solve-cs-go-not-starting-discover-effective-strategies-here/"><u>Solve CS: GO Not Starting? Discover Effective Strategies Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-preventing-fifa-20-from-crashing-on-pcs/"><u>Step-by-Step Solution for Preventing FIFA 20 From Crashing on PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-amv-online-gratuitamente-nel-formato-wmv-con-movavi-facile-e-gratuito/"><u>Trasforma I Tuoi AMV Online Gratuitamente Nel Formato WMV Con Movavi - Facile E Gratuito</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992341431-trouble-getting-frontiers-of-pandora-running-this-article-has-the-answers-you-need/"><u>Trouble Getting 'Frontiers of Pandora' Running? This Article Has the Answers You Need</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985347971-trouble-with-nier-gestaltreplicant-remaster-heres-what-to-do/"><u>Trouble with NieR Gestalt/Replicant Remaster? Here's What To Do!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-how-to-fix-minecrafts-endless-loading-screen/"><u>Troubleshooting Tips: How to Fix Minecraft's Endless Loading Screen</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unpacking-your-files-a-step-by-step-guide-on-how-to-open-zip-archives-on-windows-tips-by-yl-computing/"><u>Unpacking Your Files: A Step-by-Step Guide on How to Open ZIP Archives on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-impenetrable-weatherproof-blink-mini-2-surpasses-the-standard-wyze-cam-a-comparative-analysis-by-tech-savvy/"><u>Why The Impenetrable, Weatherproof Blink Mini 2 Surpasses the Standard Wyze Cam – A Comparative Analysis by Tech Savvy</u></a></li>
+</ul></div>
 

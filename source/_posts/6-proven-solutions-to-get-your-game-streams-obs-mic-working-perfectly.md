@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Solutions to Get Your Game Stream's OBS Mic Working Perfectly
-date: 2024-08-18T13:51:06.458Z
-updated: 2024-08-19T13:51:06.458Z
+date: 2025-01-09T17:41:35.439Z
+updated: 2025-01-10T20:05:31.653Z
 tags:
   - win11
   - win10
@@ -29,8 +29,9 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Turn off unwanted programs
 
  If you’re running multiple applications and background processes on your computer all at the same time, hogging your network resources, that can cause Steam to slow down. Try turning off unnecessary programs:
@@ -42,25 +43,16 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **1)** Right-click your taskbar and select**Start Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
 **2)** Click the**Processes** tab. Then, check your current**CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
 **3)** Right-click the resource-consuming process and select**End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
  After you turn off unnecessary processes on your computer, restart Steam to see if it runs faster. If this doesn’t help, try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to clear Steam cache and cookies.
@@ -79,12 +71,13 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
  Try running Steam to see if it can work faster now. If Steam still works slow, there are 5 more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Clear Steam cache and cookies
 
@@ -102,10 +95,11 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **3)** Select**Web Browser** and click**DELETE WEB BROWSER CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**OK** .
 
@@ -115,22 +109,20 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
 
 **7)** Select**Downloads,** and then click**CLEAR DOWNLOAD CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-781.png)
 
 **8)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
 
 **9)** **Restart** Steam.
@@ -138,8 +130,9 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
  Check if this method helped in speeding up Steam. If Steam still runs slow, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Outdated or faulty device drivers can also cause Steam to lag. To see if that’s the problem for you, try updating your drivers. There are two ways you can do this:
@@ -181,23 +174,14 @@ If your problem persists, then move on and try the fix below.
 
 **2)** Click**Internet Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
 **3)** Click the**Connections tab** , and then click**LAN settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-775.png)
 
 **4)** Uncheck**Automatically detect settings** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
 
  If you lose your network connections after you change your proxy settings, return to the LAN Settings window to re-enable the automatic detection setting.
@@ -206,9 +190,6 @@ If your problem persists, then move on and try the fix below.
 
 If this didn’t resolve your problem, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 5: Repair the Steam service
 
  Corrupt or missing Steam files may also Steam performance issues. To fix it, you’ll need to verify Steam files. Here is how:
@@ -217,15 +198,19 @@ If this didn’t resolve your problem, move on and try the next fix.
 
 **2)** Type**C:\\Program Files (x86)\\Steam\\bin\\SteamService.exe /repair** , then hit the**Enter** key on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-42-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** You’ll see a window appears. (It may take a few minutes to repair Steam service, please wait for the process to be complete. Don’t close the window.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-44-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart Steam to test your issue.
 
@@ -237,10 +222,11 @@ If your issue continues to occur, then move on to the next fix below.
 
 **1)** Right-click the Steam icon and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back up it.
 
@@ -256,17 +242,15 @@ If your issue continues to occur, then move on to the next fix below.
 
 **5)** Select**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-772.png)
 
 **6)** Right-click**Steam** , and then click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-771.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -276,10 +260,11 @@ If your issue continues to occur, then move on to the next fix below.
 
 **9)** Right-click**the Steam icon** and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)** Move the backup**steamapps** folder you create before to your current directory location. Then, restart Steam.
 
@@ -298,8 +283,6 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -307,4 +290,26 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-sims-4-recording-techniques-for-gamers/"><u>[New] 2024 Approved Sims 4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elite-meme-enhancer-program/"><u>[New] In 2024, Elite Meme Enhancer Program</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-flawless-frame-grabber-selection-no-lag-included/"><u>[New] In 2024, Flawless Frame Grabber Selection - No Lag Included</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>2024 Approved Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-operational-handling-of-srt-in-oses/"><u>2024 Approved Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automatic-system-repairs-on-windows-10-a-comprehensive-guide/"><u>Automatic System Repairs on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-game-crashing-dilemma-eliminating-directx-problems-in-fifa-20/"><u>Beat the Game Crashing Dilemma - Eliminating DirectX Problems in FIFA 20</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008422847-expert-tips-to-eliminate-genshin-impacts-error-4201-get-back-into-the-game/"><u>Expert Tips to Eliminate Genshin Impact's Error 4201 – Get Back Into the Game!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/monster-hunter-stories-2-fixes-and-solutions-for-wings-of-ruin-installation-issues/"><u>Monster Hunter Stories 2: Fixes & Solutions for 'Wings of Ruin' Installation Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-unraveling-the-mystery-of-rusts-screen-distortion-issue/"><u>Resolved: Unraveling the Mystery of Rust's Screen Distortion Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-dark-screen-hurdle-a-players-handbook-for-cyberpunk-ebooten2077-successes/"><u>Resolving the Dark Screen Hurdle: A Player's Handbook for Cyberpunk Ebooten2077 Successes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-issue-msi-afterburner-misses-gpu-detection-in-windows-10-and-11-systems/"><u>Resolving the Issue: MSI Afterburner Misses GPU Detection in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-effortlessly-even-without-itunes/"><u>Revive Your iPhone Effortlessly, Even without iTunes</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/solutions-open-source-sans-frais-pour-les-historiques-de-fichiers-sur-windows-alternatives-pratiques-pour-windows-10881/"><u>Solutions Open Source Sans Frais Pour Les Historiques De Fichiers Sur Windows - Alternatives Pratiques Pour Windows 10/8/8.1</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-game-startup-problems-resolved-a-comprehensive-guide-for-windows-10-users/"><u>Steam Game Startup Problems Resolved: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-adaptive-assistant-in-every-journey-with-patekfly-12/"><u>The Adaptive Assistant in Every Journey with Patekfly 12</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-get-vanguard-to-use-graphics-card-on-windows-11-systems/"><u>Troubleshooting: Get Vanguard to Use Graphics Card on Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-your-gpus-potential-for-higher-performance-in-warzone-on-windows-11/"><u>Unlock Your GPU's Potential for Higher Performance in Warzone on Windows 11</u></a></li>
+</ul></div>
 

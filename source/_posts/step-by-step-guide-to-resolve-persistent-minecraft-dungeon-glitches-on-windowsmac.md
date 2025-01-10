@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Resolve Persistent Minecraft Dungeon Glitches on Windows/Mac
-date: 2024-08-18T13:54:04.862Z
-updated: 2024-08-19T13:54:04.862Z
+date: 2025-01-03T18:21:28.931Z
+updated: 2025-01-10T19:13:29.062Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -35,10 +36,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -51,8 +48,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -66,18 +64,12 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -87,9 +79,17 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -121,9 +121,11 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
@@ -137,9 +139,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Change scale and layout limit
 
  This solution has been proved by some users that help them fix the Fortnite black screen problem. Follow the steps below to change the display settings on your computer.
@@ -156,11 +155,13 @@ OR
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
 
 1. Type “firewall” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
@@ -181,8 +182,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +189,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-budget-switch-console-clones/"><u>[New] 2024 Approved Best Budget Switch Console Clones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-banner-blueprints-a-gamers-design-handbook-for-2024/"><u>[New] YouTube Banner Blueprints A Gamers' Design Handbook for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-perfect-shade-editor/"><u>[Updated] Perfect Shade Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-film-color-correction-with-luts/"><u>2024 Approved Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-invisible-social-signals-in-online-media/"><u>2024 Approved Understanding Invisible Social Signals in Online Media</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-gaming-experience-resolving-fallout-amoanow-76s-lag-issues-tips/"><u>Elevate Your Gaming Experience: Resolving Fallout Amoanow 76'S Lag Issues - Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/free-photo-manipulation-software-top-picks-for-2024/"><u>Free Photo Manipulation Software Top Picks for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-bdo-black-desert-online-crashing-issues-on-your-gaming-computer/"><u>How to Fix BDO (Black Desert Online) Crashing Issues on Your Gaming Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-wont-load-here-are-proven-fixes-to-resume-playing/"><u>Minecraft Won't Load? Here Are Proven Fixes to Resume Playing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-glitches-in-the-sims-4-a-guide-for-video-card-troubleshooting/"><u>Overcoming Visual Glitches in The Sims 4 - A Guide for Video Card Troubleshooting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/red-dead-redemption-angry-birdies-2-errors-solving-errgfxstate-malfunction-seamlessly/"><u>Red Dead Redemption Angry Birdies 2 Errors, Solving ERR_GFX_STATE Malfunction Seamlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-strategies-to-fix-crashes-in-detroit-become-human-windows-version-gameplay/"><u>Solution Strategies to Fix Crashes in Detroit: Become Human Windows Version Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-next-level-of-immersion-top-10-vr-gear/"><u>The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-iphone-dictation-issues-get-it-running-smoothly-again/"><u>Top 5 Solutions for iPhone Dictation Issues: Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-wsappx-comprehensive-guide-to-minimizing-system-overload/"><u>Troubleshooting WSAPPX: Comprehensive Guide to Minimizing System Overload</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-performance-fix-enforce-system-reset/"><u>Valorant Performance Fix: Enforce System Reset</u></a></li>
+</ul></div>
 

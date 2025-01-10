@@ -1,7 +1,7 @@
 ---
 title: Solve House Flipper 2 Instability Issues on Your Windows Computer
-date: 2024-08-18T13:50:37.682Z
-updated: 2024-08-19T13:50:37.682Z
+date: 2025-01-05T18:23:10.378Z
+updated: 2025-01-10T17:17:05.296Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Elite Dangerous Crashing
 
  Before going any further, it’s critical that you restart your computer first. A restart can clean away the current state of the software, which includes any issues that have occurred.
@@ -31,18 +35,12 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -51,25 +49,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -83,8 +66,9 @@ This could take several minutes. Wait for the process to be complete.
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -99,9 +83,6 @@ This could take several minutes. Wait for the process to be complete.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -114,9 +95,17 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -128,14 +117,15 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -149,9 +139,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -159,6 +146,10 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -182,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +180,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pros-playbook-elevate-your-tiktok-video-game/"><u>[Updated] 2024 Approved Pro's Playbook Elevate Your TikTok Video Game</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-screen-readers-digest-recorder-evaluation/"><u>[Updated] 2024 Approved The Screen Reader's Digest Recorder Evaluation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-virtual-realms-the-finest-vr-accessories-unveiled/"><u>[Updated] In 2024, Virtual Realms The Finest VR Accessories Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-best-11-first-timer-kids-cameras-for-rainy-day-vlogging-for-2024/"><u>[Updated] The Best 11 First-Timer Kids' Cameras for Rainy Day Vlogging for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-f23-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo F23 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077s-gpu-usage-issue-corrected-on-windows-10-platform-how-to-fix-it/"><u>Cyberpunk 2077'S GPU Usage Issue Corrected on Windows 10 Platform – How to Fix It?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-triller-a-platform-beyond-traditional-tiktok/"><u>Discovering Triller A Platform Beyond Traditional TikTok</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-eliminating-latency-in-your-naraka-bladesports-adventures/"><u>Expert Tips for Eliminating Latency in Your Naraka Bladesports Adventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-insights-and-conversions/"><u>Harness the Power of Cookiebot for Superior Website Insights & Conversions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-chrome-from-using-too-much-processor-power-solution/"><u>How to Stop Chrome From Using Too Much Processor Power (Solution)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-temperature-range-for-concrete-curing-is-between-5c-and-30c/"><u>Ideal Temperature Range for Concrete Curing Is Between 5°C and 30°C.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-discord-app-refuses-to-start-up/"><u>Step-by-Step Fixes for When Your Discord App Refuses to Start Up</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-correct-adobe-startup-and-fixing-error-message-0xc0000022/"><u>Step-by-Step Guide: Correct Adobe Startup and Fixing Error Message 0xC0000022</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-excessive-ram-use-by-chrome-tips-included/"><u>Troubleshooting Excessive RAM Use by Chrome [Tips Included]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-battlefield-5-not-starting-easy-fixes-inside/"><u>Troubleshooting the Battlefield 5 Not Starting - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-mir4-stalling-performance-on-your-computer-best-practices/"><u>Ultimate Fix for MIR4 Stalling Performance on Your Computer: Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vulnerabilities-unlocked-cheap-windows-activation-keys-exposed/"><u>Vulnerabilities Unlocked: Cheap Windows Activation Keys Exposed</u></a></li>
+</ul></div>
 

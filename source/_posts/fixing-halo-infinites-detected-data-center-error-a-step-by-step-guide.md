@@ -1,7 +1,7 @@
 ---
 title: Fixing Halo Infinite’s Detected Data Center Error – A Step-by-Step Guide
-date: 2024-08-18T13:51:25.297Z
-updated: 2024-08-19T13:51:25.297Z
+date: 2025-01-03T18:54:44.336Z
+updated: 2025-01-10T22:28:29.505Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 It’s annoying that the game doesn’t start up with sound, or can’t get any sound. If you have the same issue, this post may help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,13 +30,18 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Use wire headsets
 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -44,35 +53,29 @@ Hope it works for you, if not, try updating your audio driver.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
 
@@ -88,8 +91,6 @@ Enjoy the game and have a nice day!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +98,24 @@ Enjoy the game and have a nice day!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>[New] Conquer the Camera Prostrate Techniques With GoPro Hero5 Black</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-virtual-footprint-effective-methods-for-archiving-lives/"><u>[New] In 2024, Virtual Footprint Effective Methods for Archiving Lives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[Updated] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-for-educators-maximizing-its-classroom-potential/"><u>[Updated] YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/a-closer-look-six-wins-of-win11-over-macos/"><u>A Closer Look: Six Wins of Win11 Over MacOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-performance-resolving-outriders-lagging-frames-per-second-fps-problems/"><u>Boosting Performance: Resolving Outriders' Lagging Frames per Second (FPS) Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-out-the-splendor-in-your-iphone-reflections-for-2024/"><u>Bring Out the Splendor in Your iPhone Reflections for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-discords-camera-issue-step-by-step-solutions/"><u>How to Resolve Discord's Camera Issue - Step by Step Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone XR?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-pc-performance-for-seamless-zombie-battles-in-dead-war/"><u>Optimizing PC Performance for Seamless Zombie Battles in 'Dead War'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-portable-all-in-one-pc-by-hp-the-shocking-announcement-you-need-to-know-covered-by-zdnet/"><u>Revolutionary Portable All-in-One PC by HP: The Shocking Announcement You Need to Know, Covered by ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012439041-say-goodbye-to-bluestacks-problems-fix-it-in-just-five-steps/"><u>Say Goodbye to BlueStacks Problems - Fix It in Just Five Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-common-problems-with-the-battlenet-app-for-windows-users/"><u>Solving Common Problems with the Battle.net App for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-the-blackout-challenge-in-halo-infinite-a-step-by-step-solution-breakdown/"><u>Tackling the Blackout Challenge in Halo Infinite: A Step-by-Step Solution Breakdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-end-of-flashing-screens-eliminating-the-persistent-glitch/"><u>The End of Flashing Screens: Eliminating the Persistent Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-davinci-resolve-windows-startup-problems-solutions-inside/"><u>Troubleshooting DaVinci Resolve Windows Startup Problems - Solutions Inside!</u></a></li>
+</ul></div>
 

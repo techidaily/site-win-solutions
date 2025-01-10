@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functional Windows Version of Battle.net Launcher
-date: 2024-08-18T13:52:21.267Z
-updated: 2024-08-19T13:52:21.267Z
+date: 2025-01-04T21:07:04.022Z
+updated: 2025-01-10T22:27:40.191Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +32,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -39,6 +44,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Tab** keys on your keyboard at the same time to switch back into your game.
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
@@ -49,9 +58,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -80,33 +86,30 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +124,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +131,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-workshop-archives-for-2024/"><u>[New] Digital Workshop Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-capturing-top-notch-audio-without-microphone-dependency-for-2024/"><u>[Updated] Capturing Top-Notch Audio Without Microphone Dependency for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/detailed-guide-resolving-sound-issues-in-minecraft-when-played-on-desktops/"><u>Detailed Guide: Resolving Sound Issues in Minecraft When Played on Desktops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-new-lg-gram-pro-outperforms-apples-macbook-air-in-key-aspects-insights-by-zdnet/"><u>How the New LG Gram Pro Outperforms Apple's MacBook Air in Key Aspects | Insights by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-adobe-after-effects-instability-issues-on-windows-1110/"><u>How to Resolve Adobe After Effects Instability Issues on Windows 11/10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-custom-youtube-shorts-image-credits-with-ease/"><u>In 2024, Mastering Custom YouTube Shorts Image Credits with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-edge-approaches-in-spotifys-advertising-realm-for-2024/"><u>Leading Edge Approaches in Spotify's Advertising Realm for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-apex-effective-fixes-for-the-infamous-error-code-23-glitch/"><u>Mastering Apex: Effective Fixes for the Infamous Error Code 23 Glitch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfect-pictures-quick-pixlr-tricks-for-beginners-for-2024/"><u>Perfect Pictures Quick Pixlr Tricks for Beginners for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-common-challenges-and-fixes-in-hearts-of-iron-iv/"><u>Resolved: Common Challenges & Fixes in Hearts of Iron IV</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/solutions-for-when-your-windows-bars-volume-icon-disappears-insights-by-yl-software-experts/"><u>Solutions for When Your Windows Bar's Volume Icon Disappears: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-moderating-role-of-raceethnicity-in-the-association-between-socioeconomic-status-and-health-outcomes/"><u>The Moderating Role of Race/Ethnicity in the Association Between Socioeconomic Status and Health Outcomes.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-made-simple-addressing-continuous-outriders-game-crashes/"><u>Troubleshooting Made Simple: Addressing Continuous Outriders Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-roblox-startup-problems-top-tips/"><u>Troubleshooting Roblox Startup Problems - Top Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-a-comparative-analysis-of-gpt-4-vs-gpt-navigating-through-5-major-variations/"><u>Unveiling the Distinctions: A Comparative Analysis of GPT-4 Vs. GPT-Navigating Through 5 Major Variations</u></a></li>
+</ul></div>
 
