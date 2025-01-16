@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Common Causes: Solving Risk of Rain 2 Game Crashes"
-date: 2024-08-18T13:58:42.342Z
-updated: 2024-08-19T13:58:42.342Z
+date: 2025-01-10T08:51:22.956Z
+updated: 2025-01-16T00:36:48.752Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | RAM             | 4 GB                                         |
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
@@ -40,11 +41,13 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -57,15 +60,17 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 10. Select **OK** to save your changes and close the Exception List window.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -78,18 +83,15 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -101,8 +103,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,26 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-maximizing-impact-when-to-start-your-podcast/"><u>[New] In 2024, Maximizing Impact When to Start Your Podcast</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-art-of-setting-up-and-evaluating-facebooks-in-stream-ads/"><u>[New] Mastering the Art of Setting Up & Evaluating Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-detailed-walkthrough-ipad-screen-recording/"><u>[Updated] In 2024, Detailed Walkthrough IPad Screen Recording</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-chaptering-organizing-video-sections/"><u>[Updated] In 2024, Vimeo Chaptering Organizing Video Sections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-nba-2k2-glitches-step-by-step-solution/"><u>Banish NBA 2K2# Glitches - Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-kids-5-safety-steps-to-follow/"><u>ChatGPT for Kids: 5 Safety Steps to Follow</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convierta-su-video-mxf-al-popular-mp4-de-manera-gratuita-mediante-el-servicio-online-de-movavi/"><u>Convierta Su Video MXF Al Popular MP4 De Manera Gratuita Mediante El Servicio Online De Movavi.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-image-pro-insider-secrets-for-lunapic/"><u>Elevate Your Image Pro Insider Secrets for LunaPic</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-gameplay-experience-for-red-dead-redemption-2-with-stuttering-solutions-and-fps-improvements/"><u>Enhanced Gameplay Experience for Red Dead Redemption 2 with Stuttering Solutions and FPS Improvements</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-your-pathfinder-game-keyboard-issues-with-wrath-of-the-righteous/"><u>Fixing Your Pathfinder Game: Keyboard Issues with 'Wrath of the Righteous'</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fps-drop-problems-solved-for-resident-evil-village-on-personal-computers/"><u>FPS Drop Problems Solved for Resident Evil Village on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-yakuza-3-remastered-from-crashing-on-your-computer/"><u>How to Stop Yakuza 3 Remastered From Crashing on Your Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ipad-calculator-app-so-sophisticated-youll-need-an-apple-pencil/"><u>Revolutionary iPad Calculator App: So Sophisticated, You'll Need an Apple Pencil!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rokus-silent-screen-easy-ways-to-restart-your-devices-closed-captions/"><u>Roku's Silent Screen? Easy Ways to Restart Your Device's Closed Captions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-application-failures-an-in-depth-analysis-and-repair-techniques/"><u>Solving Application Failures: An In-Depth Analysis and Repair Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-persistent-crashes-in-palworld-for-windows-users/"><u>Troubleshooting Guide: Resolving Persistent Crashes in PalWorld for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-mastery-quick-fix-for-deathloop-pc-malfunctions-easy-methods/"><u>Troubleshooting Mastery: Quick Fix for Deathloop PC Malfunctions [Easy Methods]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tech-difficulties-how-to-get-tekken-8-running-on-a-windows-machine/"><u>Troubleshooting Tech Difficulties: How To Get Tekken 8 Running on a Windows Machine</u></a></li>
+</ul></div>
 

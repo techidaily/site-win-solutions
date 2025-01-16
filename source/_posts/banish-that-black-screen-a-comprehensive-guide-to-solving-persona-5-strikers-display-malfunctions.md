@@ -1,7 +1,7 @@
 ---
 title: "Banish That Black Screen: A Comprehensive Guide to Solving Persona 5 Strikers Display Malfunctions"
-date: 2024-08-18T13:57:42.177Z
-updated: 2024-08-19T13:57:42.177Z
+date: 2025-01-12T17:22:04.321Z
+updated: 2025-01-16T14:40:30.892Z
 tags:
   - win11
   - win10
@@ -15,14 +15,15 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
 ## How to Troubleshoot the Persistent Dark Display on MTG Arena - Solutions Revealed
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-29-57-1200x673.jpg)
 
  Keep getting the black screen when playing_Magic: The Gathering Arena_ _(MTGA)_ ? You’re not alone! Many players are reporting this issue.
 
  But the good news is that there are quite a few known fixes available. Read on to find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix MTGA Black Screen Issues?
 
@@ -37,25 +38,10 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Restart Your Device
 
  Whether you’re running into the MTG Arena black screen issue on your computer or your mobile phone, before we dive into anything advanced, make sure you’ve restarted your device. – A simple restart will reset your system environment and can often fix software glitches like this.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Make Sure Your Device Meets MTGA Minimum Specs
 
  If the black screen issue still exists after the reboot, you might want to check your PC specifications and make sure it can handle the demands of the game. Here’re the minimum system requirements for MTGA:
@@ -74,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
  If your network works fine and the issue persists, then move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Close Background Apps
 
  If you’re running multiple programs when playing Magic: The Gathering Arena, issues like this may occur because of software conflicts or an overloaded system. Make sure you close inessential background apps when gaming, such as your antivirus, overlay software, etc.
@@ -90,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 If this does fix your issue, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Update Your Graphics Driver
 
  If the blacking screen issue keeps coming up, it might be that your graphics driver is not compatible or gets corrupted somehow. So you want to make sure that you’re using the right driver.
@@ -106,13 +90,14 @@ If this does fix your issue, try the next solution.
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
  You can do it for free if you want, but it’s partly manual.
@@ -123,6 +108,10 @@ If this does fix your issue, try the next solution.
 4) Restart your game to test the issue.
 
 If you still have the problem, then try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Reinstall the Game
 
@@ -136,12 +125,13 @@ If you still have the problem, then try the next fix below.
 
  3) Right-click**MTG Arena** and click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-19-29.jpg)
 
  4) [**Download**](https://magic.wizards.com/) and reinstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Use a VPN
 
@@ -171,8 +161,6 @@ If you still have the problem, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +168,23 @@ If you still have the problem, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-star-wars-battlefront-2-black-screen/"><u>[FIXED] Star Wars Battlefront 2 Black Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leading-14-creative-text-animation-cases-for-2024/"><u>[New] Leading 14 Creative Text Animation Cases for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-effortless-facebook-live-four-strategies-to-record-successfully/"><u>[Updated] In 2024, Effortless Facebook Live Four Strategies to Record Successfully</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-superior-sound-recordings-minus-the-mic/"><u>[Updated] In 2024, Unlocking Superior Sound Recordings Minus the Mic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-selective-cinematic-forecast-collection/"><u>[Updated] Selective Cinematic Forecast Collection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparative-analysis-of-ar-stickers-focusing-on-google/"><u>2024 Approved Comparative Analysis of AR Stickers, Focusing on Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-language-barriers-with-chatgpt-insights/"><u>Breaking Language Barriers with ChatGPT Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-custom-privileges-in-win11-by-default/"><u>Clearing Custom Privileges in Win11 by Default</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-performance-and-eliminate-lags-expert-advice-for-enhancing-frames-per-second-fps-in-valorant/"><u>Elevate Performance & Eliminate Lags: Expert Advice for Enhancing Frames Per Second (FPS) in Valorant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-chrome-freezing-windows-10-easily/"><u>Fix Chrome Freezing Windows 10 Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-resolve-persona-5-strikers-pc-game-crashes/"><u>Fixes and Solutions: How to Resolve Persona 5 Strikers PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-cyberpunk-2077-ignoring-graphics-card-in-windows-11-setup/"><u>Resolved: Cyberpunk 2077 Ignoring Graphics Card in Windows 11 Setup</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-data-backup-on-windows-10-using-a-usb-flash-drive/"><u>Secure Data Backup on Windows 10 Using a USB Flash Drive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-for-darkened-screens-in-discord-live-sharing-scenarios/"><u>Solution Found for Darkened Screens in Discord Live Sharing Scenarios</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-top-6-solutions-when-your-steam-vr-goes-unnoticed/"><u>Solving the Mystery: Top 6 Solutions When Your Steam VR Goes Unnoticed</u></a></li>
+</ul></div>
 
