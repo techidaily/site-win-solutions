@@ -1,7 +1,7 @@
 ---
 title: Call of Duty WWII Troubleshooting - Navigating Past Error Code 지 4128 Easily!
-date: 2024-08-18T14:01:05.439Z
-updated: 2024-08-19T14:01:05.439Z
+date: 2025-01-18T16:24:20.405Z
+updated: 2025-01-22T17:19:49.134Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 Recently, a large number of Warzone players started reporting a**Dev error 6634** issue that gets them booted in the middle of the game. Though the cause of this issue varies from person to person, we’ve put together some fixes that prove working for many players. Try them and get your game working right away.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -37,19 +38,22 @@ Recently, a large number of Warzone players started reporting a**Dev error 6634*
 
 1. Open your **Battle.net** client.
 2. From the left menu, select **Call of Duty: MW** . Click **Options**  and select **Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click **Begin Scan** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
 4. Once done, enter the game and play as you normal would.
 
  If the issue reoccurs after a scan and repair, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:**Update your graphics driver**
 
  Crashes in COD series are usually graphics-related — It could mean your game encountered a compatibility issue triggered by a**broken or outdated graphics driver** . That’s why we always recommend gamers to keep their drivers up to date: new drivers improve your gaming experience and most importantly, they would also fix compatibility issues like lagging and constant crashing.
@@ -91,22 +95,22 @@ To do so, first visit the website of your GPU manufacturer:
 Here’s how you can check for updates manually:
 
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -122,9 +126,6 @@ To do this, simply follow these steps:
 
 1. Launch Modern Warfare and go to**Options** .
 2. Navigate to the**GRAPHICS** tab. Click**Restart Shaders Installation** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone-reinstall-shaders-1.jpg)
 3. Click**RESTART** to proceed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone-reinstall-shaders-2.jpg)
@@ -132,17 +133,15 @@ To do this, simply follow these steps:
 
  If reinstalling shaders doesn’t give you luck, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Change your loadouts, skins and operators
 
  The dev error could also be a glitch inside the game. According to some players, changing to Modern Warfare loadouts seemed to have stopped the error from appearing. So if you’re using**loadouts or operators** from Black Ops Cold War, change them to the Modern Warfare ones and check the outcome. In the meantime,**remove all your skins** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bocw-operators-1-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 BOCW Operators
 
@@ -166,8 +165,6 @@ BOCW Operators
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +172,23 @@ BOCW Operators
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-hottest-8-video-clips-trending-today-online/"><u>[New] 2024 Approved The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-streamline-markings-ultimate-tiktok-eraser-tools/"><u>[New] Streamline Markings Ultimate TikTok Eraser Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-chucklecrafts-create-meme-delight/"><u>[Updated] 2024 Approved ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-accelerate-the-performance-of-your-instagram-videos-for-2024/"><u>[Updated] Accelerate the Performance of Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-12-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme 12 Pro+ 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-online-konverter-von-m4b-zu-avi-movavi/"><u>Gratis Online Konverter Von M4B Zu AVI - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-shorts-content-strategy-for-success/"><u>In 2024, YouTube Shorts Content Strategy for Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-converti-file-mkv-in-formato-ogg-senza-costi-direttamente-sul-web/"><u>Movavi: Converti File MKV in Formato OGG Senza Costi Direttamente Sul Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-m4r-mp3/"><u>Movavi의 M4R 프로그램에 대한 자세한 분석: 비용 없이 원근 문제를 해소하는 MP3 변환 방법</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/os-12-melhores-softwares-de-edicao-para-vlogs-com-efeitos-glaciais/"><u>Os 12 Melhores Softwares De Edição Para Vlogs Com Efeitos Glaciais</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shark-ion-robotics-latest-bot-av750-reviewed-exceptional-dirt-suction-and-orientation-challenges-explored-gadget-geeks-uncovered/"><u>Shark ION Robotics' Latest Bot, AV750 Reviewed: Exceptional Dirt Suction & Orientation Challenges Explored | Gadget Geeks Uncovered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplifying-your-workflow-a-comprehensive-guide-to-excel-column-unification/"><u>Simplifying Your Workflow: A Comprehensive Guide to Excel Column Unification</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-professional-vfx-software-the-leading-10-options-reviewed/"><u>Ultimate Guide to Professional VFX Software: The Leading 10 Options Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226167751-ppm-ff-movavi/"><u>손상 없는 인터넷에서 제공하는 무료 PPM 티 Ff 이미지 변환 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-caf-to-m4a/"><u>すぐに始めるための無料ウェブベースのオーディオ変換: Movavi CAF to M4A</u></a></li>
+</ul></div>
 
