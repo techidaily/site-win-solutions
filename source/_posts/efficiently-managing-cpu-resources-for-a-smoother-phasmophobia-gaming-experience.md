@@ -1,7 +1,7 @@
 ---
 title: Efficiently Managing CPU Resources for a Smoother Phasmophobia Gaming Experience
-date: 2024-08-18T14:06:24.400Z
-updated: 2024-08-19T14:06:24.400Z
+date: 2025-01-25T20:34:22.894Z
+updated: 2025-01-30T03:46:10.942Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 
  With Psychonauts 2 released recently, some players have reported that the game keeps crashing on their PC while in-game or at launch. If you’re facing the same issue, don’t worry. In this post, you’ll learn how to fix Psychonauts 2 crashing issues easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’re some working fixes for your Psychonauts 2 crashing issue. You might not need to try them all, just work down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot Psychonauts 2 crashing issues, you need to make sure your PC meets the minimum system requirements to run the game properly.
@@ -61,17 +55,16 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
- Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -79,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 
 If the issue persists, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -98,33 +88,23 @@ Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 If the crashing issue remains, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Launch the game in DX11 mode
 
  If you receive a “LowLevelFatalError” error message when Psychonauts 2 crashes, then try launching the game in DX11 mode. This was suggested by the game developers. To do so:
 
 1. Go to the Steam**Library** .
 2. Right-click Psychonauts 2, select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -134,21 +114,34 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
@@ -170,8 +163,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +170,20 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-secretive-suggestions-for-enhanced-vlc-usage/"><u>[New] Secretive Suggestions for Enhanced VLC Usage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-live-streaming-recorders-for-youtube-maestros-for-2024/"><u>[New] Ultimate Live Streaming Recorders for YouTube Maestros for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-the-401-unauthorized-error-techniques-to-restore-access/"><u>Deciphering the 401 Unauthorized Error - Techniques to Restore Access</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-problem-inability-of-call-of-duty-warzone-visuals-to-load/"><u>Fixing the Problem: Inability of Call of Duty Warzone Visuals to Load</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-script-to-screen-on-a-budget-7-essential-filmmaking-software-for-2024/"><u>From Script to Screen on a Budget 7 Essential Filmmaking Software for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-initialization-issue-with-vanguard-ability-in-valorant/"><u>Resolved: Fixing the Initialization Issue with Vanguard Ability in Valorant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-elevated-cpu-consumption-in-the-latest-game-version-a-step-by-step-guide/"><u>Resolving Elevated CPU Consumption in the Latest Game Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-getting-fallout-3-running-smoothly-on-windows-10/"><u>Step-by-Step Guide: Getting Fallout 3 Running Smoothly on Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-t2-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo T2 5G FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-premier-live-streaming-platforms-a-comparative-guide-for-2024/"><u>Top 10 Premier Live Streaming Platforms A Comparative Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-broadcasts-with-manycam-advanced-live-video-software-and-virtually-flawless-webcams/"><u>Transform Your Broadcasts with ManyCam: Advanced Live Video Software and Virtually Flawless Webcams</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-innovative-applications-unveiling-the-most-advanced-11-voice-modification-solutions-on-ios-and-android-without-an-expense-for-2024/"><u>Updated Innovative Applications Unveiling the Most Advanced 11 Voice Modification Solutions on iOS and Android Without an Expense for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vr-beyond-boundaries-top-tech-and-accessories-unveiled/"><u>VR Beyond Boundaries Top Tech and Accessories Unveiled</u></a></li>
+</ul></div>
 

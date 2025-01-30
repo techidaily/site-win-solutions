@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Overcome GTA V's D3D Initialization Flaw - The ERR_GFX_D3D_INIT Error
-date: 2024-08-18T14:06:43.826Z
-updated: 2024-08-19T14:06:43.826Z
+date: 2025-01-25T04:36:27.970Z
+updated: 2025-01-29T21:40:29.151Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  Many PC players have reported getting**Error 4201 on Genshin Impact** , which prevents them from even logging into the game. The error message may state “**Failed to connect, please check your network settings** ” or “**Failed to connect to the server** .” If you’re on the same boat, no worries! We’ve got some working fixes that you can try, just read on and find out what they are.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -50,13 +51,9 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -65,10 +62,11 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
@@ -89,18 +87,17 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
 
@@ -109,11 +106,12 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your network adapter driver
 
  If you’ve tried the fixes above but nothing worked, you may try to update your network adapter driver. Making sure your network adapter driver is working properly could help solve Error 4201 on Genshin Impact.
@@ -126,17 +124,11 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -158,8 +150,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +157,24 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-scholarly-channels-on-youtube-for-history-aficionados/"><u>[New] 2024 Approved Top 10 Scholarly Channels on Youtube for History Aficionados</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-cortana-not-working/"><u>[Solved] Cortana Not Working?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-blend-zoom-events-smoothly-into-phone-and-desktop-plans-efficiently/"><u>[Updated] Blend Zoom Events Smoothly Into Phone & Desktop Plans Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-thrift-shops-to-youtube-stars-crafting-hauls-with-professional-precision/"><u>[Updated] From Thrift Shops to YouTube Stars Crafting Hauls with Professional Precision</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-lag-and-enjoy-seamless-battles-essential-fixes-for-chivalry-2s-ping-issues-latest-insights/"><u>Defeat Lag and Enjoy Seamless Battles: Essential Fixes for Chivalry 2'S Ping Issues [Latest Insights]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722991416672-disco-elysium-stable-launch-no-more-issues-on-your-pc/"><u>Disco Elysium Stable Launch: No More Issues On Your PC!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-note-12-pro-4g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi Note 12 Pro 4G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-bug-fixes-how-the-reconnect-loop-problem-was-solved/"><u>League of Legends Bug Fixes : How the Reconnect Loop Problem Was Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010528558-overcoming-performance-hiccups-strategies-to-stop-metro-exodus-from-crashing-mid-game/"><u>Overcoming Performance Hiccups: Strategies to Stop Metro Exodus From Crashing Mid-Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010515282-struggling-with-battlefield-5-boot-up-problems-discover-effortless-fixes-in-our-latest-guide/"><u>Struggling with Battlefield 5 Boot-Up Problems? Discover Effortless Fixes in Our Latest Guide!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-art-of-extraction-converting-videos-to-images-with-10-proven-methods-for-2024/"><u>The Art of Extraction Converting Videos to Images with 10 Proven Methods for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-corsair-icue-issues-in-windows-10-and-11/"><u>Troubleshooting Steps for Resolving Corsair iCUE Issues in Windows 10 and 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unleashing-the-full-potential-of-horizon-zero-dawn-frame-rate-boost-and-speed-enhancements/"><u>Unleashing the Full Potential of Horizon Zero Dawn - Frame Rate Boost & Speed Enhancements</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-how-to-convert-videos-to-dvd-format-on-windows-and-mac-computers/"><u>Updated In 2024, How to Convert Videos to DVD Format on Windows and Mac Computers</u></a></li>
+</ul></div>
 

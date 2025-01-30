@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your Discord Screen Sharing Isn't Playing Sound"
-date: 2024-08-18T14:05:35.699Z
-updated: 2024-08-19T14:05:35.699Z
+date: 2025-01-27T21:04:40.875Z
+updated: 2025-01-29T21:01:40.753Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many players are reporting it. But don’t worry! Here are 6 solutions that have helped many players.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,8 +33,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check your system specs
 
  If your game won’t launch at all, chances are that you’re running a game that stretches your PC beyond its abilities.
@@ -92,8 +94,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 If your issue persists, then move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable ReadyBoost
 
  ReadyBoost is a Windows feature that allows you to use your flash memory devices to speed up your PC.
@@ -102,39 +105,18 @@ If your issue persists, then move on and try the fix below.
 
 **1)** On your keyboard, press the**Windows logo key** and**E** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
 **2)** Right-click your**USB’s name** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
 
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
 
 **4)** Click**Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
 
 **5)** Disconnect**all USB devices** you don’t need from your PC.
@@ -143,9 +125,6 @@ If your issue persists, then move on and try the fix below.
 
 If your issue still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Turn off unnecessary programs
 
  This issue might occur when you’re running multiple programs at the same time, and your PC gets overloaded. So you should turn off unnecessary programs during gameplay.
@@ -164,19 +143,21 @@ Here is how to check and close programs you’re running:
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the process you want to end and select **End task** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Try launching your game to test your issue.
 
@@ -194,6 +175,10 @@ If your issue continues to occur, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-43.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Restart**your computer and your game** after the update is complete.
 
 If your issue persists, move on to the fix below.
@@ -205,6 +190,10 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 **1)** On your keyboard, press the**Windows logo key** and type**Forza Horizon 4** . Then, right-click**Forza Horizon 4** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Uninstall** .
 
@@ -226,8 +215,6 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +222,22 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-art-of-speech-interpretation-via-googles-technology/"><u>[Updated] 2024 Approved The Art of Speech Interpretation via Google's Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-comprehensive-overview-of-whatsapp-voice-calls-for-2024/"><u>[Updated] Comprehensive Overview of WhatsApp Voice Calls for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-aviation-longevity-top-10-endurance-drones/"><u>[Updated] In 2024, Aviation Longevity Top 10 Endurance Drones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-strategies-for-youtube-to-mpeg-transformation/"><u>[Updated] In 2024, Cutting-Edge Strategies for YouTube to MPEG Transformation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-top-11-list-audio-recording-essentials-for-2024/"><u>[Updated] Premium Top 11 List - Audio Recording Essentials for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-secrets-of-montage-image-assembly/"><u>2024 Approved Unveiling the Secrets of Montage Image Assembly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-valheim-experience-overcoming-high-ping-problems-on-windows-machines/"><u>Enhance Your Valheim Experience: Overcoming High Ping Problems on Windows Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-free-gaming-correcting-your-the-sims-4-gpu-problems/"><u>Error-Free Gaming: Correcting Your The Sims 4 GPU Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-your-obstructed-microphone-top-6-fixes/"><u>How to Repair Your Obstructed Microphone: Top 6 Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-k70-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi K70 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-server-connection-resets-for-a-flawless-destiny-2-gaming-experience/"><u>Mastering Server Connection Resets for a Flawless Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-freezing-problems-on-call-of-duty-vanguard-easy-no-cost-solutions/"><u>Resolving Freezing Problems on Call of Duty: Vanguard – Easy, No-Cost Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stutter-and-crashes-in-no-rest-for-the-wicked-a-comprehensive-troubleshooting-guide/"><u>Resolving Stutter & Crashes in 'No Rest for the Wicked': A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-suffering-top-ways-to-prevent-game-crashes-for-state-of-decay-n2/"><u>Stop Suffering - Top Ways to Prevent Game Crashes for State of Decay N2</u></a></li>
+</ul></div>
 

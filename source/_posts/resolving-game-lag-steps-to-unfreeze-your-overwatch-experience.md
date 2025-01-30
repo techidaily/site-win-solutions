@@ -1,7 +1,7 @@
 ---
 title: "Resolving Game Lag: Steps to Unfreeze Your Overwatch Experience"
-date: 2024-08-18T14:09:26.844Z
-updated: 2024-08-19T14:09:26.844Z
+date: 2025-01-27T22:01:26.930Z
+updated: 2025-01-29T20:59:44.067Z
 tags:
   - win11
   - win10
@@ -37,8 +37,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
@@ -46,8 +47,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -69,44 +71,45 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Verify on Steam
 
 1. Launch your Steam client. From the LIBRARY section, right-click your game title and select**Properties** from the menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
@@ -122,19 +125,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 1. Open your Steam client.
 2. Click **Steam** from the sidebar and select **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
@@ -142,9 +142,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 However, if it doesn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Delete the registry key
 
  If your game hangs at 92% or it keeps freezing, especially when you try to pick a class, you can fix it by deleting the registry key. To do this, follow the instructions below.
@@ -157,6 +154,10 @@ However, if it doesn’t give you any luck, try the next fix below.
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, restart your game and test the gameplay.
 
  However, if nothing else has helped, it’s high time to check if you have**corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
@@ -167,9 +168,6 @@ Once done, restart your game and test the gameplay.
 2. Open Fortect and it will run a free scan of your PC and give you a detailed report of your PC status. This will take a few minutes.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 ---
@@ -182,8 +180,6 @@ Once done, restart your game and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +187,23 @@ Once done, restart your game and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>[Updated] Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-iphones-difficulty-in-auto-focusing-issues/"><u>[Updated] Overcoming iPhone's Difficulty in Auto-Focusing Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone-for-2024/"><u>A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-repeated-total-war-warhammer-iii-stability-problems-on-desktops-and-laptops/"><u>Addressing Repeated Total War: Warhammer III Stability Problems on Desktops and Laptops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decoding-and-correcting-steam-error-code-130-a-complete-walkthrough/"><u>Decoding and Correcting Steam Error Code 130 - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-iphone-15-unveiled-a-must-have-upgrade-pros-and-all-techinsights/"><u>Expert Analysis: IPhone 15 Unveiled - A Must-Have Upgrade, Pros and All! | TechInsights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-persistent-audio-issues-on-your-windows-11-device/"><u>How to Solve Persistent Audio Issues on Your Windows 11 Device</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-rainbow-six-extraction-a-guide-to-optimizing-frame-per-second-fps/"><u>Mastering Rainbow Six Extraction: A Guide to Optimizing Frame Per Second (FPS)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-wow-performance-simple-steps-to-address-and-eliminate-crashing-issues/"><u>Mastering WoW Performance: Simple Steps to Address and Eliminate Crashing Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-msi-afterburner-failing-to-identify-gpus-in-recent-windows-versions/"><u>Overcoming the Challenge: MSI Afterburner Failing to Identify GPUs in Recent Windows Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ryzen-master-driver-mishaps-fixing-installation-errors-efficiently/"><u>Ryzen Master Driver Mishaps: Fixing Installation Errors Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-edition-review/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Edition) Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-dota-2-when-it-gets-stuck-during-initial-load/"><u>Troubleshooting Steps for Dota 2 when It Gets Stuck During Initial Load</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-how-to-stop-overwatch-from-hanging/"><u>Troubleshooting Tips: How to Stop Overwatch From Hanging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winmedia-player-fixing-crashes-and-failures/"><u>WinMedia Player: Fixing Crashes and Failures</u></a></li>
+</ul></div>
 

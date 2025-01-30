@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Crashes in Assassin's Creed Origins - Pro Tips and Hacks for Uninterrupted Gameplay
-date: 2024-08-18T14:08:30.836Z
-updated: 2024-08-19T14:08:30.836Z
+date: 2025-01-23T17:59:00.663Z
+updated: 2025-01-30T03:47:06.593Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,14 +28,12 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 5. **[Launch your game from .exe file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Delete the registry key](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
@@ -50,6 +45,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -68,14 +67,15 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -85,29 +85,28 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Verify on Steam
 
 1. Launch your Steam client. From the LIBRARY section, right-click your game title and select**Properties** from the menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
@@ -115,9 +114,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable overlays
 
  Commonly used in various programs, overlay technology allows you to enjoy some exclusive features, but can also cause performance issues with some games. Therefore, you should disable the Steam overlay and check if it can give you a performance boost. Here’s how you can do this:
@@ -125,15 +121,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 1. Open your Steam client.
 2. Click **Steam** from the sidebar and select **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
@@ -148,13 +145,14 @@ However, if it doesn’t give you any luck, try the next fix below.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type or paste**regedit** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, restart your game and test the gameplay.
 
@@ -166,10 +164,11 @@ Once done, restart your game and test the gameplay.
 2. Open Fortect and it will run a free scan of your PC and give you a detailed report of your PC status. This will take a few minutes.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -181,8 +180,6 @@ Once done, restart your game and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +187,21 @@ Once done, restart your game and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ensuring-smooth-streaming-how-to-avoid-fb-live-glitches/"><u>[New] 2024 Approved Ensuring Smooth Streaming How to Avoid Fb Live Glitches</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-universe-expansion-present-trends-and-future-challenges/"><u>[Updated] In 2024, Virtual Universe Expansion Present Trends & Future Challenges</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-innovative-photography-with-insights-into-lut-use/"><u>2024 Approved Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-resolving-black-desert-onlines-crashing-problem-on-windows-systems/"><u>Diagnosing and Resolving Black Desert Online's Crashing Problem on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elemental-story-framework-for-2024/"><u>Elemental Story Framework for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-witcher-3s-sudden-shutdown-problem-for-a-seamless-gaming-experience-on-pc/"><u>Fixing The Witcher 3'S Sudden Shutdown Problem for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unlocking-potential-creating-your-youtube-identity/"><u>In 2024, Unlocking Potential Creating Your YouTube Identity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/latest-news-the-long-awaited-launch-of-mafia-definitive-edition-confirmed/"><u>Latest News: The Long-Awaited Launch of Mafia: Definitive Edition Confirmed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-11-home-settings/"><u>Navigating to Windows 11 Home Settings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-call-of-duty-wwii-display-problems-fixing-the-black-screen-glitch-on-pc/"><u>Resolve Your Call of Duty: WWII Display Problems - Fixing the Black Screen Glitch on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-wings-of-ruin-game-crash-in-monster-hunter-stories-nro-2/"><u>Troubleshooting Guide: Resolving 'Wings of Ruin' Game Crash in Monster Hunter Stories Nro 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-cycle-city-the-journey-of-deathloops-market-debut/"><u>Unlocking Cycle City: The Journey of Deathloop's Market Debut</u></a></li>
+</ul></div>
 

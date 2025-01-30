@@ -1,7 +1,7 @@
 ---
 title: Master Your Skills with the Groundbreaking Destiny 2'S Broccoli Confrontation Fix
-date: 2024-08-18T14:08:48.873Z
-updated: 2024-08-19T14:08:48.873Z
+date: 2025-01-24T20:20:33.252Z
+updated: 2025-01-30T07:04:24.729Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -35,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -48,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/9cb9221a42cf990d1ead5f7525c2a2084bd45082f
 
 If you didn’t find any hardware issues, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -62,8 +61,9 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -71,6 +71,11 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -80,8 +85,9 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -95,9 +101,6 @@ If you didn’t find any hardware issues, try the next fix.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -120,8 +123,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +130,22 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leveraging-unwanted-scenes-for-creative-outcomes/"><u>[New] 2024 Approved Leveraging Unwanted Scenes for Creative Outcomes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-android-mastery-for-virtual-reality-and-panoramic-videos/"><u>[Updated] Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[Updated] Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>[Updated] Gag Galore A Treasury of No-Cost Memes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>[Updated] In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cutting-edge-stabilization-unmatched-tracker-tech/"><u>[Updated] In 2024, Cutting-Edge Stabilization Unmatched Tracker Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-half-life-alyx-experience-tips-to-fix-stutters-and-improve-lag-on-pc/"><u>Boost Your Half-Life Alyx Experience - Tips to Fix Stutters & Improve Lag on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-to-tackle-high-ping-and-lag-in-street-fighter-ebtween-pc-get-the-edge/"><u>Comprehensive Solutions to Tackle High Ping & Lag in Street Fighter Ebtween (PC) – Get the Edge!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-continuous-audio-on-frozen-youtube-videos-in-web-browsers-chrome-and-firefox-guide/"><u>How to Address Continuous Audio on Frozen YouTube Videos in Web Browsers: Chrome and Firefox Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-discords-streaming-disruption-and-enjoy-seamless-gaming-sessions/"><u>How to Overcome Discord's Streaming Disruption and Enjoy Seamless Gaming Sessions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-and-diagnosing-common-pc-hardware-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Diagnosing Common PC Hardware Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-and-power-up-smart-strategies-for-modern-devices-according-to-tom/"><u>Optimize and Power Up: Smart Strategies for Modern Devices, According to Tom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-dark-void-a-guide-to-resolving-lol-black-screen-issues/"><u>Solving the Dark Void: A Guide to Resolving LoL Black Screen Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-for-overcoming-the-stuck-loader-in-forza-horizon-5/"><u>Top 7 Solutions for Overcoming the Stuck Loader in Forza Horizon 5</u></a></li>
+</ul></div>
 

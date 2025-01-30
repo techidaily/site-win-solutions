@@ -1,7 +1,7 @@
 ---
 title: Days Gone Action-Packed FPS Game Now Available for Windows PC
-date: 2024-08-18T14:08:06.900Z
-updated: 2024-08-19T14:08:06.900Z
+date: 2025-01-23T18:33:58.696Z
+updated: 2025-01-29T18:06:04.059Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 Playing L.A. Noire is great fun except when the game fails to launch and confusing error message pops up. If you’re also stuck in this annoying L.A. Noire not launching issue, don’t worry. Here are 6 fixes that will help you start the game smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work from the top down until you find the one that does the trick.
@@ -39,21 +40,19 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 **1)** Right-click**Steam** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
 
  Launch the Steam client and start L.A. Noire to check if it works well now. If not, move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -65,18 +64,14 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
@@ -93,16 +88,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
 
 **4)** Open the**3rd folder** .
@@ -123,17 +116,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **2)** Click**Account** and click the**Change** button under Beta participation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**NONE – Opt out of all beta programs** from the drop-down menu under Beta participation and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
@@ -148,24 +138,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
 
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 6 – Update your graphics driver
 
  Wrong or outdated graphics driver can trigger various gaming annoyance and completely ruin the playing experience. To make your games run perfectly all the time, you need to install the up-to-date graphics driver.
@@ -181,6 +173,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 **2)** Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
@@ -208,8 +204,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +211,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-e-identity-evolution-crafting-an-animated-persona/"><u>[Updated] In 2024, E-Identity Evolution Crafting an Animated Persona</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/anthem-game-fix-conquering-the-unstoppable-loading-screens-for-good/"><u>Anthem Game Fix: Conquering the Unstoppable Loading Screens for Good</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-repairing-windows-1-master-sfc-and-dism-techniques/"><u>Comprehensive Guide to Repairing Windows 1#: Master SFC & DISM Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-game-development-challenges-corrective-measures-for-critical-errors-in-tales-of-arise-ue4/"><u>Conquering Game Development Challenges: Corrective Measures for Critical Errors in Tales of Arise (UE4)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006701405-death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g-5g-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G 5G (2023) Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-pc-game-crash-in-wolcen-lords-of-mayhem/"><u>How to Fix the PC Game Crash in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubled-waters-in-rainbow-six-siege-for-a-smooth-startup/"><u>Mastering Troubled Waters in Rainbow Six Siege for a Smooth Startup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-pc-instability-issues-in-the-outer-worlds-gaming-experience/"><u>Solving PC Instability Issues in 'The Outer Worlds' Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-safe-online-a-comprehensive-tutorial-for-changing-x-password-settings/"><u>Stay Safe Online: A Comprehensive Tutorial for Changing X Password Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-solve-80n-errors-in-both-vpn-client-and-server-configurations/"><u>Ultimate Guide to Solve 80N Errors in Both VPN Client and Server Configurations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc/"><u>Updated In 2024, The Ultimate List of Stop Motion Animation Programs for Mac and PC</u></a></li>
+</ul></div>
 

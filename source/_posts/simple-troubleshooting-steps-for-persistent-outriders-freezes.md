@@ -1,7 +1,7 @@
 ---
 title: Simple Troubleshooting Steps for Persistent Outriders Freezes
-date: 2024-08-18T14:05:01.855Z
-updated: 2024-08-19T14:05:01.855Z
+date: 2025-01-28T22:21:32.279Z
+updated: 2025-01-30T06:48:00.948Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
@@ -29,14 +26,15 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Quit MSI Afterburner
 
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -60,10 +58,11 @@ There are mainly two methods for you to update the graphics driver:
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
@@ -80,19 +79,11 @@ There are mainly two methods for you to update the graphics driver:
 
  2) Right-click **OUTRIDERS Demo** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
@@ -120,17 +111,15 @@ There are mainly two methods for you to update the graphics driver:
 
  1) Go to your game folder (it depends, for me is**D:\\Steam\\SteamApps\\common\\OUTRIDERS Demo** ). Or you can browse the game folder in Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -148,18 +137,20 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
@@ -179,8 +170,6 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +177,24 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>[New] In 2024, Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tips-for-engaging-video-blog-storytelling/"><u>[New] Tips for Engaging Video Blog Storytelling</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-cod-modern-warfare-fps-drops/"><u>[SOLVED] COD: Modern Warfare FPS Drops</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/conversione-gratuita-wmv-in-mkv-web-based-softwares-per-il-cambio-formati-video-movavi/"><u>Conversione Gratuita WMV in MKV Web-Based - Softwares per Il Cambio Formati Video Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-gaming-experience-with-the-best-speedy-extensions/"><u>Enhance Gaming Experience with the Best Speedy Extensions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/frostpunk-crash-fix-solve-the-game-breaking-bug-easily/"><u>Frostpunk Crash Fix: Solve the Game-Breaking Bug Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-hiring-guide-locating-excellent-film-capturers/"><u>In 2024, Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/inside-information-reasons-behind-the-guilty-gear-strive-launch-setback/"><u>Inside Information: Reasons Behind the Guilty Gear Strive Launch Setback</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mastering-the-art-of-easy-shutdowns-in-windows-8-for-seamless-device-management/"><u>Mastering the Art of Easy Shutdowns in Windows 8 for Seamless Device Management</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-wont-launch-heres-how-you-can-get-it-working-perfectly-on-windows-11/"><u>Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998831559-quick-fixes-for-when-your-discord-overlay-wont-start/"><u>Quick Fixes for When Your Discord Overlay Won't Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-fixing-discords-javascript-mistakes-without-a-hitch/"><u>Step-by-Step Guide: Fixing Discord's JavaScript Mistakes Without a Hitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-solve-microsoft-edge-freezing-problems-in-windows-nt/"><u>Troubleshoot and Solve Microsoft Edge Freezing Problems in Windows nT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-hitman-3-screen-freeze-and-restore-gameplay-on-your-computer/"><u>Troubleshoot Hitman 3 Screen Freeze and Restore Gameplay on Your Computer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-mov-video-splitters-top-picks-for-you-for-2024/"><u>Updated Free MOV Video Splitters Top Picks for You for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-a-ghost-in-online-chatting/"><u>What Is a 'Ghost' In Online Chatting?</u></a></li>
+</ul></div>
 

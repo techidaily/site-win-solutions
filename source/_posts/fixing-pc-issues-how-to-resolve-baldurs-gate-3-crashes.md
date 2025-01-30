@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Issues: How to Resolve Baldur's Gate 3 Crashes"
-date: 2024-08-18T14:09:13.686Z
-updated: 2024-08-19T14:09:13.686Z
+date: 2025-01-22T19:32:18.072Z
+updated: 2025-01-30T05:50:21.122Z
 tags:
   - win11
   - win10
@@ -15,14 +15,15 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 
 ## Beat Gaming Glitches: Resolving Persistent Crash Issues in New World on PC
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-featured.jpg)
 
  New World, one of the most anticipated blockbusters, is finally out. But when gamers try to get lost in this brand new MMO, they find themselves facing**constant crashes at startup or in-game** . Sometimes it prompts a Fatal Error, but in most cases there wasn’t any warning at all.
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -35,14 +36,15 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
 
 1. Open your Steam client and go to**LIBRARY** . Right click **New World** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
@@ -60,15 +62,9 @@ If the problem persists, take a look at the next fix below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,17 +82,20 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -105,30 +104,31 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change in-game graphics settings
 
  Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
 
 1. Open New World. On the top right corner, click the**gear icon** to open settings.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Increase your virtual memory
 
  New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
@@ -142,14 +142,16 @@ Now you can play and check if the crash stops.
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Delete specific game files
 
  According to some players, one possible fix to the crash is to delete certain game files. If you have tried all the fixes above and none seemed to work, you can try this method and test the result.
@@ -173,8 +175,6 @@ Now you can play and check if the crash stops.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +182,26 @@ Now you can play and check if the crash stops.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-self-verification-on-instagram-does-it-serve-us/"><u>[New] 2024 Approved Self-Verification on Instagram Does It Serve Us?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-editing-made-easy-with-lunapic-for-first-timers/"><u>[New] Editing Made Easy with LunaPic For First-Timers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enlightenment-echoes-best-ed-tutorials-yt/"><u>[Updated] In 2024, Enlightenment Echoes Best Ed Tutorials YT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-inauguration-setting-up-a-twitter-profile/"><u>[Updated] In 2024, Inauguration Setting Up a Twitter Profile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[Updated] In 2024, The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-resolve-crusader-kings-iii-pc-crashes/"><u>Fixing Issues: How to Resolve Crusader Kings III PC Crashes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-view-comments-on-youtube-for-2024/"><u>How to View Comments on YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-12-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi 12 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/msi-afterburner-gpu-detection-problems-solutions-for-windows-10-and-11-users/"><u>MSI Afterburner GPU Detection Problems - Solutions for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-excessive-cpu-use-by-zoom-discover-the-best-6-techniques/"><u>Resolve Excessive CPU Use by Zoom: Discover the Best 6 Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-cod-black-ops-cold-war-freezing-glitch-a-comprehensive-guide/"><u>Solving the COD: Black Ops Cold War Freezing Glitch - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speedy-troubleshooting-mastering-shader-tuning-for-star-wars-battlefront-ii/"><u>Speedy Troubleshooting: Mastering Shader Tuning for Star Wars Battlefront II</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-games-like-gta-v/"><u>Top 10 Games Like GTA V</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-triumph-dealing-with-football-manager-2021-crashes-on-desktop-pcs/"><u>Troubleshoot & Triumph: Dealing with Football Manager 2021 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-do-you-fix-a-crash-in-phoenix-point/"><u>Troubleshooting Guide: How Do You Fix a Crash in Phoenix Point?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unblock-your-path-to-the-last-epoch-comprehensive-guide-on-making-it-work-on-your-pc/"><u>Unblock Your Path to The Last Epoch: Comprehensive Guide on Making It Work on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-against-cod-vanguards-error-code-n-e0x00001338-a-comprehensive-fix/"><u>Winning Against COD Vanguard's Error Code N (E:0x00001338): A Comprehensive Fix</u></a></li>
+</ul></div>
 

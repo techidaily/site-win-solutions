@@ -1,7 +1,7 @@
 ---
 title: "Eliminating [NieR: Automata/Replicant] Errors: Effective Techniques to Stop Game Crashes"
-date: 2024-08-18T14:09:18.978Z
-updated: 2024-08-19T14:09:18.978Z
+date: 2025-01-28T21:52:45.272Z
+updated: 2025-01-30T00:03:13.192Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Disable your X-Fi sound card (If you have an X-Fi sound card)**](https://www.drivereasy.com/knowledge/how-to-fix-gears-of-war-5-crash/#F7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphicsdriver or it’s out of date. So you should update your graphicsdriver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,10 +45,11 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -58,9 +63,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: **Disable gaming overlay**
 
  Game bar is a gaming overlay built into Windows that allows you to take sceenshots and record your gameplay in the background. Sometimes this feature may be in conflict with Gears 5 and cause it to crash. You can try disabling Game bar to see if this is the case.
@@ -75,15 +77,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
 
 5) Exit the window.
@@ -100,28 +103,20 @@ Here is how to do it:
 
 Here is how to reset the Microsoft Store cache:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 3) Once completed, Windows Store will pop open.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
 4) Restart your computer for the changes to take effect.
@@ -138,14 +133,15 @@ Here is how to do it:
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time. Once the **Windows Settings** window pops up, click **Updates & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
 
@@ -154,9 +150,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the Gears of War to crash. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -169,6 +162,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -178,8 +175,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
  According to game forums, many players reported that disabling their X-Fi sound card helped them fix the problem. So if you are also having an X-Fi sound card, you should also give it a try to see if it does the trick.
@@ -196,8 +194,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +201,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[New] 2024 Approved From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[New] In 2024, Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-maximizing-video-impact-with-zoom-in-tiktok/"><u>[Updated] 2024 Approved Maximizing Video Impact with Zoom in TikTok</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elite-faster-imagery-screen-reader-for-2024/"><u>[Updated] Elite Faster Imagery Screen Reader for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-20-free-to-use-pubg-image-arrays/"><u>[Updated] Premium 20 Free-to-Use PUBG Image Arrays</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-the-root-cause-solving-your-oculus-driver-related-glitches/"><u>Addressing the Root Cause: Solving Your Oculus Driver-Related Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-correcting-halo-infinites-audiovisual-disruptions-swiftly/"><u>Diagnosing and Correcting Halo Infinite's Audiovisual Disruptions Swiftly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fast-solutions-for-when-your-epic-games-app-keeps-crashing/"><u>Fast Solutions for When Your Epic Games App Keeps Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-crashes-in-phoenix-point-ultimate-solution-for-smooth-gaming/"><u>Fixing Crashes in Phoenix Point - Ultimate Solution for Smooth Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-meme-masterpieces-perfect-jokes-for-each-moment/"><u>In 2024, Meme Masterpieces Perfect Jokes for Each Moment</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/palworld-wont-open-discover-quick-resolves-to-get-you-back-in-the-game/"><u>Palworld Won't Open? Discover Quick Resolves to Get You Back in the Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/"><u>Troubleshooting Guide: How to Prevent Elex II From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-idevices-lens-a-users-handbook/"><u>Unlock the Full Potential of Your iDevice's Lens - A User's Handbook</u></a></li>
+</ul></div>
 

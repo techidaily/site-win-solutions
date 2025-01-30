@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Hearts of Iron 4 Crashing Issues"
-date: 2024-08-18T14:07:18.462Z
-updated: 2024-08-19T14:07:18.462Z
+date: 2025-01-28T23:51:40.722Z
+updated: 2025-01-29T19:55:47.821Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
@@ -36,19 +33,21 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -65,8 +64,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -79,17 +79,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -101,8 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +111,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[New] 2024 Approved Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-gamers-rejoice-mavic-air-vs-sparks-duel-explored/"><u>[Updated] Gamers Rejoice! Mavic Air Vs. Spark's Duel Explored</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-monitoring-and-measuring-igtv-video-performance/"><u>[Updated] Monitoring and Measuring IGTV Video Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-top-win11-videography-software-selections/"><u>[Updated] Unveiling Top Win11 Videography Software Selections</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-microsoft-store-hurdles-swift-steps-for-successful-age-of-empires-iv-downloads-and-installs/"><u>Bypass Microsoft Store Hurdles: Swift Steps for Successful Age of Empires IV Downloads & Installs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/debugging-startup-crashes-for-atomic-heart-projects-tips-and-tricks/"><u>Debugging Startup Crashes for Atomic Heart Projects: Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-escaping-the-endless-loop-in-sea-of-thieves-startup/"><u>Fixes and Solutions: Escaping the Endless Loop in Sea of Thieves' Startup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-asus-rog-phone-7-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Asus ROG Phone 7 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-davinci-resolve-working-properly-again-on-your-pc-running-windows/"><u>How to Get DaVinci Resolve Working Properly Again on Your PC Running Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-persistent-crashing-issue-of-the-ascent-in-microsoft-windows/"><u>How to Overcome the Persistent Crashing Issue of The Ascent in Microsoft Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-efficient-practices-logging-google-voice-dialogues/"><u>In 2024, Efficient Practices Logging Google Voice Dialogues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-performance-in-horizon-zero-dawn-with-advanced-tweaks-for-increased-fps/"><u>Maximize Performance in Horizon Zero Dawn with Advanced Tweaks for Increased FPS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-mend-operation-0x0000011b-error-on-windows-11/"><u>Quick Guide to Mend Operation 0X0000011B Error on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-fuzzy-visuals-a-guide-to-sharpening-cod-warzone-images-on-your-pc/"><u>Resolving Fuzzy Visuals: A Guide to Sharpening COD: Warzone Images on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-csgo-lag-and-improve-ping-performance-on-your-gaming-rig/"><u>Solve CS:GO Lag & Improve Ping Performance on Your Gaming Rig</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlock-unlimited-tunes-join-the-party-time-karaoke-subscription-service-featuring-new-mixers-as-of-september-9-2019/"><u>Unlock Unlimited Tunes: Join the Party Time Karaoke Subscription Service Featuring New Mixers (As of September 9, 2019)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Approach to Overcome Inability to Refresh the Classic Minecraft Launcher
-date: 2024-08-18T14:07:49.207Z
-updated: 2024-08-19T14:07:49.207Z
+date: 2025-01-26T07:24:17.640Z
+updated: 2025-01-30T07:03:23.389Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 
 Does your FIFA 20 crash on PC so often that it is all but unplayable? If the answer is “yes,” don’t panic – you’re not alone. Although this problem can be quite tricky sometimes, there’re still a few general fixes for you to try. Now let’s dig in and see what’s what.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your PC specs first
 
  First of all, check your PC specs to verify if they meet the system requirements for FIFA 20\. This is always the prerequisite act before you download and install a new game. Suppose you forget to take this step and go directly for the game, then oops – you aren’t even able to launch it! What a desperate moment. Trust me, I’ve been through this before and asked myself tons of times whether I should simply give up the game or kick that old machine to the curb and then buy a new one. Whichever way I chose, I would surely lose something important: pleasure for the former, and money for the latter.
@@ -25,10 +29,11 @@ In case you don’t know how, here’s the guidance:
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **dxdiag** and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
@@ -46,16 +51,10 @@ In case you don’t know how, here’s the guidance:
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
 
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
@@ -87,6 +86,10 @@ In case you don’t know how, here’s the guidance:
  If you find out that your computer cannot keep up with the game, you should upgrade some components first, say replacing your graphics card with a more powerful one (based on your actual situation of course).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
 
@@ -132,9 +135,6 @@ In case you don’t know how, here’s the guidance:
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -149,32 +149,28 @@ In case you don’t know how, here’s the guidance:
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc** into the box and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
  3) Click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
 5) Restart your computer for the changes to take effect.
@@ -184,9 +180,9 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update Windows operating system
 
  This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
@@ -197,9 +193,6 @@ In case you don’t know how, here’s the guidance:
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
@@ -222,9 +215,6 @@ In case you don’t know how, here’s the guidance:
 
  Type**DIRECTX\_SELECT = 1** and click**Find Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
@@ -243,10 +233,11 @@ In case you don’t know how, here’s the guidance:
 
  1) Right-click an empty area on your desktop to open the context menu. Then select**NVIDIA Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
@@ -259,6 +250,10 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -273,14 +268,15 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -300,10 +296,11 @@ sfc /scannow
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
 
@@ -329,9 +326,6 @@ dism.exe /online /cleanup-image /restorehealth
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Wait for more game updates
 
  Lastly, there’s a chance that your problem is triggered by technical issues of FIFA 20 (such as an unforeseen issue in the game’s code). In that case, you should simply wait for more game updates to fix the problem. Or you can contact **[EA](https://help.ea.com/en/contact-us/)**  (the game developer) and see if they can offer you any assistance.
@@ -349,8 +343,6 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -358,4 +350,18 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-best-sources-for-pixel-ringtone-downloads/"><u>[New] Best Sources for Pixel Ringtone Downloads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nline-video-hubs-picking-between-vimeo-youtube-and-dailymotion-for-2024/"><u>[New] Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ai-wmv-movavi/"><u>網路直達：優先顧及 AI 影片 WMV 格式 - Movavi 自由變換器</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984250362-beat-the-blues-with-directdraw-error-resolution-expert-techniques-revealed/"><u>Beat the Blues with DirectDraw Error Resolution - Expert Techniques Revealed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-3-app-error-how-to-resolve-unexpected-stop-issue/"><u>COD Modern Warfare 3 App Error: How to Resolve 'Unexpected Stop' Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-starfield-experience-by-eliminating-audio-disruptions-and-jitters/"><u>Enhancing Starfield Experience by Eliminating Audio Disruptions & Jitters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-trouble-shoot-fixing-the-perplexing-developer-error-6034-across-ps5-xbox-series-xs-and-computers/"><u>Modern Warfare Trouble Shoot: Fixing the Perplexing Developer Error 6034 Across PS5, Xbox Series X/S, and Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-gaming-lag-in-first-person-shooters-fps-drop-frames-and-smoothness-enhancements/"><u>Resolved: Fixes for Gaming Lag in First-Person Shooters (FPS) – Drop Frames and Smoothness Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-game-installation-with-xbox-app-tips/"><u>Winning at Game Installation with Xbox App Tips</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-arw-jpg/"><u>원격 가용성을 제공하는 Movavi와 ARW 파일 자체에서 JPG 형식으로 자연스러운 화면 데이터를 무료로 다시 조작하는 방법</u></a></li>
+</ul></div>
 

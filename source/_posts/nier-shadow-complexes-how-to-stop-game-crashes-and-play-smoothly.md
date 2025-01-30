@@ -1,7 +1,7 @@
 ---
 title: "NieR: Shadow Complexes - How to Stop Game Crashes and Play Smoothly"
-date: 2024-08-18T14:04:52.312Z
-updated: 2024-08-19T14:04:52.312Z
+date: 2025-01-28T01:51:19.101Z
+updated: 2025-01-30T01:45:23.389Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Remnant_ and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Running multiple programs at the same time takes up a lot of resources, undermining your game performance. Apart from that, some programs may conflict with your game and cause the crashing error. So, you should close unwanted programs during gameplay by restarting your computer.
@@ -41,9 +45,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -75,8 +76,9 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4:**Update your graphics driver**
 
  Game issues, such as freezing, lagging, crashing and low FPS, are likely to occur when your graphics driver is missing or corrupted. So you should update your graphics driver to see if it fixes your issue. There are two ways to do it:
@@ -99,6 +101,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,9 +115,6 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Install the latest game patch**
 
  The developers of_Remnant_ release regular game patches to resolve bugs. It’s possible that a recent patch has stopped_Remnant_ from launching correctly, and that a new patch is required to fix it.
@@ -121,14 +124,9 @@ If your problem persists, then move on to the next fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  This issue might happen when one or more outdated or corrupted game files are conflicting with the game. To fix it, follow the instructions below to validate your game files:
@@ -137,9 +135,6 @@ If your problem persists, then move on to the next fix below.
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
@@ -149,6 +144,10 @@ If your problem persists, then move on to the next fix below.
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-86.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch_Remnant_ to see if this has fixed your problem. If not, move on to the fix below.
 
@@ -160,10 +159,11 @@ If your problem persists, then move on to the next fix below.
 
 **1)** On your keyboard, press the**Windows logo key** and**E** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
@@ -173,6 +173,10 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Copy and paste the following text at the bottom.
 
  **\[Voice\]**
@@ -180,16 +184,14 @@ If your problem persists, then move on to the next fix below.
  **\[OnlineSubsystem\]**
  **bHasVoiceEnabled=False**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-609.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** On your keyboard, press the**Ctrl key** and**S** at the same time to save the changes. Then, close the Window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
 
 **6)** Relaunch your game to test your issue.
@@ -198,10 +200,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 8: Run your game in compatibility mode
 
  This fix only applies to Windows 10 and 8\. If you’re on Window 7, check[**Fix 9**](https://tools.techidaily.com/drivereasy/download/) , below.
@@ -214,9 +212,6 @@ If the game is still unplayable, read on and try the fix below.
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
 
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
@@ -242,24 +237,14 @@ If the game is still unplayable, read on and try the fix below.
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
 **4)** Click**DELETE** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
 
 **5)** Download and install**Remnant** again.
@@ -276,34 +261,30 @@ If the game is still unplayable, read on and try the fix below.
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
@@ -336,8 +317,6 @@ If the game is still unplayable, read on and try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -345,4 +324,26 @@ If the game is still unplayable, read on and try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-crafting-co-exclusive-brands-and-youtube-experiences-for-2024/"><u>[New] Crafting Co-Exclusive Brands and YouTube Experiences for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>[New] Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pivot-points-revolutionize-your-youtube-angles-with-ease-for-2024/"><u>[Updated] Pivot Points Revolutionize Your YouTube Angles with Ease for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-10-apps-for-live-sports-and-football-streaming-for-2024/"><u>[Updated] Top 10 Apps for Live Sports & Football Streaming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemasters-complete-guide-to-flawless-transitions/"><u>2024 Approved Kinemaster's Complete Guide to Flawless Transitions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-your-starfield-adventure-essential-tips-to-overcome-pc-crashing-problems/"><u>Ace Your Starfield Adventure: Essential Tips to Overcome PC Crashing Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-remedies-for-the-black-screen-glitch-while-playing-fortnite-on-your-pc/"><u>Effective Remedies for the Black Screen Glitch While Playing Fortnite on Your PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-key-features-in-vr-headsets-for-2024/"><u>Examining Key Features in VR Headsets for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-street-fighter-e6s-pc-stability-issues-a-comprehensive-guide/"><u>How to Fix Street Fighter E6's PC Stability Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-a-frozen-game-in-black-ops-cold-war-with-error-code-0xc0000005/"><u>How to Overcome a Frozen Game in Black Ops Cold War with Error Code 0xC0000005</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-z50-ultra-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Z50 Ultra to Outlook | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-zooms-background-blurring-magic/"><u>Mastering Zoom's Background-Blurring Magic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-most-popular-websites-for-chilling-soundtracks-2023-rankings/"><u>New Exploring the Most Popular Websites for Chilling Soundtracks (2023 Rankings)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rescue-your-game-from-ruin-proven-techniques-for-rectifying-arks-terminating-error-codes/"><u>Rescue Your Game From Ruin: Proven Techniques for Rectifying ARK’s Terminating Error Codes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-effective-solutions-for-eliminating-fortnite-latency-problems/"><u>Resolved: Effective Solutions for Eliminating Fortnite Latency Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-stabilizing-hell-let-loose-game-crashes-on-windows-top-fixes-here/"><u>Resolved! Stabilizing Hell Let Loose Game Crashes on Windows: Top Fixes Here!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-fixing-snapchat-camera-access-problems/"><u>Step-by-Step Guide: Fixing Snapchat Camera Access Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-elite-dangerous-pc-game-freezes-and-crashes-proven-solutions/"><u>Troubleshooting Elite Dangerous PC Game Freezes and Crashes: Proven Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-get-your-shadowplay-recordings-up-and-running-again-in-windows/"><u>Troubleshooting Guide: Get Your ShadowPlay Recordings Up and Running Again in Windows</u></a></li>
+</ul></div>
 

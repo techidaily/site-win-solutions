@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Resolve 'Unable to Connect' Errors in Minecraft"
-date: 2024-08-18T14:03:57.803Z
-updated: 2024-08-19T14:03:57.803Z
+date: 2025-01-26T19:17:19.871Z
+updated: 2025-01-29T16:17:42.759Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ## Warcraft Online Issues Resolved - Reconnect to Battle for Azeroth Server Now
 
 Constantly getting this error message **‘ _Connection to the Battle.net game server has been lost. Please exit and try again._ ‘** ? You’re not alone there. Many Call of Duty players find this random disconnection quite annoying and have a hard time finding a real solution. But here in this post, you will learn every possible way that has been proved helpful to other gamers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why am I getting this error message?
 
@@ -47,9 +51,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -62,10 +63,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -76,22 +73,26 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
 
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -100,11 +101,12 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 **`ipconfig /renew`**  
 **`ipconfig /flushdns`**  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
 
@@ -112,14 +114,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
@@ -128,6 +129,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -142,9 +147,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -154,8 +156,9 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Use a VPN
 
  It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
@@ -185,8 +188,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +195,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/utting-edge-voice-altering-apps-for-vloggers-for-2024/"><u>[New] Cutting-Edge Voice Altering Apps for Vloggers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001470944-solved-kernelbasedll-crash-issue-quickly-and-easily/"><u>[SOLVED] | “KernelBase.dll” Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-insider-guide-decoding-youtube-live-image-codes/"><u>[Updated] 2024 Approved Insider Guide Decoding YouTube Live Image Codes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[Updated] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dayz-stability-revealed-how-to-prevent-game-crashes-easily-and-fast/"><u>DayZ Stability Revealed! How to Prevent Game Crashes Easily and Fast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-chrome-freezing-windows-11-easily/"><u>Fix Chrome Freezing Windows 11 Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-farming-simulator-nteractive-solutions-when-it-wont-open/"><u>Get Your Farming Simulator Nteractive - Solutions When It Won't Open</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-finale-rollouts-expert-advice/"><u>How to Ensure Smooth Finale Rollouts : Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2020-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2020) iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aperture-aces-top-picks-the-most-impressive-6-4k-dslrs/"><u>In 2024, Aperture Aces' Top Picks The Most Impressive 6 4K DSLRs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-blizzard-battlenet-experiencing-downtime-or-are-there-local-connectivity-issues/"><u>Is Blizzard Battle.net Experiencing Downtime, Or Are There Local Connectivity Issues?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-p55-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel P55 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-fix-counter-strike-2-pc-crashes-with-these-proven-strategies/"><u>Troubleshoot and Fix Counter-Strike 2 PC Crashes with These Proven Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-wows-slow-performance-expert-advice/"><u>Troubleshooting and Solutions for Wow's Slow Performance - Expert Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+</ul></div>
 

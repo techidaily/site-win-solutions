@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Silent MC: Fixing the Lack of Audio in Your PC's Minecraft Game"
-date: 2024-08-18T14:07:29.695Z
-updated: 2024-08-19T14:07:29.695Z
+date: 2025-01-22T19:04:58.474Z
+updated: 2025-01-30T07:17:18.897Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/71d273f8b15957f17fdeb3b0aae3c0885fe07f2dc
 
 Many players are reporting that**Minecraft crashes with an Exit Code 0 error** . If you’re also seeing this error, don’t worry. Based on our users’ feedback, we’ve gathered some working fixes down below. Try them and get your game working right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the steps until you find the one that does the charm.
@@ -30,8 +34,9 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Close conflicting programs
 
  The several incarnations in the past decade failed to eliminate the compatibility issues in Minecraft. In other words, your Exit Code 0 issue could be triggered by**conflicting programs** on your PC.
@@ -39,6 +44,10 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
  Fortunately, the community has already provided[a list including the known incompatible software](https://minecrafthopper.net/help/known-incompatible-software/) . So before entering the pixelated world, make sure you’re not running any listed programs. You can also identify and uninstall the unimportant ones so as to minimize the risk.
 
  If MC crashes when you’re not running any offending programs, simply take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -59,9 +68,6 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 
 If the issue persists, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Make sure your Java is up to date
 
  If you’re on the Java edition, check if you’re using the latest Java. Both Mojang and the community recommend**keeping your Java up to date** . Doing so can enhance your gaming experience. And most importantly, it would help avoid most of the strange issues.
@@ -70,18 +76,12 @@ If the issue persists, you can try the next fix below.
 
  If you’re already using the latest Java, or you don’t want to fiddle the Java settings, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Remove all the mods
 
  Minecraft is known for its flexibility in mods, which offers players infinite possibility. While it’s surely fun to play with mods, it might also be the culprit of the crash. So if you’re using any mods, try disabling or removing them and see how it goes. If the game hasn’t crashed since, then it might indicate that you’re using an incompatible mod.
 
  If Minecraft crashes when you’re not using any mods, take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Perform a clean boot
 
  We all have different computer specs and desktop setup, so it’s hard to determine what’s causing the error. But doing a clean boot allows your computer to start with only the essential programs and services, which will in a sense help you root out the offenders.
@@ -89,28 +89,15 @@ If the issue persists, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -124,12 +111,13 @@ If this fix doesn’t help you, simply move on to the next one.
 
  If none of the fixes above can stop the crash, you should consider reinstalling Minecraft completely. When you’re doing this, you can back up your**.minecraft** folder which can be accessed by typing**%appdata%** in the address bar in File Explorer. By the way, make sure you’ve deleted **[options.txt](https://www.minecraftforum.net/forums/support/java-edition-support/3038499-minecraft-problem-to-launch-exit-code-0#c3)**  insider the**.minecraft** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/minecraft-options-txt.jpg)
 
 **.minecraft** Folder
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check if your system is corrupted
 
@@ -141,9 +129,11 @@ If this fix doesn’t help you, simply move on to the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -162,8 +152,6 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +159,19 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>[Updated] 2024 Approved Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beginners-blueprint-for-zoom-engagements/"><u>[Updated] Beginner’s Blueprint for Zoom Engagements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-mac-preview-with-ease-ultimate-guide/"><u>[Updated] In 2024, Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-overwatch-2-running-again-essential-fixes-for-the-latest-version/"><u>How To Get Overwatch 2 Running Again - Essential Fixes for the Latest Version</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production/"><u>In 2024, Incorporating Industry Standards Working with CG Central's LUTs in Post-Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modular-android-devices-durability-triumph-over-flagship-iphones-and-pixel-phones-a-closer-look/"><u>Modular Android Devices: Durability Triumph Over Flagship iPhones & Pixel Phones - A Closer Look</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-no-volume-easy-fixes-to-get-your-sounds-back/"><u>Netflix No Volume? Easy Fixes to Get Your Sounds Back</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-obstacles-of-final-release-expert-fixes-games/"><u>Overcoming the Obstacles of Final Release: Expert Fixes Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-add-ons-the-best-new-filmmakers-starter-list/"><u>Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-the-sounds-of-desolation-tackling-fallout-4s-no-sound-dilemma-on-pc-machines/"><u>Restoring the Sounds of Desolation: Tackling Fallout 4’S No-Sound Dilemma on PC Machines</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-steps-overcoming-common-launch-hurdles-in-genshin-impact/"><u>Simple Steps: Overcoming Common Launch Hurdles in Genshin Impact</u></a></li>
+</ul></div>
 

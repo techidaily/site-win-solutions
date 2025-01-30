@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Screen Snapping: 8 Quick Tips for Your HP Device"
-date: 2025-01-16T16:27:17.829Z
-updated: 2025-01-22T19:40:10.641Z
+date: 2025-01-27T19:45:27.428Z
+updated: 2025-01-29T17:25:25.346Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a78d3deb58b3600f2a5e9d7c1.jpg
@@ -28,10 +28,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -171,7 +167,7 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
@@ -183,6 +179,10 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -199,10 +199,6 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -221,6 +217,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -248,13 +248,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -334,10 +334,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -345,10 +341,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -361,6 +353,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -386,6 +382,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -396,6 +396,10 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -430,6 +434,10 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -479,21 +487,9 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -505,7 +501,7 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -550,6 +546,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -585,18 +585,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimizing-ps4-games-for-live-capture-in-obs/"><u>[Updated] 2024 Approved Optimizing PS4 Games for Live Capture in OBS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-enthusiasts-rejoice-as-cod-warzone-pacific-crashing-gets-a-permanent-fix/"><u>Call of Duty Enthusiasts Rejoice as COD: Warzone Pacific Crashing Gets a Permanent Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-solutions-for-repairing-dell-sound-malfunctions/"><u>Effortless Solutions for Repairing Dell Sound Malfunctions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminating-playstation-portable-crash-issues-in-horizon-forbidden-west-tips-and-solutions/"><u>Eliminating PlayStation Portable Crash Issues in 'Horizon Forbidden West': Tips & Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-digital-imaging-saviour/"><u>Expert Digital Imaging Saviour</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ipsec-integration/"><u>IPsec Integration</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-mass-effect-1-3-collection-overcoming-performance-lags-and-stutter/"><u>Optimizing Mass Effect 1-3 Collection: Overcoming Performance Lags and Stutter</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-gamers-guide-to-banishing-stutters-in-your-digital-world-of-high-frame-rates/"><u>The Gamer's Guide to Banishing Stutters in Your Digital World of High Frame Rates</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/tout-savoir-pour-creer-et-utiliser-des-partitions-recuperation-windows-1011/"><u>Tout Savoir Pour Créer Et Utiliser Des Partitions Récupération Windows 10/11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unraveling-the-mystery-behind-destiny-2s-broccoli-skirmish-fix-in-early-2024-a-comprehensive-review/"><u>Unraveling the Mystery Behind Destiny 2'S Broccoli Skirmish Fix in Early 2024: A Comprehensive Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/youtube-freezing-woes-masterful-fixes-to-keep-your-streams-running-smoothly/"><u>YouTube Freezing Woes? Masterful Fixes to Keep Your Streams Running Smoothly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] 2024 Approved Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-diy-instagram-videos-simple-steps-to-success/"><u>[Updated] 2024 Approved DIY Instagram Videos Simple Steps to Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamlining-videography-optimize-for-instagram-for-2024/"><u>[Updated] Streamlining Videography Optimize For Instagram for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-recording-nintendo-switch-edition/"><u>2024 Approved Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-discord-lag-a-step-by-step-solution-manual/"><u>Beat Discord Lag: A Step-by-Step Solution Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-steam-hurdles-effective-fixes-for-helldivers-2-not-launching/"><u>Bypassing Steam Hurdles - Effective Fixes for Helldivers 2 Not Launching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-resolve-frequent-crashes-of-f1-2020-on-your-computer/"><u>How to Troubleshoot and Resolve Frequent Crashes of F1 2020 on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-realities-the-modern-vr-sphere/"><u>In 2024, Evolving Realities The Modern VR Sphere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-iphone-images-abide-by-these-10-rules/"><u>In 2024, Perfect iPhone Images Abide by These 10 Rules</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solution-overcome-terraria-loss-of-connection-with-these-six-tips/"><u>Master the Solution: Overcome Terraria Loss of Connection with These Six Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/plainvidwin11-intuitive-simple-screen-recorder-for-pcs/"><u>PlainVidWin11 Intuitive, Simple Screen Recorder for PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-midland-gxt1000vp4-and-its-superior-voice-clarity/"><u>The Ultimate Guide to the Midland GXT1000VP4 and Its Superior Voice Clarity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-crashes-fix-your-outriders-ue4-errors-effortlessly/"><u>Troubleshooting Crashes: Fix Your Outriders UE4 Errors Effortlessly!</u></a></li>
 </ul></div>
 

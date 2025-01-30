@@ -1,7 +1,7 @@
 ---
 title: "Game Smoothness Restored: How to Stop Lag & Increase FPS in Black Ops 4"
-date: 2024-08-18T14:06:20.709Z
-updated: 2024-08-19T14:06:20.709Z
+date: 2025-01-25T05:05:38.983Z
+updated: 2025-01-29T19:29:38.262Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 **Dark Souls 3 keeps crashing** on your computer? This is quite frustrating, but you’re not the only one. The good news is, you can fix Dark Souls 3 crashing quite easily. This post puts together the possible solutions for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dark Souls 3 crashing
 
  Here are solutions to fix Dark Souls 3 crashing on PC. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 3. [Update your video driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable overlays for your game
 
@@ -39,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
@@ -52,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  2) Type**_%appdata%_** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
  3) Open**DarkSouls3** folder.
@@ -68,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -93,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Note: You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 4) Once your driver has been updated, restart your computer.
@@ -103,18 +99,20 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 Now launch Dark Souls 3 and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
 
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -130,9 +128,6 @@ If you can’t access the in-game settings, try this:
 
  5) Change the game effect settings to Low, especially for**Effects quality** ,**Shadow quality** , and**Light quality** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
 6) Save your file changes and restart your game.
@@ -151,16 +146,21 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -178,8 +178,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +185,20 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-leading-tools-for-instantaneous-gif-to-video-transformation/"><u>[Updated] Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pixelpilot-studio-direct-access-screen-recorder-for-2024/"><u>[Updated] PixelPilot Studio Direct-Access Screen Recorder for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-fluidity-fixing-frame-rate-lapses-in-rainbow-six-extraction/"><u>Enhance Gameplay Fluidity: Fixing Frame Rate Lapses in Rainbow Six Extraction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/insight-into-your-contents-success-via-youtube-rankers/"><u>Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-t2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo T2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-advanced-settings-a-beginners-guide-to-google-photos-for-2024/"><u>Navigating Advanced Settings A Beginner's Guide to Google Photos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-audio-issues-with-ease-fixing-dolby-atmos-on-your-windows-computer/"><u>Overcome Audio Issues with Ease - Fixing Dolby Atmos on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-dying-lights-graphics-hiccups-step-by-step-guide-to-solving-the-games-fps-issue/"><u>Overcome Dying Light's Graphics Hiccups: Step-by-Step Guide to Solving the Game's FPS Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-freeze-ups-in-your-rust-code-comprehensive-solutions-and-best-practices-for-2e24/"><u>Resolving Freeze-Ups in Your Rust Code: Comprehensive Solutions and Best Practices for 2E24</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-up-your-sound-with-the-latest-nahimic-drivers-quick-and-smooth-setup/"><u>Step Up Your Sound with the Latest Nahimic Drivers - Quick & Smooth Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-current-standing-of-samsung-galaxy-tab-s3-an-updated-consumer-guide/"><u>The Current Standing of Samsung Galaxy Tab S3 - An Updated Consumer Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unsticking-the-loading-screen-problem-in-civ-vis-cold-war-expansion/"><u>Unsticking the Loading Screen Problem in Civ VI's Cold War Expansion</u></a></li>
+</ul></div>
 

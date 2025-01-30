@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Issues in 'Warzone': A Comprehensive Guide"
-date: 2024-08-18T14:05:36.833Z
-updated: 2024-08-19T14:05:36.833Z
+date: 2025-01-29T03:37:01.916Z
+updated: 2025-01-30T01:45:52.422Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -47,7 +51,15 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -68,65 +80,54 @@ There are mainly two ways you can do this:
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Verify the integrity of game files
 
  If Immortals Fenyx Rising wasn’t installed properly with certain game files missing or damaged, it won’t launch correctly. To see if that’s the case, follow the steps below.
 
 1. Launch your UBISOFT CONNECT Client.
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
 
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -142,8 +143,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +150,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-10-terraria-customizations/"><u>[Updated] In 2024, Essential 10 Terraria Customizations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-macs-visual-excellence-10-list-of-ultimate-screens-for-2024/"><u>[Updated] Mac's Visual Excellence #10 List of Ultimate Screens for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-3d-blu-ray-players/"><u>2024 Approved Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-academy-for-storytellers-top-8-recommendations/"><u>2024 Approved Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-solutions-to-prevent-call-of-duty-modern-warfare-2-from-crashing-on-your-desktop/"><u>6 Solutions to Prevent Call of Duty: Modern Warfare 2 From Crashing on Your Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-launch-failures-solved-tips-and-tricks-to-get-your-game-running-smoothly/"><u>Baldur's Gate 3 Launch Failures Solved: Tips and Tricks to Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/escape-from-tarkov-continuous-crash-fixes-for-a-smooth-gaming-experience/"><u>Escape From Tarkov Continuous Crash Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fehlerbehebung-windows-10-diesen-pc-zurucksetzen-funktion-reagiert-nicht-auf-befehle/"><u>Fehlerbehebung: Windows 10 - Diesen PC Zurücksetzen Funktion Reagiert Nicht Auf Befehle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-can-you-unfreeze-call-of-duty-vanguard-a-comprehensive-guide-no-cost/"><u>How Can You Unfreeze Call of Duty: Vanguard? A Comprehensive Guide (No Cost)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-xs-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone XS Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/master-your-online-presence-using-manycam-advanced-features-for-live-broadcasts-and-digital-webcams/"><u>Master Your Online Presence Using ManyCam: Advanced Features for Live Broadcasts & Digital Webcams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k23-pc-crash-woes-try-these-7-game-changing-fixes-to-get-back-in-action/"><u>NBA 2K23 PC Crash Woes? Try These 7 Game-Changing Fixes to Get Back in Action!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quintessential-conclusion-to-vr-adventures-for-2024/"><u>Quintessential Conclusion to VR Adventures for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+</ul></div>
 

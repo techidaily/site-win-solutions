@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Sea of Thieves Stuck on Boot-Up Screens
-date: 2024-08-18T14:07:11.078Z
-updated: 2024-08-19T14:07:11.078Z
+date: 2025-01-25T20:48:20.413Z
+updated: 2025-01-30T06:38:40.974Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a2b6039a90af5776271de387e20901bd10245991f
 
 As one of the most anticipated video games in early 2022, Monster Hunter Rise is finally here. The game is amazing. However, there are sporadic reports about Monster Hunter Rise not launching or black screen on startup. If you happen to be on the same boat, don’t worry. Here is a full list of fixes to help you solve the bugs and regain a smooth gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Try these 6 simple fixes to troubleshoot the Monster Hunter Rise not launching issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -32,23 +29,22 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 6. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Run the game as an administrator
 
  Your game may not launch when it can’t access the necessary permission. So, to make sure it works without interruption, you should run Monster Hunter Rise as an administrator.
 
 1. Go to the game’s installation folder, which is usually located at**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
 2. Locate the**MonsterHunterRise.exe file** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
@@ -59,30 +55,31 @@ Still no luck? Move on to the next method below.
  It’s also possible that Windows Security and other antivirus have prevented Monter Hunter Rise from running, and therefore the game fails to launch. To tweak the settings, follow the steps below:
 
 1. On the Windows search box, type**windows security** and select**Windows Security** from the results.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/1.jpg)
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  One of the most common causes of game bugs or not launching is**a faulty or outdated graphics driver** . A driver update can tackle compatibility issues of new games like Monster Hunter Rise and offer a zero-cost performance boost. So before you try anything more complicated, check if your graphics driver is up-to-date.
@@ -94,8 +91,16 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
@@ -110,9 +115,6 @@ Still no luck? Move on to the next method below.
 
 Check if the game launches as expected. If not, take a look at Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  To troubleshoot any missing or damaged game files that might cause MHR to malfunction, you could perform an integrity check. Newly-released games keep rolling out patches, and doing this will also check for the game updates.
@@ -120,15 +122,8 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 1. Open Steam and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
@@ -145,6 +140,11 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 Test the game to see if your system runs faster and smoother now.
@@ -162,8 +162,6 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +169,22 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] 2024 Approved Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-windows-10-seamless-media-importation-techniques/"><u>[New] In 2024, Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-melody-cache-legally/"><u>2024 Approved FB Melody Cache (Legally)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-on-solving-the-problem-of-fallguys-failure-to-launch-and-subsequent-crashes/"><u>Comprehensive Guide on Solving the Problem of FallGuys Failure to Launch and Subsequent Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-techniques-to-correct-issues-with-nwstoreexe-errors/"><u>Essential Techniques to Correct Issues with NW_store.exe Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-2024-fortnite-pc-stutter-issue-essential-troubleshooting-steps/"><u>Fixing the 2024 Fortnite PC Stutter Issue: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-hot-40-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Hot 40.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-haptic-feedback-and-vr-for-medicine/"><u>In 2024, Haptic Feedback and VR for Medicine</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unleashing-visual-potential-is-pickup-the-pinnacle-of-android-editing-tools/"><u>In 2024, Unleashing Visual Potential Is PickUp the Pinnacle of Android Editing Tools?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-downloading-and-updating-logitech-g203-drivers-for-multiple-windows-os/"><u>Installation Guide: Downloading and Updating Logitech G203 Drivers for Multiple Windows OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-it-wise-to-keep-off-facebook-activity-displayed-insights-for-2024/"><u>Is It Wise to Keep Off-Facebook Activity Displayed? Insights for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-fps-on-war-thunder-with-expert-tips-and-tricks-for-gaming-in-2eby4/"><u>Maximize FPS on War Thunder with Expert Tips & Tricks for Gaming in 2Eby4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/praeys-for-the-gods-stability-fix-overcoming-persistent-pc-malfunctions/"><u>Praeys for the Gods Stability Fix: Overcoming Persistent PC Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-troubleshooting-guide-for-a-smooth-roblox-experience-on-desktop-update-2024/"><u>Quick Troubleshooting Guide for a Smooth Roblox Experience on Desktop - Update 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-access-generate-a-unique-registration-pin-today/"><u>Secure Your Access: Generate a Unique Registration PIN Today</u></a></li>
+</ul></div>
 

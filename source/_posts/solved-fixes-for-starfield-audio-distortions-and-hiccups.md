@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixes for Starfield Audio Distortions & Hiccups"
-date: 2024-08-18T14:08:16.380Z
-updated: 2024-08-19T14:08:16.380Z
+date: 2025-01-26T06:16:40.503Z
+updated: 2025-01-29T22:50:08.832Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -39,10 +47,11 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 Check your region and language settings on your computer:
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -50,19 +59,17 @@ Check your region and language settings on your computer:
 
  3) Click**Region & language.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 4) Make sure the region and language settings is matched with yours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -70,9 +77,6 @@ Check your region and language settings on your computer:
 
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
  2) Click **Check for updates** .
@@ -83,9 +87,6 @@ Check your region and language settings on your computer:
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -104,19 +105,12 @@ Check your region and language settings on your computer:
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
@@ -127,21 +121,23 @@ Or click  **Update All** to automatically download and install the correct versi
 
  1) Type **Cortana**  in the search box from Start and click **Cortana & Search settings**  from the top.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -154,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +157,22 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-smart-approach-to-video-marketing-for-smbs/"><u>[New] 2024 Approved The SMART Approach to Video Marketing for SMBs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chortlecraft-customize-funny-digital-images/"><u>[New] ChortleCraft Customize Funny Digital Images</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-6-game-changing-tactics-to-increase-watch-time-and-reduce-churn-rate/"><u>[Updated] 2024 Approved 6 Game-Changing Tactics to Increase Watch Time and Reduce Churn Rate</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-get-paid-on-instagram-the-leading-money-making-strategies/"><u>[Updated] Get Paid on Instagram The Leading Money-Making Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[Updated] In 2024, Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spark-creativity-with-costless-auditory-extras/"><u>[Updated] Spark Creativity with Costless Auditory Extras</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defy-the-cursed-stutters-avoid-hogwarts-legacy-crash-on-pc-using-our-proven-8-step-guide/"><u>Defy the Cursed Stutters - Avoid Hogwarts Legacy Crash on PC Using Our Proven 8-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-mouse-related-glitches-found-in-resident-evil-village-gameplay/"><u>Fixes for Mouse-Related Glitches Found in Resident Evil Village Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-continuous-application-failures-solutions-for-blender-crashes-on-windows-computers/"><u>Fixing Continuous Application Failures: Solutions for Blender Crashes on Windows Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-back-into-action-fix-steps-when-multiversus-fails-to-launch-on-pc/"><u>Get Back Into Action: Fix Steps When MultiVersus Fails to Launch on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-darkened-interface-challenge-in-fortnite-on-windows-platform/"><u>How to Overcome the Darkened Interface Challenge in Fortnite on Windows Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts/"><u>In 2024, Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/murder-mysteries-unfolded-dive-into-4-ai-enhanced-online-quests/"><u>Murder Mysteries Unfolded: Dive Into 4 AI Enhanced Online Quests</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-steam-cloud-synchronization-problems-for-good/"><u>Resolve Your Steam Cloud Synchronization Problems for Good!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unstick-your-gameplay-expert-advice-on-resolving-red-dead-redemption-amoled-loadscreen-problems/"><u>Unstick Your Gameplay: Expert Advice on Resolving Red Dead Redemption Amoled Loadscreen Problems</u></a></li>
+</ul></div>
 

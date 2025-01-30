@@ -1,7 +1,7 @@
 ---
 title: "Battling Bugs in the System: How to Fix Persona 5 Strikers Crashing on Your Computer"
-date: 2024-08-18T14:09:23.664Z
-updated: 2024-08-19T14:09:23.664Z
+date: 2025-01-22T17:34:05.836Z
+updated: 2025-01-30T01:59:19.675Z
 tags:
   - win11
   - win10
@@ -31,11 +31,19 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 – Verify the integrity of game files
 
@@ -47,11 +55,12 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -78,10 +87,11 @@ This could take several minutes. Wait for the process to be complete.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -93,16 +103,14 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -113,10 +121,6 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 **3)** Restart your game to see if it runs correctly now.
@@ -135,25 +139,20 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
@@ -174,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +180,20 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-compreran-exploration-of-giroptics-panorama/"><u>[New] In 2024, Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-minimca-haven-unveiling-simple-homes-in-minecraft-for-2024/"><u>[New] MiniMCA Haven Unveiling Simple Homes in Minecraft for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-exclusive-screen-savers-best-12-with-unlimited-recording/"><u>2024 Approved Exclusive Screen Savers Best 12 with Unlimited Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-creating-unique-tiktok-cover-art/"><u>2024 Approved Guide to Creating Unique TikTok Cover Art</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-gears-of-war-4-pc-crash/"><u>How To Fix Gears of War 4 PC Crash</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stabilize-your-game-avoiding-dead-by-daylight-crashes-in-latest-update/"><u>How to Stabilize Your Game: Avoiding Dead By Daylight Crashes in Latest Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jurasserial-conundrum-solved-causes-and-fixes-for-crashes-in-jurassic-world-evolution/"><u>Jurasserial Conundrum Solved: Causes and Fixes for Crashes in Jurassic World Evolution</u></a></li>
+<li><a href="https://win-best.techidaily.com/resolving-installation-errors-correcting-your-printers-driver-guidance-by-yl-computing/"><u>Resolving Installation Errors: Correcting Your Printer's Driver - Guidance by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011204552-resolving-playstation-metro-exodus-game-crashes-winning-strategies/"><u>Resolving PlayStation Metro Exodus Game Crashes - Winning Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-entering-bios-on-windows-11-devices/"><u>Step-by-Step Tutorial: Entering BIOS on Windows 11 Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-portable-game-systems/"><u>Top-Rated Portable Game Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-crashes-for-a-smoother-outriders-experience/"><u>Troubleshooting Frame Rate Crashes for a Smoother Outriders Experience</u></a></li>
+</ul></div>
 

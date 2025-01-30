@@ -1,7 +1,7 @@
 ---
 title: "Rapid Response: Overcoming Sticking Points in Shader Configurations of Star Wars Battlefront II"
-date: 2024-08-18T14:04:27.191Z
-updated: 2024-08-19T14:04:27.191Z
+date: 2025-01-23T18:21:51.040Z
+updated: 2025-01-29T20:30:10.780Z
 tags:
   - win11
   - win10
@@ -15,14 +15,15 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ## Battling with Constant PC Crashes During 'The King of Fighters XV'? Here's How You Can Win
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![THE KING OF FIGHTERS XV keeps crashing on PC](https://images.drivereasy.com/wp-content/uploads/2022/02/THE-KING-OF-FIGHTERS-XV-keeps-crashing-on-PC.jpg)
 
 A screenshot of The King of Fighters XV from Steam
 
  Soon after the release of The King of Fighters XV (KOF XV), lots of PC gamers have been reporting severe issues like game crashing. Some PC players run into the game crashing issue on the startup screen or during the gameplay, while others find the game won’t launch. If you’re experiencing the very same issue, don’t worry. We have the latest fixes for you right here! **After reading this article, you should be able to fix The King of Fighters XV crashing issue easily!**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,11 +45,13 @@ A screenshot of The King of Fighters XV from Steam
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **THE KING OF FIGHTERS XV** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you’re playing KOF XV on Epic games Launcher** , follow the instructions below:
@@ -73,6 +76,10 @@ If the game still crashes after you verified the game files, try the next
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -89,9 +96,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -121,14 +125,6 @@ Run KOF XV and check if it crashes or not.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
 [SNK CORPORATION](https://store.steampowered.com/search/?developer=SNK%20CORPORATION&snr=1%5F5%5F9%5F%5F2000) , the game developer, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -143,9 +139,6 @@ Run KOF XV and check if it crashes or not.
 
 1. Go to[the Microsoft DirectX End-User Runtime Web Install page](https://www.microsoft.com/en-us/download/details.aspx?id=35) .
 2. Click the Download button to start the download.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 4. Restart your computer and launch KOF XV.
@@ -153,6 +146,10 @@ Run KOF XV and check if it crashes or not.
  See if the game crashes again after you installed the latest DirectX file.
 
 If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -164,6 +161,10 @@ If this fix didn’t work for you, try the next fix, below.
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair Epic Games Launcher
 
  _This fix is for players on Epic Games Launcher. If you play the game on Steam, just skip to[the next fix](https://tools.techidaily.com/drivereasy/download/) ._
@@ -171,49 +172,41 @@ If this fix didn’t work for you, try the next fix, below.
  THE KING OF FIGHTERS XV may also crash when there’s something wrong with Epic Games Launcher. You can follow the steps below to repair Epic Games Launcher:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epic Games Launcher** and select**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epic Games Launcher, launch KOF XV to see if it will crash. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  KOF XV will crash if there’s a certain app conflicting with it. You can follow the instructions below to perform a clean boot to find that problematic app. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch KOF XV to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -243,8 +236,6 @@ If this fix didn’t work for you, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +243,18 @@ If this fix didn’t work for you, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-achieve-professional-level-youtube-transcription-without-spending-for-2024/"><u>[Updated] Achieve Professional-Level YouTube Transcription Without Spending for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-nocturnal-nuances-expert-insights-into-nighttime-photography-for-2024/"><u>[Updated] Nocturnal Nuances Expert Insights Into Nighttime Photography for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-batman-solutions-for-arkhk-crashes-and-critical-bugs/"><u>Fixing Batman: Solutions for ARKHK Crashes & Critical Bugs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-your-srt-files-with-mac-expertise/"><u>In 2024, Navigating Your SRT Files with Mac Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mafia-iii-unleashed-final-version-release-update-clarified/"><u>Mafia III Unleashed: Final Version Release Update Clarified</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-methods-for-accessing-disk-management-win-1011/"><u>Proven Methods for Accessing Disk Management (Win 10/11)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-recurring-pc-crashes-with-the-lunaclient-application/"><u>Resolved: How to Fix Recurring PC Crashes with the LunaClient Application</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-rainbow-six-siege-microphoneheadset-issues-a-step-by-step-guide/"><u>Resolving Rainbow Six Siege Microphone/Headset Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-hp-screen-malfunctions-expert-advice-for-a-resolved-display-problem/"><u>Solving HP Screen Malfunctions: Expert Advice for a Resolved Display Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-red-dead-redemption-2-fails-to-start-on-your-computer/"><u>Troubleshooting Steps When Red Dead Redemption 2 Fails to Start on Your Computer</u></a></li>
+</ul></div>
 

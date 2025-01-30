@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Your Discord Screen Sharing Displays a Black Screen Error
-date: 2024-08-18T14:07:52.987Z
-updated: 2024-08-19T14:07:52.987Z
+date: 2025-01-29T03:20:25.588Z
+updated: 2025-01-29T23:48:22.134Z
 tags:
   - win11
   - win10
@@ -36,14 +36,15 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
 
@@ -56,13 +57,9 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable Windows 10 Game Mode
 
  Game mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to give you a performance boost. But there are some circumstances that you would experience performance loss. To get rid of it, you’re supposed to disable Windows 10 Game Mode:
@@ -93,39 +90,35 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  3) Under the**General** tab, uncheck**Enable in-game overlay for supported games** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
 
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -146,18 +139,20 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -166,8 +161,9 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Set the game’s priority to high
 
  By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
@@ -178,9 +174,6 @@ To set your game’s priority to high, you can take these steps:
 
  2) Type**taskmgr** and press Enter.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
@@ -189,10 +182,11 @@ To set your game’s priority to high, you can take these steps:
 
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
@@ -225,8 +219,6 @@ To set your game’s priority to high, you can take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +226,18 @@ To set your game’s priority to high, you can take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-guide-to-various-video-recording-devices-for-2024/"><u>[New] Guide to Various Video Recording Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-20-anime-series-intros/"><u>[New] Iconic 20 Anime Series Intros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-seamless-integration-combining-b-roll-and-main-scenes/"><u>[New] In 2024, Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004615372-cortana-malfunctioning-heres-what-you-need-to-know/"><u>Cortana Malfunctioning? Here's What You Need to Know!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decode-the-world-unveiling-the-top-22-platforms-for-video-translation/"><u>Decode the World Unveiling the Top 22 Platforms for Video Translation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722994005926-expert-solutions-for-heart-of-iron-4-bugs-and-performance-issues-now-fixed/"><u>Expert Solutions for Heart of Iron 4 Bugs & Performance Issues - Now Fixed!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a78-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A78 FRP?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-tips-how-to-stop-deathloop-from-stuttering-and-enhance-your-experience/"><u>PC Gaming Tips: How to Stop Deathloop From Stuttering and Enhance Your Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/real-time-recording-battle-obs-studio-against-fraps-for-2024/"><u>Real-Time Recording Battle OBS Studio Against Fraps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-common-stalling-problems-with-these-easy-fixes-for-metro-exodus-pc-enhanced-edition/"><u>Resolve Common Stalling Problems with These Easy Fixes for Metro Exodus (PC) Enhanced Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-filmora-for-free-no-hidden-fees-or-malware/"><u>Updated Get Filmora for Free No Hidden Fees or Malware</u></a></li>
+</ul></div>
 

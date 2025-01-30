@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Launching Game Problems? Verify Your Game Assets First"
-date: 2024-08-18T14:07:47.012Z
-updated: 2024-08-19T14:07:47.012Z
+date: 2025-01-28T00:39:27.383Z
+updated: 2025-01-29T22:52:33.062Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 Team Fortress 2 gameplay is endlessly fun but many players report the problem of the game not launching. If you happened to be one of them, don’t worry. We’ve got some fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 fixes to try
 
  You might not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -29,6 +26,10 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 3. **[Run TF2 in compatibility mode & as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -47,11 +48,6 @@ By checking your system specs, just follow the instructions below:
 
  1) Press the**Windows logo key** and**R** together on your keyboard. Type**dxdiag** in the box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
 2) Now you can check your system specs.
@@ -72,8 +68,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics drivers
 
  The manufacturer of your graphics card keeps releasing updates for the drivers. To get them, you need to go to the official website, find the drivers that are compatible with your PC, and install them on your own.
@@ -92,9 +89,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any outdated or missing drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
@@ -106,6 +100,10 @@ OR
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After that, launch your game to see if the problem is solved. If not, try to update other drivers including sound drivers, and DirectX drivers as well.
@@ -113,8 +111,9 @@ OR
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -125,27 +124,16 @@ OR
 
  2) Open the**steamapps** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
  4) Right-click on**hl2** Application and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 ## Fix 4: Verify the integrity of game files
@@ -154,19 +142,27 @@ The powerful video editing program for your Windows PC</a>
 
  1) Run Steam. Under the**LIBRARY** tab, right-click on**Team Fortress 2** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
 
@@ -174,10 +170,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) Run Steam. Under the**LIBRARY** tab, right-click on**Team Fortress 2** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
@@ -210,8 +207,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +214,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-improve-your-channels-meta-description-powerfully/"><u>[New] Improve Your Channel's Meta Description Powerfully</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc-for-2024/"><u>[New] Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] 2024 Approved Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-hacks-the-ultimate-guide-to-funny-memes/"><u>[Updated] Humorous Hacks The Ultimate Guide to Funny Memes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-to-fame-identifying-2023s-most-shared-content/"><u>[Updated] In 2024, Tweeted to Fame Identifying 2023'S Most Shared Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-audio-visual-sync-with-subtitles-on-windows-media-player/"><u>2024 Approved Enhancing Audio-Visual Sync with Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-top-strategies-for-repairing-damaged-video-game-data-on-your-computer/"><u>2024'S Top Strategies for Repairing Damaged Video Game Data on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-the-blue-death-syndrome-a-players-handbook-for-helldivers-2-recovery/"><u>Conquer the Blue Death Syndrome: A Player’s Handbook for Helldivers 2 Recovery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortlessly-resolve-your-rage-2-game-crashing-woes-step-by-step-guide-inside/"><u>Effortlessly Resolve Your RAGE 2 Game-Crashing Woes – Step-by-Step Guide Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-why-is-god-of-war-continuously-freezing-or-crashing-on-your-pc/"><u>Fix: Why Is 'God of War' Continuously Freezing or Crashing on Your PC?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-preventing-call-of-duty-modern-warfare-from-crashing-on-windows/"><u>Fixing the Issue: Preventing Call of Duty Modern Warfare From Crashing on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-alerts-staying-ahead-with-its-operating-status/"><u>GPT-3 Alerts: Staying Ahead with Its Operating Status</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-problems-in-operation-husar-fixing-tarkovs-error-code-103003/"><u>Troubleshooting Common Problems in Operation Husar: Fixing Tarkov's Error Code 103003</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-kb-error-resolution-irql/"><u>Win11 KB Error Resolution: IRQL</u></a></li>
+</ul></div>
 

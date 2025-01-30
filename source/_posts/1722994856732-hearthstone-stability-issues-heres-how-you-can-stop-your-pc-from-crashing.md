@@ -1,7 +1,7 @@
 ---
 title: Hearthstone Stability Issues? Here's How You Can Stop Your PC From Crashing!
-date: 2024-08-18T14:07:54.073Z
-updated: 2024-08-19T14:07:54.073Z
+date: 2025-01-28T06:24:14.297Z
+updated: 2025-01-29T17:57:31.730Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 Game crashing issues can occur for a variety of reasons, such as a faulty graphics driver, software conflicts, improper game settings, low RAM, etc. If you’re experiencing the**Garry’s Mod(GMod) crashing** issue on your PC, before contacting the game’s developer, try the following solutions first.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -33,9 +30,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check your PC specs
 
  If your game crashes or freezes frequently, the first step is to verify your PC is above the minimum system requirements to run Garry’s Mod. If you’re below the recommended spec, **try lowering your resolution and graphics and in-game video settings** .
@@ -70,18 +64,20 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Check your**Display Memory** here.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
@@ -116,9 +112,6 @@ OR
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -137,10 +130,11 @@ OR
 
 **2)** Click **LIBRARY.**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
@@ -155,8 +149,9 @@ OR
  If the crashing issue continues to occur, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -175,19 +170,32 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable automatic downloads from the server
 
  If you enable the automatic downloads of custom content from game servers, you’re likely to experience this issue when your Internet connection is bad. (This is because the downloading process can hog your Internet speed, thus crashing your game. )
@@ -198,20 +206,18 @@ Follow the instructions below to stop the automatic downloads:
 
 **2)** Navigate to**Option** , click the**Multiplayer** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Steam
 
  If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Follow the instructions below:
@@ -222,9 +228,6 @@ Follow the instructions below to stop the automatic downloads:
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
@@ -237,10 +240,6 @@ Follow the instructions below to stop the automatic downloads:
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
@@ -249,16 +248,14 @@ The ultimate burning program for all your needs!</a>
 
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
@@ -321,8 +318,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +325,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-eco-conscious-screen-tech-guide/"><u>[New] 2024 Approved Eco-Conscious Screen Tech Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cure-for-disconnected-channels-in-obs/"><u>[New] Cure for Disconnected Channels in OBS</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sculpted-sound-diminishment-for-impact/"><u>2024 Approved Sculpted Sound Diminishment for Impact</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hack-slash-and-fight-your-way-through-in-god-of-war-fps-pc-version/"><u>Hack, Slash, and Fight Your Way Through in God of War FPS (PC Version)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-game-stalling-problems-with-code-vein-a-step-by-step-guide/"><u>How to Overcome Game Stalling Problems with Code Vein - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-fallout-76-performance-ultimate-guide-to-eliminating-lag-2023-edition/"><u>Improving Fallout 76 Performance: Ultimate Guide to Eliminating Lag - 2023 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-new-screen-recorder-tools-analysis-march-2023/"><u>In 2024, New Screen Recorder Tools Analysis – March 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/isodvd/"><u>ISOへの変換マスタークラス「最新かつ安全なDVDダウンロード」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-notes-and-alerts-implementation/"><u>Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-effective-techniques-to-lower-latency-issues-in-back-4-blood/"><u>Resolved: Effective Techniques to Lower Latency Issues in 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016162732-resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-frame-rate-drop-issues-in-rainbow-six-extraction/"><u>Solving Frame Rate Drop Issues in Rainbow Six Extraction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-dealing-with-premiere-pros-crashing-woes-in-windows-11-and-10/"><u>Ultimate Troubleshooting Guide: Dealing with Premiere Pro's Crashing Woes in Windows 11 & 10</u></a></li>
+</ul></div>
 

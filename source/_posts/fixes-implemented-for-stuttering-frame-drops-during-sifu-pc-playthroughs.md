@@ -1,7 +1,7 @@
 ---
 title: Fixes Implemented for Stuttering Frame Drops During 'Sifu' PC Playthroughs
-date: 2024-08-18T14:09:24.714Z
-updated: 2024-08-19T14:09:24.714Z
+date: 2025-01-28T03:18:26.513Z
+updated: 2025-01-29T17:34:19.733Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 As soon as you load into the game, Star Citizen crashes immediately. This could be frustrating but don’t worry, this post could help.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,18 +33,12 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Disconnect any peripheral devices
 
  To the Star Citizen crashing issue, you need to disconnect any external devices. It’s because the crash could be caused by the conflicting device.
 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -53,10 +48,16 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Kill background programs
 
@@ -69,10 +70,6 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  As a game player, the graphics card is one of the most important components of your PC. If the graphics driver is outdated or corrupted, you may not be able to enjoy the game. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve gaming performance and experience, but Windows won’t always provide you with the latest version.
@@ -97,8 +94,9 @@ So, there are two ways that you can update your graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset your character account
 
  According to players, somehow resetting your character account could fix the Star Citizen crashing issue. You may have a try. At least it’s not a complicated fix.
@@ -106,6 +104,10 @@ So, there are two ways that you can update your graphics driver:
 1. Go to the[site](https://robertsspaceindustries.com/) and log in to your account.
 2. Click**Settings > Character reset** .
 3. Click**Reset Request** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Increase page file size
 
@@ -133,8 +135,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,24 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-quick-realignment-youtube-on-mac-display-ratio/"><u>[New] 2024 Approved Quick Realignment YouTube on Mac Display Ratio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-choices-high-quality-free-screen-recorder-software/"><u>[New] In 2024, Premier Choices High-Quality Free Screen Recorder Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-get-your-youtube-video-seen-6-easy-steps/"><u>[Updated] 2024 Approved How to Get Your YouTube Video Seen - 6 Easy Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-video-magic-the-best-camcorders-to-try/"><u>[Updated] Unleash Video Magic – The Best Camcorders to Try</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-delay-effective-solutions-for-high-ping-in-bless-unleashed-for-windows-users/"><u>Beat the Delay: Effective Solutions for High Ping in Bless Unleashed for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-tricks-how-to-tell-them-apart/"><u>ChatBot Tricks: How to Tell Them Apart</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cut-down-zooms-cpu-overload-implement-our-proven-6-strategies-now/"><u>Cut Down Zoom’s CPU Overload: Implement Our Proven 6 Strategies Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-gaming-tips-and-tricks-to-get-payday-2-running-smoothly-on-pc/"><u>Effortless Gaming: Tips & Tricks to Get Payday 2 Running Smoothly on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-quiet-issue-how-to-restore-audio-in-apex-legends/"><u>Fixing the Quiet Issue: How to Restore Audio in Apex Legends</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-issue-when-football-manager-2023-doesnt-open/"><u>How to Fix the Issue When Football Manager 2023 Doesn't Open</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013675296-insight-into-football-manager-2022s-delayed-start-everything-you-need-to-know-now-sorted-out/"><u>Insight Into Football Manager 2022'S Delayed Start: Everything You Need to Know, Now Sorted Out</u></a></li>
+<li><a href="https://win-unique.techidaily.com/now-add-this-new-equation-to-the-second-equation-given/"><u>Now, Add This New Equation to the Second Equation Given:</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-forest-sons-pc-game-crashes-a-step-by-step-guide/"><u>Resolving 'Forest Sons' PC Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-addressing-and-correcting-common-visual-bugs-in-rust-programming/"><u>Solved: Addressing and Correcting Common Visual Bugs in Rust Programming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-eliminating-pc-stuttering-during-call-of-dutys-battle-royale/"><u>Top Strategies for Eliminating PC Stuttering During Call of Duty's Battle Royale</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-problems-why-is-assassins-creed-valhalla-keep-on-freezing/"><u>Troubleshooting PC Problems – Why Is Assassin’s Creed Valhalla Keep on Freezing?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-stable-computer-overcoming-the-blue-screen-of-death/"><u>Troubleshooting Techniques for a Stable Computer: Overcoming the Blue Screen of Death</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Low FPS Performance in Resident Evil Village for a Smoother PC Experience
-date: 2024-08-18T14:09:17.953Z
-updated: 2024-08-19T14:09:17.953Z
+date: 2025-01-23T01:46:50.952Z
+updated: 2025-01-29T18:26:09.821Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 methods to try
 
 You may not have to try them all. Just choose the one you need.
@@ -52,8 +49,13 @@ You may not have to try them all. Just choose the one you need.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver
 
  One of the most common causes of the low FPS issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -96,44 +98,36 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 **2)** Under **View by,** click **Large icons** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer, and then relaunch your game to see if this worked for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Method 4: Configure your graphics settings
 
  Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
@@ -147,18 +141,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
@@ -169,21 +165,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
 **2)** Click**Gaming** , then**Global Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Modify the settings following the screenshot below.
 
@@ -209,8 +207,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +214,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pioneering-immersive-tech-firms/"><u>[New] 2024 Approved Pioneering Immersive Tech Firms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[New] A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-tech-tussle-2022-gopro-hero5-clash-with-garmin-virb/"><u>[New] In 2024, Tech Tussle 2022 GoPro Hero5 Clash with Garmin VIRB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-top-10-editing-powerhouses-to-create-engaging-reels/"><u>[Updated] In 2024, The Top 10 Editing Powerhouses to Create Engaging Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-spectral-control-enhancing-image-aesthetics-for-2024/"><u>[Updated] Spectral Control Enhancing Image Aesthetics for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-creating-and-activating-your-ps4ps5-online-id/"><u>Beginner's Tutorial: Creating and Activating Your PS4/PS5 Online ID</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comment-convertir-un-dvd-avec-contourner-le-code-regional-sur-windows-11-8-ou-7/"><u>Comment Convertir Un DVD Avec Contourner Le Code Régional Sur Windows 11, 8 Ou 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-lights-sound-malfunction-solutions-expert-advice-and-tips/"><u>Dying Light's Sound Malfunction Solutions - Expert Advice and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-ffxivs-version-check-glitches-for-a-seamless-gaming-experience/"><u>Fixing FFXIV's Version Check Glitches for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-bring-playlists-down-to-youtube-the-5-best-conversion-resources/"><u>In 2024, Bring Playlists Down to YouTube The 5 Best Conversion Resources</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-troubleshooting-eliminate-dying-light-game-crashes-in-a-flash/"><u>Master the Art of Troubleshooting: Eliminate Dying Light Game Crashes in a Flash</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-windows-groggy-performance-with-microsoft-edge-crashes-fixed/"><u>Troubleshooting Windows Groggy Performance with Microsoft Edge Crashes Fixed</u></a></li>
+</ul></div>
 

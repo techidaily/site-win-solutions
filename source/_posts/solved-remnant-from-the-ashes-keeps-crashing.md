@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Remnant: From the Ashes Keeps Crashing"
-date: 2024-08-18T14:05:13.770Z
-updated: 2024-08-19T14:05:13.770Z
+date: 2025-01-29T01:18:59.931Z
+updated: 2025-01-29T19:08:58.359Z
 tags:
   - win11
   - win10
@@ -26,28 +26,24 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -60,11 +56,16 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 10. Select **OK** to save your changes and close the Exception List window.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your driver
 
@@ -78,17 +79,20 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -100,8 +104,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +111,21 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-master-the-art-of-captivating-instagram-video-audiences/"><u>[New] Master the Art of Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-hidden-gems-in-the-world-of-snapchat-ringtones-online-for-2024/"><u>[Updated] Hidden Gems in the World of Snapchat Ringtones Online for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-perfect-flying-buddies-top-toys-for-children-for-2024/"><u>[Updated] Perfect Flying Buddies Top Toys for Children for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-reels-incorporating-music-and-voiceovers/"><u>2024 Approved Mastering Instagram Reels Incorporating Music & Voiceovers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nokia G42 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-overview-where-does-verizon-stand-in-todays-5g-ecosystem/"><u>A Comprehensive Overview: Where Does Verizon Stand in Today's 5G Ecosystem?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-all-accepted-cryptos-a-comprehensive-guide-from-yl-software-experts/"><u>Discover All Accepted Cryptos: A Comprehensive Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990195014-effortless-solutions-overcoming-apex-legends-game-loading-hurdles-today/"><u>Effortless Solutions: Overcoming Apex Legends Game Loading Hurdles Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-apex-legends-bug-deciphering-and-fixing-error-code-leaf/"><u>How to Overcome Apex Legends Bug – Deciphering and Fixing Error Code Leaf</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-dirty-sresistance-fixing-dead-by-daylight-continuous-crash-proven-strategies/"><u>Mastering Dirty Sresistance: Fixing Dead by Daylight Continuous Crash - Proven Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-subnautica-below-zero-how-to-keep-your-game-smooth-and-stable-on-pc/"><u>Mastering Subnautica: Below Zero - How to Keep Your Game Smooth and Stable on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-the-search-in-windows-11-top-tips-for-a-smooth-experience/"><u>Reviving the Search in Windows 11: Top Tips for a Smooth Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-content-warning-continuously-closes-issue-on-your-computer/"><u>Solving the 'Content Warning Continuously Closes' Issue on Your Computer</u></a></li>
+</ul></div>
 

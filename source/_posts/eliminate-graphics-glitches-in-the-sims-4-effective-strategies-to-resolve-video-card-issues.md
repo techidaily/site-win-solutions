@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Graphics Glitches in The Sims 4: Effective Strategies to Resolve Video Card Issues"
-date: 2024-08-18T14:07:42.566Z
-updated: 2024-08-19T14:07:42.566Z
+date: 2025-01-28T17:40:58.877Z
+updated: 2025-01-29T19:08:35.286Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 [7: Keep your system up-to-date](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your PC meets the requirement
 
  Although Tainted Grail: Conquest isn’t as demanding as many other large games, higher PC specs will definitely boost the game performance. You can check out the**minimum system requirement** for Tainted Grail: Conquest below:
@@ -51,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  If your PC specs are sufficient for the game but you still suffer from low FPS issues, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  An outdated or faulty graphics driver can cause a lot of display issues. If you notice constant FPS drops in-game, you may want to update your graphics driver to make sure it’s functioning properly.
@@ -67,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 **Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card and your Windows version, then it will download and install it correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -81,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  Make sure you restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patches
 
  The developers release patches for Tainted Grail: Conquest every now and then. And since this game had an early access release, the developers have been communicating with the players and fixing bugs upon feedback.
@@ -93,22 +91,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  By default, the Steam client will detect any available patches and update your game, so you don’t have to worry about missing an update. However, if you want to report a bug or any game issues, feel free to[post in their Steam forum](https://steamcommunity.com/app/1199030/discussions/) or[join their official discord](https://discord.com/invite/j4ejXQa) for quicker responses.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Verify game files integrity
 
  Damaged or missing game files could cause a lot of game issues, including in-game FPS drops as well. You may want to make sure your game files are intact. Here’s how:
 
 1. Open your Steam library and find Tainted Grail: Conquest. Right-click the game icon then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 3. Steam will scan your local game files, and replace or add any corrupted or missing files to your game folder.
 
@@ -164,6 +158,10 @@ Make sure to save the changes then test the in-game FPS.
 
  If adjusting the graphics settings fails to bring a major boost in your FPS, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Change the power plan in your graphics setting
 
  Windows allows the users to change the power options if needed. By setting to the high-performance mode, your CPU usage won’t be limited as it’ll be able to run at a high speed constantly.
@@ -173,20 +171,21 @@ Make sure to save the changes then test the in-game FPS.
 1. In the search bar next to the Start button, type**graphics** then click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-graphics.png)
 2. Click**Browse** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/browse.png)
 3. Locate your game executable file and add it to the list. It’s usually in **C:Program Files (x86)Steamsteamappscommon** .
-4. Once the exe. file is added to the list, click**Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Once the exe. file is added to the list, click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/options.png)
 5. Select**High Performance** , then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/high-performance.png)
 
  Check if you get a higher FPS in-game now. If this doesn’t solve your problem, try the last fix.
@@ -217,8 +216,6 @@ Make sure to save the changes then test the in-game FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +223,26 @@ Make sure to save the changes then test the in-game FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-getting-started-with-vlc-screen-recordings/"><u>[New] 2024 Approved Getting Started with VLC Screen Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-image-browsing-the-ultimate-guide-to-pexels-wonders/"><u>[Updated] Mastering Image Browsing The Ultimate Guide to Pexels Wonders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-new-insight-sony-s6500-bd-reader-update/"><u>2024 Approved New Insight Sony S6500 BD Reader Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elevate-your-gameplay-tackling-frame-rate-drops-in-resident-evil-village-on-computer-systems/"><u>Elevate Your Gameplay - Tackling Frame Rate Drops in Resident Evil Village on Computer Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-game-crashes-in-microsoft-flight-simulator-2020-a-comprehensive-pc-troubleshooting-guide/"><u>Eliminating Game Crashes in Microsoft Flight Simulator 2020: A Comprehensive PC Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explorando-os-top-tecnicas-de-reducao-da-profundidade-de-cor-em-imagens-com-video-tutorials/"><u>Explorando Os Top Técnicas De Redução Da Profundidade De Cor Em Imagens Com Vídeo Tutorials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cod-black-ops-cold-war-episode-resolving-error-code-80070057/"><u>Fixing Cod: Black Ops Cold War Episode - Resolving Error Code 80070057</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-copy-the-ultimate-free-download-guide-for-the-mtvmovieandtelevisionawards2022/"><u>Get Your Copy: The Ultimate Free Download Guide for the #MTVMovieAndTelevisionAwards_2022</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-youtube-viewing-a-fix-for-video-stuttering-problems/"><u>How to Ensure Smooth YouTube Viewing: A Fix for Video Stuttering Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-frame-rates-in-ring-of-elysium-a-comprehensive-guide/"><u>Maximizing Frame Rates in Ring of Elysium - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-steams-black-screen-challenge-with-these-7-effective-troubleshooting-techniques-for-2hren/"><u>Overcome Steam's Black Screen Challenge with These 7 Effective Troubleshooting Techniques for 2Hren</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overwatchs-troubled-relationship-with-graphics-drivers-mended-successfully/"><u>Overwatch's Troubled Relationship with Graphics Drivers Mended Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-troubleshoot-how-to-stop-gas-station-simulator-from-continuously-crashing/"><u>PC Gaming Troubleshoot: How to Stop Gas Station Simulator From Continuously Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-call-of-duty-warzone-memory-glitch-error-0-1766-for-both-xbox-and-pc-players/"><u>Solving Call of Duty: Warzone Memory Glitch (Error 0-1766) for Both Xbox & PC Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-persistent-long-load-time-problems-in-fallout-4-tips-and-tricks/"><u>Solving Persistent LONG Load Time Problems in Fallout 4: Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-configuring-windows-10-for-remote-desktop-access/"><u>Step-by-Step Guide: Configuring Windows 10 for Remote Desktop Access</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/660708-9781587613852-the-faeries-guide-to-green-magick-from-the-garden/"><u>The Faerie's Guide to Green Magick from the Garden | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/yaratilan-obs-sanal-kamera-uygulamasi-ve-destekleri-uzerine-gerceklenen-aciklar/"><u>Yaratılan OBS Sanal Kamera Uygulaması Ve Destekleri Üzerine Gerçeklenen Açıklar</u></a></li>
+</ul></div>
 

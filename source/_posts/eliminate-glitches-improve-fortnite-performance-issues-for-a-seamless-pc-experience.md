@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Glitches: Improve Fortnite Performance Issues for a Seamless PC Experience"
-date: 2024-08-18T14:06:08.435Z
-updated: 2024-08-19T14:06:08.435Z
+date: 2025-01-22T21:11:28.550Z
+updated: 2025-01-30T05:27:48.991Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -85,14 +86,19 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -108,9 +114,6 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -118,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -127,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3) Click**Initiate Full Repair** .
@@ -138,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -155,16 +156,14 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -180,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +186,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-dells-direct-methods-easy-screenshot-solutions/"><u>[New] Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-metavision-journey-essential-gear-for-metaverse-visitors-for-2024/"><u>[New] Metavision Journey Essential Gear for Metaverse Visitors for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-space-optimization-mastery-premium-storage-reviews/"><u>[Updated] Space Optimization Mastery Premium Storage Reviews</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-transform-your-short-form-content-top-10-mobile-video-cutting-tools/"><u>[Updated] Transform Your Short-Form Content Top 10 Mobile Video Cutting Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-rotation-video-setup/"><u>[Updated] Ultimate Rotation Video Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sculpting-textual-space-with-ais-powerful-features/"><u>2024 Approved Sculpting Textual Space with AI's Powerful Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-play-solving-the-yakuza-3-remastered-pc-freeze-issue/"><u>Enhance Your Play: Solving the Yakuza 3 Remastered PC Freeze Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990524665-goodbye-flashes-solve-the-persistent-screen-shimmering-dilemma-today/"><u>Goodbye Flashes! Solve the Persistent Screen Shimmering Dilemma Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glimpsing-at-huawei-p10s-thermal-management-tech/"><u>In 2024, Glimpsing at Huawei P10's Thermal Management Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-in-avatar-troubleshooting-low-fps-and-smoothing-out-stutters/"><u>Optimizing Performance in 'Avatar': Troubleshooting Low FPS and Smoothing Out Stutters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pro-tips-for-resolving-continuous-freezing-issues-in-warframe/"><u>Pro Tips for Resolving Continuous Freezing Issues in Warframe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-windows-11-spotlight-display-problems/"><u>Resolving Issues with Windows 11 Spotlight Display Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-social-circle-problems-here-are-the-fixes-you-need/"><u>Steam Social Circle Problems? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-to-starting-overwatch-2-effortlessly-in-202n-top-7-fix-strategies/"><u>Unlock the Secrets to Starting Overwatch 2 Effortlessly in 202N: Top 7 Fix Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstations-for-work-consoles-for-games-a-look/"><u>Workstations for Work, Consoles for Games: A Look</u></a></li>
+</ul></div>
 

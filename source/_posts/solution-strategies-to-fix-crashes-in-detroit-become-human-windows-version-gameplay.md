@@ -1,7 +1,7 @@
 ---
 title: "Solution Strategies to Fix Crashes in Detroit: Become Human Windows Version Gameplay"
-date: 2024-08-18T14:07:59.214Z
-updated: 2024-08-19T14:07:59.214Z
+date: 2025-01-28T21:32:08.598Z
+updated: 2025-01-30T04:13:06.879Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  Fortunately, the fix is easy. If you’re experiencing the crashing issue during gameplay, follow the steps below and you should be able to run the game as flawlessly as is.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Disco Elysium Crashes
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -36,6 +37,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 8. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Restart your computer
 
  Yes, seriously. Just turn off your computer and turn it back on. The game crash issue is sometimes just a temporary problem that can be fixed by a restart.
@@ -43,8 +48,9 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  But if your game keeps crashing even after the restart, try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
@@ -73,6 +79,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -92,9 +102,6 @@ If Disco Elysium still crashes, try the next fix below.
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 **3)** Restart your game to see if it runs correctly now.
@@ -104,6 +111,10 @@ If Disco Elysium still crashes, try the next fix below.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Verify integrity of game files
 
@@ -115,9 +126,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
@@ -134,16 +142,10 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 If your game still crashes after this, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7 – Reinstall the game
 
  If your game is not properly installed on your PC or if your game version is outdated, you’re likely to run into issues like game crashes. Try reinstalling your game to see if that’s the problem for you:
@@ -152,16 +154,10 @@ If your game still crashes after this, try the fix below.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
 **3)**  Right-click **Disco Elysium – The Final Cut** , and select **Manage > Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
 **4)** Restart Steam and reinstall the game.
@@ -176,11 +172,11 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
  1) On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -190,6 +186,10 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 If the game still crashes, then try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9 – Run as administrator
 
  Running your computer under a standard user mode can give a hard time to gameplay as limited user rights may cause problems when your game tries to access certain game files.
@@ -198,14 +198,15 @@ To run your game as administrator, follow the instructions below:
 
  1) Right-click the**Disco Elysium desktop icon** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -223,8 +224,6 @@ To run your game as administrator, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +231,24 @@ To run your game as administrator, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-marketers-manual-for-recognizing-fabricated-supporters-for-2024/"><u>[Updated] A Marketer’s Manual for Recognizing Fabricated Supporters for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-comprehensive-fixes-for-persistent-discord-latency-issues/"><u>2024'S Comprehensive Fixes for Persistent Discord Latency Issues</u></a></li>
+<li><a href="https://facebook.techidaily.com/alleged-ban-of-ethical-marketing-claims-surface-at-fb/"><u>Alleged Ban of Ethical Marketing Claims Surface at FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-syncing-youtube-melodies-and-movies-to-your-ipod/"><u>Effortless Guide: Syncing YouTube Melodies & Movies to Your iPod</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-methods-to-resolve-recurring-freezes-and-crashes-for-deathloop-on-windowspc/"><u>Effortless Methods to Resolve Recurring Freezes & Crashes for Deathloop on Windows/PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-mistakes-during-the-installation-of-ryzen-master-utility/"><u>Fixing Mistakes During the Installation of Ryzen Master Utility</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-continuous-freezing-issues-with-call-of-duty-black-ops-cold-war-on-your-pc/"><u>How to Fix Continuous Freezing Issues with Call of Duty - Black Ops Cold War on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-your-pc-for-better-cpu-performance-when-using-zoom-6-tips/"><u>How to Optimize Your PC for Better CPU Performance When Using Zoom (6 Tips)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>In 2024, Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-punchline-creator-suite/"><u>In 2024, Punchline Creator Suite</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-combat-fixes-eliminating-dev-error-6068-in-call-of-dutys-mw-warzone/"><u>Modern Combat Fixes: Eliminating Dev Error 6068 in Call of Duty's MW Warzone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-how-to-stop-titanfall-2-from-frequently-crashing/"><u>Quick Fix: How to Stop Titanfall 2 From Frequently Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-smoothing-out-performance-issues-in-the-ascent/"><u>Step-by-Step Solutions for Smoothing Out Performance Issues in The Ascent</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone XS | Dr.fone</u></a></li>
+</ul></div>
 

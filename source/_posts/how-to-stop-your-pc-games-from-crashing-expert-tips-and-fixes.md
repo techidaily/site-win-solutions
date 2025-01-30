@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC Games From Crashing : Expert Tips & Fixes"
-date: 2024-08-18T14:04:34.682Z
-updated: 2024-08-19T14:04:34.682Z
+date: 2025-01-24T20:07:34.874Z
+updated: 2025-01-29T19:45:43.777Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 Oxygen Not Included keeps crashing while you’re gaming? This is extremely annoying and you are certainly not alone. Many players are reporting it. But don’t panic! Here is a list of solutions that have proved useful to many players.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -50,43 +51,32 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
 **2)**  Type **dxdiag**  and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
 **3)**  Check your **operating system, processor and memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements, read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2:**Restart your computer**
 
  If you’re running multiple programs on your computer at the same time, hogging your resources, your game might crash. If that’s the core issue， performing a simple reboot on your PC should fix your problem.
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -97,14 +87,19 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart Oxygen Not Included from Steam.
 
@@ -116,9 +111,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 **1)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
@@ -129,15 +121,20 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
 **6)** Relaunch your game to check if your issue had been resolved.
@@ -146,9 +143,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 5:**Change branches in Oxygen Not Included**
 
  If you’ve updated your game recently, and your game starts crashing now and then, try reverting your game version by changing your branch. Here is how to do it:
@@ -163,17 +157,22 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**BETAS tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
@@ -227,19 +226,12 @@ OR
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -262,19 +254,17 @@ OR
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall the game
 
  If none of the fixes above helped, reinstalling your game is very likely the solution for you. Follow the instructions below:
 
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -286,10 +276,11 @@ OR
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
@@ -307,8 +298,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +305,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-microphones-tailored-to-channel-genres/"><u>[New] 2024 Approved Essential Microphones Tailored to Channel Genres</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-goofy-flick-an-analysis-of-the-goofy-movie/"><u>[New] Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-enhancing-live-skype-broadcasts-using-obs-software/"><u>[New] In 2024, Enhancing Live Skype Broadcasts Using OBS Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-the-updated-parrot-ar-drone-experience/"><u>[Updated] 2024 Approved Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arise-story-mode-continuation-overcoming-unexpected-shutdowns/"><u>Arise Story Mode Continuation: Overcoming Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cortana-troubleshooting-top-tips-for-resolving-issues-quickly/"><u>Cortana Troubleshooting: Top Tips For Resolving Issues Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-for-correcting-resident-evil-villages-pc-black-screen-a-comprehensive-guide/"><u>Expert Advice for Correcting Resident Evil Village's PC Black Screen - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-outpost-infinity-siege-crashing-on-pc/"><u>How to Fix Outpost: Infinity Siege Crashing on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-zte-axon-40-lite-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-lag-issues-a-guide-to-lower-your-ping-in-back-4-blood/"><u>Resolving Lag Issues: A Guide to Lower Your Ping in Back 4 Blood</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-guide-rejuvenating-your-iphone-battery-with-6-effortless-methods/"><u>Simple Guide: Rejuvenating Your iPhone Battery with 6 Effortless Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-overcome-baldurs-gate-freezing-and-hitching/"><u>Smooth Gaming Experience: Overcome Baldur's Gate Freezing & Hitching</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
+</ul></div>
 

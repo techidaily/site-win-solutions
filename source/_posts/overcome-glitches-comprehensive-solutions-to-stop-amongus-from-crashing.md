@@ -1,7 +1,7 @@
 ---
 title: Overcome Glitches! Comprehensive Solutions to Stop 'Amongus' From Crashing
-date: 2024-08-18T14:08:31.879Z
-updated: 2024-08-19T14:08:31.879Z
+date: 2025-01-28T04:39:24.474Z
+updated: 2025-01-29T19:34:16.257Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
 If you are a football lover, you might have waited for FIFA 21 for long. The game has been out for a while but it seems not as flawless as expected. Many players are reporting the FIFA 21 crashing on PC issue. If you’re plagued by the same problem, follow this guide to get it fixed right away!
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  While the causes for FIFA 21 crashing may be varied, there are some general fixes proved to be effective. You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ If you are a football lover, you might have waited for FIFA 21 for long. The gam
 7. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Play in offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Ensure your PC meets the minimum requirements to play FIFA 21
 
  First off, it’s important to confirm your PC specs meet the minimum requirements to play FIFA 21\. If your gaming rig is underpowered, there is no surprise the crashes happen.
@@ -68,11 +62,12 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Navigate to the**Display** tab and view your graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3.jpg)
 
  After confirming your PC can handle games like FIFA 21, you can move on to more fixes below.
@@ -85,10 +80,11 @@ Recommended system requirements of FIFA 21
 
 **1)** Type**device manager** in the search box and click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Double-click**Display adapters** to expand the list.
 
@@ -98,23 +94,23 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
 
  If the**Roll Back Driver** option is grayed out, it means there’s no driver to roll back to, and you can directly skip to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process completes, you can restart your computer for the changes to take effect. Then, launch FIFA 21 and see if the crashing issue reoccurs. If yes, please continue to the next method.
 
@@ -138,9 +134,6 @@ Recommended system requirements of FIFA 21
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-2.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -152,9 +145,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of your game files
 
  As you may know, missing or damaged game files can cause a game to crash. So when your FIFA 21 gets stuck in crashing, one thing you should always do is to validate the game files. We’ll show you the steps both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -163,20 +153,22 @@ Recommended system requirements of FIFA 21
 
 **1)** Launch Steam and select the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click**FIFA 21** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3-1.jpg)
 
  Wait until the process completes and go back to your pitch to test the issue. If the crashing persists, check out **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  then.
@@ -205,14 +197,15 @@ C:\Users\<username>\Documents\FIFA 21
 
 **2)** Right-click the**fifasetup.ini** file and click**Open with** \>**Notepad** . You can also use other similar editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-49-10.jpg)
 
 **3)** On your keyboard, press**Ctrl** and**F** at the same time to open the Find box. Then, paste**DIRECTX\_SELECT** and click**Find Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_12-33-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** After locating the right text, set DIRECTX\_SELECT as below:
 
@@ -225,15 +218,16 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Modify the in-game settings
 
  You may have set high in-game settings for a better visual effect and gaming experience, but if your computer is not powerful enough to cope with that, FIFA 21 will crash. You can try the following lower settings:
 
 **1)** Launch FIFA 21 and click**Game Settings** from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
 
 **2)** Set the settings as below:
@@ -246,9 +240,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Disable overlay
 
  The overlay feature you’re using may prevent FIFA 21 from working as well. To let the game runs without interruption, make sure to turn off overlay whether you’re playing on[Steam](https://tools.techidaily.com/drivereasy/download/) or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -257,10 +248,11 @@ C:\Users\<username>\Documents\FIFA 21
 
 **1)** Launch Steam and navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click**FIFA 21** from the list in the left pane and click**Properties** .
 
@@ -278,25 +270,22 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Launch**FIFA 21** and click the**settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-15-03.jpg)
 
 **3)** Untick**Enable Origin in Game for EA SPORTS FIFA 21 Ultimate Edition** , and click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/image-1.jpg)
 
  Relaunch FIFA 21 to see if the crashing problem persists. If yes, go for the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 8 – Play the offline mode
 
  It’s indeed a lot of fun to team up with friends online in the FIFA 21 matches. However, if the game crashing reoccurs and you still hope to play the game, try**switching to the offline mode** and see if this works.
@@ -318,8 +307,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,4 +314,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>[Updated] 2024 Approved Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-top-picks-8-mirrorless-cameras-that-shine-in-vlogs/"><u>2024 Approved Top Picks 8 Mirrorless Cameras That Shine in Vlogs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-exploring-the-world-of-ai-jailbreaking-is-it-safe/"><u>ChatGPT Unleashed: Exploring the World of AI Jailbreaking – Is It Safe?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984652403-cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-frequent-crashes-of-the-medium-app-in-pc-browsers/"><u>Dealing with Frequent Crashes of the Medium App in PC Browsers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-microsoft-edge-instability-expert-tips-to-fix-msedgeexe-issues-in-windows/"><u>Dealing with Microsoft Edge Instability: Expert Tips to Fix msedge.exe Issues in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/experience-the-wonders-of-pandora-newly-optimized-avatar-version-for-pc-launches-today/"><u>Experience the Wonders of Pandora – Newly Optimized Avatar Version for PC Launches Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-radpower-radcity-5-plus-an-impressive-yet-substantially-built-e-bike-for-daily-commutes/"><u>Exploring RadPower RadCity 5 Plus: An Impressive, Yet Substantially-Built E-Bike for Daily Commutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c51-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco C51 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008116505-iphone-and-itunes-connection-issue-on-windows-aturate-a-solution-for-when-your-iphone-doesnt-show-up-in-itunes/"><u>IPhone and iTunes Connection Issue on Windows Aturate a Solution for when Your iPhone Doesn't Show up in iTunes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/h-your-youtube-presence-step-by-step-guide/"><u>Launch Your YouTube Presence Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maplestory-wont-start-heres-how-you-can-fix-it/"><u>MapleStory Won't Start? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-pcs-pink-screens-a-step-by-step-guide/"><u>Overcoming PC's Pink Screens: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-solutions-overcoming-mouse-control-glitches/"><u>Resident Evil Village Solutions: Overcoming Mouse Control Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/world-of-warcraft-wont-open-discover-proven-techniques-to-get-you-back-in-the-game/"><u>World of Warcraft Won't Open? Discover Proven Techniques to Get You Back in the Game!</u></a></li>
+</ul></div>
 

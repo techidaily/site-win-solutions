@@ -1,7 +1,7 @@
 ---
 title: Overcoming Visual Glitches in The Sims 4 - A Guide for Video Card Troubleshooting
-date: 2024-08-18T14:07:58.228Z
-updated: 2024-08-19T14:07:58.228Z
+date: 2025-01-26T20:30:17.412Z
+updated: 2025-01-29T23:14:17.544Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
 8. **[Reinstall the game and run Windows compatibility troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Dying Light
 
@@ -71,8 +75,9 @@ Below are the system requirements for Dying Light from the Steam client:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Lower the in-game settings
 
  If your PC fails to meet the recommended system requirements for Dying Light, you should use a reduced settings profile for graphics related features, because higher settings will increase the workload for your PC, which may even lead to game crash issue.
@@ -81,10 +86,6 @@ Below are the system requirements for Dying Light from the Steam client:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the game files
 
  The game crash issue may occur if your game files are corrupted. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -94,13 +95,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Dying Light again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  One of the most common causes of this problem is an outdated or a faulty**graphics** driver. There are two ways you can get the right drivers for your graphics card: manually or automatically.
@@ -113,21 +119,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -137,8 +132,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Dying Light crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -146,14 +142,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If your PC is running on Windows 10, you can perform a Windows Update to update and install the latest version of Visual C++ and .NET Framework. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -175,9 +165,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Turn off Game Mode in Windows 10
 
  The Game Mode in Windows 10 may also crash Dying Light. Some players reported in the Steam community that after they turned off Game Mode, they can play Dying Light without crashes. You can follow the steps below to turn off Game Mode in Windows 10:
@@ -185,11 +172,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press**the Windows logo key** and type**game mode** , then**select Game Mode settings** from the list of search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-game-mode.png)
 2. **Turn off the toggle** under**Game Mode** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Game-Mode-Windows-10.png)
 
  Launch Dying Light again after you disabled Game Mode to see if this fix works. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the game and run Windows compatibility troubleshooter
 
@@ -222,8 +218,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +225,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-visual-excellence-pro-tips-for-snapchat-zoom-for-2024/"><u>[New] Visual Excellence Pro Tips for Snapchat Zoom for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-look-at-the-future-leading-photo-framing-apps/"><u>[Updated] 2024 Approved A Look at the Future Leading Photo Framing Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-unlocked-mastering-the-art-of-facebook-vr-posting/"><u>[Updated] 2024 Approved Secrets Unlocked Mastering the Art of Facebook VR Posting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-fixed-the-crashing-problems-in-chivalry-2-a-detailed-guide/"><u>How I Fixed the Crashing Problems in Chivalry 2 - A Detailed Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-scripting-for-film/"><u>In 2024, The Essence of Scripting for Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-transformed-how-this-revolutionary-keyboard-case-brings-back-the-classic-blackberry-experience-explore-on-zdnet/"><u>IPhone Transformed: How This Revolutionary Keyboard Case Brings Back the Classic BlackBerry Experience - Explore on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/kid-proofing-steam-adventures-at-home/"><u>Kid-Proofing Steam Adventures at Home</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/qbittorrent-paused-or-not-responding-heres-how-to-fix-it/"><u>QBittorrent Paused or Not Responding? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-non-responsive-steam-virtual-reality-experience/"><u>Quick Fixes for Non-Responsive Steam Virtual Reality Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-evil-genius-2-a-step-by-step-guide-to-get-it-running-smoothly/"><u>Resolving Issues with Evil Genius 2 – A Step-by-Step Guide to Get It Running Smoothly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/skip-the-standstill-advanced-strategies-to-solve-continuous-loading-in-forza-horizon-5-7-fixes-inside/"><u>Skip the Standstill: Advanced Strategies to Solve Continuous Loading in Forza Horizon 5 (7 Fixes Inside)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-outlook-wont-connect-to-the-server/"><u>Step-by-Step Fixes for When Outlook Won't Connect to the Server</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-re5-pc-startup-issues-a-comprehensive-guide/"><u>Troubleshooting RE5 PC Startup Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 

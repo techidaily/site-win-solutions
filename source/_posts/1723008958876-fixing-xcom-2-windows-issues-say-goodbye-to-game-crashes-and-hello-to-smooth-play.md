@@ -1,7 +1,7 @@
 ---
 title: Fixing XCOM 2 Windows Issues - Say Goodbye to Game Crashes and Hello to Smooth Play
-date: 2024-08-18T14:05:28.282Z
-updated: 2024-08-19T14:05:28.282Z
+date: 2025-01-22T19:33:01.874Z
+updated: 2025-01-30T06:57:01.318Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,9 +52,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -66,15 +67,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 1. Run Steam.
 2. In the**LIBRARY** tab, right-click on XCOM 2.
 3. Under the**LOCAL FILES** tab, click**Verify integrity of game cache** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -91,10 +90,9 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. Relaunch the game and check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -115,16 +113,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -138,8 +139,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-finale-ultimate-tutorials-plus-top-creators-insights/"><u>[New] In 2024, YouTube Finale Ultimate Tutorials + Top Creators' Insights</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-resoudre-le-dilemme-dun-cle-usb-incompatible-avec-windows-10/"><u>Comment Résoudre Le Dilemme D'un Clé USB Incompatible Avec Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-update-eradicating-input-latency-issues-for-a-seamless-gaming-adventure/"><u>Cyberpunk 2077 Update: Eradicating Input Latency Issues for a Seamless Gaming Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easily-troubleshoot-and-solve-discord-overlay-errors-today/"><u>Easily Troubleshoot and Solve Discord Overlay Errors Today!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-tips-for-mac-users-with-obs-and-streamlabs-for-2024/"><u>Essential Tips for Mac Users with OBS & Streamlabs for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/experiencing-delays-improve-spotify-web-player-functionality-now/"><u>Experiencing Delays? Improve Spotify Web Player Functionality Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-bdo-game-stability-expert-advice-to-prevent-your-windows-pc-from-crashing/"><u>Fix BDO Game Stability: Expert Advice to Prevent Your Windows PC From Crashing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cod-warzone-error-6328-essential-troubleshooting-guide-for-players/"><u>Fixing Cod: Warzone Error 6328 – Essential Troubleshooting Guide for Players</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-platforms-optimizing-youtube-video-views/"><u>Key Platforms Optimizing YouTube Video Views</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-tackle-dread-hunger-pc-stability-problems-effectively/"><u>No More Interruptions: Tackle Dread Hunger PC Stability Problems Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/perfecting-space-and-system-the-ultimate-preparation-guide/"><u>Perfecting Space & System The Ultimate Preparation Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/troubleshooting-iphone-top-10-solutions-when-your-phone-cant-send-sms/"><u>Troubleshooting iPhone: Top 10 Solutions When Your Phone Can't Send SMS</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-14-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the 14 Pro password or pattern lock</u></a></li>
+</ul></div>
 

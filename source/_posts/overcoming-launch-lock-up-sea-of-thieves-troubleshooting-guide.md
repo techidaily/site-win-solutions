@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Lock-Up: Sea of Thieves Troubleshooting Guide"
-date: 2024-08-18T14:08:58.849Z
-updated: 2024-08-19T14:08:58.849Z
+date: 2025-01-25T06:18:31.670Z
+updated: 2025-01-29T18:03:42.322Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,9 +32,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -43,9 +41,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -56,8 +51,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -88,11 +84,17 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -102,20 +104,13 @@ OR
 
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -130,8 +125,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +132,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-decoding-the-audience-who-viewed-your-insta-post-in-2024/"><u>[New] Decoding the Audience Who Viewed Your Insta Post, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leading-tools-for-clear-uncompromised-4k-recordings/"><u>[Updated] In 2024, Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-repairing-an-inoperative-obs-video-feed/"><u>[Updated] In 2024, Repairing an Inoperative OBS Video Feed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/horizon-forbidden-west-full-game-fix-a-step-by-step-guide-for-resolving-pc-crashes-and-errors/"><u>Horizon Forbidden West Full Game Fix: A Step-by-Step Guide for Resolving PC Crashes and Errors</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-x8b-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor X8b Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagram-unfollow-detection/"><u>In 2024, Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-11-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme 11 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rapid-resolution-for-titanfall-2s-persistent-crashing-woes-expert-advice/"><u>Rapid Resolution for Titanfall 2'S Persistent Crashing Woes - Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-steam-network-unreachable-error-for-seamless-gaming-chats/"><u>Resolved! Overcoming 'Steam Network Unreachable' Error for Seamless Gaming Chats</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-resident-evil-4-remake-freezing-and-crashing-problems/"><u>Step-by-Step Fixes for Resident Evil 4 Remake Freezing and Crashing Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-compatibili-player-musicale-mp3aac-del-2020-per-sistemi-operativi-windows-and-mac/"><u>Top 5 Compatibili Player Musicale MP3/AAC Del 2020 Per Sistemi Operativi Windows & Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solve-your-steam-launchers-black-screen-woes-in-7-simple-steps/"><u>Ultimate Guide: Solve Your Steam Launcher's Black Screen Woes in 7 Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-on-lockdown-beat-the-black-screen-problem-with-these-pro-tips/"><u>Warzone on Lockdown? Beat the Black Screen Problem with These Pro Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Resolve Minecraft Launcher Error Code 0X80^f8001 in Windows Operating Systems
-date: 2024-08-18T14:04:29.244Z
-updated: 2024-08-19T14:04:29.244Z
+date: 2025-01-25T22:55:10.070Z
+updated: 2025-01-30T00:55:39.492Z
 tags:
   - win11
   - win10
@@ -18,17 +18,14 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -41,6 +38,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -49,15 +50,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
-4. Click**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -72,15 +79,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -90,22 +98,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -133,9 +141,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -147,15 +152,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
@@ -174,8 +173,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +180,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[New] 2024 Approved Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits-for-2024/"><u>[New] Beyond the Buzz A Ranked Guide to Non-Vimeo Edits for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-starting-stronger-exploring-the-best-15-video-intros/"><u>[New] In 2024, Starting Stronger Exploring the Best 15 Video Intros</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube-for-2024/"><u>[New] The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-eliminate-your-streaming-darkness-on-youtube/"><u>[Updated] 2024 Approved Eliminate Your Streaming Darkness on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-best-shot-fixer-duo-for-2024/"><u>Android's Best Shot Fixer Duo for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-valheim-game-top-strategies-to-combat-low-fps/"><u>Boost Your Valheim Game: Top Strategies to Combat Low FPS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frozen-gameplay-in-rocket-league-expert-tips-and-solutions/"><u>Fixing Frozen Gameplay in Rocket League - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-loop-malfunctions-solved-preventing-application-crashes-on-microsofts-latest-os-versions/"><u>Game Loop Malfunctions Solved: Preventing Application Crashes on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-terraria-game-crashes-proven-troubleshooting-steps-updated-2-cuffs/"><u>How To Fix Terraria Game Crashes: Proven Troubleshooting Steps (Updated 2 Cuffs)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008229608-how-to-overcome-steam-account-access-problems-solutions-inside/"><u>How to Overcome Steam Account Access Problems - Solutions Inside!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ideal-6-screen-recorders-for-mac-users/"><u>Ideal 6 Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insider-tips-for-fixing-create-opengl-context-failed-in-graphics-programming/"><u>Insider Tips for Fixing 'Create OpenGL Context Failed' In Graphics Programming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-application-errors-in-ark-best-practices-for-stable-archival-experiences/"><u>Resolving Application Errors in ARK: Best Practices for Stable Archival Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed-by-zdnet/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed by ZDNet!</u></a></li>
+</ul></div>
 

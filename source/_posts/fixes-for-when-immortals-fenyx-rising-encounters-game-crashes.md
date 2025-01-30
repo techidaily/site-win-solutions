@@ -1,7 +1,7 @@
 ---
 title: "Fixes for When Immortals: Fenyx Rising Encounters Game Crashes"
-date: 2024-08-18T14:08:57.803Z
-updated: 2024-08-19T14:08:57.803Z
+date: 2025-01-22T20:28:59.852Z
+updated: 2025-01-29T22:06:21.191Z
 tags:
   - win11
   - win10
@@ -43,19 +43,20 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
 1. Go to the game’s installation folder.
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  Gaming issues like Immortals Fenyx Rising not launching may indicate you’re using a faulty or outdated graphics driver. To fix it and improve the game performance, you need to install the latest graphics driver.
@@ -68,12 +69,18 @@ There are mainly two ways you can do this:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
@@ -85,51 +92,42 @@ There are mainly two ways you can do this:
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
 
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
-5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
 
@@ -147,8 +145,6 @@ There are mainly two ways you can do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +152,24 @@ There are mainly two ways you can do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-persona-5-strikers-crashing-on-pc/"><u>[Solved] Persona 5 Strikers Crashing on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-screen-capture-options-for-google-meet-conferences-for-2024/"><u>[Updated] Essential Screen Capture Options for Google Meet Conferences for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-tips-to-resolve-stutter-and-improve-framerates-in-warzone/"><u>Achieve Smoother Gameplay – Tips to Resolve Stutter and Improve Framerates in Warzone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-repairing-connection-unavailable-to-live-config-error/"><u>Expert Tips for Repairing 'Connection Unavailable to Live Config' Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-chosen-kiddo-tablets-with-glowing-parental-approval-featured/"><u>Expertly Chosen Kiddo Tablets with Glowing Parental Approval - Featured</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-master-these-7-troubleshooting-steps-if-you-cant-start-overwatch-2-this-year/"><u>Fixed! Master These 7 Troubleshooting Steps If You Can't Start Overwatch 2 This Year</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-the-latest-patch-made-football-manager-nstoppable-in-2020-no-more-crashes/"><u>How the Latest Patch Made Football Manager Nstoppable in 2020 - No More Crashes!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-activate-and-install-an-external-wireless-adapter-on-pcs/"><u>How To Activate & Install an External Wireless Adapter on PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audience-accessibility-switching-from-srt-to-sub/"><u>In 2024, Audience Accessibility Switching From SRT to SUB</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone XS Max From Your Apple ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-workings-of-drones-an-introduction-for-beginners/"><u>In 2024, The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-neo-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-ripper-pro-dvdiphoneipadipodmp4mov/"><u>MacX DVD Ripper Pro: 完全なユーザーマニュアル - DVDからiPhone、iPad、iPod用MP4/MOVに簡単リッピングガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-mysterious-black-screens-during-play-in-mtg-arena-a-guide/"><u>Resolving Mysterious Black Screens During Play in MTG Arena – A Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-complete-fixers-manual-to-prevent-fifa-21-crashes-on-your-computer/"><u>The Complete Fixer's Manual to Prevent FIFA 21 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-detective-genre-expands-to-pc-with-the-resolved-launch-of-la-noire/"><u>The Detective Genre Expands to PC with the Resolved Launch of L.A. Noire</u></a></li>
+</ul></div>
 

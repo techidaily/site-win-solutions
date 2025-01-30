@@ -1,7 +1,7 @@
 ---
 title: "Battlefield 2042 Performance Boosted: Solving FPS Drops and Gameplay Hiccups on Your Computer"
-date: 2024-08-18T14:08:18.538Z
-updated: 2024-08-19T14:08:18.538Z
+date: 2025-01-24T02:17:24.464Z
+updated: 2025-01-29T17:03:20.806Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 
 ## Solve Your Battlefield 2042 Game Crashes Caused by DirectX Errors Today
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/featured-image-battlefield-2042-launch-article.jpg.adapt_.crop16x9.431p.jpg)
 
  The long-anticipated Battlefield 2042 Early Access is already out and the full release will be on November 19th. However, the hype seems to have brought some disappointment. Many players are encountering different DirectX errors and can’t play the game. The most common ones are**DXGI\_ERROR\_DEVICE\_HUNG** and**DXGI\_ERROR\_DEVICE\_REMOVED** errors.
@@ -37,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 | **DirectX**      | Version 12                                      | Version 12                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -65,22 +63,24 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 **Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card and your Windows version, then it will download and install the driver correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair game files
 
@@ -92,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest Windows updates
 
  According to players’ reports, updating the system has solved the DirectX errors for them. Keeping your system up-to-date may solve compatibility issues and improve stability. This fix may make a difference if your DirectX errors were triggered by Windows issues.
@@ -102,35 +99,20 @@ If this doesn’t solve your problem, try the next fix.
  If you’re on Windows 10, it’s not required to update to Windows 11 because it’s not a guaranteed fix, plus it may cause issues for your other games. Some players specifically pointed out that installing the**Windows 20H2 or 21H1 updates** was helpful.
 
 1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Force-run DirectX 12
 
  Per the system requirement, Battlefield 2042 requires DirectX version 12, and the game should run DirectX 12 by default. But we all have different setups on our PC, and it’s possible that Battlefield 2042 isn’t running the right version of DirectX on your PC. You can manually enable DirectX12 and force the game to use it. Here’s how:
@@ -156,12 +138,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
 5. Type in**%AppData%** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
@@ -173,11 +157,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Launch the EA app. Click the**three-line icon** on the top-left corner, select**Help** then click**App Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-35.jpg)
 2. Click**Clear Cache** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
 
 ---
@@ -190,8 +181,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +188,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[Updated] In 2024, Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-offline-android-delights-top-screen-free-game-list-you-must-play-for-2024/"><u>[Updated] Offline Android Delights Top Screen-Free Game List You Must Play for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-critical-selection-of-1-5-best-snippers-for-windows/"><u>2024 Approved Critical Selection of #1-5 Best Snippers for WINDOWS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-iphones-natural-features-with-these-photo-hacks/"><u>2024 Approved Master iPhone's Natural Features with These Photo Hacks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/animatedapp-full-guide-and-review-24-overview/"><u>AnimatedApp Full Guide & Review '24 Overview</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/centipede-bugs-demystified-solving-issues-in-destiny-2/"><u>Centipede Bugs Demystified: Solving Issues in Destiny 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-address-repeated-crashes-in-pcs-age-of-empires-iv-gameplay/"><u>Effective Solutions to Address Repeated Crashes in PC's Age of Empires IV Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/facing-hurdles-in-reaching-oculus-software-platform-get-help-here/"><u>Facing Hurdles in Reaching Oculus Software Platform? Get Help Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-sites-elevating-youtube-videos-reach-for-2024/"><u>Leading Sites Elevating YouTube Videos' Reach for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-magic-ensuring-smooth-spellbreak-sessions-without-computer-hiccups/"><u>Mastering the Magic: Ensuring Smooth Spellbreak Sessions without Computer Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-resolved-fixing-the-infamous-memory-error-12707/"><u>Modern Warfare 3 Resolved: Fixing the Infamous Memory Error 12707</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-crashes-in-nier-re-llicant-fix-guide-for-smooth-gaming-experience/"><u>No More Crashes in NieR: Re-Llicant - Fix Guide for Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photo-sharpening-mastery-with-1-10-online-editors/"><u>Photo Sharpening Mastery with #1-10 Online Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-turning-on-the-closed-captions-functionality-in-roku-system/"><u>Step-by-Step Solution: Turning On the Closed Captions Functionality in Roku System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tower-of-fantasy-stability-improved-no-more-pc-crashing-issues/"><u>Tower of Fantasy Stability Improved - No More PC Crashing Issues!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-halo-3-pc-crashes-effective-solutions-for-gamers/"><u>Troubleshooting Halo 3 PC Crashes - Effective Solutions for Gamers</u></a></li>
+</ul></div>
 

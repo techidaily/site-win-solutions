@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Frames Per Second (FPS) in the ARK: Scorched Earth Adventure – PC Guide"
-date: 2024-08-18T14:06:06.294Z
-updated: 2024-08-19T14:06:06.294Z
+date: 2025-01-28T06:14:31.532Z
+updated: 2025-01-30T04:56:08.420Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check Destiny 2 server status
 
  Since the Error Centipede is a general networking error, the first thing you can do is to check if the server is down. If Destiny 2 is undergoing maintenance, you won’t be able to connect to the server and thus may get the Centipede Error.
@@ -45,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
  You can refer to the[Bungie Help page](https://help.bungie.net/hc/en-us/articles/360049199271-Destiny-Server-and-Update-Status) and[Bungie Help official Twitter](https://twitter.com/BungieHelp) for upcoming maintenance schedules and real-time notifications.
 
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
 
@@ -56,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 * You can also**run an Internet speed test** to see if there’s anything wrong. If your Internet speed appears to be unreasonably low, you may need to contact your Internet Service Provider for help.
 
 If you still get the Error Centipede, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Choose NAT Type 1/Open NAT
 
@@ -71,9 +80,6 @@ If you still get the Error Centipede, try the next fix.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt with admin permissions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
@@ -82,9 +88,6 @@ If you still get the Error Centipede, try the next fix.
 
 You can now test a game to see if you still get the Centipede Error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Port Forwarding
 
  Port Forwarding works on incoming Internet connections. It routes an outside internet connection to use the open ports, which will allow you to connect to Destiny 2\. This process is a bit difficult than enabling UPnP, technically speaking, but it’s generally a little safer. There are a few steps to do, here we’ll divide them into Step 1,2, and 3.
@@ -93,32 +96,29 @@ You can now test a game to see if you still get the Centipede Error.
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt as Admin.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type in**npca.cpl** , then click OK.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
 
 #### Step 3: Set up Port Forwarding
@@ -168,9 +168,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -178,14 +175,15 @@ You can now test a game to see if you still get the Centipede Error.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Use a VPN when your Internet access is restricted
 
  When you try to play Destiny 2 on campus or in a hotel, anywhere that’s likely to restrict your Internet access, you’ll likely get the Error Centipede. If this is the case, it’s unlikely to get assistance from the Internet Service Provider. But the good news is, you can use a VPN.
@@ -212,8 +210,6 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +217,20 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-safeguard-and-soar-top-cloud-options-reviewed/"><u>[Updated] Capture, Safeguard, and Soar - Top Cloud Options Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effortlessly-fast-forward-focus-in-video-content/"><u>[Updated] In 2024, Effortlessly Fast-Forward Focus in Video Content</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-jumpstart-your-journey-to-tiktok-fame-with-these-hits-for-2024/"><u>[Updated] Jumpstart Your Journey to TikTok Fame with These Hits for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-malfunction-heres-how-to-fix-it/"><u>Corsair Keyboard Malfunction? Here's How to Fix It!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-mx492-printer-drivers-for-windows-complete-guide/"><u>Download & Update: Canon MX492 Printer Drivers for Windows - Complete Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-preventing-and-correcting-computer-breakdowns-during-fifa-19-sessions/"><u>Expert Advice on Preventing and Correcting Computer Breakdowns During FIFA 19 Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011s-audacity-audio-connection-failures/"><u>Fixing Windows 10/11’S Audacity Audio Connection Failures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-v30-lite-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo V30 Lite 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972054150-instant-access-to-hp-officejet-5740-driver-downloads/"><u>Instant Access to HP OfficeJet 5740 Driver Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-feasible-to-play-ps3-on-ps4/"><u>Is It Feasible to Play PS3 On PS4?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986621525-solve-your-pcs-minecraft-dungeon-crash-problem-with-these-easy-fixes/"><u>Solve Your PC's Minecraft Dungeon Crash Problem with These Easy Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-the-infamous-life-is-strange-true-colors-crash-a-comprehensive-troubleshooting-manual/"><u>Tackling the Infamous Life Is Strange: True Colors Crash - A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-repair-and-prevent-teardown-app-crashes/"><u>Ultimate Guide to Repair and Prevent Teardown App Crashes</u></a></li>
+</ul></div>
 

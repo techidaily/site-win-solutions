@@ -1,7 +1,7 @@
 ---
 title: The Gamer's Guide to Banishing Stutters in Your Digital World of High Frame Rates
-date: 2024-08-18T14:06:59.343Z
-updated: 2024-08-19T14:06:59.343Z
+date: 2025-01-23T23:04:30.964Z
+updated: 2025-01-30T04:44:23.414Z
 tags:
   - win11
   - win10
@@ -25,14 +25,15 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -44,9 +45,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -64,11 +62,13 @@ Restart your computer for the changes to take effect.
 1. Go to[NVIDIA driver page](https://tools.techidaily.com/drivereasy/download/) .
 2. Find a older version of the driver and download it.
 3. Right-click on the Start button and select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
@@ -79,29 +79,26 @@ Restart your computer for the changes to take effect.
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
 
 1. Right-click on desktop and select **Display settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Method 5: Use windowed mode
 
  If you’re using fullscreen mode while playing World of Warcraft, then change to Windowed mode may fix the issue. Follow the steps to disable the fullscreen optimizations in the system
@@ -110,6 +107,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -122,8 +124,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-elicit-entertainment-giphys-meme-makers/"><u>[Updated] Elicit Entertainment Giphy's Meme Makers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-finding-emails-in-microsoft-outlook-using-copernic-desktop-search/"><u>Effective Strategies for Finding Emails in Microsoft Outlook Using Copernic Desktop Search</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-file-search-experience-mastering-data-retrieval-with-copernic-pro-text-search/"><u>Enhance Your File Search Experience: Mastering Data Retrieval with Copernic Pro Text Search</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-effortless-file-searches-on-windows-and-mac-unleash-copernics-power/"><u>Expert Guide to Effortless File Searches on Windows & Mac - Unleash Copernic's Power</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ative-templates-to-amplify-yt-decks-for-2024/"><u>Innovative Templates to Amplify YT Decks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-forza-horizon-5-from-crashing-on-your-computer/"><u>Troubleshooting Tips: Preventing Forza Horizon 5 From Crashing on Your Computer</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unveiling-reasons-behind-blurred-and-distorted-images-in-scans-expert-insights-from-yl-computing/"><u>Unveiling Reasons Behind Blurred & Distorted Images in Scans - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/will-live-broadcasts-define-the-next-era-of-disc-jockey-artistry-exploring-pioneer-dj-innovations/"><u>Will Live Broadcasts Define the Next Era of Disc Jockey Artistry? | Exploring Pioneer DJ Innovations</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncover Solutions for Overcoming Fallout 4'S Black Screen Challenge
-date: 2024-08-18T14:04:18.369Z
-updated: 2024-08-19T14:04:18.369Z
+date: 2025-01-28T18:25:45.240Z
+updated: 2025-01-30T03:29:26.458Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ A screenshot of ELEX II from Steam
 
  Although ELEX II has received generally positive reviews on Steam, there are still many PC gamers complaining that**ELEX II keeps crashing** on their Windows PC. If you’re running into the exact same issue, don’t worry! You should be able to fix this issue easily after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## System requirements of ELEX II for Windows PC
 
  Before trying anything more complicated, make sure that your PC meets the system requirements of ELEX II first. Just take a quick glance at the table below to view the system requirements of ELEX II for Windows PC:
@@ -63,9 +60,6 @@ ELEX II system requirements
 2. **Right-click** on **ELEX II** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -73,8 +67,9 @@ ELEX II system requirements
  Launch ELEX II after the verifying process is complete. See if it crashes again. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If ELEX II keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -87,14 +82,6 @@ ELEX II system requirements
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -104,8 +91,9 @@ ELEX II system requirements
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install the latest ELEX II patch
 
  The developer of ELEX II releases regular game patches to fix bugs and improve gaming performance.
@@ -123,6 +111,10 @@ ELEX II system requirements
 2. Uncheck **Enable Steam Overlay while in-game** .  
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
@@ -137,9 +129,6 @@ ELEX II system requirements
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Repair corrupted system files
 
  Windows system file corruption will also lead the game to crash. If you’ve played PC games for years, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -154,21 +143,16 @@ If this fix didn’t work, try the next fix, below.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  If you’ve tried all the fixes above to no avail, maybe there is a certain app conflicting with ELEX II.
@@ -178,22 +162,34 @@ If this fix didn’t work, try the next fix, below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch ELEX II to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -223,8 +219,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +226,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-basic-gamers-guide-to-outstanding-video-editing-software-for-2024/"><u>[Updated] Basic Gamers' Guide to Outstanding Video Editing Software for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/iusruwplusqewplusjoajiplusobqpluswfpeociplusodioodqeodluodqzrjg4njg6njgqtjg5bjga7jg5xjgqnjg7zjg6djg6zjg53jg7zjg4gi/"><u>修復後手に入るトラブル:ドライブのフォームレポート</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-minecraft-gameplay-eradicate-stuttering-with-this-comprehensive-guide/"><u>Boost Your Minecraft Gameplay: Eradicate Stuttering With This Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-sign-up-paused-delving-into-the-why-and-estimating-next-availability-window/"><u>ChatGPT Sign-Up Paused: Delving Into the Why and Estimating Next Availability Window</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-branches-unveiling-the-distinctions-between-nlp-and-ml/"><u>Comparing AI Branches: Unveiling the Distinctions Between NLP and ML</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012239627-discover-how-disco-elysium-plays-smoothly-on-your-pc-common-issues-solved/"><u>Discover How 'Disco Elysium' Plays Smoothly on Your PC – Common Issues Solved!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easily-access-hevc-media-compatibility-and-solutions-for-windows-10-users/"><u>Easily Access HEVC Media: Compatibility & Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962446020-essential-windows-7-audio-driver-installations-download-now/"><u>Essential Windows 7 Audio Driver Installations - Download Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-fixing-the-constant-shutdown-of-darkest-dungeon-2-on-your-pc-gaming-rig/"><u>Expert Tips for Fixing the Constant Shutdown of Darkest Dungeon 2 on Your PC Gaming Rig</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-infamous-ghostrunner-fatal-bug-within-windows-10/"><u>How to Fix the Infamous GhostRunner Fatal Bug Within Windows 10?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-trackpad-issues-a-complete-guide/"><u>How to Fix Unresponsive TrackPad Issues - A Complete Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-dont-miss-out-the-creme-de-la-creativite-in-tiktok-top-10/"><u>In 2024, Don't Miss Out The Crème De La Créativité in TikTok (Top 10)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fixes-unlock-solutions-to-bypass-persistent-loading-screens-in-rdr-2/"><u>Mastering Fixes: Unlock Solutions to Bypass Persistent Loading Screens in RDR ^2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-blenders-persistent-shutdown-issues-on-your-windows-machine-a-complete-guide/"><u>Overcoming Blender's Persistent Shutdown Issues on Your Windows Machine – A Complete Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-no-ping-in-halo-infinity-correcting-the-data-center-connection-fault/"><u>Resolving 'No Ping' In Halo Infinity: Correcting the Data Center Connection Fault</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-itel-a05s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Itel A05s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-keeping-your-ring-of-elysium-journey-uninterrupted/"><u>The Ultimate Fix for Keeping Your Ring of Elysium Journey Uninterrupted</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990620281-ultimate-guide-to-a-smooth-run-of-diablo-immortal-pc-version-no-more-crashing/"><u>Ultimate Guide to a Smooth Run of Diablo Immortal PC Version - No More Crashing!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003574985-wolcen-lords-of-mayhem-pc-game-crash-issues-resolved/"><u>Wolcen - Lords of Mayhem PC Game Crash Issues Resolved</u></a></li>
+</ul></div>
 

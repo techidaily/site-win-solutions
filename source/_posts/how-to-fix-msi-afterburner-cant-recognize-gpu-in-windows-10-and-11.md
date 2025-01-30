@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: MSI Afterburner Can't Recognize GPU in Windows 10 & 11"
-date: 2024-08-18T14:08:55.722Z
-updated: 2024-08-19T14:08:55.722Z
+date: 2025-01-23T03:36:02.408Z
+updated: 2025-01-29T17:02:50.758Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
 ## DaVinci Resolve Won't Boot on Your Window Machine? Here's How to Fix It
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resolve not openning](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve.jpg)
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
 No luck? Don’t worry. We have a few more fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Unplug USB devices
 
  According to what many Resolve users have suggested, USB devices can cause your Resolve to not open so you can unplug these devices to check if your Resolve works again.
@@ -55,16 +60,14 @@ No luck? Don’t worry. We have a few more fixes for you.
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
 
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
@@ -72,15 +75,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 4\. Update the graphics driver
 
  Editing videos with this DaVinci Resolve is very GPU-extensive, so it is mandatory to keep the GPU drivers updated (and sometimes your audio drivers, too).
@@ -91,15 +85,13 @@ No luck? Don’t worry. We have a few more fixes for you.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,18 +109,17 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
  It’s reported by many users that the IGPU Multi-Monitor feature can affect the use of DaVinci Resolve, thus causing Resolve to not open. To enable this feature, you should restart your PC and enter BIOS.
@@ -158,9 +149,9 @@ No luck? Don’t worry. We have a few more fixes for you.
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -170,15 +161,17 @@ Here’s how to troubleshoot this issue quickly:
 1. On your keyboard, press the Windows + R key at the same time, and enter**powershell** .  
 ![open powershell](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1.jpg)
 2. Enter the following command line:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _**Get-NetTCPConnection | Where-Object { $\_.State -eq “Listen” -and $\_.LocalPort -eq 1144 } | ForEach-Object { (get-process -id $\_.OwningProcess).Description }**_
 3. If nothing pops up in the next entry, there’s nothing wrong with your TCP network. But if it does, you might need to contact the**Blackmagic Design** support team with your log file.  
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 9\. Reinstall DaVinci Resolve
 
  If none of the fixes above solved your Resolve not opening issue, you can clean reinstall your program and delete all files ( **C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** ) left behind.
@@ -197,8 +190,6 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +197,23 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-syncing-with-serenity-listening-to-podcasts-on-iphone/"><u>[New] Syncing With Serenity Listening to Podcasts on iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-steps-for-seamless-youtube-video-loops/"><u>[Updated] In 2024, Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-instantly-share-selfies-the-step-by-step-walkthrough/"><u>[Updated] Instantly Share Selfies The Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oading-standardized-youtube-images-with-ease-and-precision/"><u>Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-fixes-resetting-and-repairing-your-non-responsive-windows-11-taskbar/"><u>Easy Fixes: Resetting and Repairing Your Non-Responsive Windows 11 Taskbar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-tips-for-fixing-fortnite-not-loading-issues/"><u>Effortless Troubleshooting Tips for Fixing Fortnite Not Loading Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-the-most-out-of-horizon-zero-dawn-expert-tricks-for-a-smoother-quicker-gameplay-experience/"><u>Get the Most Out of Horizon Zero Dawn: Expert Tricks for a Smoother, Quicker Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hassle-free-techniques-for-correcting-errors-in-discordjs/"><u>Hassle-Free Techniques for Correcting Errors in DiscordJS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-proceed-past-stalled-updates-on-microsoft-flight-simulator-2020/"><u>How to Successfully Proceed Past Stalled Updates on Microsoft Flight Simulator 2020</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-open-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Open to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-insight-the-ultimate-review-of-the-microsoft-surface-pro-8-for-enterprises/"><u>Professional Insight: The Ultimate Review of the Microsoft Surface Pro 8 for Enterprises</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-tab-s3-assessment-a-durable-purchase-for-tech-enthusiasts/"><u>Samsung Galaxy Tab S3 Assessment – A Durable Purchase for Tech Enthusiasts?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-preventing-alan-wake-2-game-crashes/"><u>Top Strategies for Preventing Alan Wake 2 Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-hardware-and-drivers-for-rainbow-six-extraction-expert-tips-and-solutions/"><u>Troubleshooting Hardware and Drivers for Rainbow Six Extraction: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-updating-graphics-driver-for-a-smoother-forza-horizon/"><u>Ultimate Guide: Updating Graphics Driver for a Smoother Forza Horizon 지절업</u></a></li>
+</ul></div>
 

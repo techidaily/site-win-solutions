@@ -1,7 +1,7 @@
 ---
 title: Overcoming Phasmophobia Disruptions - Updated Patch Notes 2024
-date: 2024-08-18T14:04:55.436Z
-updated: 2024-08-19T14:04:55.436Z
+date: 2025-01-28T06:32:45.368Z
+updated: 2025-01-30T02:48:06.803Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,8 +43,9 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -54,9 +59,6 @@ If this fix doesn’t work, move to the next fix.
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
 
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
@@ -64,15 +66,16 @@ If this fix doesn’t work, move to the next fix.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  When the game files are missing or corrupted, the game would crash. Verify the integrity of game files can simply solve the issue.
 
 1. Run Steam client and go to**LIBRARY** .
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
@@ -81,9 +84,9 @@ If this fix doesn’t work, move to the next fix.
 If this fix doesn’t bring luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your drivers
 
  One of the most common causes of games crashing is you’re using outdated or corrupted drivers. You need to make sure your drivers are fully up-to-date so that you’re able to enjoy one of the best AAA titles in 2021.
@@ -96,17 +99,14 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -116,9 +116,6 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -130,12 +127,13 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -151,8 +149,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +156,26 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-programs-making-movies-from-picture-files/"><u>[New] Optimal Programs Making Movies From Picture Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-13-creative-ways-to-save-and-store-online-audio-broadcasts/"><u>[Updated] In 2024, 13 Creative Ways to Save and Store Online Audio Broadcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-reimagine-your-farm-in-stardew-valley-with-these-7-mods/"><u>[Updated] In 2024, Reimagine Your Farm in Stardew Valley with These 7 Mods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-realigning-your-personal-soundtracks-from-spotify-to-youtube-music/"><u>2024 Approved Realigning Your Personal Soundtracks From Spotify to YouTube Music</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-open-razer-synapse-here-are-5-effective-solutions/"><u>Can't Open Razer Synapse? Here Are 5 Effective Solutions!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-solving-minecraft-network-disconnect-errors/"><u>Cracking the Code on Solving Minecraft Network Disconnect Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-best-screen-recording-programs-for-win11-for-2024/"><u>Discovering the Best Screen Recording Programs for Win11 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-comprehensive-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-3-freezes-during-gameplay-solutions-and-fixes/"><u>Halo 3 Freezes During Gameplay - Solutions & Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/helldivers-error-msvcr110dll-not-present-heres-how-to-correct-it/"><u>Helldivers ^ ERROR: MSVCR110.dll Not Present? Here’s How to Correct It!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-access-group-policy-editor-when-gpeditmsc-doesnt-appear-in-windows-home-edition/"><u>How to Access Group Policy Editor When gpedit.msc Doesn't Appear in Windows Home Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-screen-record-skype-with-obs-for-2024/"><u>How to Screen Record Skype with OBS for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-compress-videos-for-free-10-best-online-tools-with-no-downloads/"><u>In 2024, Compress Videos for Free 10 Best Online Tools with No Downloads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-video-how-much-does-a-single-streamer-earn-in-2024/"><u>Monetizing Video How Much Does a Single Streamer Earn, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-rainbow-six-extraction-crashing-on-your-pc-heres-how-you-can-fix-it/"><u>Say Goodbye to Rainbow Six Extraction Crashing on Your PC – Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-as-silk-eliminating-lag-in-your-guilty-gear-strive-matches/"><u>Smooth as Silk: Eliminating Lag in Your Guilty Gear -Strive- Matches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-fallout-3-stability-issues-in-windows-10-environment/"><u>Troubleshooting Guide: Resolving Fallout 3 Stability Issues in Windows 10 Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-alienware-m18-top-tier-gaming-performance-at-an-unbeatable-discount-post-labor-day-exclusive-insights/"><u>Unleash the Power of Alienware M18: Top-Tier Gaming Performance at an Unbeatable Discount Post-Labor Day - Exclusive Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unraveling-the-mystery-behind-persistent-crashing-of-dirt-5-in-windows-gaming-pcs-a-comprehensive-guide/"><u>Unraveling the Mystery Behind Persistent Crashing of Dirt 5 in Windows Gaming PCs - A Comprehensive Guide</u></a></li>
+</ul></div>
 

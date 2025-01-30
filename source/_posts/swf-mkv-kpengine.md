@@ -1,7 +1,7 @@
 ---
 title: 이멀 확인 제한 없이 온라인에서 SWF 파일을 MKV로 자유롭게 변환하기 - KPEngine
-date: 2025-01-15T16:33:12.572Z
-updated: 2025-01-22T16:03:45.431Z
+date: 2025-01-28T00:57:50.195Z
+updated: 2025-01-30T05:47:26.138Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a07909c05b7a4646323bdf667e48.jpg
@@ -28,10 +28,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -181,7 +177,7 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -199,6 +195,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -218,12 +218,16 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
@@ -247,10 +251,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -294,6 +294,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -323,7 +327,7 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -358,6 +362,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -382,6 +390,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -392,10 +404,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -420,7 +428,7 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -447,10 +455,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -520,10 +524,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -547,7 +547,7 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -585,18 +585,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-prime-list-7-high-quality-vids-on-mac/"><u>[Updated] Prime List 7 High-Quality Vids on Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>2024 Approved From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012654714-deathloop-freezing-issues-heres-how-you-can-get-smooth-playback-on-pcps5/"><u>Deathloop Freezing Issues? Here's How You Can Get Smooth Playback on PC/PS5!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/easy-guide-to-administering-your-prouser-accounts-via-control-panel-a-quick-tutorial-from-yl-computing/"><u>Easy Guide to Administering Your ProUser Accounts via Control Panel: A Quick Tutorial From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-dialogue-with-humans-critical-for-machines-knowledge-expansion/"><u>Is Dialogue With Humans Critical for Machine's Knowledge Expansion?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/overcome-the-challenge-starting-forza-horizon-4-ultimate-fix-guide/"><u>Overcome the Challenge: Starting Forza Horizon 4 - Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-initial-hurdles-for-a-successful-fifa-amou-21-start-up-process/"><u>Overcoming Initial Hurdles for a Successful FIFA amoU 21 Start-Up Process</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-resolving-fall-guys-game-lag-issues-on-windows-computers/"><u>Solved: Resolving Fall Guys Game Lag Issues on Windows Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tactics-to-rectify-humanitys-inability-to-launch-successfully/"><u>Tactics to Rectify Humanity's Inability to Launch Successfully</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-10c-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 10C FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-risks-associated-with-economical-licenses/"><u>Unveiling the Risks Associated with Economical Licenses</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wave-goodbye-to-crashes-maplestory-optimization-for-windows-11-users/"><u>Wave Goodbye to Crashes: MapleStory Optimization for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[New] In 2024, Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elite-group-chat-and-webcams-the-best-selection/"><u>[New] In 2024, Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>[New] Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-persistent-freezing-and-crashing-issues-with-thunder-tier-one-on-pcs/"><u>Effective Solutions for Persistent Freezing and Crashing Issues with Thunder Tier One on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-code-vein-game-freeze-issues-effective-solutions-inside/"><u>Fixing Code Vein Game Freeze Issues: Effective Solutions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-deactivate-windows-defense-features-in-windows-11-using-these-three-simple-strategies/"><u>How to Deactivate Windows Defense Features in Windows 11 Using These Three Simple Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005678528-la-noires-arrival-on-windows-platform-everything-you-need-to-know/"><u>L.A. Noire's Arrival on Windows Platform – Everything You Need to Know!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-cod-vanguard-error-0x00001338-comprehensive-guide-for-pc-players/"><u>Resolving CoD Vanguard Error 0X00001338: Comprehensive Guide for PC Players</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-the-issue-of-non-exportable-images-from-apowermanager-on-ios-devices/"><u>Troubleshooting the Issue of Non-Exportable Images From ApowerManager on iOS Devices</u></a></li>
 </ul></div>
 

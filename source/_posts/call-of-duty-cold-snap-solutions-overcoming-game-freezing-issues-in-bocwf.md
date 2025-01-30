@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Cold Snap Solutions: Overcoming Game-Freezing Issues in BOCWF"
-date: 2024-08-18T14:04:21.938Z
-updated: 2024-08-19T14:04:21.938Z
+date: 2025-01-27T07:04:59.552Z
+updated: 2025-01-29T17:07:30.669Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/84dab43ab035d91cb56a4eae408b40758af9a9a2b
 
 ## FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-nvidia.jpg)
 
  Red Dead Redemption 2 was released in 2018, and 2 years later there’re many players complaining about the**FPS issues** . Some experience lag in specific scenes, and for some the game stutters all the time.
@@ -35,17 +32,22 @@ thumbnail: https://thmb.techidaily.com/84dab43ab035d91cb56a4eae408b40758af9a9a2b
 5. **[Disable all mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Fine tune in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install all Windows updates
 
 **The latest Windows updates** give you bug fixes and some boost of overall performance. Usually Windows updates automatically, but it’s best for you to make sure your system is up to date.
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -53,14 +55,15 @@ After installing all the updates, restart your PC and check the gameplay.
 
  If RDR2 still stutters on your latest system, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power plan to Ultimate performance
 
 **Power plan** is a setting that allows you to manage how your system consumes energy. In addition to the existing High performance power plan, Microsoft rolled out a hidden one named**Ultimate performance** a while ago. You can try this plan and see if things work out for you.
 
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
@@ -75,9 +78,6 @@ Now you can start RDR2 and check if it stutters again.
 
  If this fix doesn’t give you luck, you can continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  Game stuttering can be triggered by**a faulty or outdated graphics driver** . Manufacturers keep updating drivers to enhance in-game performance, especially for popular & award-winning titles like RDR2\. That’s why we always recommend keeping your drivers up to date.
@@ -88,13 +88,14 @@ Now you can start RDR2 and check if it stutters again.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -103,8 +104,9 @@ Now you can start RDR2 and check if it stutters again.
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Enable HAGs
 
  HAGs is short for**hardware-accelerated GPU scheduling** . It’s a feature that comes with a recent Windows update designed to boost in-game FPS. There’re reports showing that HAGs might help with the FPS in RDR2, so you can try it and test the results.
@@ -114,31 +116,34 @@ Now you can start RDR2 and check if it stutters again.
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch RDR2 and check if there’s any improvements.
 
 If HAGs doesn’t work for you, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable all mods
 
  The Red Dead Redemption series is also famous for the large number of mods. There’s a mod that allows players to turn themselves into animals, and one with which gamers can fly in a hot air balloon. Though fun, it’s worth noting that mods might be the culprit of your FPS issues. So if you’re using any mods in RDR2, turn them off and see how it goes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Fine tune in-game settings
 
@@ -148,14 +153,8 @@ If HAGs doesn’t work for you, you can try the next method.
 2. Set**TAA** to**medium** . Turn off**FXAA** and**MSAA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-1.jpg)
 3. Set**Water Refraction Quality** and**Water Reflection Quality** to**High** or lower. (You can also try disabling TAA sharpening and open image sharpening in the NVIDIA control panel instead.)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
 4. Also set**Reflection MSAA** to**X4** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
 
 You can now test your gameplay and see if the game lags again.
@@ -174,8 +173,6 @@ You can now test your gameplay and see if the game lags again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +180,20 @@ You can now test your gameplay and see if the game lags again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-searching-skills-unlock-additional-free-filters/"><u>[New] 2024 Approved Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[Updated] Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unearthing-the-best-free-mac-apps-for-speech-to-text/"><u>2024 Approved Unearthing the Best Free Mac Apps for Speech to Text</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/advanced-fixes-to-enhance-your-gaming-experience-beating-low-fps-on-valheim-insights-from-2024/"><u>Advanced Fixes to Enhance Your Gaming Experience: Beating Low FPS on Valheim, Insights From 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-experience-of-baldurs-gate-6-essential-remedies-to-combat-game-lag/"><u>Enhance Your Experience of Baldur's Gate: 6 Essential Remedies to Combat Game Lag</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002904247-fix-the-crashing-problem-in-gta-5-step-by-step-tutorial-provided/"><u>Fix the Crashing Problem in GTA 5 – Step-by-Step Tutorial Provided</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/halt-video-lag-with-a-simple-fix-vlc/"><u>Halt Video Lag with a Simple Fix (VLC)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/immediate-solutions-for-when-your-epic-games-launcher-fails-to-load/"><u>Immediate Solutions for When Your Epic Games Launcher Fails to Load</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubles-heres-how-to-stop-hell-let-loose-from-crashing/"><u>PC Troubles? Here's How to Stop 'Hell Let Loose' From Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-rapidly-improving-your-sluggish-keyboard-reaction-time/"><u>Simple Solutions for Rapidly Improving Your Sluggish Keyboard Reaction Time</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nubia-z50s-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nubia Z50S Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-low-frames-per-second-in-frontiers-of-pandora-a-step-by-step-guide-to-smoother-playback/"><u>Troubleshooting Low Frames Per Second in 'Frontiers of Pandora': A Step-by-Step Guide to Smoother Playback</u></a></li>
+</ul></div>
 

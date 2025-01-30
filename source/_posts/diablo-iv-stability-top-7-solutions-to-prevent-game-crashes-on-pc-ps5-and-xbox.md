@@ -1,7 +1,7 @@
 ---
 title: "Diablo IV Stability: Top 7 Solutions to Prevent Game Crashes on PC, PS5 & Xbox"
-date: 2024-08-18T14:07:25.377Z
-updated: 2024-08-19T14:07:25.377Z
+date: 2025-01-23T06:47:57.636Z
+updated: 2025-01-30T06:28:37.957Z
 tags:
   - win11
   - win10
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -47,17 +48,15 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -68,11 +67,12 @@ If this method doesn’t help, check out your graphics driver.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -83,24 +83,24 @@ If this method doesn’t help, check out your graphics driver.
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
 
 1. Go to the game’s installation folder.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
@@ -113,13 +113,13 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -130,9 +130,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -157,8 +154,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +161,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-gamer-friendly-video-capture-apps/"><u>[New] 2024 Approved Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-a-comprehensive-explanation-of-changing-your-social-media-cover/"><u>[Updated] A Comprehensive Explanation of Changing Your Social Media Cover</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-augmenting-flight-top-11-must-have-drone-accessories-for-2024/"><u>[Updated] Augmenting Flight Top 11 Must-Have Drone Accessories for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pictureweaver-2021-seamless-photo-video-mix/"><u>2024 Approved PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-f34-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy F34 5G Unlock Without Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-intuitive-performance-the-in-depth-review-of-z-edges-z3-plus-dashcam/"><u>Affordable, Intuitive Performance: The In-Depth Review of Z-Edge's Z3 Plus Dashcam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/digital-domiciles-deluxe-edition-expanding-your-island-home/"><u>Digital Domiciles Deluxe Edition: Expanding Your Island Home</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-steps-to-create-your-own-bitcoin-wallet-a-guide-by-yl-computing/"><u>Easy Steps to Create Your Own Bitcoin Wallet: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-for-dealing-with-valheim-version-mismatches-on-windows-pcs/"><u>Expert Advice for Dealing with Valheim Version Mismatches on Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-cod-black-ops-cold-war-wont-start-or-run-on-your-computer/"><u>Fix Cod: Black Ops Cold War Won't Start or Run on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-dragons-dogma-2-performance-issues-solving-low-frame-rates-and-stutter/"><u>Fixing Dragon's Dogma 2 Performance Issues: Solving Low Frame Rates & Stutter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-starfield-sound-interruptions-and-glitches/"><u>Resolved: Fixes for Starfield Sound Interruptions & Glitches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/small-sized-big-performance-in-depth-review-of-the-razer-book-13/"><u>Small-Sized, Big Performance: In-Depth Review of the Razer Book 13</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-call-of-duty-world-war-ii-black-screen-problems-in-windows-a-comprehensive-guide/"><u>Solving Call of Duty: World War II Black Screen Problems in Windows – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-frustration-resolving-persistent-freezing-in-psychonauts-2-on-pc-systems/"><u>Stop the Frustration - Resolving Persistent Freezing in Psychonauts 2 on PC Systems</u></a></li>
+</ul></div>
 

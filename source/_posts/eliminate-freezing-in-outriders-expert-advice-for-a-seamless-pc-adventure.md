@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Freezing in Outriders: Expert Advice for a Seamless PC Adventure"
-date: 2024-08-18T14:04:33.654Z
-updated: 2024-08-19T14:04:33.654Z
+date: 2025-01-27T16:15:09.751Z
+updated: 2025-01-29T17:00:00.570Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NARAKA: BLADEPOINT players, performance issues such as game stuttering and low FPS are making their game barely unplayable. But there are some things you can do. In this post, we’ll guide you through the steps to fix stuttering and low FPS issues in NARAKA: BLADEPOINT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,6 +35,14 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 ![NARAKA: BLADEPOINT Coming Soon - Epic Games Store](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NARAKABLADEPOINT_24Entertainment_S1_2560x1440-5f7eae943282dd9a681a1bd3f88fc354?h=270&resize=1&w=480)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Before you try a new title, we usually recommend you check for Windows updates, which come with bug fixes and new features.
@@ -40,16 +52,14 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . If there are any updates available, it’ll automatically start to download and install it. Once the download is finished, restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)  
 
  After the reboot, launch NARAKA: BLADEPOINT and check if your game looks better. If your problems persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable unnecessary programs
 
  Too many programs running in the background will most likely drain your system as they take up a certain amount of resources. To get a better gaming experience, you’re supposed to disable those programs that you don’t necessarily use when playing Naraka: Bladepoint.
@@ -65,9 +75,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
  After you’ve done these, play your game. If you’re still having sudden extreme framerate drops and stuttering during the gameplay, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable the Game Mode
 
  Players who have the latest Windows version should enable the Game Mode, a feature that is designed to optimize Windows 10 for gaming. It can deactivate background activities to help you boost in-game FPS. To enable the Game Mode, follow the instructions below.
@@ -75,15 +82,20 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Select**Gaming** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select**Game Mode** from the left panel. Then toggle**On** Game Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)  
 
  Now launch Naraka: Bladepoint and you should get a better performance. However, if turning on Game Mode didn’t do the trick, don’t worry. Below are some other methods that you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -91,9 +103,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -104,9 +113,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Automatically update your graphics driver
 
  As described above, manually updating your graphics driver would require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -118,9 +124,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -133,15 +136,20 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select **LOCAL FILES** . Then click **Verify integrity of game files…** . Then wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)  
 
  The verification process would take several minutes to finish. After that, play Naraka: Bladepoint to check if your problems have been solved. If you are still having these problems, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable overlays
 
@@ -153,18 +161,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)  
 
  After saving the changes, launch your game and you should be able to get more FPS and reduce in-game stutters. Also, if you have Discord installed, try to disable overlay by following the steps below.
@@ -172,20 +168,11 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 1. Open Discord.
 2. Click the **cogwheel icon** at the bottom of the left pane to open Settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Optimize NVIDIA Control Panel settings
 
  If you’re using a NVIDIA graphics card, you can optimize the settings through the NVIDIA Control Panel:
@@ -195,12 +182,13 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/from-the-desktop.png)
 2. Click**Manage 3D settings** . Then select**Program Settings** . Add**NARAKA: BLADEPOINT** to the list. Under the section Specify the settings for this program, make the following changes:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Power management mode:**Prefer maximum performance**  
  Vertical sync:**Off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel.png)
 
 ---
@@ -213,8 +201,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +208,23 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-first-step-guide-to-professional-vlogging/"><u>[New] 2024 Approved First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nriching-vlog-topics-to-share/"><u>[New] Enriching Vlog Topics to Share</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups/"><u>[Updated] 2024 Approved Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-film-grading-a-deep-dive-into-cg-centrals-look-up-tables/"><u>[Updated] Perfecting Film Grading A Deep Dive Into CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-potential-career-exploration-in-design-for-2024/"><u>[Updated] Unleashing Potential Career Exploration in Design for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-to-overcome-your-end-of-year-assessment-error-code-tfla0002/"><u>Comprehensive Fixes to Overcome Your End-Of-Year Assessment Error – Code: TFLA0002</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-stuttering-in-halo-infinite/"><u>Comprehensive Guide to Fixing Stuttering in Halo Infinite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-your-gaming-experience-overcoming-subnautica-below-zeros-pc-malfunctions/"><u>Enhancing Your Gaming Experience: Overcoming Subnautica Below Zero's PC Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-persistent-issues-with-no-rest-for-the-wicked-pc-performance-and-stability/"><u>Fix Persistent Issues with 'No Rest for the Wicked' PC Performance and Stability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-camon-30-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Camon 30 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g14-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Moto G14 Phone Network-Ready</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-preventing-sekiro-game-crashes-without-hassle/"><u>Master the Art of Preventing Sekiro Game Crashes Without Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-fps-in-lost-ark-comprehensive-troubleshooting-for-smoother-gaming/"><u>Maximize Your FPS in Lost Ark: Comprehensive Troubleshooting for Smoother Gaming</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/re-image-twitter-video-portrait/"><u>Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-lost-arks-forgotten-melodies-a-guide-to-fixing-missing-game-sounds/"><u>Restoring Lost Ark’s Forgotten Melodies: A Guide To Fixing Missing Game Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-live-access-issues-identifying-a-widespread-disruption-vs-private-connectivity-woes/"><u>Xbox Live Access Issues - Identifying a Widespread Disruption Vs. Private Connectivity Woes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Troubleshooting and Fixing OBS Microphones for Optimal Performance
-date: 2024-08-18T14:05:47.928Z
-updated: 2024-08-19T14:05:47.928Z
+date: 2025-01-26T06:07:42.964Z
+updated: 2025-01-30T01:45:36.846Z
 tags:
   - win11
   - win10
@@ -30,9 +30,9 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -47,10 +47,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 2) Right-click Phasmophobia and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
@@ -60,11 +61,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 If Phasmophobia still crashes, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -75,16 +71,15 @@ Game crashing issues might happen when your game files are corrupted.
 
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -106,18 +101,16 @@ If the game still crashes, try the next fix below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -140,6 +133,10 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -152,6 +149,10 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
@@ -160,9 +161,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -171,9 +169,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
  3) Click**Apply > OK** .
@@ -183,8 +178,9 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -207,8 +203,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +210,26 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-academic-history-lovers-guide-to-top-yt-content/"><u>[New] Academic History Lovers' Guide to Top YT Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-world-of-mac-screenshot-with-confidence-for-2024/"><u>[Updated] Navigating the World of Mac Screenshot with Confidence for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4-for-2024/"><u>[Updated] Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-budget-oriented-chinas-vr-equipment-selection/"><u>2024 Approved Budget-Oriented China's VR Equipment Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-painting-with-light-the-art-of-selective-hue-enhancement/"><u>2024 Approved Painting with Light The Art of Selective Hue Enhancement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-dota-2-stability-problems-and-preventing-crashes/"><u>Effective Solutions for Dota 2 Stability Problems & Preventing Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-frustration-step-by-step-guide-to-eliminate-deathloop-crashes-on-computer/"><u>End the Frustration: Step-by-Step Guide to Eliminate Deathloop Crashes on Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/god-of-war-memory-error-explained-strategies-for-playing-without-interruptions/"><u>God of War Memory Error Explained: Strategies for Playing Without Interruptions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-turn-on-hyper-v-for-seamless-virtualization-on-windows-10/"><u>How to Turn On Hyper-V for Seamless Virtualization on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nanoleaf-unveils-innovative-matter-series-begin-pre-orders-for-skylight-latest-update-on-zdnet/"><u>Nanoleaf Unveils Innovative Matter Series: Begin Pre-Orders for Skylight - Latest Update on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-through-pc-hiccups-in-forests-saga-essential-fixes/"><u>Navigating Through PC Hiccups in 'Forest's Saga: Essential Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persona-4-golden-troubleshooting-fix-common-game-breaking-errors/"><u>Persona 4 Golden Troubleshooting: Fix Common Game-Breaking Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-poco-f5-pro-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Poco F5 Pro 5G has been deleted.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/revolutionize-your-social-media-strategy-essential-instagram-analytics-platforms-for-2024/"><u>Revolutionize Your Social Media Strategy Essential Instagram Analytics Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-changing-your-facebook-login-credentials/"><u>Step-by-Step Process: Changing Your Facebook Login Credentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-ensure-smooth-play-of-ready-or-not-without-pc-interruptions/"><u>Steps to Ensure Smooth Play of 'Ready or Not' Without PC Interruptions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/streamline-your-pets-diet-with-the-automatic-six-serving-petfeast-by-petsafe/"><u>Streamline Your Pet’s Diet with the Automatic Six-Serving PetFeast by PetSafe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-6-solutions-to-resolve-high-cpu-consumption-in-zoom/"><u>Top 6 Solutions to Resolve High CPU Consumption in Zoom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solving-new-world-gameplay-lags-and-connectivity-woes/"><u>Ultimate Guide: Solving 'New World' Gameplay Lags & Connectivity Woes</u></a></li>
+</ul></div>
 

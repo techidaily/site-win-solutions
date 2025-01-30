@@ -1,7 +1,7 @@
 ---
 title: Ultimate 6 Strategies to Boost Your Frame Rate in Escape From Tarkov!
-date: 2024-08-18T14:07:51.389Z
-updated: 2024-08-19T14:07:51.389Z
+date: 2025-01-23T01:54:09.798Z
+updated: 2025-01-30T03:56:16.178Z
 tags:
   - win11
   - win10
@@ -38,20 +38,18 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan** **Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update** **All** ). Or you can click**Update** to update the graphics driver for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Normally you should see a significant performance improvement after you update all the device drivers on your computer. But if not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Close unnecessary background programs
 
@@ -70,24 +68,20 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
  Your gaming experience may be limited when your computer runs on the Power saver or Balanced power plan. For enhanced performance, it’s better to opt for High Performance.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**powercfg.cpl** in the field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1-1.jpg)
 2. Select**High** **performance** . (If you don’t see it, expand**Hide additional plans** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2-1.jpg)
 
  If you’re on a high-end PC, the**Ultimate Performance** mode may help you fully unleash the potential of your machine. Here’s how to enable this mode.
 
 1. Type**cmd** in the Windows search box and click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-1.jpg)
 2. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  When you see a prompt as shown in the picture, Ultimate Performance is enabled and please return to the steps above to set it as your preferred plan.
@@ -97,8 +91,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  Check how the game works. If the issue persists, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Disable fullscreen optimizations
 
  Fullscreen optimization is supposed to optimize the performance of games or apps in fullscreen. However, certain games might stutter with FPS drops when this feature is enabled, and turning it off could effectively mitigate the problem.
@@ -107,21 +102,16 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 2. Right-click the**EscapeFromTarkov.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-0.jpg)
 3. Select the**Compatibility** tab and tick**Disable full-screen optimisations** . Then, click**Change high DPI settings** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-1.jpg)
 4. Tick**Override high DPI scaling behaviour** and choose**Application** from the drop-down menu. Then, click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  Many players reported their in-game settings have been reset after the latest patch. So if you’re getting a lot of stutters or FPS drops, you should fine-tune the setting to make it work best on your rig.
@@ -130,16 +120,27 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 2. On the**GRAPHICS** tab,**turn off VSync** . Then set the_Texture quality_ to high and_Shadows quality_ to**low** or**medium** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-1.jpg)
 3. Scroll down to turn on**Mip Streaming** .
-4. Navigate to the**GAME** tab and uncheck**Always show interface elements** ,**Auto RAM Cleaner** as well as**Use only the physical cores** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Navigate to the**GAME** tab and uncheck**Always show interface elements** ,**Auto RAM Cleaner** as well as**Use only the physical cores** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-2.jpg)
 5. Select the**POSTFX** tab, and make sure to**untick Enable PostFX** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-3.jpg)
 6. Click**Save** to apply the changes.
 
  Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Configure the graphics card settings
 
@@ -148,18 +149,20 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 #### For NVIDIA users
 
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-settings.jpg)
 4. Modify the settings as below:  
 _Anisotropic filtering_ :**Application-controlled**  
@@ -196,8 +199,6 @@ Restart the game to test, and you should find the FPS increases now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,26 @@ Restart the game to test, and you should find the FPS increases now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-snap-game-15-must-try-tactics/"><u>[New] 2024 Approved Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-best-facebook-practices-videographers-dilemrante/"><u>[New] In 2024, Best Facebook Practices Videographer's Dilemrante</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-lava-yuva-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Lava Yuva 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-gaming-experience-no-more-stuttering-in-starfield/"><u>Enhanced Gaming Experience - No More Stuttering in Starfield</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expertentests-und-rezensionen-fur-die-backup-losung-aomei-backupper/"><u>Expertentests Und Rezensionen Für Die Backup-Lösung AOMEI Backupper</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-smart-8-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Smart 8 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-total-war-warhammer-ii-glitches-with-these-proven-methods/"><u>Fix Your TOTAL WAR: WARHAMMER II Glitches with These Proven Methods!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-canon-ip110-drivers-installed-on-modern-windows-platforms-complete-guide-and-download-options/"><u>Get Canon iP110 Drivers Installed on Modern Windows Platforms - Complete Guide and Download Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-days-gone-crashing-2024/"><u>How To Fix Days Gone Crashing – 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-stuttering-issues-in-valheim-for-a-smooth-gaming-experience/"><u>How to Resolve Stuttering Issues in Valheim for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-and-load-fallen-out-textures-in-battle-royale-warzone/"><u>How to Restore and Load Fallen Out Textures in Battle Royale: Warzone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-c51-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco C51 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-vintage-vs-modern-ranking-radio-sound-effects/"><u>New 2024 Approved Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/remember-the-importance-of-supplements-such-as-b12-and-potentially-others-depending-on-individual-health-status-which-can-be-discussed-with-a-healthcare-pro543/"><u>Remember the Importance of Supplements Such as B12 and Potentially Others Depending on Individual Health Status, Which Can Be Discussed with a Healthcare Provider.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-amazon-prime-video-malfunctions-for-uninterrupted-watching/"><u>Solving Amazon Prime Video Malfunctions for Uninterrupted Watching</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-freezes-and-crashes-heres-how-to-keep-it-running-smoothly-on-your-computer/"><u>Starfield Freezes and Crashes? Here's How to Keep It Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-freezing-and-crashes-of-genshin-impact-on-personal-computers/"><u>Troubleshooting Continuous Freezing and Crashes of Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-completing-windows-endless-countdowns/"><u>Winning Strategies for Completing Windows' Endless Countdowns</u></a></li>
+</ul></div>
 

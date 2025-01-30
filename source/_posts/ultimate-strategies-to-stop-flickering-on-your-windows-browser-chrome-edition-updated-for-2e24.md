@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Strategies to Stop Flickering on Your Windows Browser: Chrome Edition (Updated for 2E24)"
-date: 2024-08-18T14:04:06.301Z
-updated: 2024-08-19T14:04:06.301Z
+date: 2025-01-23T18:12:31.754Z
+updated: 2025-01-29T19:42:24.253Z
 tags:
   - win11
   - win10
@@ -40,16 +40,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -57,6 +51,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
  Test how War Thunder works with the dedicated GPU. If the low FPS remains, you can move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -84,6 +82,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -100,8 +102,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Shut down unnecessary applications
 
  While you may not be aware, applications running in the background will consume much of your system resource and render War Thunder in low FPS. So, to let your game work without interruption, you can close all unneeded applications before you start a game.
@@ -110,11 +113,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the application you want to close and click**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -123,9 +127,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -136,48 +137,43 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Select**Small icons** from the drop-down menu next to**View by** and click**Power Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**High performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
 
 **1)** Open War Thunder. Then, click the**gear icon** to enter the Settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
 
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall War Thunder
 
@@ -199,6 +195,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click the**War Thunder folder** and press**Delete** .
 
  Reinstall War Thunder from Steam again, and the newly-installed game should be free of the low FPS issue.
@@ -216,8 +216,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +223,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-best-of-breed-exceptional-webcam-supports/"><u>[Updated] Best Of Breed Exceptional Webcam Supports</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cost-effective-gaming-selecting-the-best-keyboard-choices-for-2024/"><u>[Updated] Cost-Effective Gaming Selecting the Best Keyboard Choices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-simplify-transcribing-the-word-guide-to-speech-to-text/"><u>[Updated] In 2024, Simplify Transcribing The Word Guide to Speech-to-Text</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-xps-movie-magic-software-essentials/"><u>2024 Approved Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-black-ops-4-launch-woes-discover-effective-fixes-for-a-seamless-play/"><u>Call of Duty: Black Ops 4 Launch Woes? Discover Effective Fixes for a Seamless Play!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-how-devices-learn-without-cloud-connectivity/"><u>Delving Into How Devices Learn Without Cloud Connectivity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-adventure-in-baldurs-gate-effective-remedies-for-common-stuttering-issues-6-fixes/"><u>Enhance Your Adventure in Baldur's Gate: Effective Remedies for Common Stuttering Issues (6 Fixes)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-strategies-for-finding-no-cost-art-for-2024/"><u>Expert Strategies for Finding No-Cost Art for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723014001974-guaranteed-solutions-to-keep-your-subnautica-adventure-running-smoothly-on-pc/"><u>Guaranteed Solutions to Keep Your Subnautica Adventure Running Smoothly on PC!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-lag-fix-techniques-to-overcome-gameplay-disruptions-and-improve-performance/"><u>Halo Infinite Lag Fix: Techniques to Overcome Gameplay Disruptions and Improve Performance</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-swiftly-switch-songs-in-yt-playlist-heres-how/"><u>In 2024, Swiftly Switch Songs in YT Playlist, Here's How</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/m1-explored-apples-leap-in-computational-innovation-for-2024/"><u>M1 Explored Apple's Leap in Computational Innovation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-monochrome-modification/"><u>Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastery-tutorial-how-to-repair-halo-infinity-when-it-says-no-connection-to-our-servers/"><u>Mastery Tutorial: How to Repair Halo Infinity When It Says No Connection to Our Servers</u></a></li>
+</ul></div>
 

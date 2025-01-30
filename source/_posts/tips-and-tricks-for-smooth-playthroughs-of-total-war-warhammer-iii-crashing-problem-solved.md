@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks for Smooth Playthroughs of Total War: WARHAMMER III - Crashing Problem Solved"
-date: 2024-08-18T14:04:38.556Z
-updated: 2024-08-19T14:04:38.556Z
+date: 2025-01-23T19:40:18.899Z
+updated: 2025-01-29T20:49:25.702Z
 tags:
   - win11
   - win10
@@ -17,15 +17,6 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After reading this article, you should be able to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 9 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,9 +46,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
 **2)**  Type **dxdiag**  and click **OK** .
@@ -66,23 +54,14 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: **Restart your computer**
 
  Extraneous software not only takes up your PC resources and affects your gaming performance, it can also conflict with_Hearts of Iron IV_ , causing it to crash.
@@ -91,9 +70,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
  If **_HOI4_**  still crashes after the reboot, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an Administrator**
 
  The_Hearts of Irons_ crashing issue might happen when the game fails to access certain game files or folders under standard user mode.
@@ -104,14 +80,15 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
@@ -125,9 +102,6 @@ If your problem still exists, then move on to the fix below.
 
 **1)** Right-click the **Hearts of Iron IV icon** on your desktop and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
@@ -165,13 +139,14 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -188,23 +163,29 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Change your PC power settings
 
@@ -212,23 +193,14 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 **2)** Under **View by,** click **Large icons** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 **3)** Select **Power Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 **4)** Select **High Performance** .
@@ -266,20 +238,22 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **DELETE** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
 
 **5)**  Relaunch Steam to download and reinstall _Hearts of Iron IV_ .
@@ -296,9 +270,6 @@ Relaunch your game to test your issue.
 
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
@@ -309,11 +280,12 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -322,9 +294,17 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
@@ -342,8 +322,6 @@ Relaunch your game to test your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -351,4 +329,17 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagrams-sequential-visual-showcase/"><u>[New] In 2024, Instagram's Sequential Visual Showcase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ios-device-integration-with-android-images-for-2024/"><u>[New] IOS Device Integration with Android Images for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlock-youtube-comment-insights-a-comprehensible-guide/"><u>[New] Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/driving-engagement-on-instagram-a-step-by-step-guide-for-2024/"><u>Driving Engagement on Instagram A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-world-of-warcraft-crashes-no-more-gaming-interruptions/"><u>Easy Fixes for World of Warcraft Crashes - No More Gaming Interruptions!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-to-leverage-telegram-a-comprehensive-online-tutorial-for-2024/"><u>Learn to Leverage Telegram A Comprehensive Online Tutorial for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/play-pc-version-stability-tips/"><u>Play - PC Version Stability Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-restoring-functionality-of-corsairs-icue-platform-on-latest-windows-operating-systems/"><u>Step-by-Step Solution for Restoring Functionality of Corsair's iCUE Platform on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/strategies-for-fixing-the-launch-problem-with-amd-radeon-system-software/"><u>Strategies for Fixing the Launch Problem with AMD Radeon System Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/shing-video-potential-effective-seo-strategies-for-youtube/"><u>Unleashing Video Potential Effective SEO Strategies for YouTube</u></a></li>
+</ul></div>
 

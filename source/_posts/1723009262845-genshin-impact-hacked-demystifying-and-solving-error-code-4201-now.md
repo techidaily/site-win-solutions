@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Hacked? Demystifying and Solving Error Code 4201 Now!
-date: 2024-08-18T14:04:45.439Z
-updated: 2024-08-19T14:04:45.439Z
+date: 2025-01-26T19:32:44.200Z
+updated: 2025-01-29T21:18:27.189Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -56,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -69,23 +67,28 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -99,23 +102,18 @@ The powerful video editing program for your Windows PC</a>
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -123,9 +121,6 @@ The powerful video editing program for your Windows PC</a>
 1. Launch Apex Legends.
 2. When you see the main page with the Continue button in the middle, wait for at least 1 minute. DO NOT press any keys or click any button on the screen.
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -145,8 +140,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +147,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-creating-captivating-mukbang-content-step-by-step/"><u>[New] 2024 Approved Creating Captivating Mukbang Content Step-By-Step</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-approaches-for-recording-and-sharing-sporting-games/"><u>[Updated] Cutting-Edge Approaches for Recording & Sharing Sporting Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tier-emulators-for-gba-games-on-android-for-2024/"><u>[Updated] Top-Tier Emulators for GBA Games on Android for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/windows-tablet-mode-6/"><u>如何在Windows 지�슨의 Tablet Mode에서 문제를 해결하세요 - 6가지 효과적인 방법!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-why-doesnt-the-ascent-work-on-my-pc-solutions-and-fixes/"><u>Expert Advice: Why Doesn't 'The Ascent' Work on My PC? Solutions and Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-boost-performance-and-eliminate-glitches-on-red-dead-redemption-2/"><u>How to Boost Performance & Eliminate Glitches on Red Dead Redemption 2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>In 2024, How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-in-deathloop-a-comprehensive-solution/"><u>Overcoming Launch Errors in Deathloop – A Comprehensive Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011501493-steam-sign-in-failures-heres-how-you-can-get-back-in-easily/"><u>Steam Sign In Failures? Here's How You Can Get Back in Easily!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-rated-battery-pack-review-travel-with-confidence-using-dbpower-600a-mains-charger/"><u>The Best Rated Battery Pack Review – Travel with Confidence Using DBPower 600A Mains Charger</u></a></li>
+</ul></div>
 

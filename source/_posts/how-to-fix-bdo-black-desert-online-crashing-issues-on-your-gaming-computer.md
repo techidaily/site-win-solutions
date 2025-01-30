@@ -1,7 +1,7 @@
 ---
 title: How to Fix BDO (Black Desert Online) Crashing Issues on Your Gaming Computer
-date: 2024-08-18T14:08:00.181Z
-updated: 2024-08-19T14:08:00.181Z
+date: 2025-01-27T05:29:44.771Z
+updated: 2025-01-30T06:56:47.662Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -41,9 +46,6 @@ Here is how to verify the integrity of Dauntless:
 
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
@@ -51,8 +53,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -80,6 +83,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -96,6 +103,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -108,24 +119,14 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
 
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -134,9 +135,6 @@ Here is how to verify the integrity of Dauntless:
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -159,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +164,23 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-sj7-elevates-action-cinematography-in-depth-review-of-its-star-4k-camera/"><u>[Updated] In 2024, SJ7 Elevates Action Cinematography In Depth Review of Its Star 4K Camera</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-enhancing-photos-with-cropping-tools/"><u>[Updated] Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advances-in-computer-components-at-toms-hardware/"><u>Exploring the Latest Advances in Computer Components at Tom's Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-chatgpt-for-creating-stellar-and-standout-resumes/"><u>How to Leverage ChatGPT for Creating Stellar and Standout Resumes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-narzo-60x-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/"><u>Resolving Unresponsive Mousepad Problems on Windows Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/solving-video-issues-effective-solutions-when-your-computer-cant-play-movies/"><u>Solving Video Issues: Effective Solutions When Your Computer Can't Play Movies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-the-problem-proven-strategies-to-get-your-overwatch-n-game-running-again/"><u>Tackling the Problem: Proven Strategies to Get Your Overwatch N Game Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-guide-to-dominating-roller-champions-crossplay-strategies-for-the-modern-gamer/"><u>The Definitive Guide to Dominating Roller Champions: Crossplay Strategies for the Modern Gamer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-modern-warfare-3-battling-frames-per-second-fluctuations/"><u>Troubleshooting COD: Modern Warfare 3 - Battling Frames Per Second Fluctuations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixing-update-loop-problems/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixing Update Loop Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-triumph-overcoming-death-stranding-crash-problems-on-your-pc-game-experience/"><u>Troubleshooting Triumph! Overcoming Death Stranding Crash Problems on Your PC Game Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-for-stable-hearthstone-playtime-without-pc-issues/"><u>Ultimate Troubleshooting Guide for Stable Hearthstone Playtime Without PC Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-ai-assistance-with-the-newly-launched-chatgpt-ios-app/"><u>Unlock AI Assistance with the Newly Launched ChatGPT iOS App!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-secret-to-a-seamless-freeze-free-experience-with-overwatch/"><u>Unlocking the Secret to a Seamless, Freeze-Free Experience with Overwatch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Logitech Options Issues: Troubleshooting Tips for Windows Users"
-date: 2024-08-18T14:04:44.393Z
-updated: 2024-08-19T14:04:44.393Z
+date: 2025-01-23T23:37:24.014Z
+updated: 2025-01-29T20:06:53.208Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -57,8 +54,9 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -69,19 +67,27 @@ Game crashing issues might happen when your game files are corrupted.
 
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -101,6 +107,10 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -116,8 +126,9 @@ If the game still crashes, try the next fix below.
 If the crash still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -130,9 +141,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -150,15 +158,13 @@ If the crash still occurs, go ahead with the next fix.
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -167,9 +173,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
  3) Click**Apply > OK** .
@@ -188,9 +191,6 @@ If the problem still exists, try the next fix below.
 
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
@@ -203,8 +203,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +210,20 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign-for-2024/"><u>[New] Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creative-choreography-compendiums/"><u>[Updated] In 2024, Creative Choreography Compendiums</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unbeatable-deal-save-300-on-the-asus-vivobook-pro-now-find-it-happening-on-amazon/"><u>1. Unbeatable Deal: Save $300 on the Asus VivoBook Pro Now - Find It Happening on Amazon!</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-tech-epochs-windows-7-key-to-boot-windows-11/"><u>Bridging the Tech Epochs: Windows 7 Key to Boot Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquering-connection-delays-how-to-enhance-dota-2-performance-with-expert-advice/"><u>Conquering Connection Delays: How to Enhance Dota 2 Performance with Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/final-fantasy-xv-for-pc-a-complete-guide-to-overcoming-the-infamous-crash-glitches/"><u>Final Fantasy XV for PC - A Complete Guide to Overcoming the Infamous Crash Glitches</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210245327-9781098066727-heartbeat-of-the-soul/"><u>Heartbeat of the Soul | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-brands-for-budget-friendly-high-definition-projectors/"><u>Leading Brands for Budget-Friendly, High-Definition Projectors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fixes-resolving-roblox-launch-failures/"><u>Mastering the Fixes: Resolving Roblox Launch Failures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solutions-completes-pour-lutilisation-en-ligne-du-programme-de-dechiffrement-dvd-winx-et-logiciels-videodetecteurs/"><u>Solutions Complètes Pour L'Utilisation en Ligne Du Programme De Déchiffrement DVD WinX Et Logiciels Videodétecteurs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-enjoying-the-samsung-unpacked-presentation-on-your-device-at-home/"><u>Step-by-Step Guide: Enjoying the Samsung Unpacked Presentation on Your Device at Home</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-warriors-handbook-to-overcome-network-delays-in-chivalry-2-cutting-edge-fixes-and-tweaks-for-maximum-performance-2024-insights/"><u>The Warrior's Handbook to Overcome Network Delays in Chivalry 2: Cutting-Edge Fixes & Tweaks for Maximum Performance (2024 Insights)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/update-problems-with-minecraft-java-launcher-diagnosis-and-effective-solutions/"><u>Update Problems with Minecraft Java Launcher: Diagnosis and Effective Solutions</u></a></li>
+</ul></div>
 

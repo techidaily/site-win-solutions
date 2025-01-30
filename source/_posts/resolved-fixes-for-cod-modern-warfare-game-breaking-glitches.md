@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Cod: Modern Warfare Game-Breaking Glitches"
-date: 2024-08-18T14:06:00.908Z
-updated: 2024-08-19T14:06:00.908Z
+date: 2025-01-27T06:09:40.187Z
+updated: 2025-01-29T16:06:25.489Z
 tags:
   - win11
   - win10
@@ -34,8 +34,9 @@ Your Modern Warfare crashing can be caused by the following issues:
  It’s hard to locate the exact cause, but you can try the following workarounds to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Modern Warfare Crashing
 
  No matter what causes your Modern Warfare to crash, you can troubleshoot and get rid of it easily:
@@ -50,12 +51,13 @@ Your Modern Warfare crashing can be caused by the following issues:
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -90,16 +92,14 @@ Your Modern Warfare crashing can be caused by the following issues:
 
  Click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Set texture quality to high or normal
 
  Many Call of Duty players may set their graphics settings to**Low** , which can be the culprit of the Modern Warfare crashing issue. Modern Warfare may crash for not having enough texture quality, especially if you get an error code**Dev Error 6178** . Many gamers find**setting Texture Resolution to Normal or High** solved their crashing issues, depending on your PC specs.
@@ -112,13 +112,14 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Scan and Repair your game
 
  This is the method you can always try when you run into game crashing issues. Corrupt game files can cause Call of Duty: Modern Warfare crashing issues.
@@ -133,6 +134,10 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
  The V-Sync in your game is G-Sync/FreeSync and it may interfere with Modern Warfare, so you can try turning it off to see if the crashing issue goes away. If you have in-game V-sync turned on, you can disable it in Modern Warfare graphics settings.
@@ -141,9 +146,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  1) Right-click your Desktop and select**NVIDIA Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
@@ -152,18 +154,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  3) Scroll down the list and select**Off** for**Vertical sync** . Then click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 7: Disable Discord in-game overlay
 
  If you’re using any programs with overlay features such as Discord, disable the In-Game Overlay as it will cause random game crashes on your PC.
@@ -188,11 +182,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When prompted for permission to make changes, select**Change Priority** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9\. Repair your system files
 
  If the Modern Warfare shares the same system files with your operating system, and the specific file is corrupt or missing, thus causing your game to crash, you may need to restore it with one of the following:
@@ -232,6 +227,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -240,13 +239,6 @@ sfc /scannow
 
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
  4) You may receive something like the following messages after the verification.
@@ -296,8 +288,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +295,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-reverse-playbacks-on-instavids/"><u>[Updated] In 2024, The Ultimate Guide to Reverse Playbacks on InstaVids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-virtual-enterprise-integrating-vr-tech-in-commerce-for-2024/"><u>[Updated] Virtual Enterprise Integrating VR Tech in Commerce for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/agriculture-affinity-games-top-10-farmers-craft-for-comradeship-for-2024/"><u>Agriculture Affinity Games Top 10 Farmer's Craft for Comradeship for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-circles-milestone-meadows/"><u>Champion Circles: Milestone Meadows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-secure-hiccups-a-guide/"><u>Correcting Windows Secure Hiccups: A Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-future-of-reading-with-amazons-kindle-unlimited-top-4-benefits-explained/"><u>Discover the Future of Reading with Amazon’s Kindle Unlimited – Top 4 Benefits Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-the-newest-upgrade-in-libreoffice-a-comprehensive-look-at-whats-changed/"><u>Experience the Newest Upgrade in LibreOffice – A Comprehensive Look at What's Changed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-restore-functionality-of-the-windows-11-taskbar/"><u>Fixing Issues: How to Restore Functionality of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-unstoppable-crash-a-comprehensive-guide-to-overcoming-arks-deadly-glitch/"><u>Fixing the Unstoppable Crash: A Comprehensive Guide to Overcoming 'Ark's Deadly Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-palworld-running-again-quick-troubleshooting-guide/"><u>Get Palworld Running Again: Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-common-genshin-impact-error-code-4201/"><u>How to Fix the Common Genshin Impact Error Code 4201</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhancing-storytelling-with-jump-cuts-technique/"><u>In 2024, Enhancing Storytelling with Jump Cuts Technique</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rainbow-six-extraction-troubleshooting-steps-for-a-smooth-pc-gaming-experience/"><u>Rainbow Six Extraction - Troubleshooting Steps for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-recurring-content-warning-crashes-on-your-windows-computer/"><u>Solving the Problem of Recurring 'Content Warning' Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-fifa-20-pc-game-crashes-step-by-step-tutorial/"><u>Ultimate Guide: Fixing FIFA 20 PC Game Crashes - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi A2+?</u></a></li>
+</ul></div>
 

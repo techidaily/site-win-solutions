@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Get Your Apex Legends Game Up and Running Again!
-date: 2024-08-18T14:09:16.900Z
-updated: 2024-08-19T14:09:16.900Z
+date: 2025-01-25T03:39:09.361Z
+updated: 2025-01-29T20:55:10.085Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Twitch Streams Not Loading
 
 1. [Restart your network devices](https://tools.techidaily.com/drivereasy/download/)
@@ -39,18 +43,26 @@ Here’s how to restart it:
 
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Start streaming in Twitch and see if the loading issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2 Update your graphics driver
 
  A graphics driver is an essential piece of software program that enables your computer to work with your graphics hardware. If the driver is wrong, corrupt or outdated, you may experience issues like slow loading or not loading at all. So you should update your graphics driver to see if it fixes your problem.
@@ -67,6 +79,10 @@ Here’s how to restart it:
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ## Fix 3 Change your DNS settings
@@ -81,9 +97,11 @@ To fix this, you can try using Google Public DNS. Here’s how:
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
@@ -92,14 +110,6 @@ To fix this, you can try using Google Public DNS. Here’s how:
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fix 4 Clear cache and cookies
 
  Web browsers store cache and cookies to help sites load faster, but sometimes this data gets corrupted or outdated. Clearing the cache and cookies gives your browser a fresh start, deleting any problematic cached/cookie data that may be preventing a page from loading properly.
@@ -108,14 +118,8 @@ Clear cache and cookies in Google Chrome:
 
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Clear browsing data…**  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![clear browsing data](https://images.drivereasy.com/wp-content/uploads/2017/10/clear-browsing-data.png)
 3. Click **Clear data** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
@@ -126,11 +130,13 @@ Clear cache and cookies in Google Chrome:
 
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
 ## Fix 6 Use VPN to change your IP address
@@ -143,33 +149,24 @@ Here’s how to use it:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install**NordVPN** .
 2. Run NordVPN, then choose a location you want to connect to.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you can fix Twitch streams not loading with the methods above. If you have any questions, ideas or suggestions, feel free to leave your comments below.
 
@@ -179,8 +176,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +183,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-youtube-presence-with-strategic-post-publish-video-updates-for-2024/"><u>[New] Elevating Your YouTube Presence with Strategic Post-Publish Video Updates for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-tech-for-live-video-recording-webcam-with-vlc/"><u>[Updated] In 2024, Innovative Tech for Live Video Recording – Webcam with VLC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>[Updated] In 2024, Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-clarity-strip-away-background-noise/"><u>2024 Approved Capture Clarity Strip Away Background Noise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crashes-tips-for-running-modern-warfare-seamlessly-on-windows-machines/"><u>Banish Lag & Crashes - Tips for Running 'Modern Warfare' Seamlessly on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-war-thunder-game-top-strategies-for-resolving-low-fps-issues/"><u>Boost Your War Thunder Game: Top Strategies for Resolving Low FPS Issues</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/goods-under-article-2-are-defined-as-tangible-personal-property-that-can-be-moved-from-one-place-to-another/"><u>Goods Under Article 2 Are Defined as Tangible Personal Property that Can Be Moved From One Place to Another.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stabilize-dota-a-users-manual-to-address-game-malfunctions/"><u>How to Stabilize Dota 지금: A User's Manual to Address Game Malfunctions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-xs-max-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone XS Max Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-free-download-of-intel-iris-xe-graphic-controls-software-compatible-with-windows-11/"><u>Latest [Free Download] of Intel Iris Xe Graphic Controls Software - Compatible with Windows 11.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-prevent-and-repair-your-ring-of-elysium-crashes/"><u>Mastering Stability: How to Prevent and Repair Your Ring of Elysium Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-common-palworld-eos-authentication-problem-a-guide-to-6-fixes/"><u>Overcome the Common Palworld EOS Authentication Problem – A Guide to 6 Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-steams-error-code-130-with-these-proven-solutions/"><u>Resolve Steam's Error Code 130 with These Proven Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-ultimate-guide-to-fixing-modern-warfare-amoorance-pc-game-crashes/"><u>Seamless Gaming: Ultimate Guide to Fixing 'Modern Warfare Amoorance' PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998586166-solving-rainbow-six-siege-error-code-3-0x0001000b-a-step-by-step-guide/"><u>Solving Rainbow Six Siege Error Code 3-0X0001000B: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-problems-with-epic-games-launcher-that-wont-start/"><u>Troubleshooting & Resolving Problems with Epic Games Launcher That Won't Start</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-vocaltune-hub-deciphering-the-technology-praise-from-users-and-what-else-you-should-explore-for-2024/"><u>Updated VocalTune Hub Deciphering the Technology, Praise From Users, and What Else You Should Explore for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Game Freezes on Starting Football Manager 2021 – Troubleshooting Tips
-date: 2024-08-18T14:07:27.524Z
-updated: 2024-08-19T14:07:27.524Z
+date: 2025-01-28T07:15:40.712Z
+updated: 2025-01-30T01:05:35.691Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -32,9 +33,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -48,10 +46,11 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -64,9 +63,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
 
 1. Launch Steam and navigate to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
@@ -74,6 +70,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -96,45 +96,36 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
 
 1. Open Steam and go to the**Library** tab.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -154,8 +145,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +152,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-high-definition-webcams-top-5-combined-visual-and-audio/"><u>[New] High-Definition Webcams Top 5 - Combined Visual & Audio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-practical-handbook-for-recording-virtual-play-battles/"><u>[Updated] A Practical Handbook for Recording Virtual Play Battles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-undercover-approach-to-instagram-stories-on-modern-tech/"><u>[Updated] In 2024, Undercover Approach to Instagram Stories on Modern Tech</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-12-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-your-photos-effective-use-of-luts-in-photoshop-cs6/"><u>Enhancing Your Photos Effective Use of LUTs in Photoshop CS6</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-pc-glitches-solve-modern-warfare-game-crashes-easily/"><u>Fixing PC Glitches: Solve 'Modern Warfare' Game Crashes Easily</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-does-my-game-warframe-keep-lagging/"><u>Fixing the Issue: Why Does My Game Warframe Keep Lagging?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flawless-flow-essential-macos-big-sur-video-editing-tools/"><u>Flawless Flow Essential MacOS Big Sur Video Editing Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-13-pro-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass iPhone 13 Pro Face ID?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008197434-how-to-get-origin-running-again-on-your-windows-nk-problem-solved/"><u>How to Get Origin Running Again on Your Windows Nk: Problem Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-overcoming-frequent-crashes-in-tales-of-arise/"><u>Mastering Stability: Overcoming Frequent Crashes in Tales of Arise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revamping-game-graphics-update-your-driver-to-boost-play-experience-in-forza-horizon-e/"><u>Revamping Game Graphics: Update Your Driver to Boost Play Experience in Forza Horizon E</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/score-amazing-deals-premium-roku-devices-at-unmatched-prices-on-prime-day/"><u>Score Amazing Deals: Premium Roku Devices at Unmatched Prices on Prime Day</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-black-ops-cold-war-ui-glitch-code-27711-fixed/"><u>Solving Black Ops: Cold War UI Glitch Code 27711 - Fixed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-your-euro-truck-simulator-2-crashes-optimized-tweaks-for-a-smooth-experience/"><u>Solving Your Euro Truck Simulator 2 Crashes: Optimized Tweaks for a Smooth Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-contemporary-compact-living-spaces-featuring-stylish-micro-dwellings/"><u>Top 5 Contemporary Compact Living Spaces Featuring Stylish Micro Dwellings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-performance-problems-overcoming-latency-and-jitter-in-dragons-dogma-2/"><u>Troubleshooting Performance Problems: Overcoming Latency & Jitter in Dragon's Dogma 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/water-management-efficient-water-management-techniques-such-as-rainwater-harvesting-drip-irrigation-and-contour-farming-are-integral-to-agroecology-aiming-t381/"><u>Water Management: Efficient Water Management Techniques Such as Rainwater Harvesting, Drip Irrigation, and Contour Farming Are Integral to Agroecology, Aiming to Optimize Water Usage and Reduce Erosion and Nutrient Runoff.</u></a></li>
+</ul></div>
 

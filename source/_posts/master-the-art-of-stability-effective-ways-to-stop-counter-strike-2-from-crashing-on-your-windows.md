@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Stability: Effective Ways to Stop Counter-Strike 2 From Crashing on Your Windows"
-date: 2024-08-18T14:06:32.973Z
-updated: 2024-08-19T14:06:32.973Z
+date: 2025-01-26T17:20:23.732Z
+updated: 2025-01-30T06:56:32.290Z
 tags:
   - win11
   - win10
@@ -30,16 +30,14 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 5. **[Reinstall Minecraft and Lunar Client](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Reinstall Java Runtime Environment
 
  On common cause of Lunar Client crashing issue is the corrupted Java Runtime Environment. You can try reinstall the latest Java Runtime Environment and see if this does the trick. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the**Run** dialog. Copy-paste**appwiz.cpl** and press**Enter** to open the Programs and Features window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Locate programs related to Java, then right-click on it and select**Uninstall** . Restart your computer after you uninstalled Java.  
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
@@ -59,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -71,9 +65,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Change launch directory
 
  Some gamers have fixed this issue by changing launch directory. If you didn’t try this fix, you can give it a shot.
@@ -86,20 +77,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Perform a clean boot
 
  You may run into Lunar Client crashing issue if it conflict with another program on your computer. To find the exact program that conflicts with Lunar Client, you need to perform a clean boot.
@@ -113,24 +109,29 @@ To perform a clean boot, just follow the steps below:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
@@ -138,9 +139,6 @@ To perform a clean boot, just follow the steps below:
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
  If none of the fixes above works, you may want to reinstall Minecraft and Lunar Client.
@@ -160,8 +158,6 @@ To perform a clean boot, just follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +165,21 @@ To perform a clean boot, just follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-3-copywriting-structure-for-facebook-ads/"><u>[New] 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s-for-2024/"><u>[New] Step-by-Step How to Convert and Download Vids From Social Media to MP3s for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-agricultural-adventures-with-allies-top-10-farmers-titles/"><u>[Updated] Agricultural Adventures with Allies Top 10 Farmer's Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ending-grey-shades-in-live-stream-translations/"><u>2024 Approved Ending Grey Shades in Live Stream Translations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010474695-accelerate-your-gameplay-instant-shader-hacks-for-star-wars-battlefront-ii-success/"><u>Accelerate Your Gameplay: Instant Shader Hacks for Star Wars Battlefront II Success!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-strategies-to-correct-acrocefexe-application-malfunctions/"><u>Comprehensive Strategies to Correct acrocef.exe Application Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-2s-valve-anti-cheat-troubles-a-step-by-step-fix-for-vac-issues/"><u>DOTA 2'S Valve Anti-Cheat Troubles: A Step by Step Fix for VAC Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007566074-fix-your-genshin-game-launch-in-no-time-top-5-tips/"><u>Fix Your Genshin Game Launch in No Time - Top 5 Tips!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-in-depth-analysis-simplified-dynamic-range-photography/"><u>In 2024, In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-metadata-title-and-description-for-youtube-traction-for-2024/"><u>Mastering Metadata Title and Description for YouTube Traction for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-troubleshooting-overcome-error-72e66ac-with-easy-steps/"><u>NBA 2K24 Troubleshooting: Overcome Error 72E66ac with Easy Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-problems-stabilizing-the-world-of-midgards-tribes/"><u>Resolving Problems: Stabilizing the World of Midgard's Tribes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seamless-live-broadcasting-on-facebook-a-simple-guide-for-2024/"><u>Seamless Live Broadcasting on Facebook A Simple Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-premier-rv-models-of-2022-exploring-the-markets-finest-motor-homes-and-campers-insights-from-zdnet/"><u>Top 5 Premier RV Models of 2022: Exploring the Market's Finest Motor Homes & Campers - Insights From ZDNet</u></a></li>
+</ul></div>
 
