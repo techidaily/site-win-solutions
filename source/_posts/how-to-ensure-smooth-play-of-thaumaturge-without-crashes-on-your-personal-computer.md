@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Smooth Play of Thaumaturge Without Crashes on Your Personal Computer
-date: 2024-08-18T14:09:43.015Z
-updated: 2024-08-19T14:09:43.015Z
+date: 2025-02-05T23:28:36.173Z
+updated: 2025-02-10T20:45:51.553Z
 tags:
   - win11
   - win10
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 ## How to Troubleshoot the Persistent Dark Display on MTG Arena - Solutions Revealed
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-29-57-1200x673.jpg)
 
  Keep getting the black screen when playing_Magic: The Gathering Arena_ _(MTGA)_ ? You’re not alone! Many players are reporting this issue.
 
  But the good news is that there are quite a few known fixes available. Read on to find out what they are…
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix MTGA Black Screen Issues?
 
 * [Fix 1: Restart Your Device](https://tools.techidaily.com/drivereasy/download/)
@@ -40,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Restart Your Device
 
  Whether you’re running into the MTG Arena black screen issue on your computer or your mobile phone, before we dive into anything advanced, make sure you’ve restarted your device. – A simple restart will reset your system environment and can often fix software glitches like this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Make Sure Your Device Meets MTGA Minimum Specs
 
@@ -64,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
  If all the servers are showing up, then the problem is maybe on your end. You can restart your network by turning off your modem and router for at least 20 seconds then turning them back on. And if you’re using a Wi-Fi connection, try using an ethernet cable as it provides a more stable internet connection.
 
  If your network works fine and the issue persists, then move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Close Background Apps
 
@@ -91,14 +90,19 @@ If this does fix your issue, try the next solution.
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you want, but it’s partly manual.
 
@@ -109,9 +113,6 @@ If this does fix your issue, try the next solution.
 
 If you still have the problem, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Fix 7: Reinstall the Game
 
  If you still can’t get MTGA to work correctly, it could be an issue with game installation files. In this case, uninstalling the game then reinstalling it might help.
@@ -122,15 +123,16 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**MTG Arena** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-19-29.jpg)
 
  4) [**Download**](https://magic.wizards.com/) and reinstall the game.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus Tip: Use a VPN
 
  Gaming can take up a lot of bandwidth. To prevent network congestion, your internet service provider (ISP) may limit your connection speed to balance all connections – which can cause issues for you.
@@ -145,9 +147,6 @@ If you still have the problem, then try the next fix below.
 
  3) Connect to a US-based VPN server.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 
 4) Run your game and enjoy a better gaming experience!
@@ -162,8 +161,6 @@ If you still have the problem, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +168,24 @@ If you still have the problem, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android-for-2024/"><u>[Updated] Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-low-light-iphone-luminary-techniques/"><u>[Updated] Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-balancing-core-and-supporting-visual-elements/"><u>2024 Approved Balancing Core & Supporting Visual Elements</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP by Name | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aprenda-como-compartilhar-sua-tela-tanto-no-computador-quanto-no-celular-usando-o-discord-guia-abrangente-passo-a-passo/"><u>Aprenda Como Compartilhar Sua Tela Tanto No Computador Quanto No Celular Usando O Discord – Guia Abrangente Passo-a-Passo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertissez-vos-fichiers-mmf-gratuitement-en-mp3-sur-la-plateforme-web-de-movavi-aucun-abonnement-requis/"><u>Convertissez Vos Fichiers MMF Gratuitement en MP3 Sur La Plateforme Web De Movavi - Aucun Abonnement Requis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-visuals-shift-to-advanced-wmdesk/"><u>Enhanced Visuals: Shift to Advanced WMDesk</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-conversion-transforming-your-tiff-images-into-jpg-format-with-ease-using-movavi/"><u>Free Online Conversion: Transforming Your TIFF Images Into JPG Format with Ease - Using Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ganhe-mais-visualizacoes-com-os-microfones-perfeitos-top-8-do-youtube-revelados/"><u>Ganhe Mais Visualizações Com Os Microfones Perfeitos – Top 8 Do YouTube Revelados!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitamente-converti-i-file-ape-in-formato-aiff-con-movavi-guida-rapida-e-completa/"><u>Gratuitamente Converti I File .ape in Formato Aiff Con Movavi: Guida Rapida E Completa</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-rules-not-working-on-windows/"><u>How to Fix Outlook Rules Not Working on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-transformative-beauty-practices/"><u>In 2024, Transformative Beauty Practices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-document-conversion-errors-print-to-pdf-on-windows-10-and-11/"><u>Solving Document Conversion Errors: Print to PDF on Windows 10 & 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-12-premium-software-solutions-for-boosting-your-videos-visual-clarity/"><u>Top 12 Premium Software Solutions for Boosting Your Video's Visual Clarity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-un-fichier-f4v-en-swf-pour-flash-avec-loutil-gratuit-de-conversion-en-ligne-de-movavi/"><u>Transformer Facilement Un Fichier F4V en SWF Pour Flash Avec L'outil Gratuit De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-immagini-tga-in-formato-png-gratuitamente-conversione-on-line-con-movavi/"><u>Trasforma Immagini TGA in Formato PNG Gratuitamente - Conversione On-Line Con Movavi</u></a></li>
+</ul></div>
 

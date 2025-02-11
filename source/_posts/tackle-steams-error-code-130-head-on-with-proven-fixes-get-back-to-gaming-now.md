@@ -1,7 +1,7 @@
 ---
 title: Tackle Steam's Error Code 130 Head-On with Proven Fixes - Get Back to Gaming Now!
-date: 2024-08-18T14:12:13.149Z
-updated: 2024-08-19T14:12:13.149Z
+date: 2025-02-08T02:14:49.551Z
+updated: 2025-02-11T00:21:20.013Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 ## Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image.png)
 
  It’s quite a nuisance that you found your Firefox browser not responding to any orders you’ve given; perhaps it was just stuck on certain pages, got freezing from time to time, or presented you with some error message reading “Firefox is already running but is not responding.” Luckily, you’re not alone. Many people have reported a similar situation, and most of the time this problem can be solved easily.
@@ -50,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Firefox is already running, but is not responding_
 
  If you’re now experiencing this problem, then you’ve probably seen an error message like this:
@@ -62,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to fire up the Run dialog box. Type**taskmgr** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-14.png)
 
  2) On the**Processes** tab, scroll through the list until you’v found**Firefox** . Select to highlight it, then click**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-15.png)
 
  Exercise caution with this step in case you mistakenly close some important system processes.
@@ -86,24 +81,23 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
  2) Click**Help** \>**Troubleshooting Information** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the next page, click**Open Folder** next to the**Porfile Folder** item.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you cannot open or use Firefox, you’re still able to find your profile folders:  
  1\. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box.  
@@ -112,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
  4) Click the**up arrow button** to reach the current directory, namely**li2s42lu.default** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-19.png)
 
  Right-click**li2s42lu.default** and select**Properties** .
@@ -129,9 +120,6 @@ Now go on to check if the problem remains with your Firefox browser.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### _Firefox is not responding_
 
  If you saw few specific details other than “Firefox is not responding” on the error message you received, and the browser didn’t respond to any of your clicks or keystrokes, then here’re some of the most useful methods you should try.
@@ -146,11 +134,11 @@ Now go on to check if the problem remains with your Firefox browser.
 
  3) Right-click**places.sqlite** and select**Rename** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Rename it as**places.sqlite.old** . (Since its original name is place.sqlite, you just need to add**.old** to the end and then hit**Enter** on your keyboard.)
 
@@ -194,6 +182,10 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Options** .
 
 ![This image has an empty alt attribute; its file name is image-29.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
@@ -220,9 +212,17 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Help** \>**Troubleshooting Information** .
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under**Try Safe Mode** , click**Restart with Add-ons Disabled…** .
 
@@ -240,16 +240,14 @@ If this fix didn’t help, please proceed to the next one.
 
  6)**Revert your theme to the default** . To do this, click the**menu** button at the top right and then select**Add-ons** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-59.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-59.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the**Themes** tab, click on the three-dot button of your disabled**Default** theme and select**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-61-1024x401.png)
 
  Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and wait to see if the problem disappears. If it does, then reverting your Firefox theme to the default should have well resolved the issue; if it doesn’t, keep trying the next step.
@@ -258,18 +256,12 @@ If this fix didn’t help, please proceed to the next one.
 
  On the**Extensions** tab, click on the**three-dot** button of a certain extension and select**Enable** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works in a proper manner. If it doesn’t, then the extension you’ve enabled just now should be the culprit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-60-1024x389.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-60-1024x389.png)
 
  Now, apply the above step to all your extensions one by one until you find out whether any of them was actually causing the problem.
 
  8) Suppose you find out which extension has caused you trouble, you can try updating it first. To do this, also go to the**Extensions** tab as illustrated in Step 7\. Click the**gear icon** to the right of**Manage Your Extensions** , and select**Check for Updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-62.png)
 
  If there’re any updates detected, click**Install Updates** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works properly. In case updating extensions didn’t help, you can also check the extension settings, as shown below.
@@ -290,20 +282,18 @@ Restart Firefox and see if the not-responding problem goes away.
 
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
  2) Click**Help** \>**About Firefox** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-36.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then Firefox will check automatically whether your version is up-to-date and update it if it isn’t.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-37.png)
 
  In this screenshot, Firefox has been updated to the latest version.
@@ -318,14 +308,15 @@ Restart Firefox and see if the not-responding problem goes away.
 
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
  2) Click**Help > Troubleshooting Information** .
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the upper right corner, under**Give Firefox a tune up** , click**Refresh Firefox…** .
 
@@ -347,8 +338,6 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -356,4 +345,23 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-can-photoshops-image-smoothing-revolutionize-editing-for-2024/"><u>[New] Can Photoshop’s Image Smoothing Revolutionize Editing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-win11-optimal-predefined-window-sizes/"><u>Customize Win11: Optimal Predefined Window Sizes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dragon-quest-xi-stability-hacked-resolving-game-crashes-effectively/"><u>Dragon Quest XI Stability Hacked - Resolving Game Crashes Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-stabilizing-your-star-wars-jedi-fallen-order-experience-on-windows-1011/"><u>Expert Tips & Tricks: Stabilizing Your Star Wars Jedi: Fallen Order Experience on Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-complete-drivers-and-software-for-logitech-k400-plus-keyboard/"><u>Free Download: Complete Drivers & Software for Logitech K400 Plus Keyboard</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-game-on-expert-tips-to-resolve-persistent-warframe-launch-problems/"><u>Get Your Game On! Expert Tips to Resolve Persistent Warframe Launch Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-crashing-problems-in-century-age-of-ashes-for-windows/"><u>How to Resolve Crashing Problems in Century: Age of Ashes for Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pro-hdr-image-processing-a-lightroom-approach/"><u>In 2024, Pro HDR Image Processing A Lightroom Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lifting-legends-top-10-super-strong-drones/"><u>Lifting Legends Top 10 Super-Strong Drones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-no-update-understanding-the-pause/"><u>Rainbow Six Siege: No Update - Understanding the Pause</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egies-to-avoid-copyright-strikes-on-youtube-videos-for-2024/"><u>Strategies to Avoid Copyright Strikes on YouTube Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/superiore-conversione-h265-e-codifica-hd-video-su-windows-11-and-mac/"><u>Superiore Conversione H.265 E Codifica HD Video Su Windows 11 & Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-rainbow-six-siege-delays-and-freezes/"><u>Troubleshooting and Resolving Rainbow Six Siege Delays & Freezes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-resolving-bungies-destiny-2-connection-errors/"><u>Troubleshooting Tips for Resolving Bungie's Destiny ^2 Connection Errors</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-edge-40-neo-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola Edge 40 Neo.</u></a></li>
+</ul></div>
 
