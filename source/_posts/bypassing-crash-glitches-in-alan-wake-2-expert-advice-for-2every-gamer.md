@@ -1,7 +1,7 @@
 ---
 title: Bypassing Crash Glitches in Alan Wake 2 - Expert Advice for 2eveRy Gamer
-date: 2024-08-18T14:19:50.250Z
-updated: 2024-08-19T14:19:50.250Z
+date: 2025-02-25T18:34:23.456Z
+updated: 2025-03-02T04:36:05.902Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -85,25 +82,16 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  3) Under the**General** tab, uncheck**Enable in-game overlay for supported games** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
 
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
 
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
@@ -116,9 +104,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -128,9 +113,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -146,9 +128,6 @@ Here’s how to update drivers with Driver Easy:
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -157,9 +136,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Set the game’s priority to high
 
  By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
@@ -170,9 +146,6 @@ To set your game’s priority to high, you can take these steps:
 
  2) Type**taskmgr** and press Enter.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
@@ -187,9 +160,6 @@ To set your game’s priority to high, you can take these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 6\. Optimize in-game settings
 
  If the methods listed above didn’t help you get higher fps or fix the stuttering issues, we suggest you tweak the in-game settings:
@@ -203,9 +173,6 @@ To set your game’s priority to high, you can take these steps:
 **Shadow Quality: Low**
 **Spot Shadows: Low**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
 
  After applying the changes, play The Division 2 and you should be able to notice the difference.
@@ -220,8 +187,6 @@ To set your game’s priority to high, you can take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +194,24 @@ To set your game’s priority to high, you can take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-timing-your-insta-shots-for-maximum-impact/"><u>[New] 2024 Approved Timing Your Insta Shots for Maximum Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-avoiding-objections-to-autoplay-videos-on-fb/"><u>2024 Approved Avoiding Objections to Autoplay Videos on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images/"><u>2024 Approved Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-short-track-speed-skating-olympics-2022-highlights/"><u>2024 Approved Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unending-chats-strategies-for-continuous-snapstreaks/"><u>2024 Approved Unending Chats - Strategies for Continuous Snapstreaks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-gionee-f3-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Gionee F3 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004637708-bypassing-technical-hurdles-in-apex-legends-engine-issues-solved/"><u>Bypassing Technical Hurdles in Apex Legends - Engine Issues Solved!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-cannot-open-issue-with-files-in-office-365-mail/"><u>Fixing 'Cannot Open' Issue with Files in Office 365 Mail</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-the-stutter-and-lag-in-thaumaturge-on-windowsmacos/"><u>Guide: Resolving the Stutter and Lag in Thaumaturge on Windows/MacOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/performance-issues-fixed-clearing-gameplay-interruptions-smooth-rendering-and-improved-response-times/"><u>Performance Issues Fixed: Clearing Gameplay Interruptions, Smooth Rendering & Improved Response Times</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-a-guide-to-preventing-house-flipper-2-crashes-on-your-computer/"><u>Resolving Stability Issues: A Guide to Preventing House Flipper 2 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-repairing-pacific-drive-malfunctions-on-personal-computers/"><u>Solving the Mystery: Repairing Pacific Drive Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-madden-21-from-freezing-on-your-computer-with-these-tips/"><u>Stop Madden 21 From Freezing on Your Computer with These Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-winxdvd-programming-manual-step-by-step-installation-and-usage-tips/"><u>Ultimate WinXDVD Programming Manual: Step-by-Step Installation and Usage Tips</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-the-mechanics-of-crypto-transactions-insights-from-yl-computings-expertise/"><u>Understanding the Mechanics of Crypto Transactions: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013897682-warframe-freezing-issues-heres-what-you-need-to-know/"><u>Warframe Freezing Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-eliminates-screen-trembling-problems-a-comprehensive-guide/"><u>Warzone Eliminates Screen Trembling Problems: A Comprehensive Guide</u></a></li>
+</ul></div>
 

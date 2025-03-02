@@ -1,7 +1,7 @@
 ---
 title: Fix Your Back 4 Blood Installation Issues on PCs (Windows 11, 10, and 7)
-date: 2024-08-18T14:18:01.039Z
-updated: 2024-08-19T14:18:01.039Z
+date: 2025-02-25T00:44:34.229Z
+updated: 2025-03-02T03:49:30.301Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 
  After confirming your computer meets the minimum specs, you can move on towards the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  There are various causes for Hearthstone crashing, such as corrupt game files, outdated drivers, or conflicting third-party programs. We cover a set of easy and quick solutions that help other players solve the issue.
@@ -47,9 +44,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Run Hearthstone as administrator
 
  Windows runs Hearthstone in user mode by default, but that might keep it from accessing certain files and cause the crashes. To see if that’s the case, you could run Hearthstone as administrator and relaunch the game.
@@ -97,9 +91,6 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Scan and repair game files
 
  Corrupted or damaged game files can also be the culprits of gaming problems and errors. Fortunately, Blizzard offers a built-in tool to repair them easily.
@@ -108,25 +99,16 @@ There are two ways you can update the graphics driver:
 
 **2)** Click**Options** and click**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-1-3.jpg)
 
 **3)** Click**Begin Scan** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-3.jpg)
 
  Wait for the scan and repair to finish, then relaunch your game to see if the crashing issue is settled. If not, try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Temporarily disable the anti-virus programs
 
  Sometimes the third-party anti-virus programs will interfere with Hearthstone and prevent it from launching or running. Temporarily**disable any anti-virus programs** you’re using to determine if it’s the cause.
@@ -139,9 +121,6 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Delete the Hearthstone folder
 
  Many users managed to start Hearthstone normally by deleting the Hearthstone folder. Here’s how:
@@ -152,9 +131,6 @@ There are two ways you can update the graphics driver:
 
 **2)** Right click the Hearthstone folder and click**Delete** , or just move it to another location.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-2.jpg)
 
  Relaunch Hearthstone to see if you get rid of the crashing issue. If not, keep reading the next fix.
@@ -167,16 +143,10 @@ There are two ways you can update the graphics driver:
 
 **1)** Type**system configuration** in the search bar, and click**System Configuration** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 
 **2)** Select the**Services** tab. Then, check**Hide all Microsoft services** , and click**Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 
 **3)** Select the**Startup** tab, and click**Open Task Manager** .
@@ -191,21 +161,10 @@ There are two ways you can update the graphics driver:
 
 **5)** Go back to the System Configuration window, and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 
 **6)** Click**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
  After your computer restarts, launch Hearthstone to test if the issue has been solved.
@@ -230,9 +189,6 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Reinstall Hearthstone
 
  If all the solutions above can’t get your Hearthstone right, you should consider reinstalling the game.
@@ -261,8 +217,6 @@ There are two ways you can update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +224,20 @@ There are two ways you can update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/he-art-of-matchmaking-in-the-youtube-collaboration-arena/"><u>[New] The Art of Matchmaking in the YouTube Collaboration Arena</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tiktoks-voyage-to-twitter-success-stories/"><u>[Updated] 2024 Approved TikTok's Voyage to Twitter Success Stories</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-guide-to-selecting-best-vhs-edits-via-computer/"><u>[Updated] Guide to Selecting Best VHS Edits via Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-offer-top-business-cloud-solutions/"><u>[Updated] In 2024, Best Offer Top Business Cloud Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-youtube-hashtag-strategies-for-boosting-your-contents-visibility/"><u>2024 Approved Top Youtube Hashtag Strategies for Boosting Your Content's Visibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-a-narrative-structure-for-2024/"><u>Creating a Narrative Structure for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/definitive-solution-for-pc-gaming-stability-issues-stop-your-games-from-crashing-now/"><u>Definitive Solution for PC Gaming Stability Issues - Stop Your Games From Crashing Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-resolve-rogue-companys-continuous-crashes-on-pc/"><u>Fixing the Issue: How to Resolve Rogue Company's Continuous Crashes on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002309141-hp-visual-output-issues-heres-how-you-can-resolve-them/"><u>HP Visual Output Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-music-recovery-recover-deleted-music-from-infinix-gt-10-pro-by-fonelab-android-recover-music/"><u>Infinix GT 10 Pro Music Recovery - Recover Deleted Music from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-tips-to-eliminate-directx-problems-in-your-fifa-19-gameplay/"><u>Quick Fix Tips to Eliminate DirectX Problems in Your FIFA 19 Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-a-frozen-chrome-browser-on-windows-10/"><u>Quick Fixes for a Frozen Chrome Browser on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-fifa-20-stability-problems-comprehensive-troubleshooting-tips-for-pc-gamers/"><u>Solving FIFA 20 Stability Problems: Comprehensive Troubleshooting Tips for PC Gamers</u></a></li>
+</ul></div>
 

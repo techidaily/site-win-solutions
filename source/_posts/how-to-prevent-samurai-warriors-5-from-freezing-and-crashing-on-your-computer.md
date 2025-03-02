@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Samurai Warriors 5 From Freezing and Crashing on Your Computer
-date: 2024-08-18T14:18:36.933Z
-updated: 2024-08-19T14:18:36.933Z
+date: 2025-02-24T21:49:00.770Z
+updated: 2025-03-02T03:26:46.925Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  If “**Yes my gear is up for running Star Wars: Battlefront 2** “, here are 8 crashing fixes for you to try. You might not need to try them all; just work down the list until you find the one that does the trick.
@@ -65,9 +62,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  3) Select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
 4) Wait for the process to complete.
@@ -84,9 +78,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
 
 4) Wait for the process to complete.
@@ -109,16 +100,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any outdated or problem drivers. You’ll be amazed at how many updates you’ve missed out.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 **OR**
@@ -142,9 +127,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Revert back to DX11
 
  Many Battlefront 2 players find reverting to DX11 helps reduce random crashes. Here’s how to do it:
@@ -167,9 +149,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  2) Go to the**Compatibility** tab and select**Run this program as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
  3) Click**Apply** \>**OK** .
@@ -178,9 +157,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software temporarily
 
  Since Battlefront 2 consumes a lot of memory and CPU usage when it’s running, many third-party antivirus applications may regard it as a potential threat and cause Battlefront 2 crashing issues.
@@ -216,9 +192,6 @@ If the game keeps crashing, you can try the next fix.
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
@@ -236,9 +209,6 @@ If the game keeps crashing, you can try the next fix.
 1. Open the**System Configuration** .
 2. Enable the service **one by one** (restart your PC and test the issue after enabling each service or start-up) until you find the problematic one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Disable Discord In-Game Overlay
 
  If you’re using any programs with overlay features such as Discord, disabling In-Game Overlay may help you reduce your random game crashes on your PC.
@@ -281,8 +251,6 @@ If the game keeps crashing, you can try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +258,24 @@ If the game keeps crashing, you can try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>[New] 2024 Approved The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-augmented-realms-cinemas-evolution-for-2024/"><u>[New] Augmented Realms Cinema's Evolution for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[New] Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-cultivate-creativity-youtubes-top-inspirational-videos-for-2024/"><u>[Updated] Cultivate Creativity YouTube's Top Inspirational Videos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mirthful-modifications-ranked-smartphone-and-pc-photo-apps/"><u>[Updated] In 2024, Mirthful Modifications Ranked Smartphone & PC Photo Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010659568-assassins-creed-valhalla-top-tricks-for-immediate-performance-boost/"><u>Assassin's Creed: Valhalla - Top Tricks for Immediate Performance Boost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-gratis-videoschnitt-verminderung-programme-fur-mac-2023/"><u>Best Gratis Videoschnitt-Verminderung Programme Für Mac - 2023</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-free-adventure-awaits-correcting-dark-souls-3s-troublesome-freeze-errors/"><u>Bug-Free Adventure Awaits: Correcting Dark Souls 3'S Troublesome Freeze Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-ubisoft-connect-problems-expert-advice-for-players/"><u>Bypassing Ubisoft Connect Problems: Expert Advice for Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-prompt-injection-attacks-compromise-ai-systems/"><u>How Do Prompt Injection Attacks Compromise AI Systems?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-improve-gameplay-performance-for-dying-light-by-fixing-fps-issues/"><u>How to Improve Gameplay Performance for Dying Light by Fixing FPS Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-leaf-error-code-in-your-apex-legends-game-fix-guide/"><u>How to Overcome 'Leaf' Error Code in Your Apex Legends Game (Fix Guide)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cast-it-how-to-stream-local-videos-from-your-device-to-chromecast-2023-update/"><u>In 2024, Cast It! How to Stream Local Videos From Your Device to Chromecast (2023 Update)</u></a></li>
+<li><a href="https://games-able.techidaily.com/1723008690530-red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformed-terrain-continues-its-chill-version-update-now-resolved/"><u>Transformed Terrain Continues Its Chill: Version Update Now Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-free-tips-addressing-and-repairing-winwordexe-malfunctions-quickly/"><u>Trouble-Free Tips: Addressing and Repairing WINWORD.EXE Malfunctions Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-cancellation-of-mafia-definitive-edition-release-answers-found/"><u>Understanding the Cancellation of Mafia: Definitive Edition Release – Answers Found</u></a></li>
+</ul></div>
 

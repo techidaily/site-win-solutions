@@ -1,7 +1,7 @@
 ---
 title: "End of the Road for Edge's Glitches: Windows 11 Update Fixes Previous Issues"
-date: 2024-08-18T14:18:13.503Z
-updated: 2024-08-19T14:18:13.503Z
+date: 2025-02-23T12:04:32.808Z
+updated: 2025-03-02T05:10:55.024Z
 tags:
   - win11
   - win10
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
 ## F1 2021 for Windows Users - No More Crashes with These Easy Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![F1-2021-keeps-crashing](https://images.drivereasy.com/wp-content/uploads/2021/07/F1-2021-keeps-crashing.jpg)
 
  In F1 2021, you’ll enjoy the thrilling story experience ‘Braking Point’, two-player Career, and get even closer to the grid with ‘Real-Season Start’.
 
 **F1 2021 keeps crashing on your PC** ? You’re not alone. Recently, we’ve seen many PC players reporting that F1 2021 keeps crashing on their PC, which makes the game unplayable. But don’t worry. You should be able to fix this issue on your own after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The system requirements of F1 2021
 
  Before trying anything more complicated, you should ensure that your PC meets the system requirements of F1 2021\. Take a quick glance at the system requirements of F1 2021 if you don’t know the system requirements:
@@ -62,27 +56,12 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 2. **Right-click** on **F1 2021** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch F1 2021 and check if this fix works. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If F1 2021 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -95,14 +74,8 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -117,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
  Launch F1 2021 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update DirectX and Visual C++ Redistributables
 
  To ensure compatibility, you will need to update your Microsoft C++ redistributables. If your PC is running on Windows 10, you just need to perform a Windows Update.
@@ -147,9 +117,6 @@ Here’s how to do it:
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Perform a clean boot
 
  If there is a certain application conflicting with F1 2021, the game would also crash. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -157,9 +124,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -168,9 +132,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch F1 2021 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -198,8 +159,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +166,22 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>[New] In 2024, Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-reno-10-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Reno 10 Pro+ 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-strategies-to-correct-acrocefexe-application-malfunctions/"><u>Comprehensive Strategies to Correct acrocef.exe Application Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-black-screen-woes-here-are-quick-troubleshooting-steps/"><u>Fallout #4 Black Screen Woes? Here Are Quick Troubleshooting Steps!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007566074-fix-your-genshin-game-launch-in-no-time-top-5-tips/"><u>Fix Your Genshin Game Launch in No Time - Top 5 Tips!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-final-fantasy-xiv-pc-game-crashes-issue/"><u>How to Fix the 'Final Fantasy XIV PC Game Crashes' Issue</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-pova-5-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Pova 5 Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-6-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 6 Lite to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iwatch-series-9-and-ultra-2-discontinued-from-e-commerce-existing-models-service-impacted-techinsight/"><u>IWatch Series 9 & Ultra 2 Discontinued From E-Commerce; Existing Models' Service Impacted | TechInsight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k24-troubleshooting-overcome-error-72e66ac-with-easy-steps/"><u>NBA 2K24 Troubleshooting: Overcome Error 72E66ac with Easy Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-genshin-impacts-troublesome-error-4201-solutions-inside/"><u>Overcoming Genshin Impact's Troublesome Error 4201 - Solutions Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-problems-stabilizing-the-world-of-midgards-tribes/"><u>Resolving Problems: Stabilizing the World of Midgard's Tribes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solutions-simples-et-efficaces-au-cas-dune-cle-ssd-crucial-non-reconnue-par-la-bios/"><u>Solutions Simples Et Efficaces Au Cas D'Une Clé SSD Crucial Non Reconnue Par La BIOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+</ul></div>
 

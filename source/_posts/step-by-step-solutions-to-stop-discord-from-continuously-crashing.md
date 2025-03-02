@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Stop Discord From Continuously Crashing
-date: 2024-08-18T14:16:16.147Z
-updated: 2024-08-19T14:16:16.147Z
+date: 2025-02-27T18:41:20.013Z
+updated: 2025-03-01T16:25:55.515Z
 tags:
   - win11
   - win10
@@ -66,9 +66,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  2) Press the**Options button** on your PS4 controller, then select**Check for Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570e7b9b403.jpg)
 
  3) Follow the**wizard** to**download** and**install** any available updates.
@@ -81,17 +78,10 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  1) Go to your PS4**Settings** \>**System Storage Management** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b2f68f21e.jpg)
 
  2) You’ll see the data stored in your system, you can select the type of data you want to delete.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b31cd1077.jpg)
 
  3) Press the**Options** **button** on your controller and select**Delete** .
@@ -108,9 +98,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  If that’s the case, you can try to**put your PS4 in an open space** to have more gas around it, so your PS4 is allowed to have**better air circulation** . Additionally, you may need to regularly**clean the dust** on your PS4 to have it under maintenance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Check all the cables and ports to be plugged correctly
 
  Sometimes the cables lose when connecting can also result in this problem. You can try to **check if all the cables are correctly and tightly plugged in your PS4** and other equipment.
@@ -147,11 +134,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 5) Try to use your PS4 again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## **Method 4: Check the Internet connection to fix the PS4 freezing**
 
  As we know, the slow Internet connection can largely lead to the lags in your PS4\. Whenever you play PS4 games, you may want to have a good Internet connection to ensure the best gaming experience. So you may check your Internet to see if it can be a problem.
@@ -166,9 +148,6 @@ a. Connect your PS4 with the LAN cable.
 
  b. Go to PS4 **Settings** \> **Network** \> **Set Up Internet Connection** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
   
  c. Select **Use a LAN Cable.**
@@ -181,16 +160,10 @@ a. Connect your PS4 with the LAN cable.
   
  e. Select **Do Not Use**  as for **Proxy Server.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
 
  f. Wait for it to update. When you see **Internet settings updated** , try to play the PS4 games to see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b47d9e9dd.png)
 
  4\. Try to**forward ports** to your PS4 to have a better Internet connection.
@@ -227,9 +200,6 @@ g. Try to use your PS4 to see if it works now.
 
 2) Go to PS4 **Settings** \> **System Software Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
 
  3) Select **Update** if there are available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
@@ -238,16 +208,10 @@ g. Try to use your PS4 to see if it works now.
 
  5) On your PS4 home screen, go to **Notifications** \> **Downloads** , then follow the instructions to install the update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
 6) Try to open the game and see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 6: Initialize the PS4 to fix the PS4 freezing**
 
  In addition, initializing your PS4 can also reset the system and solve the problem.
@@ -258,16 +222,10 @@ g. Try to use your PS4 to see if it works now.
 
  1) Go to PS4 **Settings** \> **Initialization** \> **Initialize** **PS4** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
  2) Select **Full** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
 
 3) Follow the instructions to complete.
@@ -276,9 +234,6 @@ g. Try to use your PS4 to see if it works now.
 
 5) Try the games to see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 7: Call the support from Sony to fix the PS4 freezing**
 
  If the problem still persists after trying all the methods above, it seems to be a hardware faulty problem with your PS4, and you may need to contact the support from Sony.
@@ -296,8 +251,6 @@ g. Try to use your PS4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +258,24 @@ g. Try to use your PS4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] 2024 Approved Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-video-upgrade-with-enhancer-22/"><u>[New] The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[Updated] Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-blackout-woes-in-fallout-4-with-this-essential-troubleshooting-guide-for-gamers/"><u>Banish Blackout Woes in Fallout 4 with This Essential Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-world-of-warcraft-crashes-no-more-gaming-interruptions/"><u>Easy Fixes for World of Warcraft Crashes - No More Gaming Interruptions!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/exploring-potential-compatibility-problems-with-scanners-tips-from-yl-software-experts/"><u>Exploring Potential Compatibility Problems with Scanners - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-internet-explorers-page-rendering-problems-solutions-unveiled/"><u>Fixing Internet Explorer's Page Rendering Problems – Solutions Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-a1-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo A1 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>In 2024, Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/play-pc-version-stability-tips/"><u>Play - PC Version Stability Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powershot-g7x-mark-ii-the-compact-leader-in-photography/"><u>PowerShot G7X Mark II – The Compact Leader in Photography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieving-lost-contacts-uncovering-deleted-numbers-in-android-devices/"><u>Retrieving Lost Contacts: Uncovering Deleted Numbers in Android Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-restoring-functionality-of-corsairs-icue-platform-on-latest-windows-operating-systems/"><u>Step-by-Step Solution for Restoring Functionality of Corsair's iCUE Platform on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/strategies-for-fixing-the-launch-problem-with-amd-radeon-system-software/"><u>Strategies for Fixing the Launch Problem with AMD Radeon System Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-hasnt-alan-wake-2-released-yet/"><u>Troubleshooting Guide: Why Hasn't Alan Wake 2 Released Yet?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro-for-2024/"><u>Updated Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wwe-2k22-stability-issues-on-desktop-resolved-a-comprehensive-guide/"><u>WWE 2K22 Stability Issues on Desktop Resolved – A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcome Crash Issues - Solutions for a Smoother 'Insurgency: Sandstorm' Experience"
-date: 2024-08-18T14:17:07.955Z
-updated: 2024-08-19T14:17:07.955Z
+date: 2025-02-27T08:50:01.316Z
+updated: 2025-03-02T01:03:48.807Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/d7c9ccbb9c64362d08280264ff7d355707ef411d6
 
 ## Psychonauts 2 Crashes? Here's Your Ultimate Solution for a Smooth PC Gaming Experience
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Psychonauts-2.jpg)
 
  With Psychonauts 2 released recently, some players have reported that the game keeps crashing on their PC while in-game or at launch. If you’re facing the same issue, don’t worry. In this post, you’ll learn how to fix Psychonauts 2 crashing issues easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’re some working fixes for your Psychonauts 2 crashing issue. You might not need to try them all, just work down the list until you find the one that works for you.
@@ -36,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d7c9ccbb9c64362d08280264ff7d355707ef411d6
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot Psychonauts 2 crashing issues, you need to make sure your PC meets the minimum system requirements to run the game properly.
@@ -73,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/d7c9ccbb9c64362d08280264ff7d355707ef411d6
 
 If the issue persists, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -91,28 +79,14 @@ Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Launch the game in DX11 mode
 
  If you receive a “LowLevelFatalError” error message when Psychonauts 2 crashes, then try launching the game in DX11 mode. This was suggested by the game developers. To do so:
 
 1. Go to the Steam**Library** .
 2. Right-click Psychonauts 2, select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
@@ -130,19 +104,10 @@ Allow Psychonauts 2 through Windows Firewall:
 2. Click**Allow an app through firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
@@ -167,8 +132,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +139,21 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[New] 2024 Approved 10 Best Screenshot Enhancers IPhone/Android Sticker Magic</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banishing-pc-bugs-solving-the-final-fantasy-xiv-online-issues/"><u>Banishing PC Bugs: Solving the Final Fantasy XIV Online Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-gopro-wisely-a-comparative-examination-for-2024/"><u>Choosing GoPro Wisely A Comparative Examination for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-enhance-your-artificial-intelligence-generated-pictures-the-simplest-approach/"><u>Effortlessly Enhance Your Artificial Intelligence-Generated Pictures - The Simplest Approach</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-fps-and-smoothness-in-battlefield-2042-troubleshooting-techniques-for-pc-gamers/"><u>Enhancing FPS and Smoothness in Battlefield 2042: Troubleshooting Techniques for PC Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-open-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Open</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723014083277-experience-the-thrill-of-days-gone-official-pc-release-announced/"><u>Experience the Thrill of 'Days Gone': Official PC Release Announced</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/farm-tastic-gaming-best-trio-of-agricultural-games/"><u>Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-error-resolution-understanding-and-fixing-code-0-issues-efficiently/"><u>Minecraft Error Resolution: Understanding and Fixing 'Code 0' Issues Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purge-the-pasts-3-methods-to-clean-windows/"><u>Purge the Pasts: 3 Methods to Clean Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/swift-strategies-to-resolve-shader-bottleblocks-in-star-wars-battlefront-ii/"><u>Swift Strategies to Resolve Shader Bottleblocks in Star Wars Battlefront II</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-pinterest-planning-programs-explore-these-5-options/"><u>The Ultimate List of Pinterest Planning Programs: Explore These 5 Options!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-creativity-with-canons-time-lapse-capabilities/"><u>Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-are-my-games-keep-on-crashing-fix-them-with-these-tips/"><u>Why Are My Games Keep on Crashing? Fix Them with These Tips</u></a></li>
+</ul></div>
 

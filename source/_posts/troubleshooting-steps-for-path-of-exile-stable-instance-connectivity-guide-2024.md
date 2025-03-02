@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Path of Exile - Stable Instance Connectivity Guide 2024
-date: 2024-08-18T14:18:14.402Z
-updated: 2024-08-19T14:18:14.402Z
+date: 2025-02-25T09:46:09.873Z
+updated: 2025-03-02T02:52:51.955Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -50,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -68,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -88,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -111,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -123,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
 
@@ -143,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +126,26 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-mac-hd-capture-and-sound-recording-tool/"><u>[New] Ultimate Mac HD Capture & Sound Recording Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>[Updated] 2024 Approved Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-aperture-authority-picking-the-top-10-camera-lenses/"><u>[Updated] Aperture Authority Picking the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010474695-accelerate-your-gameplay-instant-shader-hacks-for-star-wars-battlefront-ii-success/"><u>Accelerate Your Gameplay: Instant Shader Hacks for Star Wars Battlefront II Success!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/as-6-fontes-de-design-mais-inovadoras-para-video-editing-em-2024-top-selection/"><u>As 6 Fontes De Design Mais Inovadoras Para Video Editing Em 2024: Top Selection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-downloads-top-strategies-to-accelerate-origins-internet-speeds/"><u>Boost Your Downloads: Top Strategies to Accelerate Origin's Internet Speeds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-2s-valve-anti-cheat-troubles-a-step-by-step-fix-for-vac-issues/"><u>DOTA 2'S Valve Anti-Cheat Troubles: A Step by Step Fix for VAC Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo Find N3</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/eye-catching-snaps-made-simple-the-20-must-try-filters-and-lenses/"><u>Eye-Catching Snaps Made Simple The 20 Must-Try Filters & Lenses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-20-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark 20 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-achieve-zero-lag-in-counter-strike-2-on-your-computer/"><u>How to Achieve Zero Lag in Counter-Strike 2 on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-c67-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme C67 4G phone? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/is-your-graphics-card-malfunctioning-find-out-if-windows-10-offers-built-in-diagnostics-tools/"><u>Is Your Graphics Card Malfunctioning? Find Out If Windows 10 Offers Built-In Diagnostics Tools!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-smooth-play-cutting-edge-methods-to-fix-game-lags-on-computers/"><u>Mastering Smooth Play: Cutting-Edge Methods to Fix Game Lags on Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-broken-start-menu-in-windows-10-with-these-simple-methods/"><u>Resolve Your Broken Start Menu in Windows 10 with These Simple Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-in-depth-reviews/"><u>Tom's Tech Hub: Expert Insights & In-Depth Reviews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-dreamlight-valleys-pc-compatibility-problems/"><u>Troubleshooting Guide: Resolving Dreamlight Valley's PC Compatibility Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-successfully-launching-back-4-blood-on-win10-win7-and-win11-solved/"><u>Troubleshooting Tips: Successfully Launching Back 4 Blood on Win10, Win7 & Win11 [Solved]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-stability-issues-and-crashing-in-gta-v/"><u>Ultimate Fixes for Stability Issues and Crashing in GTA V</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Fixing Failed Screen Recordings in OBS Studio
-date: 2024-08-18T14:18:15.305Z
-updated: 2024-08-19T14:18:15.305Z
+date: 2025-02-24T03:12:53.322Z
+updated: 2025-03-01T23:53:10.702Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before trying…
 
 There’re things you can do before trying complicated fixes:
@@ -27,9 +24,6 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,20 +32,12 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
 
 1. Close the game completely.
 2. Right-click on the shortcut and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
@@ -64,10 +50,6 @@ If it’s not working, move to the next fix.
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -75,9 +57,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update graphic driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -114,8 +93,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +100,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-farm-frenzy-reimagined-top-10-social-agriculture-games/"><u>[New] Farm Frenzy Reimagined Top 10 Social Agriculture Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-sniping-software-for-mac-users/"><u>[New] In 2024, Best Sniping Software for Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beyond-bugs-addressing-persistent-shutdowns-in-your-rust-codebase/"><u>Beyond Bugs: Addressing Persistent Shutdowns in Your Rust Codebase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-lineup-of-photo-backdrop-alternatives-for-2024/"><u>Exclusive Lineup of Photo Backdrop Alternatives for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-elite-premium-protection-options-for-ipad-10gen-models/"><u>Exploring the Elite: Premium Protection Options for iPad 10Gen Models</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-resolving-persona-5-strikers-persistent-black-screen-dilemma/"><u>Fixing the Issue: Resolving 'Persona 5 Strikers' Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglestv-beginners-guide-to-making-videos/"><u>In 2024, GigglesTV Beginner's Guide to Making Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-warcraft-3-reforged-stability-issues-essential-fixes-and-advice/"><u>Overcome Warcraft 3 Reforged Stability Issues: Essential Fixes & Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-enhance-your-baldurs-gate-experience-with-these-6-fixes-for-stuttering-and-freezing/"><u>Troubleshoot and Enhance Your Baldur's Gate Experience with These 6 Fixes for Stuttering & Freezing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/war-thunder-2024-updates-how-to-prevent-frequent-game-crashes-and-enjoy-smooth-sessions/"><u>War Thunder 2024 Updates: How to Prevent Frequent Game Crashes and Enjoy Smooth Sessions</u></a></li>
+</ul></div>
 

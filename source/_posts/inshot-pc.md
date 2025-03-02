@@ -1,7 +1,7 @@
 ---
 title: "最適化されたInshotデスクトップアプリ: PCで優れた写真編集を"
-date: 2025-02-04T06:15:06.712Z
-updated: 2025-02-10T21:26:08.596Z
+date: 2025-02-28T17:27:30.687Z
+updated: 2025-03-01T21:43:14.102Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
@@ -166,10 +166,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -179,10 +175,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -221,10 +213,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -299,10 +287,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -326,10 +310,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -343,10 +323,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -362,19 +338,11 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -383,10 +351,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -491,10 +455,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -585,20 +545,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-use-and-maintenance-of-m1-max-clips/"><u>[New] Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-decoding-t-series-online-earnings-stream/"><u>[Updated] Decoding T-Series' Online Earnings Stream</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1-seamless-screen-cast-sharing-your-zoom-session-on-chromecast/"><u>1. Seamless Screen Cast: Sharing Your Zoom Session on Chromecast</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>2024 Approved The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-a05s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel A05s without App | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96357622-9781561647460-chronicles-of-the-strange-and-uncanny-in-florida/"><u>Chronicles of the Strange and Uncanny in Florida | Free Book</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diablo-iv-stability-top-7-solutions-to-prevent-game-crashes-on-pc-ps5-and-xbox/"><u>Diablo IV Stability: Top 7 Solutions to Prevent Game Crashes on PC, PS5 & Xbox</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-ways-to-prevent-discord-from-crashing-while-streaming-online/"><u>Effective Ways to Prevent Discord From Crashing While Streaming Online</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-latency-in-forza-horizon-5-ultimate-troubleshooting-guide/"><u>Fixing Persistent Latency in Forza Horizon 5: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-internet-experience-realtek-rtl81eapv6-driver-compatible-with-windows-117-available-now/"><u>Improve Your Internet Experience – Realtek RTL81EAPV6 Driver Compatible with Windows 11/7, Available Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-game-freezes-on-starting-football-manager-2021-troubleshooting-tips/"><u>Overcoming Game Freezes on Starting Football Manager 2021 – Troubleshooting Tips</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/permanent-deactivation-of-windows-security-suite-a-comprehensive-tutorial-by-yl-computing/"><u>Permanent Deactivation of Windows Security Suite: A Comprehensive Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-isnt-my-fallout-n-game-launching/"><u>Troubleshooting Guide: Why Isn't My Fallout N Game Launching?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-silent-mc-fixing-the-lack-of-audio-in-your-pcs-minecraft-game/"><u>Troubleshooting Silent MC: Fixing the Lack of Audio in Your PC's Minecraft Game</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-the-dreaded-steamvr-e-308-code/"><u>Ultimate Guide: Fixing the Dreaded SteamVR E-308 Code</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-most-memorable-tiktok-videos-and-their-twitter-spreads/"><u>[New] In 2024, Most Memorable TikTok Videos & Their Twitter Spreads</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-invisible-volume-tapering-a-guide-for-audacity-enthusiasts-for-2024/"><u>[New] Invisible Volume Tapering A Guide for Audacity Enthusiasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-ranker-top-15-free-online-photo-enhancement-tools/"><u>[New] The Ultimate Ranker Top 15 Free Online Photo Enhancement Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-definitive-guide-to-live-tweeting-with-reactions/"><u>[Updated] 2024 Approved The Definitive Guide to Live Tweeting with Reactions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-a-smooth-doom-eternal-experience-avoidance-of-crashes-and-glitches/"><u>How to Ensure a Smooth DOOM Eternal Experience: Avoidance of Crashes and Glitches</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevate-your-expression-a-gallery-of-stunning-video-themes-for-tiktok/"><u>In 2024, Elevate Your Expression A Gallery of Stunning Video Themes for TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-smooth-gaming-with-these-strategies-on-addressing-borderlands-3s-freezing-glitches/"><u>Master the Art of Smooth Gaming with These Strategies on Addressing Borderlands 3'S Freezing Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-launch-success-essential-troubleshooting-steps-for-warzone-2024-on-desktop-systems/"><u>Mastering Launch Success: Essential Troubleshooting Steps for Warzone 2024 on Desktop Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-how-to-stop-your-pc-from-crashing-during-a-playthrough-of-fallout-4/"><u>Solved: How to Stop Your PC From Crashing During a Playthrough of Fallout 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synthesizing-mood-an-ode-to-trailer-tunes-for-2024/"><u>Synthesizing Mood An Ode to Trailer Tunes for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-preventing-snowrunner-applications-from-pc-crashes/"><u>Ultimate Troubleshooting Guide - Preventing SnowRunner Applications From PC Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

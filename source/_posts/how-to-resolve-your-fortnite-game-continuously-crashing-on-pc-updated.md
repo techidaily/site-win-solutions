@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your Fortnite Game Continuously Crashing on PC (Updated )
-date: 2024-08-18T14:16:12.946Z
-updated: 2024-08-19T14:16:12.946Z
+date: 2025-02-25T05:55:24.295Z
+updated: 2025-03-01T21:50:46.296Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
 Released on March 26, 2021,**It Takes Two** is currently topping the Steam charts as the global top seller. The game features a friend pass system, which means you can invite a friend online to play the game with you after you purchase the game. For many players, it is by far the best cooperative experience they ever had. However, there are still some players complaining that**It Takes Two crashes on their PC** . If you’re running into the same issue, don’t worry, you’ve come to the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether It Takes Two crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -52,9 +49,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
 There are mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
@@ -71,9 +65,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -88,9 +79,6 @@ There are mainly two ways you can update your graphics drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -102,9 +90,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -113,10 +98,6 @@ There are mainly two ways you can update your graphics drivers:
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -127,9 +108,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -165,8 +143,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +150,21 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-video-clarity-with-expert-tips-for-youtube-editors/"><u>[New] 2024 Approved Elevate Video Clarity with Expert Tips for YouTube Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-premium-free-ticking-counters/"><u>[New] In 2024, Premium Free Ticking Counters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unleash-the-power-of-digital-beats-with-our-free-tools/"><u>[New] In 2024, Unleash the Power of Digital Beats with Our Free Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-skill-of-learning-behind-screen-scenes/"><u>[Updated] Master the Skill of Learning Behind Screen Scenes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arise-story-mode-continuation-overcoming-unexpected-shutdowns/"><u>Arise Story Mode Continuation: Overcoming Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-to-overcome-your-end-of-year-assessment-error-code-tfla0002/"><u>Comprehensive Fixes to Overcome Your End-Of-Year Assessment Error – Code: TFLA0002</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-stuttering-in-halo-infinite/"><u>Comprehensive Guide to Fixing Stuttering in Halo Infinite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-ai-titans-the-gpt-bert-comparison-breakdown/"><u>Deciphering AI Titans: The GPT-BERT Comparison Breakdown</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Outlook | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/launching-soon-apple-prepares-to-unveil-new-macbook-air-ipad-pro-and-ipad-air-in-march-latest-insights/"><u>Launching Soon? Apple Prepares to Unveil New MacBook Air, iPad Pro & iPad Air in March: Latest Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-preventing-sekiro-game-crashes-without-hassle/"><u>Master the Art of Preventing Sekiro Game Crashes Without Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-fps-in-lost-ark-comprehensive-troubleshooting-for-smoother-gaming/"><u>Maximize Your FPS in Lost Ark: Comprehensive Troubleshooting for Smoother Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again!</u></a></li>
+</ul></div>
 

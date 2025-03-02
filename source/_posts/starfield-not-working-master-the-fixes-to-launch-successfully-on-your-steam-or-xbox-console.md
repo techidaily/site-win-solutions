@@ -1,7 +1,7 @@
 ---
 title: Starfield Not Working? Master the Fixes to Launch Successfully on Your Steam or Xbox Console
-date: 2024-08-18T14:19:00.977Z
-updated: 2024-08-19T14:19:00.977Z
+date: 2025-02-28T01:00:12.831Z
+updated: 2025-03-02T08:51:14.675Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -40,27 +37,13 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 Here’s how you can check the file integrity on Steam:
 
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
@@ -69,9 +52,6 @@ Here’s how you can check the file integrity on Steam:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -104,9 +84,6 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -115,9 +92,6 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
@@ -129,14 +103,8 @@ Here’s how you can check the file integrity on Steam:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -151,8 +119,6 @@ Here’s how you can check the file integrity on Steam:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +126,24 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlined-techniques-for-sharing-your-desktopmobile-screen/"><u>[New] 2024 Approved Streamlined Techniques for Sharing Your Desktop/Mobile Screen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-key-to-click-through-success-top-thumbnail-size-recommendations/"><u>[New] The Key to Click-Through Success Top Thumbnail Size Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initiate-your-journey-a-straightforward-nft-blueprint/"><u>2024 Approved Initiate Your Journey A Straightforward NFT Blueprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/7-crucial-factors-to-weigh-when-selecting-a-new-motherboard/"><u>7 Crucial Factors to Weigh When Selecting a New Motherboard</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-hurdles-correcting-error-code-10-on-your-steam-game-disks/"><u>Bypass the Hurdles: Correcting Error Code 10 on Your Steam Game Disks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-solutions-to-fix-elder-scrolls-online-startup-problems/"><u>Expert Solutions to Fix Elder Scrolls Online Startup Problems</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-la-copia-de-seguridad-binaria-con-aomei-backupper-en-un-mac/"><u>Guía Paso a Paso Para La Copia De Seguridad Binaria Con AOMEI Backupper en Un Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-dark-screen-problem-in-minecraft-for-the-year-2024/"><u>How To Fix A Dark Screen Problem In Minecraft For The Year 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-11-pro-max-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 11 Pro Max In Easy Steps | Stellar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-game-from-locking-up-2024-fortnite-solutions/"><u>How to Stop Your Game From Locking Up: 2024 Fortnite Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/introducing-the-renovated-amazon-echo-dot-4th-gen-an-in-depth-review/"><u>Introducing the Renovated Amazon Echo Dot (4Th Gen) - An In-Depth Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-gaming-experience-on-windows-with-codmw2-addressing-lag-dropped-fps-and-stutter-issues/"><u>Optimize Gaming Experience on Windows with CoD:MW2 - Addressing Lag, Dropped FPS & Stutter Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-performance-issues-in-persona-3-portable-remake-for-windows-users/"><u>Solving Performance Issues in 'Persona 3 Portable Remake' For Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-manor-lords-pc-game-stability-problems/"><u>Step-by-Step Solutions to Manor Lords PC Game Stability Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-desktop-speaker-that-outshines-logitech-and-pioneer-unveiled-on-zdnet/"><u>Top-Ranking Desktop Speaker That Outshines Logitech & Pioneer Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-rogue-company-keep-crashing-on-my-pc-and-how-can-i-fix-it/"><u>Why Does Rogue Company Keep Crashing on My PC and How Can I Fix It?</u></a></li>
+</ul></div>
 

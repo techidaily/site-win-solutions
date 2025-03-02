@@ -1,7 +1,7 @@
 ---
 title: "Dirt 5 Stability Issues on Windows: How to Keep It Running Smoothly"
-date: 2024-08-18T14:15:23.542Z
-updated: 2024-08-19T14:15:23.542Z
+date: 2025-02-23T23:27:56.763Z
+updated: 2025-03-02T09:35:29.153Z
 tags:
   - win11
   - win10
@@ -19,14 +19,6 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -38,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -50,17 +39,11 @@ Here’s how you can check the file integrity on Steam:
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
@@ -69,16 +52,9 @@ Here’s how you can check the file integrity on Steam:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,18 +68,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -118,9 +84,6 @@ No advertising on the website.
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -156,8 +119,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +126,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>2024 Approved Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-periscope-recording-for-beginners-a-complete-walkthrough/"><u>2024 Approved Periscope Recording for Beginners A Complete Walkthrough</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>2024 Approved Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-complete-guide-to-motion-without-touch-sensors/"><u>2024 Approved The Complete Guide to Motion Without Touch Sensors</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/best-free-methods-for-file-backups-on-dropbox-using-windows/"><u>Best Free Methods for File Backups on Dropbox Using Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-launch-hiccups-for-avatar-frontiers-of-pandora-a-step-by-step-guide/"><u>Bypassing Launch Hiccups for 'Avatar: Frontiers of Pandora': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-vanguard-error-code-e0x00001338-pc-troubleshooting-tutorial/"><u>Call of Duty Vanguard Error Code E0x00001338 PC Troubleshooting Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-platforms-for-viewing-premium-short-movies/"><u>Discover the Best Platforms for Viewing Premium Short Movies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-troubleshooting-tips-for-graphics-driver-errors-during-your-valorant-sessions/"><u>Easy Troubleshooting Tips for 'Graphics Driver Errors' During Your Valorant Sessions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002026001-elden-ring-black-display-during-boot-up-heres-how-to-resolve-it/"><u>Elden Ring Black Display During Boot-Up? Here's How to Resolve It!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-stop-rdr2-from-crashing-on-your-pc/"><u>Fixes and Solutions: Stop RDR2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-troubleshooting-overcoming-lag-issues-successfully/"><u>League of Legends Troubleshooting - Overcoming Lag Issues Successfully</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-surface-laptop-go-assessment-the-perfect-blend-of-economy-and-portability-in-an-ultrabook/"><u>Microsoft Surface Laptop Go Assessment - The Perfect Blend of Economy and Portability in an Ultrabook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012412520-steam-account-access-restored-heres-how-we-did-it/"><u>Steam Account Access Restored? Here's How We Did It</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas-for-2024/"><u>Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226016237-apngpng-movavi/"><u>オンラインで簡単に！フリーAPNGからPNGへの画像変換 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Prevent Frequent Freezing and Crashes in Genshin Impact for Windows/Mac Users
-date: 2024-08-18T14:14:19.327Z
-updated: 2024-08-19T14:14:19.327Z
+date: 2025-02-22T19:05:12.620Z
+updated: 2025-03-02T09:17:44.087Z
 tags:
   - win11
   - win10
@@ -37,23 +37,14 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **1)** Open the Steam client. Then, navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
 **2)** Right-click**World of Warships** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -68,9 +59,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **3)** Click**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
@@ -101,9 +89,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -117,9 +102,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -134,9 +116,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 See if the crashing issue goes away. If not, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -145,10 +124,6 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 Do the crashes disappear now? If not, continue to the next fix.
@@ -159,10 +134,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 **1)** Type**control** in the search bar and click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
@@ -194,8 +165,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +172,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamlining-your-instagram-storytelling-with-size-tweaks/"><u>[Updated] 2024 Approved Streamlining Your Instagram Storytelling with Size Tweaks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-secrets-to-attractive-profile-videos/"><u>[Updated] The Secrets to Attractive Profile Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-steps-for-dolby-atmos-non-responsiveness-in-modern-windows-os/"><u>Comprehensive Troubleshooting Steps for Dolby Atmos Non-Responsiveness in Modern Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crushing-warzone-glitches-a-step-by-step-guide-to-correct-pc-disc-reading-errors-for-versions-50-and-31/"><u>Crushing Warzone Glitches: A Step-by-Step Guide to Correct PC Disc Reading Errors for Versions 5.0 & 3.1</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-malfunctioning-apps-on-your-samsung-television-set/"><u>Diagnosing and Repairing Malfunctioning Apps on Your Samsung Television Set</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-inverted-screen-view/"><u>Fixing Windows 10: Inverted Screen View</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-guide-converting-bulk-heic-images-to-jpg-format-on-mac-and-windows/"><u>Free Guide: Converting Bulk HEIC Images to JPG Format on Mac and Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-fixing-saints-row-game-not-starting-on-your-computer-quick-tips/"><u>Guide to Fixing Saints Row Game Not Starting on Your Computer - Quick Tips!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-navigating-your-way-through-the-arlo-security-network/"><u>In-Depth Review: Navigating Your Way Through the Arlo Security Network</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-gaming-experience-techniques-for-enhancing-fps-and-reducing-stutters-in-valorant/"><u>Maximize Your Gaming Experience: Techniques for Enhancing Fps and Reducing Stutters in Valorant</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-slow-down-music-without-changing-pitch/"><u>New 2024 Approved How to Slow Down Music without Changing Pitch?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stuttering-issues-while-gaming-on-systems-with-high-frames-per-second-fps/"><u>Resolving Stuttering Issues While Gaming on Systems with High Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisit-your-digital-trail-in-windows-11/"><u>Revisit Your Digital Trail in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/success-story-how-fifa-21s-early-launch-glitches-were-successfully-fixed/"><u>Success Story: How FIFA 21'S Early Launch Glitches Were Successfully Fixed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-running-back-4-blood-heres-how-to-fix-it-for-win11win10win7-users/"><u>Trouble Running Back 4 Blood? Here's How to Fix It for Win11/Win10/Win7 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-made-simple-utilizing-the-mobile-version-of-driver-easy-for-drivers-update-and-repair/"><u>Troubleshooting Made Simple: Utilizing the Mobile Version of Driver Easy for Drivers Update and Repair</u></a></li>
+</ul></div>
 

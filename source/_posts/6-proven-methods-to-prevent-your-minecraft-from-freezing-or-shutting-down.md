@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Methods to Prevent Your Minecraft From Freezing or Shutting Down
-date: 2024-08-18T14:17:52.662Z
-updated: 2024-08-19T14:17:52.662Z
+date: 2025-02-23T11:35:05.988Z
+updated: 2025-03-02T04:56:01.736Z
 tags:
   - win11
   - win10
@@ -53,16 +53,10 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 **2)** Check the information about your**operating system** ,**processor** and**memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-1-1.jpg)
 
 **3)** Select the**Display** tab to see the video card’s information.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-2-1.jpg)
 
 **4)** Select the**Sound** tab to view the sound card’s information.
@@ -73,10 +67,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
  If your computer is above the required level to run Modern Warfare, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Avoid PC overheating
 
  Modern Warfare is a graphic-intensive application that will put load on your CPU and GPU. When these component overheats, the computer will stop functioning to protect the hardware from physical damage, and thus your game freezes.
@@ -91,18 +81,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **1)** Right-click the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-5.jpg)
 
 **2)** Right-click the application you want to close and click**End task** .
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-2-4.jpg)
 
  Launch Modern Warfare to test if it runs smoothly enough to complete a match. If not, head towards Fix 4.
@@ -142,13 +126,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-2.jpg)
 
  You could do it for free if you like, but it’s partly manual.
@@ -158,9 +135,6 @@ No advertising on the website.
 
  If the freezing problem persists after you install the latest graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Scan and repair game files
 
  Missing or corrupted game files are also common culprits of game crashes or freezes, but it’s not difficult to repair them.
@@ -173,9 +147,6 @@ Here are the steps:
 
 **2)** Click**Options** and select**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-1.jpg)
 
 **3)** Click**Begin Scan** .
@@ -184,9 +155,6 @@ Here are the steps:
 
  This will automatically scan and repair any missing or corrupted game files. After the process completes, relaunch Modern Warfare and check for the issue. If this doesn’t help, go for the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Change in-game graphics settings
 
  Many players will maximize the in-game settings for the best experience, but that could overload your GPU and increase the risk of freezing. Lowering the graphics may make your game more fluid.
@@ -199,9 +167,6 @@ Here are the steps:
 
 **3)** Disable**Sync Every Frame (V-Sync)** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5-2-3.jpg)
 
 **4)** Scroll down to the**Details & Textures** tab, and configure the settings as below:
@@ -218,10 +183,6 @@ Here are the steps:
 
  If Modern Warfare still freezes no matter how you change the settings, turn to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 7 – Disable in-game overlay
 
  Many gamers reported the overlay feature would lead to Modern Warfare freezing. So you should disable it on **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  and **[Discord](https://tools.techidaily.com/drivereasy/download/)**  to solve your problem.
@@ -232,9 +193,6 @@ Here are the steps:
 
 **2)** Click the**cogwheel icon** at the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1-2.jpg)
 
 **3)** Toggle off**In-game overlay** .
@@ -261,9 +219,6 @@ Here are the steps:
 
 **1)** Run Battle.net application, and click**Call of Duty: Modern Warfare** on the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-5-1200x741.jpg)
 
 **2)** Select**Options** and click**Uninstall Game** .
@@ -285,8 +240,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +247,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[New] In 2024, Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-5-best-snipping-tool-for-chromebook/"><u>[Updated] 5 Best Snipping Tool For Chromebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-protecting-video-content-during-youtube-to-mp4-transfer/"><u>[Updated] Protecting Video Content During YouTube-to-MP4 Transfer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-the-bug-effective-fixes-for-total-war-three-kingdoms-system-errors/"><u>Decode the Bug: Effective Fixes for Total War: Three Kingdoms System Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-writing-discover-the-11-prime-chatgpt-questions-to-craft-memorable-characters-in-literature/"><u>Enhance Your Writing: Discover the 11 Prime ChatGPT Questions to Craft Memorable Characters in Literature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-4-to-gpt-4o-distinguishing-between-advanced-ai-models/"><u>From GPT-4 to GPT-4o: Distinguishing Between Advanced AI Models</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-resolving-cyberpunk-2077s-disregard-for-gpu-in-windows-11/"><u>Guide: Resolving Cyberpunk 2077'S Disregard for GPU in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xr-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-audio-from-mkv/"><u>In 2024, How to Remove Audio From MKV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209564818-9781510732001-natural-meditation/"><u>Natural Meditation | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-elite-dangerous-game-crashes-on-personal-computers-efficiently/"><u>Overcoming Elite Dangerous Game Crashes on Personal Computers Efficiently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-successfully-restoring-your-outlook-connection/"><u>Troubleshooting Guide: Successfully Restoring Your Outlook Connection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-outer-worlds-solutions-for-pc-game-crashes/"><u>Troubleshooting The Outer Worlds: Solutions for PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-the-steamvr-eht-308-issue/"><u>Troubleshooting Tips: Fixing the SteamVR EHT-308 Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-these-10-tips-for-getting-stray-running-this-year/"><u>Unlock These 10 Tips for Getting 'Stray' Running This Year</u></a></li>
+</ul></div>
 

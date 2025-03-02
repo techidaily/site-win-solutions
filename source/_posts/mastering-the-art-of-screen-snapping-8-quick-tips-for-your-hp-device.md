@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Screen Snapping: 8 Quick Tips for Your HP Device"
-date: 2025-02-07T16:26:08.787Z
-updated: 2025-02-10T23:19:10.741Z
+date: 2025-02-27T07:05:00.615Z
+updated: 2025-03-01T22:59:48.949Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a78d3deb58b3600f2a5e9d7c1.jpg
@@ -210,10 +210,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -226,19 +222,11 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -247,10 +235,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -321,10 +305,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -427,10 +407,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -502,10 +478,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -515,10 +487,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -534,10 +502,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -545,10 +509,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,19 +545,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-visuals-on-the-social-media-giant-fb/"><u>[New] 2024 Approved Twitters' Visuals on the Social Media Giant FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[New] Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-choice-for-live-tv-access-with-regional-networks-2024-edition/"><u>[New] Ultimate Choice for Live TV Access with Regional Networks, 2024 Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-dying-light-fps-issue/"><u>[Solved] Dying Light FPS Issue</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capturing-skies-engaging-audiences-learn-to-stream-w-dji-drones/"><u>[Updated] 2024 Approved Capturing Skies, Engaging Audiences Learn to Stream W/ DJI Drones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-discover-the-ultimate-comfort-of-these-top-8-5ks/"><u>[Updated] 2024 Approved Discover the Ultimate Comfort of These Top 8 5Ks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007826287-arcadegeddons-pc-stability-issues-now-fixed-learn-how-to-avoid-future-crashes/"><u>Arcadegeddon's PC Stability Issues Now Fixed: Learn How to Avoid Future Crashes!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-new-multiplayer-map-revealed/"><u>COD: Modern Warfare - New Multiplayer Map Revealed!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Motorola Razr 40</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-audio-during-video-lags-on-youtube-for-chromefirefox-users/"><u>Fixing Persistent Audio During Video Lags on YouTube for Chrome/Firefox Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-launch-issues-resolved-and-officially-dropped/"><u>Immortals Fenyx Rising Launch Issues Resolved and Officially Dropped</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://win-superb.techidaily.com/unlocking-your-hard-drives-secrets-4-techniques-to-extract-data-without-reformatting/"><u>Unlocking Your Hard Drive's Secrets: 4 Techniques to Extract Data Without Reformatting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-aligning-zoom-sessions-with-desktop-and-smartphone-calendars-for-2024/"><u>[New] Aligning Zoom Sessions with Desktop and Smartphone Calendars for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-audiophiles-guide-to-speed-adjustment-apps/"><u>[New] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-five-protocols-for-documenting-youtube-live-broadcasts/"><u>[New] In 2024, Top Five Protocols for Documenting YouTube LIVE Broadcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/digital-renaissance-a-curated-list-of-top-nft-generating-platforms/"><u>Digital Renaissance A Curated List of Top NFT-Generating Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-dragon-age-origins-performance-and-stability-for-windows-11-users/"><u>Improved Dragon Age: Origins Performance & Stability for Windows 11 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exciting-ios-applications-for-playing-psp-titles-1-5/"><u>In 2024, Exciting iOS Applications for Playing PSP Titles #1-5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959173505-innovation-roadmap-and-alignment-with-global-sustainability-goals/"><u>Innovation Roadmap and Alignment with Global Sustainability Goals.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-visual-experience-enabling-auto-hdr-on-windows-11/"><u>Optimizing Visual Experience Enabling Auto HDR on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-performance-hiccups-strategies-to-stop-metro-exodus-from-crashing-mid-game/"><u>Overcoming Performance Hiccups: Strategies to Stop Metro Exodus From Crashing Mid-Game.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-iphone-integration-with-windows-11-download-the-necessary-drivers-now/"><u>Seamless iPhone Integration with Windows 11 – Download the Necessary Drivers Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009684186-steam-ui-dll-not-found-correct-the-root-causes-behind-steams-terminal-mishap/"><u>Steam UI DLL Not Found? Correct the Root Causes Behind Steam’s Terminal Mishap!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-why-your-rust-programs-keep-abruptly-stopping/"><u>Troubleshooting Tips: Why Your Rust Programs Keep Abruptly Stopping</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-isnt-ubisoft-connect-working-solutions-for-gamers/"><u>Why Isn't Ubisoft Connect Working? Solutions for Gamers</u></a></li>
 </ul></div>
 

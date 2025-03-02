@@ -1,7 +1,7 @@
 ---
 title: Overcoming the FIFA 20 Gameplay Interruption Caused by DirectX Glitches
-date: 2024-08-18T14:20:51.152Z
-updated: 2024-08-19T14:20:51.152Z
+date: 2025-02-23T20:38:42.409Z
+updated: 2025-03-01T23:11:25.141Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
  Many players have been reporting the**Error Code Centipede on Destiny 2** for PC, PS5/PS4, and Xbox. If you also get the Centipede Error, it means that you’re not able to connect to Destiny servers currently. The good news is there are some working fixes available. Read on and find out what they are.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -57,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
 If you still get the Error Centipede, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 3: Choose NAT Type 1/Open NAT
 
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
@@ -75,9 +68,6 @@ If you still get the Error Centipede, try the next fix.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt with admin permissions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
@@ -86,9 +76,6 @@ If you still get the Error Centipede, try the next fix.
 
 You can now test a game to see if you still get the Centipede Error.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Port Forwarding
 
  Port Forwarding works on incoming Internet connections. It routes an outside internet connection to use the open ports, which will allow you to connect to Destiny 2\. This process is a bit difficult than enabling UPnP, technically speaking, but it’s generally a little safer. There are a few steps to do, here we’ll divide them into Step 1,2, and 3.
@@ -97,28 +84,16 @@ You can now test a game to see if you still get the Centipede Error.
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt as Admin.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type in**npca.cpl** , then click OK.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
@@ -160,9 +135,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -213,8 +185,6 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +192,26 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-efficiently-documenting-your-fb-chats-and-meets/"><u>[Updated] 2024 Approved Efficiently Documenting Your FB Chats & Meets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-vids-to-mp4-downloader-efficient-and-effective/"><u>[Updated] In 2024, FB Vids to MP4 Downloader – Efficient & Effective</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta/"><u>[Updated] In 2024, Uncover the Joyful Journey Best Comedy & Sadness on Insta</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arma-3-crashing-woes-heres-the-ultimate-guide-to-solve-them/"><u>Arma 3 Crashing Woes? Here's the Ultimate Guide to Solve Them</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/conversion-gratuita-de-video-a-gif-online-utilice-la-herramienta-de-movavi-para-cambiar-facilmente-formatos/"><u>Conversión Gratuita De Video a GIF Online: Utilice La Herramienta De Movavi Para Cambiar Fácilmente Formatos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-geforce-gtx-1660-super-graphics-card-drivers-latest-versions/"><u>Download & Update GeForce GTX 1660 Super Graphics Card Drivers - Latest Versions</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728473645779-d/"><u>Dドライブにログインできない、解決手順を見つける</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-resolve-crusader-kings-iii-pc-crashes/"><u>Fixing Issues: How to Resolve Crusader Kings III PC Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-frequent-freezes-solving-tower-of-fantasy-pc-game-crashes/"><u>Fixing the Frequent Freezes: Solving Tower of Fantasy PC Game Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jedi-in-trouble-resolving-launch-problems-with-star-wars-fallen-order/"><u>Jedi in Trouble: Resolving Launch Problems with Star Wars: Fallen Order</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-common-glitches-in-persona-4-golden-gameplay-experience/"><u>Resolving Common Glitches in Persona 4 Golden Gameplay Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-league-of-legends-synchronization-and-internet-troubleshooting-tips/"><u>Solving League of Legends Synchronization & Internet Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-roadmap-to-creating-unforgettable-facebook-cover-videos-for-2024/"><u>The Roadmap to Creating Unforgettable Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-robloxs-low-memory-alerts-on-ios-devices/"><u>Troubleshooting Roblox's Low Memory Alerts on iOS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-resolving-your-steam-connection-woes-effortlessly/"><u>Troubleshooting Success: Resolving Your Steam Connection Woes Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-stabilizing-your-nioh-2-experience/"><u>Troubleshooting Tips: Stabilizing Your Nioh 2 Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-discords-excessive-cpu-consumption/"><u>Ultimate Guide: Resolving Discord's Excessive CPU Consumption</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-distinctions-between-wav-and-mp3-audio-formats-a-comprehensive-guide/"><u>Understanding the Distinctions Between WAV & MP3 Audio Formats - A Comprehensive Guide</u></a></li>
+</ul></div>
 

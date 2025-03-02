@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Smooth Downloading & Setup of Age of Empires IV via Microsoft Store
-date: 2024-08-18T14:21:08.647Z
-updated: 2024-08-19T14:21:08.647Z
+date: 2025-02-25T11:38:15.550Z
+updated: 2025-03-02T10:51:20.842Z
 tags:
   - win11
   - win10
@@ -89,17 +89,10 @@ If these simple solutions don’t help, move to the fixes below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -109,10 +102,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 If you can’t install the game, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -133,24 +122,15 @@ If you can’t install the game, move to the next fix.
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Windows Settings** . Then select **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 
  2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
  3) Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset or reinstall Windows
 
  If you’re still facing problems while downloading or installing, you can perform a Windows reset or maybe even reinstall it together. We all know reinstalling will delete all the data on your hard drive, you should back up all your important files before doing it.
@@ -172,8 +152,6 @@ If the problem remains, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +159,16 @@ If the problem remains, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-precision-unveiling-the-benefits-of-monoprices-feature-laden-artistic-tablet/"><u>Affordable Precision: Unveiling The Benefits Of Monoprice’s Feature-Laden Artistic Tablet</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209536727-anaplastic-carcinoma-is-a-rare-but-highly-aggressive-form-of-thyroid-cancer-that-often-has-a-poor-prognosis/"><u>Anaplastic Carcinoma Is a Rare but Highly Aggressive Form of Thyroid Cancer that Often Has a Poor Prognosis.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dying-light-2-pc-struggles-optimizing-gameplay-and-improving-frame-rate/"><u>Dying Light 2 PC Struggles: Optimizing Gameplay & Improving Frame Rate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-ways-to-resolve-wow-crashing-issues-a-step-by-step-guide/"><u>Effortless Ways to Resolve WoW Crashing Issues - A Step by Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/team-fortress-team-fortress-2-how-to-resolve-team-fortress-2-crashes-in-korean/"><u>Team Fortress 지미앤콜 런타운해제 방법 (Team Fortress 2 클러시를 해결하는 방법) - How to Resolve Team Fortress 2 Crashes in Korean</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uncover-the-secrets-to-restoring-audio-functionality-in-dying-light/"><u>Uncover the Secrets to Restoring Audio Functionality in Dying Light</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-g42-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia G42 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Performance Hiccups in Bloodhunt: A Guide to PC Optimization"
-date: 2024-08-18T14:17:05.235Z
-updated: 2024-08-19T14:17:05.235Z
+date: 2025-03-01T10:36:48.109Z
+updated: 2025-03-01T17:47:59.412Z
 tags:
   - win11
   - win10
@@ -40,16 +40,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -88,9 +82,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -108,9 +99,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **1)** Right-click the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
 
 **2)** Right-click the application you want to close and click**End task** .
@@ -133,9 +121,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Select**Small icons** from the drop-down menu next to**View by** and click**Power Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
 **3)** Click**High performance** .
@@ -146,18 +131,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
 
 **1)** Open War Thunder. Then, click the**gear icon** to enter the Settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
 
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
@@ -168,29 +147,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
 
 **1)** Launch Steam, and navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
 
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
 **3)** Click**Delete** to confirm.
@@ -218,8 +184,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +191,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capture-unrooted-android-sounds-4-techniques/"><u>[New] In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[Updated] 2024 Approved Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-post-production-with-luts-in-ae/"><u>2024 Approved Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-systems-offers-premiere-pro-cs6-for-mac-free-download-available-for-2024/"><u>Adobe Systems Offers Premiere Pro CS6 for Mac Free Download Available for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/analyzing-why-your-facebook-doesnt-suggest-movies-for-2024/"><u>Analyzing Why Your Facebook Doesn't Suggest Movies for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-update-eradicating-input-latency-issues-for-a-seamless-gaming-adventure/"><u>Cyberpunk 2077 Update: Eradicating Input Latency Issues for a Seamless Gaming Adventure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-terraria-disconnect-errors-discover-these-proven-methods-for-stable-gameplay/"><u>Defeat Terraria Disconnect Errors: Discover These Proven Methods for Stable Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-prevent-guilty-gear-strive-from-crashing-on-your-computer/"><u>Effective Solutions to Prevent Guilty Gear Strive From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969966868-effortless-downloads-of-the-latest-amd-smbus-drivers-start-here/"><u>Effortless Downloads of the Latest AMD SMBus Drivers – Start Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/experiencing-delays-improve-spotify-web-player-functionality-now/"><u>Experiencing Delays? Improve Spotify Web Player Functionality Now!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/indoor-brightness-boosted-by-external-radiance-for-2024/"><u>Indoor Brightness Boosted by External Radiance for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/natureindex-nd-glyphosate-retrieved-from-(httpswwwnatureindexcomresearcherview17506489)/"><u>NatureIndex (N.d.). Glyphosate. Retrieved From <https://www.natureindex.com/researcher/view/17506489></u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-tackle-dread-hunger-pc-stability-problems-effectively/"><u>No More Interruptions: Tackle Dread Hunger PC Stability Problems Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-common-steamvr-malfunctions/"><u>Quick Solutions for Common SteamVR Malfunctions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/syncing-songs-with-your-facebook-chronicles-for-2024/"><u>Syncing Songs with Your Facebook Chronicles for 2024</u></a></li>
+</ul></div>
 

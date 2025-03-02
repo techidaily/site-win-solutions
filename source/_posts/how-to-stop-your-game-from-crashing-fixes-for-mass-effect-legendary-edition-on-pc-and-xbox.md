@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your Game From Crashing: Fixes for Mass Effect Legendary Edition on PC & Xbox"
-date: 2024-08-18T14:16:07.593Z
-updated: 2024-08-19T14:16:07.593Z
+date: 2025-02-26T06:56:21.764Z
+updated: 2025-03-01T16:38:30.867Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -52,10 +48,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -74,9 +66,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -92,9 +81,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -115,14 +101,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -138,8 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +125,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-art-of-recording-flawless-podcasts-via-zoom-for-2024/"><u>[New] The Art of Recording Flawless Podcasts via Zoom for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/"><u>DIY Split-Screen Video Tutorials for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-vivo-s17t-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Vivo S17t</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-solving-game-freezes-dragon-age-origins-and-windows-10-compatibility-issues-fixed/"><u>Expert Tips for Solving Game Freezes: Dragon Age: Origins & Windows 10 Compatibility Issues Fixed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-batman-solutions-for-arkhk-crashes-and-critical-bugs/"><u>Fixing Batman: Solutions for ARKHK Crashes & Critical Bugs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-magic-5-lite-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor Magic 5 Lite Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y17s-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y17s is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-cyber-profile-pixelation-crafting-a-playful-look/"><u>In 2024, Cyber-Profile Pixelation Crafting a Playful Look</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-yuva-3-pro-messages-recovery-recover-deleted-messages-from-lava-yuva-3-pro-by-fonelab-android-recover-messages/"><u>Lava Yuva 3 Pro Messages Recovery - Recover Deleted Messages from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mafia-iii-unleashed-final-version-release-update-clarified/"><u>Mafia III Unleashed: Final Version Release Update Clarified</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/music-video-madness-top-10-on-social-sphere/"><u>Music Video Madness Top 10 on Social Sphere</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-hurdles-in-installing-days-gone-for-pc-comprehensive-problem-solving-advice/"><u>Overcoming Hurdles in Installing Days Gone for PC - Comprehensive Problem Solving Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-constant-freezing-and-crashing-in-hell-let-loose-pc-guide/"><u>Resolving Constant Freezing and Crashing in Hell Let Loose: PC Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackling-destiny-2s-notorious-vegetable-conflict-the-2-patch-of-2024-that-set-the-standard/"><u>Tackling Destiny 2'S Notorious Vegetable Conflict: The 2^ Patch of 2024 That Set the Standard</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-close-up-mastery-on-roblox-for-2024/"><u>The Ultimate Guide to Close-Up Mastery on Roblox for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-how-to-guide-on-unfreezing-your-ps4-step-by-detailed-step/"><u>The Ultimate How-To Guide on Unfreezing Your PS4 - Step by Detailed Step</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformar-archivos-swf-en-archivo-de-audio-wav-liviano-y-libre-tutorial-passo-a-passo-con-movavi/"><u>Transformar Archivos SWF en Archivo De Audio WAV Liviano Y Libre: Tutorial Passo a Passo Con Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-when-your-audio-services-arent-functional/"><u>Troubleshooting When Your Audio Services Aren't Functional</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warframe-wont-launch-discover-proven-techniques-for-a-successful-boot-up/"><u>Warframe Won't Launch? Discover Proven Techniques for a Successful Boot Up!</u></a></li>
+</ul></div>
 

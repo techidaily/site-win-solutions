@@ -1,7 +1,7 @@
 ---
 title: Solutions for Mitnagating High Disk Storage and CPU Load in Wsappx Software
-date: 2024-08-18T14:20:18.494Z
-updated: 2024-08-19T14:20:18.494Z
+date: 2025-02-28T19:38:07.862Z
+updated: 2025-03-02T08:51:41.305Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
 Are you seeing Warcraft 3 Reforged crashing constantly at startup or during gameplay, and making multiple attempts to relaunch but all to no avail? We know this can be totally annoying, but don’t worry, here are 6 fixes for you to solve the issue easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick.
@@ -31,9 +28,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Lower the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Check the minimum requirements to play Warcraft 3 Reforged
 
  Video games with stunning graphics usually require a high-end rig to run with. Before jumping into the further fixes, let’s check your computer specs first. If it doesn’t meet the system requirements for Warcraft 3 Reforged, crashes will occur.
@@ -91,9 +85,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-4.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -111,16 +102,10 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 **1)** Right-click on any empty area on the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
 **2)** Click the**Details** tab. Then, right-click**Warcraft 3\. exe** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-6.jpg)
 
 **3)** Mouse over**Set priority** and then click**Above normal** or**High** .
@@ -131,26 +116,16 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Close background applications
 
  Warcraft 3 Reforged sometimes fails to work when too many applications are running in the background. They may cause software conflicts or use up system resources. Make sure all unnecessary programs are closed before you start gaming. Here’s how:
 
 **1)** Right-click on any empty area on the taskbar and click**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
 **2)** Right-click each resource-hogging application, and then click **End task**  to close them one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-2-3.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -159,9 +134,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  To gain the best performance, many players attempted to overclock their GPUs. However, doing this is sometimes counterproductive and can render your game unstable. We suggest**lowering your GPU to the default settings** to stop Warcraft 3 Reforged from crashing. If the situation isn’t mitigated with this workaround, turn to the next fix below.
@@ -204,8 +176,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +183,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-efficiently-share-your-vision-via-igtv-for-2024/"><u>[New] Efficiently Share Your Vision via IGTV for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-for-iphone-screen-taping/"><u>[New] The Ultimate Guide for iPhone Screen Taping</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[Updated] Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audiovisual-decision-making-is-podcast-or-youtube-more-appealing/"><u>2024 Approved Audiovisual Decision-Making Is Podcast or YouTube More Appealing?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/efsa-2015-conclusion-on-the-peer-review-by-the-gmo-panel-of-a-pest-risk-assessment-for-glyphosate-as-active-substance-in-plant-protection-products-retrieved599/"><u>EFSA (2015). Conclusion on the Peer Review by the GMO Panel of a Pest Risk Assessment for Glyphosate as Active Substance in Plant Protection Products. Retrieved From <https://www.efsa.europa.eu/en/topics/pesticides/glyphosate-reassessment></u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-stability-improved-addressing-and-resolving-tribes-of-midgard-crashes/"><u>Game Stability Improved: Addressing and Resolving 'Tribes of Midgard' Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-seamless-player-search-in-call-of-dutys-warzone-on-your-windows-system/"><u>How to Ensure Seamless Player Search in Call of Duty's Warzone on Your Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-city-building-simulator-skyline-issues-on-your-windows-computer/"><u>How to Resolve City Building Simulator Skyline Issues on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-download-velocity-in-utorrent-a-comprehensive-guide/"><u>Improving Download Velocity in uTorrent - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-phantom-v-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Phantom V Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo X Flip Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-madden-22-strategies-for-bypassing-persistent-loading-issues/"><u>Master Madden 22: Strategies for Bypassing Persistent Loading Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-star-wars-fighter-squadron-collisions-resolved/"><u>Mastering Star Wars: Fighter Squadron Collisions - Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mount-and-blade-2-bannerlord-crashes-solved-step-by-step-fix-guide/"><u>Mount & Blade 2: Bannerlord Crashes Solved – Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>New 2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-warframes-freeze-frames-optimizing-your-gameplay-experience/"><u>Overcoming Warframe's Freeze Frames: Optimizing Your Gameplay Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-pop-8-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Pop 8 Screen | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-and-headphone-recognition-problems-in-windows-operating-systems-11-8-7/"><u>Resolving Microphone and Headphone Recognition Problems in Windows Operating Systems (11, 8, 7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-no-hypervisor-in-windows-sandbox/"><u>Troubleshooting No Hypervisor in Windows Sandbox</u></a></li>
+</ul></div>
 

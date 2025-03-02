@@ -1,7 +1,7 @@
 ---
 title: How to Fix Helldivers 2 Crashing Issues on Windows Computers for a Smooth Experience
-date: 2024-08-18T14:15:53.860Z
-updated: 2024-08-19T14:15:53.860Z
+date: 2025-02-25T08:49:50.868Z
+updated: 2025-03-02T03:24:56.465Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,9 +48,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -62,9 +56,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -75,13 +66,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -94,9 +78,6 @@ No advertising on the website.
 
 1. Run Steam.
 2. Right-click on XCOM 2 and click**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
@@ -122,9 +103,6 @@ No advertising on the website.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -140,8 +118,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +125,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-capturing-life-from-above-yuneec-breeze-experience/"><u>[New] In 2024, Capturing Life From Above Yuneec Breeze Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-what-youre-really-earning-as-a-podcaster/"><u>[New] In 2024, What You're Really Earning as a Podcaster</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-inside-apeaksofts-2023-recording-technology-breakthroughs-for-2024/"><u>[New] Inside Apeaksoft's 2023 Recording Technology Breakthroughs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-silverleaf-studio-exploring-lightroom-substitutes/"><u>[New] Silverleaf Studio Exploring Lightroom Substitutes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-and-fixed-bioshock-2-immersive-gaming-experience-bug-free/"><u>Enhanced & Fixed BioShock 2 - Immersive Gaming Experience, Bug-Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For Excel 2023 files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-13-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 13?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macbookcdcd/"><u>MacBookでCDの高画質圧縮:最適なミュージックアプリとCDデコードソフト使い方</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-playing-life-is-strange-true-colors-without-crashes-expert-tips-and-solutions/"><u>Master Playing Life Is Strange: True Colors Without Crashes - Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-sky-without-glitches-troubleshooting-steps-for-mfs-2020-stability-issues-on-pc/"><u>Master the Sky without Glitches: Troubleshooting Steps for MFS 2020 Stability Issues on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-show-and-hide-the-on-screen-keyboard-feature-in-windows-11/"><u>Mastering the Art of Show and Hide: The On-Screen Keyboard Feature in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-getting-tekken-8-up-and-running-on-a-windowsmac-system/"><u>Solution Guide: Getting Tekken 8 Up and Running on a Windows/Mac System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/survivors-odyssey-navigating-through-the-infinite-cycle-of-black-resilience/"><u>Survivors' Odyssey: Navigating Through the Infinite Cycle of Black Resilience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-persistent-god-of-war-pc-game-crashes/"><u>Troubleshooting Steps for Persistent God of War PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-phasmophobia-game-crashes/"><u>Ultimate Guide to Resolving Phasmophobia Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-higher-frame-rates-ultimate-strategies-to-boost-fps-in-ring-of-elysium/"><u>Unlock Higher Frame Rates: Ultimate Strategies to Boost FPS in Ring of Elysium</u></a></li>
+</ul></div>
 

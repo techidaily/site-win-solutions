@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Resolving and Preventing XCOM 2'S Windows Instability Issues"
-date: 2024-08-18T14:20:55.743Z
-updated: 2024-08-19T14:20:55.743Z
+date: 2025-02-27T17:23:47.422Z
+updated: 2025-03-02T06:36:03.185Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 **If you play SnowRunner in Steam** , follow the steps below:
 
 1. Launch **Steam** and go to your **LIBRARY** . **Right-click** on **SnowRunner** and select **Properties** .  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -64,14 +61,8 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -80,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of SnowRunner releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -101,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Close CPU / memory hogging applications
 
  Another common cause of SnowRunner crashes is insufficient memory. If there’re lots of applications running in the background at the same time, your computer may run out of RAM and the game may crash.
@@ -113,38 +97,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
  If SnowRunner works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 6: Perform a clean boot
 
  The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic program that crashes the game** . Once you locate the program, just uninstall it, and then the this issue will be solved. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -174,8 +143,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +150,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-harmonious-mixes-the-audacity-crossfade-method/"><u>[New] Crafting Harmonious Mixes The Audacity Crossfade Method</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-on-transforming-prproj-files-into-mp4-using-adobe-premiere-pro/"><u>Easy Guide on Transforming PRPROJ Files Into MP4 Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211253022-9798986216669-elsinor/"><u>Elsinor | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/energy-bill-management-through-schneider-electric-solutions-insights-from-zdnet/"><u>Energy Bill Management Through Schneider Electric Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-evolution-of-burst-mode-in-gopro-cameras/"><u>In 2024, The Evolution of Burst Mode in GoPro Cameras</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-prevent-and-repair-your-ring-of-elysium-crashes/"><u>Mastering Stability: How to Prevent and Repair Your Ring of Elysium Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/open-itunes-on-your-computer-go-to-help-)-check-for-updates-for-windows-or-app-store-)-updates-for-macos-if-an-update-is-available-install-it-and-restart-th168/"><u>Open iTunes on Your Computer, Go to Help > Check for Updates (for Windows) or App Store > Updates (for macOS). If an Update Is Available, Install It and Restart the Application Afterward</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-common-palworld-eos-authentication-problem-a-guide-to-6-fixes/"><u>Overcome the Common Palworld EOS Authentication Problem – A Guide to 6 Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-gaming-ultimate-guide-to-fixing-modern-warfare-amoorance-pc-game-crashes/"><u>Seamless Gaming: Ultimate Guide to Fixing 'Modern Warfare Amoorance' PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998586166-solving-rainbow-six-siege-error-code-3-0x0001000b-a-step-by-step-guide/"><u>Solving Rainbow Six Siege Error Code 3-0X0001000B: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-problems-with-epic-games-launcher-that-wont-start/"><u>Troubleshooting & Resolving Problems with Epic Games Launcher That Won't Start</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-asus-rog-gt-ac5300-the-ultimate-choice-for-gaming-enthusiasts-and-technophiles/"><u>Unveiling the Power of Asus ROG GT-AC5300: The Ultimate Choice for Gaming Enthusiasts and Technophiles</u></a></li>
+</ul></div>
 

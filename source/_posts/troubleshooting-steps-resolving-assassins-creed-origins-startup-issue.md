@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Assassin's Creed Origins' Startup Issue"
-date: 2024-08-18T14:16:28.237Z
-updated: 2024-08-19T14:16:28.237Z
+date: 2025-02-27T09:03:44.339Z
+updated: 2025-03-01T17:16:31.242Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Assassin’s Creed Odyssey crashing
 
  Here are the solutions to fix Assassin’s Creed Odyssey crashing issue. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -77,19 +74,12 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
 
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
  2) Click the**Display** tab.
@@ -101,21 +91,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
  4) Turn off**VSync** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
  5) Click the**Graphics** tab, try lowing these settings:
@@ -126,9 +105,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Screen Space Reflections** : Off
 * **Volumetric Clouds** : Low
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
@@ -145,23 +121,14 @@ Open Assassin’s Creed Odyssey and see if it works.
 
  2) Click**Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -186,8 +153,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +160,20 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-a-cash-flow-career-with-content-creation-like-ajey-nagar/"><u>[New] In 2024, Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-editing-magic-transformative-strategies-for-youtube-creators/"><u>[Updated] In 2024, Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ergodyne-topo-mat-evaluation-revolutionize-your-standing-experience/"><u>Ergodyne Topo Mat Evaluation: Revolutionize Your Standing Experience!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-crashes-on-pc-try-these-essential-troubleshooting-steps/"><u>Fortnite Crashes on PC? Try These Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722981426145-get-back-to-gaming-swiftly-troubleshoot-fortnite-loading-issues-today/"><u>Get Back to Gaming Swiftly: Troubleshoot Fortnite Loading Issues Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-salvage-and-repair-your-video-games-files-on-desktops-latest-methods/"><u>How to Salvage and Repair Your Video Games Files on Desktops (Latest Methods)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-fixes-stop-street-fighter-6-from-freezing-your-pc-tips-and-tweaks/"><u>Master the Fixes: Stop Street Fighter 6 From Freezing Your PC, Tips & Tweaks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/necromunda-hired-gun-game-continually-fails-to-load-on-windows-pc/"><u>Necromunda: Hired Gun Game Continually Fails to Load on Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-steps-for-the-notorious-pacific-drive-crashes-on-windows-and-mac/"><u>Step-by-Step Troubleshooting Steps for the Notorious 'Pacific Drive' Crashes on Windows and Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-asus-rog-phone-8-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Asus ROG Phone 8 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-vpn-providers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranked VPN Providers : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-persistent-palworld-crashes-on-personal-computers/"><u>Troubleshooting Steps for Persistent Palworld Crashes on Personal Computers</u></a></li>
+</ul></div>
 

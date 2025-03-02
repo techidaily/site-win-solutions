@@ -1,7 +1,7 @@
 ---
 title: Eliminate Game Disruptions - Comprehensive Fix Guide for The Witcher 3 Crashes
-date: 2024-08-18T14:17:53.682Z
-updated: 2024-08-19T14:17:53.682Z
+date: 2025-02-26T16:52:02.502Z
+updated: 2025-03-01T23:11:48.055Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 If you are a football lover, you might have waited for FIFA 21 for long. The game has been out for a while but it seems not as flawless as expected. Many players are reporting the FIFA 21 crashing on PC issue. If you’re plagued by the same problem, follow this guide to get it fixed right away!
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  While the causes for FIFA 21 crashing may be varied, there are some general fixes proved to be effective. You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ If you are a football lover, you might have waited for FIFA 21 for long. The gam
 7. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Play in offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Ensure your PC meets the minimum requirements to play FIFA 21
 
  First off, it’s important to confirm your PC specs meet the minimum requirements to play FIFA 21\. If your gaming rig is underpowered, there is no surprise the crashes happen.
@@ -90,18 +84,12 @@ Recommended system requirements of FIFA 21
 
 **3)** Right-click your graphics card and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
 
  If the**Roll Back Driver** option is grayed out, it means there’s no driver to roll back to, and you can directly skip to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
@@ -141,9 +129,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of your game files
 
  As you may know, missing or damaged game files can cause a game to crash. So when your FIFA 21 gets stuck in crashing, one thing you should always do is to validate the game files. We’ll show you the steps both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -152,23 +137,14 @@ Recommended system requirements of FIFA 21
 
 **1)** Launch Steam and select the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 
 **2)** Right-click**FIFA 21** from the game list, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14.jpg)
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3-1.jpg)
 
  Wait until the process completes and go back to your pitch to test the issue. If the crashing persists, check out **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  then.
@@ -177,9 +153,6 @@ Recommended system requirements of FIFA 21
 
 **1)** Launch Origin and select**My Game Library** from the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
 
 **2)** Right-click**FIFA 21** and click**Repair** .
@@ -190,9 +163,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Change the DirectX settings
 
  If you encountered the FIFA 21 crashing problem with a specific DirectX error, the very solution is to change the related DirectX settings of the game.
@@ -207,9 +177,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 **3)** On your keyboard, press**Ctrl** and**F** at the same time to open the Find box. Then, paste**DIRECTX\_SELECT** and click**Find Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_12-33-04.jpg)
 
 **4)** After locating the right text, set DIRECTX\_SELECT as below:
@@ -229,9 +196,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 **1)** Launch FIFA 21 and click**Game Settings** from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
 
 **2)** Set the settings as below:
@@ -252,9 +216,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 **1)** Launch Steam and navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-2.jpg)
 
 **2)** Right-click**FIFA 21** from the list in the left pane and click**Properties** .
@@ -275,9 +236,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 **2)** Launch**FIFA 21** and click the**settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-15-03.jpg)
 
 **3)** Untick**Enable Origin in Game for EA SPORTS FIFA 21 Ultimate Edition** , and click**Save** .
@@ -288,9 +246,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 8 – Play the offline mode
 
  It’s indeed a lot of fun to team up with friends online in the FIFA 21 matches. However, if the game crashing reoccurs and you still hope to play the game, try**switching to the offline mode** and see if this works.
@@ -312,8 +267,6 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -321,4 +274,24 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-ipad-speech-recording-tools-3/"><u>[Updated] 2024 Approved Elite iPad Speech Recording Tools #3</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-review-transform-your-images-with-facetune/"><u>[Updated] Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>[Updated] In 2024, Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inclusivity-in-tech-the-expert-take-on-easeus/"><u>[Updated] Inclusivity in Tech The Expert Take on EaseUS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-no-sound-issues-on-windows-10s-conexant-smartaudio-hd-audio-card/"><u>Expert Advice: Overcoming No-Sound Issues on Windows 10'S Conexant SmartAudio HD Audio Card</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-the-problem-forza-horizon-navigate-through-crash-fixes-for-your-gaming-experience/"><u>Fix the Problem: Forza Horizon Navigate Through Crash Fixes for Your Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-call-of-duty-black-ops-4-starts-without-a-hitch-common-issues-resolved/"><u>How to Ensure Call of Duty: Black Ops 4 Starts Without a Hitch - Common Issues Resolved</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nubia-red-magic-9-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nubia Red Magic 9 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-seamless-online-gaming-fix-your-lag-and-connectivity-woes-today/"><u>Mastering Seamless Online Gaming: Fix Your Lag & Connectivity Woes Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985918324-quick-solutions-no-more-control-crashing-troubles/"><u>Quick Solutions - No More Control Crashing Troubles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-how-to-resolve-when-microsoft-outlook-fails-to-launch/"><u>Solution Guide: How to Resolve When Microsoft Outlook Fails to Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-overcoming-the-black-display-issue-on-star-wars-battlefront-2-gaming-console/"><u>Solution: Overcoming the Black Display Issue on Star Wars Battlefront 2 Gaming Console</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speed-up-your-gaming-library-troubleshooting-slower-downloads-in-ubisoft-connect/"><u>Speed Up Your Gaming Library: Troubleshooting Slower Downloads in Ubisoft Connect</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-cpu-performance-optimization-guide-key-adjustments-to-enhance-gameplay-as-of-2024/"><u>Starfield CPU Performance Optimization Guide: Key Adjustments to Enhance Gameplay as of 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-top-10-viral-tiktoks-uncovered/"><u>Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+</ul></div>
 

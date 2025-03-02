@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Correcting Audio Glitches in Halo Infinite Gameplay
-date: 2024-08-18T14:18:21.942Z
-updated: 2024-08-19T14:18:21.942Z
+date: 2025-02-27T23:04:55.754Z
+updated: 2025-03-02T07:03:25.157Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -46,9 +43,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -62,10 +56,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
@@ -78,9 +68,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Right-click on Fortnite and click **Properties** .
 2. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
@@ -116,18 +103,6 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -148,18 +123,12 @@ OR
  This solution has been proved by some users that help them fix the Fortnite black screen problem. Follow the steps below to change the display settings on your computer.
 
 1. Right-click on your desktop screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -170,9 +139,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
 
@@ -190,8 +156,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +163,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-io-scanner-insiders-handbook/"><u>[New] In 2024, The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[Updated] In 2024, How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutschsprachige-aufkommenden-trennungsformeln/"><u>Deutschsprachige Aufkommenden Trennungsformeln</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-for-world-of-tanks-blitz-game-crashes/"><u>Fixes and Solutions for 'World of Tanks Blitz' Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-cod-black-ops-cold-war-crashing-issues-and-solutions/"><u>How to Fix Cod: Black Ops Cold War Crashing Issues and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-cult-of-the-lamb-from-crashing-on-your-windows-computer/"><u>How to Stop 'Cult of the Lamb' From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-crusader-kings-iii/"><u>How to Stop Your PC From Crashing While Playing Crusader Kings III</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-linkedin-premium-worth-it-8-reasons-why-you-should-subscribe/"><u>Is Linkedin Premium Worth It? 8 Reasons Why You Should Subscribe</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a70-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-issues-with-grand-theft-auto-v-understanding-and-resolving-game-crashes/"><u>Persistent Issues with Grand Theft Auto V - Understanding and Resolving Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-troubleshooting-for-hell-divers-2s-critical-bsod-issue/"><u>Step-by-Step Troubleshooting for Hell Divers 2'S Critical BSOD Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010515282-struggling-with-battlefield-5-boot-up-problems-discover-effortless-fixes-in-our-latest-guide/"><u>Struggling with Battlefield 5 Boot-Up Problems? Discover Effortless Fixes in Our Latest Guide!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-complete-guide-to-mastering-instagrams-filter-features/"><u>The Complete Guide to Mastering Instagram's Filter Features</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-dealing-with-unresponsive-spotify-apps-in-windows-environments/"><u>Troubleshooting Tips: Dealing with Unresponsive Spotify Apps in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-xbox-live-games-access-failures-on-windows-os/"><u>Troubleshooting: Xbox Live Games Access Failures on Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-3-overcoming-pc-performance-issues-and-stability-problems-improved/"><u>Yakuza 3 - Overcoming PC Performance Issues and Stability Problems ([IMPROVED])</u></a></li>
+</ul></div>
 

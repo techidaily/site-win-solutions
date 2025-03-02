@@ -1,7 +1,7 @@
 ---
 title: Battlefield 5 Starts-Up Woes? Master the Fastest Fix Techniques Today
-date: 2024-08-18T14:16:15.105Z
-updated: 2024-08-19T14:16:15.105Z
+date: 2025-03-01T05:39:10.427Z
+updated: 2025-03-01T17:45:40.413Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 Battlefield 5 is undoubtedly one of the most popular titles on the market. Although it was released two years ago, many players complain the game just won’t launch at times, especially after a new patch. If you’re plagued by the same problem, this post shows you how to solve it in easy steps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are 6 working fixes for you to solve the Battlefield 5 won’t launch issue. You may not try them all. Simply work from the top down until you find the one that does the trick.
@@ -33,41 +30,26 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
 
 1. Go to the installation folder of Battlefield 5, which is usually located in_C:/Program Files (x86)/Origin Games/Battlefield V_ . Then, right-click the**bfv.exe file** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Switch to DirectX 11
 
  Many players report Battlefield 5 won’t launch when DX12 is enabled. To see if that’s the case, you can run the game on DirectX 11 via the following steps.
 
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
@@ -75,9 +57,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 5. Select**Notepad** or other similar editing tools.
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
@@ -115,25 +94,16 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
 
 1. Open the Origin client.
 2. Click**Origin** \>**Applications Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -168,8 +138,6 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +145,26 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[New] 2024 Approved Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-instagrams-backdrop-swap-a-filmmakers-guide/"><u>[Updated] In 2024, Navigating Instagram’s Backdrop Swap A Filmmaker's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-solutions-to-address-your-steam-vr-headset-detection-issues/"><u>6 Solutions to Address Your Steam VR Headset Detection Issues</u></a></li>
+<li><a href="https://win-online.techidaily.com/convertieen-nsv-in-mpeg-met-gratis-online-tool-movavi-asbl/"><u>Convertieen NSV in MPEG Met Gratis Online Tool - Movavi Asbl</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-mastery-with-stellar-toolkit-tips-articles-and-tricks-for-efficient-coding/"><u>DIY Mastery with Stellar Toolkit - Tips, Articles, and Tricks for Efficient Coding</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficiently-conduct-speedy-connection-assessments-across-all-platforms-windows-mac-and-linux-unveiled/"><u>Efficiently Conduct Speedy Connection Assessments Across All Platforms - Windows, Mac, and Linux Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gta-5-stability-tips-fixing-sudden-game-interruptions-and-crashes/"><u>GTA 5 Stability Tips: Fixing Sudden Game Interruptions and Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hogwarts-legacy-gameplay-optimized-top-6-solutions-for-smooth-playback/"><u>Hogwarts Legacy Gameplay Optimized: Top 6 Solutions for Smooth Playback</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-recover-accidentally-removed-downloads-on-windows-11-complete-tutorial/"><u>How to Recover Accidentally Removed Downloads on Windows 11 - Complete Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-crash-woes-now-sorted-and-running-smoothly/"><u>Immortals Fenyx Rising Crash Woes - Now Sorted and Running Smoothly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-discover-the-best-fb-movie-tools-no-8-in-23/"><u>In 2024, Discover the Best FB Movie Tools No. 8 in '23</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-days-gone-no-longer-pc-compatibility-issue/"><u>Solution Found: Days Gone No Longer PC Compatibility Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-addressing-challenges-in-human-development-and-launch/"><u>Solutions for Addressing Challenges in Human Development and Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-to-enhance-the-download-velocity-on-ubisoft-connect-platform/"><u>Solutions to Enhance the Download Velocity on Ubisoft Connect Platform</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-reviving-lost-emails-using-aomei-backupper/"><u>Step-by-Step Guide: Reviving Lost Emails Using AOMEI Backupper</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997730009-trouble-with-rogue-company-on-your-computer-heres-how-to-stop-the-constant-pc-crashes/"><u>Trouble with Rogue Company on Your Computer? Here's How to Stop the Constant PC Crashes!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unpack-the-power-of-portable-driver-easy-installation-made-simple-and-mobile/"><u>Unpack the Power of Portable Driver Easy: Installation Made Simple and Mobile</u></a></li>
+</ul></div>
 

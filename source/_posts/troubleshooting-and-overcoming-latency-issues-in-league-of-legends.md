@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Overcoming Latency Issues in League of Legends
-date: 2024-08-18T14:18:12.497Z
-updated: 2024-08-19T14:18:12.497Z
+date: 2025-02-28T16:37:21.188Z
+updated: 2025-03-02T11:29:39.222Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -86,37 +80,24 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
 
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -159,9 +140,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
@@ -181,8 +159,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +166,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/canvas-and-chroma-mastering-color-interaction-for-2024/"><u>Canvas and Chroma Mastering Color Interaction for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-play-fixing-serious-sam-4s-performance-glitches-on-windows-machines/"><u>Enhance Your Play: Fixing Serious Sam 4'S Performance Glitches on Windows Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-siris-capabilities-with-chatgpt-on-iphone-the-ultimate-guide/"><u>Enhancing Siri's Capabilities with ChatGPT on iPhone: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/fast-techniques-to-shrink-video-files-top-3-no-cost-tools-and-tips/"><u>Fast Techniques to Shrink Video Files: Top 3 No-Cost Tools and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-lag-and-stuttering-in-dying-lights-action-packed-gameplay/"><u>How to Overcome Lag and Stuttering in Dying Light's Action-Packed Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-match-overcoming-technical-hurdles-with-fifa-19-on-your-desktop-computer/"><u>Master the Match: Overcoming Technical Hurdles with FIFA 19 on Your Desktop Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-xml-and-ttml-conversion-to-srt-for-2024/"><u>Mastering XML & TTML Conversion to SRT for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-stability-for-a-smooth-grand-theft-auto-v-experience/"><u>Optimizing Stability for a Smooth Grand Theft Auto V Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-logitech-c920-webcam-connectivity-issues/"><u>Step-by-Step Solutions for Logitech C920 Webcam Connectivity Issues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tailored-techniques-for-thriving-on-igtv-for-2024/"><u>Tailored Techniques for Thriving on IGTV for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-11-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 without Face ID</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-in-your-presentations-through-chatgpt/"><u>Unlocking Creativity in Your Presentations Through ChatGPT</u></a></li>
+</ul></div>
 

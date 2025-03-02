@@ -1,7 +1,7 @@
 ---
 title: "Unlock Successful Steam Remote Play: Expert Strategies for Quick Repairs"
-date: 2024-08-18T14:17:57.932Z
-updated: 2024-08-19T14:17:57.932Z
+date: 2025-02-23T12:08:25.579Z
+updated: 2025-03-01T18:42:48.921Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -42,32 +39,20 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
 
  5) Click**File > Save** to save the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
 
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
@@ -76,9 +61,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  4) Now change the value to**0** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
  5) Click**File > Save** to save the changes.
@@ -95,8 +77,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +84,20 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-breaking-through-on-tiktok-personal-branding-and-differentiation/"><u>[New] 2024 Approved Breaking Through on TikTok Personal Branding and Differentiation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-joke-tastic-iphones-today/"><u>[New] Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-social-to-storage-iphone-and-android-gif-savings/"><u>[Updated] From Social to Storage IPhone & Android GIF Savings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-6-pro-rated-gopro-head-straps-and-mastering-usage-for-2024/"><u>[Updated] Top 6 Pro-Rated GoPro Head Straps & Mastering Usage for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cutlass-communication-a-primer-on-piratical-speech/"><u>Cutlass Communication: A Primer on Piratical Speech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-the-problem-why-is-my-steelseries-gg-controller-not-responding-in-windows/"><u>Diagnosing the Problem: Why Is My SteelSeries GG Controller Not Responding in Windows?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dynamic-directionality-prime-phone-friendly-tripods-for-2024/"><u>Dynamic Directionality Prime Phone-Friendly Tripods for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-gt-neo-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme GT Neo 5 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-release-delayed-update-resolved/"><u>Immortals Fenyx Rising Release Delayed - Update Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-bioshock-amocheered-updated-edition-addressing-crash-fixes-with-enhancements/"><u>Improved Bioshock Amocheered Updated Edition - Addressing Crash Fixes with Enhancements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-13c-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi 13C Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-errors-in-phasmophobia-crashes-new-fixes/"><u>Troubleshooting Common Errors in Phasmophobia Crashes - New Fixes</u></a></li>
+</ul></div>
 

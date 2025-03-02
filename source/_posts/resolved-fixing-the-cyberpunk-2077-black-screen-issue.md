@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Cyberpunk 2077 Black Screen Issue"
-date: 2024-08-18T14:21:15.015Z
-updated: 2024-08-19T14:21:15.015Z
+date: 2025-02-23T04:22:23.270Z
+updated: 2025-03-02T10:29:24.799Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,9 +37,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
@@ -54,9 +48,6 @@ If you’re not using the controller, check the below settings.
 1. Launch the game and move to SETTINGS.
 2. Go to the**VIDEO** tab, turn**off** the**VSync** .
 3. Make sure the Resolution matches the resolution of your monitor.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 5. Scroll down to find the**Resolution Scaling** section.
@@ -75,14 +66,8 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
@@ -113,15 +98,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -138,8 +117,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +124,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-itunes-guide-mastering-recordings/"><u>[New] The Ultimate iTunes Guide Mastering Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-g22-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-the-nuances-of-inshot-video-segments/"><u>2024 Approved Navigating the Nuances of Inshot Video Segments</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-ways-to-overcome-csgo-user-login-errors-a-5-step-guide/"><u>Effective Ways to Overcome CSGO User Login Errors - A 5-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-acsm-drm-free-conversion-tutorials-unlock-your-digital-content/"><u>Effortless ACSM DRM-Free Conversion Tutorials - Unlock Your Digital Content!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210023638-9780753734469-everyday-tidiness/"><u>Everyday Tidiness | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>In 2024, Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimized-techniques-for-reducing-chromes-heavy-cpu-usage-problems/"><u>Optimized Techniques for Reducing Chrome's Heavy CPU Usage Problems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-web-analysis-with-powerful-cookiebot-tools/"><u>Revolutionize Your Web Analysis with Powerful Cookiebot Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-batmans-arkham-nightmare-resolving-critical-game-malfunctions/"><u>Troubleshoot Batman's Arkham Nightmare: Resolving Critical Game Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-is-utorrent-unresponsive-explore-7-effective-remedies/"><u>Why Is Utorrent Unresponsive? Explore 7 Effective Remedies</u></a></li>
+</ul></div>
 

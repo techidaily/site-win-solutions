@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Compatibility Enhanced - No More Dragon Age: Origins Crashes!"
-date: 2024-08-18T14:16:53.880Z
-updated: 2024-08-19T14:16:53.880Z
+date: 2025-02-23T22:54:32.657Z
+updated: 2025-03-02T09:48:11.828Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,9 +48,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -62,9 +56,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -81,24 +72,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
 
 1. Run Steam.
 2. Right-click on XCOM 2 and click**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -136,8 +118,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +125,20 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-pioneering-platforms-for-no-cost-media-downloads/"><u>[New] Pioneering Platforms for No-Cost Media Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-methods-transforming-pin-videos-to-mp3-format/"><u>[Updated] Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-ultimate-fix-guide-when-stray-wont-start-up/"><u>2024 Ultimate Fix Guide: When Stray Won't Start Up</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-beginners-guide-to-overcoming-steam-disk-errors-and-resuming-gaming/"><u>A Beginner's Guide to Overcoming Steam Disk Errors and Resuming Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cash-creation-hacks-for-snapchat-users/"><u>Cash Creation Hacks for Snapchat Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/comprehensive-lenovo-thinkpad-x1-fold-assessment-marvelous-concept-with-noteworthy-imperfections/"><u>Comprehensive Lenovo ThinkPad X1 Fold Assessment: Marvelous Concept with Noteworthy Imperfections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-error-5573-in-call-of-duty-vanguard-solutions-explored/"><u>How To Fix The 'Error 5573' In Call Of Duty: Vanguard - Solutions Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>In 2024, The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-setup-success-guide-for-users-running-windows-11-systems/"><u>Minecraft Setup Success Guide for Users Running Windows 11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-to-fix-error-code-277-on-your-computers-roblox-game-updated/"><u>Top Strategies to Fix Error Code 277 on Your Computer's Roblox Game (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-0x803f8001-launcher-problem-in-minecraft-players-running-windows-11-or-10/"><u>Troubleshooting the 0X803F8001 Launcher Problem in Minecraft Players Running Windows 11 or 10</u></a></li>
+<li><a href="https://discover-great.techidaily.com/watermark-free-transformation-how-to-switch-from-mkv-to-avi-quickly-with-vlc-media-player/"><u>Watermark-Free Transformation: How to Switch From MKV to AVI Quickly with VLC Media Player</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Experience: How to Eliminate Frame Drops and Stutter in AC Valhalla PC Edition"
-date: 2024-08-18T14:18:30.529Z
-updated: 2024-08-19T14:18:30.529Z
+date: 2025-02-27T06:27:31.956Z
+updated: 2025-03-01T23:19:48.074Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
  This is extremely frustrating and you’re not alone! Many gamers are reporting it. Although it’s often hard to detect the causes because of all the unique hardware and software settings you have, here are 8 known fixes you can try to rule out common issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -59,17 +56,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 **3)**  Check your operating system, processor,**and memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
@@ -100,9 +90,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 If your game crashes again, then try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Roll back/Update your graphics driver
 
  Your graphics card or GPU is the most important hardware when it comes to determining gaming performance. If you’re using an outdated or faulty graphics driver, you’re likely to run into game issues.
@@ -127,18 +114,6 @@ If your game crashes again, then try the next fix.
 
 **4)** Click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-53-47.jpg)
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
@@ -161,18 +136,6 @@ If your game crashes again, then try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -184,9 +147,6 @@ If your game crashes again, then try the next fix.
 
 If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of your game files
 
  Damaged or missing game files can also cause your game to fail. The good news is that you can verify the game files and do a repair if needed within the Steam client. Here is how to do it:
@@ -231,16 +191,10 @@ If the game is still unplayable, check the next fix, below.
 
 **6)** Type**\-dx11** on the box and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
 If your game still won’t launch properly, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Windows Firewall
 
  The game crashing issue can happen if your game is blocked by Windows Firewall. So, you should check the Firewall settings and ensure the program is allowed in Firewall. Here is how：
@@ -251,9 +205,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 **2)** Type**control** and then press the**Enter key** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
@@ -262,10 +213,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
 
 **5)** Click**Change settings** .
@@ -284,16 +231,10 @@ If your game still won’t launch properly, move on to the next fix.
 
 **9)** Firewall will prompt you to allow access to networks, click**Allow access** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
 If this method doesn’t work for you, move on to try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Total War: WARHAMMER II_ , causing it to crash. If you’re on 10, try running the game on Windows 7 mode. Here is how to do it:
@@ -308,53 +249,30 @@ If this method doesn’t work for you, move on to try the fix below.
 
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall Steam
 
  If none of the fixes above worked, reinstalling Steam is very likely the solution to your problem. Here is how to do it:
 
 **1)** Right-click the Steam icon and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22.jpg)
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-12.jpg)
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
@@ -367,9 +285,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22-1.jpg)
 
 **9)**  Move the**backup steamapps folder** you create before to your current directory location.
@@ -388,8 +303,6 @@ If this method doesn’t work for you, move on to try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -397,4 +310,26 @@ If this method doesn’t work for you, move on to try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transfer/"><u>[New] In 2024, Transfer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-halo-infinite-black-screen-issues/"><u>[SOLVED] Halo Infinite Black Screen Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pivotal-principles-in-digital-story-making/"><u>[Updated] 2024 Approved Pivotal Principles in Digital Story Making</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensive-review-and-overview-of-du-recorder/"><u>[Updated] In 2024, Comprehensive Review and Overview of Du Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-stop-blank-screen-problems-with-obs-applications/"><u>[Updated] Stop Blank Screen Problems with OBS Applications</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE</u></a></li>
+<li><a href="https://win-web3.techidaily.com/dual-approaches-to-conducting-synology-hyper-v-backups-a-step-by-step-guide/"><u>Dual Approaches to Conducting Synology Hyper-V Backups: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-game-lags-for-an-optimal-experience-with-avatar-frontiers-of-pandora/"><u>Eliminating Game Lags for an Optimal Experience with 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gain-expertise-in-devops-take-advantage-of-linux-foundation-bootcamps-competitive-starter-rate-get-insights-from-zdnets-review/"><u>Gain Expertise in DevOps: Take Advantage of Linux Foundation Bootcamp's Competitive Starter Rate | Get Insights From ZDNet's Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-crashes-in-fortnite-for-pc-solutions-updated/"><u>How to Fix Persistent Crashes in Fortnite for PC (Solutions Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-persistent-black-screen-on-launch-in-far-cry-n6/"><u>How to Resolve the Persistent Black Screen on Launch in Far Cry N6</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-best-3d-video-production-tools-for-stunning-visuals/"><u>In 2024, Discover the Best 3D Video Production Tools for Stunning Visuals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Meizu 21</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004090127-pc-gamers-rejoice-the-end-of-football-manager-2022-crashes-learn-why-it-works-now/"><u>PC Gamers Rejoice: The End of Football Manager 2022 Crashes – Learn Why It Works Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/slime-rancher-15-aka-slime-rancher-2-crash-issues-heres-the-solution/"><u>Slime Rancher 1.5 (Aka Slime Rancher 2) Crash Issues? Here's the Solution!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-blue-screen-of-death-in-helldivers-game-v2/"><u>Troubleshooting and Fixing Blue Screen of Death in Helldivers Game V2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-fixing-freezes-and-delays-in-fall-guys-while-playing-on-your-laptop-or-desktop/"><u>Ultimate Guide to Fixing Freezes and Delays in 'Fall Guys' While Playing on Your Laptop or Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722983449220-unveiling-fact-from-fiction-assassins-creed-valhalla-arrival-timeline-confirmed/"><u>Unveiling Fact From Fiction: Assassin's Creed Valhalla Arrival Timeline Confirmed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windowsdvd-winx-dvd-ripper/"><u>Windows用最新DVDリッピングツールを紹介します: WinX DVD Ripperフリー版配布</u></a></li>
+</ul></div>
 

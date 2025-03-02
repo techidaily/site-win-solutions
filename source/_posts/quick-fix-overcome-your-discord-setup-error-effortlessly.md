@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Overcome Your Discord Setup Error Effortlessly"
-date: 2024-08-18T14:16:42.716Z
-updated: 2024-08-19T14:16:42.716Z
+date: 2025-02-28T07:25:43.594Z
+updated: 2025-03-01T16:32:31.799Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
 ## Effortless Solutions for When Discord Won't Install – Resolve It Quickly
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be149f53a3cf.png)
 
  Many people have reported that they run into an error saying “**Installation has failed** ” while installing Discord. If you’re having the same error, or you**fail to install Discord** , don’t worry. You’re not alone. The good news is, you can fix the problem.
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type**taskmgr** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 5. Type_**%LocalAppData%**_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
@@ -74,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  Hope the steps above helps you with the Discord installation failed issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus Tip: Update available device drivers
 
  The missing or outdated device drivers can bring your computer various problems, such as Discord not working or sound problems. So you should keep your device drivers up to date.
@@ -98,9 +83,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
@@ -112,8 +94,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +101,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-exploring-fantasy-realms-best-vr-games-across-devices-for-2024/"><u>[New] Exploring Fantasy Realms Best VR Games Across Devices for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-photo-app-stability-troubleshooting/"><u>[New] Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamentals-of-e-narrative-creation/"><u>2024 Approved Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>2024 Approved Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/age-of-empires-ii-troubleshooting-for-windows-11-users-solved/"><u>Age of Empires II Troubleshooting for Windows 11 Users - Solved!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-the-world-through-the-lens-of-mi-11/"><u>Capture the World Through the Lens of Mi 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-audio-fixes-reviving-your-malfunctioning-clownfly-vox-mic/"><u>DIY Audio Fixes: Reviving Your Malfunctioning Clownfly VOX Mic</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-vga-driver-software-to-optimize-your-computers-graphics/"><u>Download Updated VGA Driver Software to Optimize Your Computer's Graphics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-to-curb-high-cpu-utilization-in-cyberpunk-2077-gaming-experience/"><u>Effective Strategies to Curb High CPU Utilization in Cyberpunk 2077 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/half-life-alyx-pc-edition-resolving-lag-and-frame-stutter-to-improve-gaming-experience/"><u>Half-Life: Alyx PC Edition - Resolving Lag and Frame Stutter to Improve Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-compatibility-issues-with-corsair-icue-software-on-windows-11/"><u>How To Resolve Compatibility Issues with Corsair iCUE Software on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/immortals-of-heroes-fenyx-rising-release-date-confirmed-issue-resolved/"><u>Immortals of Heroes: Fenyx Rising Release Date Confirmed - Issue Resolved</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-best-in-class-facebook-media-firefox-edition/"><u>In 2024, Best-in-Class Facebook Media FireFox Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-6-ways-to-get-your-steam-vr-recognized-again/"><u>Solving the Mystery: 6 Ways to Get Your Steam VR Recognized Again</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-inner-workings-of-youtubes-system-after-an-upload/"><u>The Inner Workings of YouTube's System After an Upload</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solving-the-thaumaturge-game-crashes-on-your-pc/"><u>Ultimate Guide: Solving the Thaumaturge Game Crashes on Your PC</u></a></li>
+</ul></div>
 

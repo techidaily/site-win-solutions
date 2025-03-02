@@ -1,7 +1,7 @@
 ---
 title: "No More Stutters: Optimizing Mass Effect Legendary Edition Performance"
-date: 2024-08-18T14:20:50.102Z
-updated: 2024-08-19T14:20:50.102Z
+date: 2025-02-28T04:12:11.643Z
+updated: 2025-03-02T08:59:25.205Z
 tags:
   - win11
   - win10
@@ -31,18 +31,6 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 
  If you feel the mouse movement snappy or slow, check[this Input lag post](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Change graphics card settings
 
  If you’re an NVIDIA user, open NVIDIA’s control panel to change the settings.
@@ -91,23 +79,13 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 1. Run Cyberpunk 2077 and go to **SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 6. Back to the game and check.
 
@@ -135,9 +113,6 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -145,9 +120,6 @@ If this fix doesn’t work, move to the next one.
 
  Reboot your PC and check how’s the game running. If it doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Turn off the Xbox game bar
 
  Windows 10 OS will automatically running its gaming geature when you’re running a game. You can ignore the program when playing other games, while Cyberpunk 2077 may be affected by this feature. Turning off the utility if you don’t need it.
@@ -158,9 +130,6 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_14-33-30.jpg)
 4. Relaunch the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Shut down unnecessary apps
 
  If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.
@@ -177,8 +146,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +153,22 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[Updated] In 2024, Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders-for-2024/"><u>[Updated] Simplify Meetings A Comprehensive Guide to Skype Call Recorders for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fix-for-persistent-crashes-during-granblue-fantasy-pc-link-restoration/"><u>Effective Fix for Persistent Crashes During Granblue Fantasy PC Link Restoration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-discord-overlay-issues-fast-step-by-step-troubleshooting-guide/"><u>Fix Discord Overlay Issues Fast: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-compatible-usb-30-drivers-for-windows-10-systems/"><u>Free Download: Compatible USB 3.0 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gamers-guide-to-fixing-pc-crashes-in-world-of-warships-5-easy-steps/"><u>Gamers' Guide to Fixing PC Crashes in World of Warships – 5 Easy Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-hp-deskjet-3755-aio-printer-software-for-latest-and-legacy-windows-systems-win11-win8-win7/"><u>Get Updated HP DeskJet 3755 AIO Printer Software for Latest and Legacy Windows Systems (Win11, Win8, Win7)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-dungeons-keeps-freezing-heres-your-guide-to-stability-on-windows-and-mac/"><u>Minecraft Dungeons Keeps Freezing? Here's Your Guide to Stability on Windows and Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigate-through-japan-as-you-master-yakuza-like-a-dragon-freshly-released-for-pc-gamers/"><u>Navigate Through Japan as You Master 'Yakuza: Like a Dragon' - Freshly Released for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-guide-resolving-the-steam-corrupted-disk-issue-without-hassle/"><u>Quick Guide: Resolving the Steam Corrupted Disk Issue Without Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-dragon-age-origins-game-crashing-in-windows-10/"><u>Resolved: Fixes for Dragon Age: Origins Game Crashing in Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-premium-hd-webcams-featuring-sound-for-2024/"><u>Top 5 Premium HD Webcams Featuring Sound for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-pathfinder-wrath-of-the-righteous-startup-issues/"><u>Troubleshooting Guide: Solving 'Pathfinder: Wrath of the Righteous' Startup Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel A05s | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Fixing Outriders' Recurring Crash Problems
-date: 2024-08-18T14:20:41.634Z
-updated: 2024-08-19T14:20:41.634Z
+date: 2025-02-28T02:10:00.571Z
+updated: 2025-03-02T00:23:06.322Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -70,18 +67,12 @@ Game crashing issues might happen when your game files are corrupted.
 
 4) Delete everything except these:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience, and your graphics driver is essential for getting top performance from your GPU.
@@ -98,17 +89,11 @@ If the game still crashes, try the next fix below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -142,9 +127,6 @@ If the crash still occurs, go ahead with the next fix.
 
 3) Copy**\-force-feature-level-10-1** and paste it into the**LUNCH OPTIONS** under the General tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 4) Launch the game to see if your problem has been resolved.
@@ -155,9 +137,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -166,10 +145,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
  3) Click**Apply > OK** .
@@ -188,9 +163,6 @@ If the problem still exists, try the next fix below.
 
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
@@ -203,8 +175,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +182,26 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-directordocks-overview-detailed-reviews/"><u>[New] 2024 Approved DirectorDocks Overview – Detailed Reviews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-chart-your-course-to-adventure-the-comprehensive-guide-to-vr-tours/"><u>[New] Chart Your Course to Adventure The Comprehensive Guide to VR Tours</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-your-gaming-advanced-techniques-for-recording-minecraft-for-2024/"><u>[New] Elevate Your Gaming Advanced Techniques for Recording Minecraft for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>[New] How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-setup-youtube-gaming-banners-made-easy/"><u>[New] Strategic Setup YouTube Gaming Banners Made Easy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-essential-guide-to-youtube-time-tracking/"><u>[Updated] In 2024, The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>[Updated] Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-uninterrupted-gameplay-solutions-for-v-rising-stuttering-problems-on-desktop/"><u>Achieve Uninterrupted Gameplay: Solutions for V Rising Stuttering Problems on Desktop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-common-problems-with-microsoft-word-winwordexe-quickly/"><u>Bypass Common Problems with Microsoft Word (WINWORD.EXE) Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-lowering-skyhigh-cpu-consumption-while-playing-god-of-war/"><u>Diagnosing and Lowering Skyhigh CPU Consumption While Playing God of War</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-fixes-for-preventing-mir4-from-crashing-on-personal-computers/"><u>Essential Fixes for Preventing Mir4 From Crashing on Personal Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-hunt-the-ultimate-list-of-10-apartment-search-sites/"><u>Navigating the Hunt: The Ultimate List of 10 Apartment-Search Sites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-eliminating-game-lags-and-enhancing-2024s-smooth-gaming-experience/"><u>Solution Guide: Eliminating Game Lags and Enhancing 2024'S Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-resolving-non-functional-nvidia-overlay-problems/"><u>Solution Guide: Resolving Non-Functional NVIDIA Overlay Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-latency-problems-in-naraka-bladepoint-a-step-by-step-guide/"><u>Solving Latency Problems in Naraka Bladepoint: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-fix-for-when-fortnite-cant-locate-its-entryway/"><u>The Definitive Fix for When Fortnite Can't Locate Its Entryway</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y17s-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y17s</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-call-of-duty-warzone-pc-game-disc-reading-mishaps-versions-50-and-31/"><u>Ultimate Fixes for Call of Duty: Warzone PC Game Disc Reading Mishaps (Versions 5.0 & 3.1)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic 5 Pro FRP Bypass</u></a></li>
+</ul></div>
 

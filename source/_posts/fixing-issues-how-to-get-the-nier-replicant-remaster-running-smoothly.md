@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Get the NieR Replicant Remaster Running Smoothly"
-date: 2024-08-18T14:17:30.798Z
-updated: 2024-08-19T14:17:30.798Z
+date: 2025-02-25T19:55:36.433Z
+updated: 2025-03-02T02:30:09.755Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -44,9 +41,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -59,9 +53,6 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -74,14 +65,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -90,9 +73,6 @@ There are mainly two ways you can update the graphics driver:
 
 2) Click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
@@ -113,9 +93,6 @@ There are mainly two ways you can update the graphics driver:
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -144,8 +121,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +128,20 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-phrases-for-gamers-videos-for-2024/"><u>[New] Finding the Perfect Phrases for Gamers' Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-complete-breakdown-of-color-tuning-methods/"><u>[New] In 2024, A Complete Breakdown of Color Tuning Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-seamless-classic-play-on-ios-with-select-ps2-emulators/"><u>[New] In 2024, Seamless Classic Play on iOS with Select PS2 Emulators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-simple-steps-to-modify-screen-capture-on-macos/"><u>[Updated] In 2024, Simple Steps to Modify Screen Capture on macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beginning-film-making-download-previews/"><u>2024 Approved Beginning Film Making Download Previews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-startup-glitch-in-dead-space-remake-expert-advice-for-2n4-players/"><u>Fixing the Startup Glitch in Dead Space Remake: Expert Advice for 2N4 Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-can-i-fix-the-notorious-steam-error-code-130-comprehensive-guide/"><u>How Can I Fix the Notorious Steam Error Code 130? - Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screen-recording-on-mac-a-comprehensible-method/"><u>In 2024, Screen Recording on Mac A Comprehensible Method</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplify-passport-photography-with-these-top-10-low-cost-solutions/"><u>In 2024, Simplify Passport Photography with These Top 10 Low-Cost Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 13C Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-hurdle-comprehensive-fix-for-error-code-327-on-star-wars-battlefront-2/"><u>Overcome the Hurdle: Comprehensive Fix for Error Code 327 on Star Wars Battlefront 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-errors-getting-grand-theft-auto-v-running-again/"><u>Resolving Errors: Getting Grand Theft Auto V Running Again</u></a></li>
+</ul></div>
 
